@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "data"; ObjectID = "0lL-Pi-6gN"; */
+"0lL-Pi-6gN.text" = "data";
+
+/* Class = "UILabel"; text = "Fertile window"; ObjectID = "5g7-Gr-K1l"; */
+"5g7-Gr-K1l.text" = "Fertile window";
+
+/* Class = "UILabel"; text = "Girl"; ObjectID = "Bg6-mk-al7"; */
+"Bg6-mk-al7.text" = "Girl";
+
+/* Class = "UILabel"; text = "Probability"; ObjectID = "EfT-Dy-eEF"; */
+"EfT-Dy-eEF.text" = "Probability";
+
+/* Class = "UILabel"; text = "Probability"; ObjectID = "L58-hg-3sq"; */
+"L58-hg-3sq.text" = "Probability";
+
+/* Class = "UILabel"; text = "Designations"; ObjectID = "X6P-Sg-vGL"; */
+"X6P-Sg-vGL.text" = "Designations";
+
+/* Class = "UILabel"; text = "”Save” day"; ObjectID = "YUH-di-qIA"; */
+"YUH-di-qIA.text" = "”Save” day";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "g6B-zO-o4Z"; */
+"g6B-zO-o4Z.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g6B-zO-o4Z"; */
+"g6B-zO-o4Z.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Estimated day of ovulation"; ObjectID = "hlk-Fe-niR"; */
+"hlk-Fe-niR.text" = "Estimated day of ovulation";
+
+/* Class = "UILabel"; text = "Predicted menstruation"; ObjectID = "kiI-R9-Fdn"; */
+"kiI-R9-Fdn.text" = "Predicted menstruation";
+
+/* Class = "UILabel"; text = "Demo"; ObjectID = "swK-zN-1u1"; */
+"swK-zN-1u1.text" = "Demo";
+
+/* Class = "UILabel"; text = "Boy"; ObjectID = "xgZ-zQ-h0L"; */
+"xgZ-zQ-h0L.text" = "Boy";
+
+/* Class = "UILabel"; text = "Menstruation"; ObjectID = "yz2-RC-yHq"; */
+"yz2-RC-yHq.text" = "Menstruation";

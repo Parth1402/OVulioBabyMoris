@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="appBackgroundImage" translatesAutoresizingMaskIntoConstraints="NO" id="V64-Ew-FRg">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splashScreenInBackground" translatesAutoresizingMaskIntoConstraints="NO" id="aHt-N1-HqC">
+                                <rect key="frame" x="0.0" y="639" width="393" height="213"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splashUpperBackground" translatesAutoresizingMaskIntoConstraints="NO" id="kuH-Im-vas">
+                                <rect key="frame" x="0.0" y="210" width="393" height="642"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splashScreenTextImage" translatesAutoresizingMaskIntoConstraints="NO" id="HyL-rl-YQM">
+                                <rect key="frame" x="0.0" y="99" width="393" height="51"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="HyL-rl-YQM" secondAttribute="trailing" id="4IF-Bc-vwI"/>
+                            <constraint firstItem="aHt-N1-HqC" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="4SF-DU-OkE"/>
+                            <constraint firstAttribute="trailing" secondItem="kuH-Im-vas" secondAttribute="trailing" id="7is-xe-YJC"/>
+                            <constraint firstItem="kuH-Im-vas" firstAttribute="top" secondItem="HyL-rl-YQM" secondAttribute="bottom" constant="60" id="9Ii-eb-4jd"/>
+                            <constraint firstItem="kuH-Im-vas" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="JDq-ST-b56"/>
+                            <constraint firstItem="HyL-rl-YQM" firstAttribute="height" secondItem="V64-Ew-FRg" secondAttribute="height" multiplier="0.06" id="OpC-f5-QAG"/>
+                            <constraint firstItem="aHt-N1-HqC" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.25" id="U1C-Yd-Qfl"/>
+                            <constraint firstItem="V64-Ew-FRg" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="Wsb-ih-nVK"/>
+                            <constraint firstAttribute="bottom" secondItem="V64-Ew-FRg" secondAttribute="bottom" id="XWy-5L-Zfc"/>
+                            <constraint firstItem="V64-Ew-FRg" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="Xcq-2l-juk"/>
+                            <constraint firstAttribute="trailing" secondItem="V64-Ew-FRg" secondAttribute="trailing" id="YDj-Sc-WCS"/>
+                            <constraint firstAttribute="bottom" secondItem="aHt-N1-HqC" secondAttribute="bottom" id="Zjd-wR-I3o"/>
+                            <constraint firstAttribute="trailing" secondItem="aHt-N1-HqC" secondAttribute="trailing" id="fUj-YR-ONh"/>
+                            <constraint firstItem="HyL-rl-YQM" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="40" id="g1y-AZ-r13"/>
+                            <constraint firstItem="HyL-rl-YQM" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="oD3-Te-1XA"/>
+                            <constraint firstAttribute="bottom" secondItem="kuH-Im-vas" secondAttribute="bottom" id="udQ-7x-zpt"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="appBackgroundImage" width="437.33334350585938" height="812"/>
+        <image name="splashScreenInBackground" width="434" height="213"/>
+        <image name="splashScreenTextImage" width="196" height="50"/>
+        <image name="splashUpperBackground" width="252.33332824707031" height="644"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

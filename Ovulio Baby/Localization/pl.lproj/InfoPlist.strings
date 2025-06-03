@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Ovulio Baby
+
+  Created by Maurice Wirth on 17.12.23.
+  
+*/
+
+"NSUserNotificationUsageDescription" = "In order to receive notifications that remind you on important days in your conception journey, please allow us to send you notifications.";

@@ -1,0 +1,1228 @@
+/* 
+  Localizable.strings
+  Ovulio Baby
+
+  Created by Jash on 2023-10-08.
+  
+*/
+
+
+// General UI
+"UIAlertController.continueButton" = "Kontynuuj";
+"UIAlertController.cancelButton" = "Anuluj";
+"UIAlertController.deleteButton" = "Usuń";
+"UIAlertController.okButton" = "OK";
+"UIAlertController.laterButton" = "Później";
+"UIAlertController.noButton" = "Nie";
+"UIAlertController.backButton" = "Wróć";
+
+
+// MARK: FirstOnBoardingPageVC
+"FirstOnBoardingPageVC.Button.Next.headlineLabel.text" = "Następny";
+"FirstOnBoardingPageVC.Button.Skip.headlineLabel.text" = "Pomiń";
+"FirstOnBoardingPageVC.Button.Allow.headlineLabel.text" = "Zezwól";
+
+// MARK: WithEaseOnBoardingVC
+"WithEaseOnBoardingVC.headlineLabel.text" = "Z łatwością i pasją do pragnienia dziecka";
+
+// MARK: TrackFertilityOnBoardingVC
+"TrackFertilityOnBoardingVC.headlineLabel.text" = "Śledź swoją płodność!";
+"TrackFertilityOnBoardingVC.headlineDescriptionLabel.text" = "Wyrusz w podróż odkrywania śledząc swoją owulację i dane cyklu";
+
+// MARK: InfluenceGenderOnBoardingVC
+"InfluenceGenderOnBoardingVC.headlineLabel.text" = "Wpływaj na płeć swojego dziecka!";
+"InfluenceGenderOnBoardingVC.headlineDescriptionLabel.text" = "Dowiedz się, jak dieta, pozycje seksualne i odpowiedni czas na intymność mogą wpływać na płeć twojego maleństwa";
+
+// MARK: DevelopedExpertOnBoardingVc
+"DevelopedExpertOnBoardingVc.headlineLabel.text" = "Stworzone przez ekspertów!";
+"DevelopedExpertOnBoardingVc.headlineDescriptionLabel.text" = "Konsultując się z położnymi, ginekologami i innymi specjalistami od zdrowia, zapewniamy twoje bezpieczeństwo i dobrostan";
+"DevelopedExpertOnBoardingVc.ExpertName.headlineLabel.text" = "Dr. Müller, ginekolog";
+
+// MARK: OurReferencesOnBoardingVC
+"OurReferencesOnBoardingVC.headlineLabel.text" = "Nasze referencje mówią same za siebie";
+"OurReferencesOnBoardingVC.headlineDescriptionLabel.text" = "Z naszą aplikacją Scratch Adventure byliśmy na czołowych miejscach w sklepach z aplikacjami na całym świecie, zdobyliśmy ponad 2,5 miliona pobrań i świetne recenzje!";
+
+// MARK: ReceiveNotificationsOnBoardingVC
+"ReceiveNotificationsOnBoardingVC.headlineLabel.text" = "Czy chcesz otrzymywać powiadomienia?";
+"ReceiveNotificationsOnBoardingVC.headlineDescriptionLabel.text" = "Zezwól aplikacji Ovulio Baby na dostęp do Twoich powiadomień i nigdy więcej nie przegap istotnej daty!";
+
+// MARK: SecondOnBoardingPageVC
+"SecondOnBoardingPageVC.Button.Submit.headlineLabel.text" = "Zatwierdź";
+"SecondOnBoardingPageVC.Button.SkipStep.headlineLabel.text" = "Pomiń krok";
+"SecondOnBoardingPageVC.Button.LetsGo.headlineLabel.text" = "Zaczynamy";
+
+// MARK: WhoPlayingOnBoardingVC
+"WhoPlayingOnBoardingVC.headlineLabel.text" = "Kto gra?";
+
+// MARK: MentruationCycleOnBoardingVC
+"MentruationCycleOnBoardingVC.headlineLabel.text" = "Cześć";
+"MentruationCycleOnBoardingVC.headlineDescriptionLabel.text" = "Potrzebujemy trochę więcej danych, aby przewidzieć najbardziej korzystny dzień dla poczęcia";
+
+// MARK: TermsConditionOnBoardingVC
+"TermsConditionOnBoardingVC.headlineLabel.text" = "Witaj!";
+"TermsConditionOnBoardingVC.headlineDescriptionLabel.text" = "Ovulio Baby jest przeznaczony wyłącznie do celów edukacyjnych i informacyjnych. Chociaż współpracowaliśmy z ekspertami medycznymi, aby zapewnić dokładne i wiarygodne informacje, ta aplikacja nie zastępuje porad wykwalifikowanego pracownika służby zdrowia. Informacje i narzędzia dostarczane przez Ovulio Baby nie zastępują profesjonalnej porady medycznej. Ovulio Baby nie może zagwarantować dokładności, kompletności ani odpowiedniości dostarczonych informacji, ponieważ indywidualne okoliczności mogą się różnić. Chociaż Ovulio Baby dostarcza fachowych porad i wglądu w kwestie poczęcia i wpływu na płeć, natura może być nieprzewidywalna, a wyniki i sukces użytkownika mogą się różnić. Korzystanie z tej aplikacji odbywa się na własne ryzyko, a my nie ponosimy odpowiedzialności za podejmowane na jej podstawie działania. Korzystając z Ovulio Baby, potwierdzasz, że przeczytałeś i zrozumiałeś tę zrzeczenie się odpowiedzialności i zgadzasz się na odpowiedzialne korzystanie z aplikacji, we współpracy z poradami i wskazówkami wykwalifikowanego pracownika służby zdrowia, gdy jest to konieczne.";
+"TermsConditionOnBoardingVC.agreementLabel.text" = "Potwierdzamy, że przeczytaliśmy i akceptujemy Regulamin, Politykę Prywatności oraz Zrzeczenie się Odpowiedzialności.";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.termsAndConditions" = "Regulamin";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.privacyPolicy" = "Polityka Prywatności";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer" = "Zrzeczenie się Odpowiedzialności";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer_tappable" = "Zrzeczenie się Odpowiedzialności";
+"TermsConditionOnBoardingVC.alert.previewTerms.title" = "Podgląd Regulaminu";
+"TermsConditionOnBoardingVC.alert.previewTerms.message" = "Prosimy o akceptację naszych warunków przed kontynuacją. (Kliknij na fioletowy, obramowany, zaokrąglony przycisk)";
+
+// MARK: HomeViewController
+"HomeViewController.headlineLabel.text" = "Podróż do rodzicielstwa";
+"HomeViewController.headlineDescriptionLabel.text" = "To jest twoja wyjątkowa podróż, a my jesteśmy tutaj, aby cię wspierać na każdym kroku!";
+
+"HomeViewController.YourGoalCell.headlineLabel.text" = "Twój cel";
+"HomeViewController.YourGoalCell.conceiveChildLabel.text" = "Poczęcie dziecka w ciągu najbliższych miesięcy";
+"HomeViewController.YourGoalCell.conceiveBoyLabel.text" = "Poczęcie chłopca w ciągu najbliższych miesięcy";
+"HomeViewController.YourGoalCell.conceiveGirlLabel.text" = "Poczęcie dziewczynki w ciągu najbliższych miesięcy";
+
+"HomeViewController.categories.headlineLabel.text" = "Kategorie";
+"HomeViewController.categories.games.headlineLabel.text" = "Gry";
+"HomeViewController.categories.games.headlineDescriptionLabel.text" = "Pozycje Seksualne i Lokalizacje";
+"HomeViewController.categories.calendar.headlineLabel.text" = "Kalendarz";
+"HomeViewController.categories.calendar.headlineDescriptionLabel.text" = "Chiński Kalendarz Księżycowy i Płodność";
+"HomeViewController.categories.learningResources.headlineLabel.text" = "Zasoby Edukacyjne";
+"HomeViewController.categories.learningResources.headlineDescriptionLabel.text" = "Mistrzowska Klasa związana z Poczęciem";
+"HomeViewController.categories.postcastCategory.headlineLabel.text" = "Zrelaksuj się i poczęcie";
+"HomeViewController.categories.postcastCategory.headlineDescriptionLabel.text" = "Zredukuj stres i naturalnie wspieraj swoją płodność";
+"HomeViewController.categories.upgrade.headlineLabel.text" = "Zaktualizuj teraz, aby odblokować wszystko";
+"HomeViewController.categories.DiceToSpice.headlineLabel.text" = "Kostka do przyprawiania";
+"HomeViewController.categories.DiceToSpice.headlineDescriptionLabel.text" = "Rzuć kostkami z wyzwaniami seksualnymi";
+"HomeViewController.categories.Affirmation.headlineLabel.text" = "Afirmacje";
+"HomeViewController.categories.Affirmation.headlineDescriptionLabel.text" = "Pozytywne afirmacje pomagające w poczęciu dziecka";
+"HomeViewController.categories.Yoga.headlineLabel.text" = "Joga";
+"HomeViewController.categories.Yoga.headlineDescriptionLabel.text" = "Pozycje jogi pomocne w poczęciu";
+"HomeViewController.categories.NameGenetrate.headlineLabel.text" = "Generator imion dla dzieci";
+
+// MARK: YourGoalSelectionVC
+"YourGoalSelectionVC.headlineLabel.text" = "Kogo chcesz począć?";
+"YourGoalSelectionVC.gender.boy.text" = "Chłopiec";
+"YourGoalSelectionVC.gender.girl.text" = "Dziewczynka";
+"YourGoalSelectionVC.gender.doesntMatter.text" = "Nie ma znaczenia";
+
+// MARK: YogaVC
+"YogaVC.headlineLabel.text" = "Pozycje jogi";
+"YogaVC.FertilityPositions.headlineLabel.text" = "Pozycje\npłodności";
+"YogaVC.PrenatalYoga.headlineLabel.text" = "Joga\nw ciąży";
+"YogaVC.FertilityPositions.headlineDescriptionLabel.text" = "Wypróbuj te pozycje jogi, aby zwiększyć swoją płodność.";
+
+// MARK: YogaDetailVC
+"YogaDetailVC.headlineLabel.text" = "Zdrap pole\npalcem";
+
+// MARK: GamesVC
+"GamesVC.headlineLabel.text" = "Gry";
+"GamesVC.UnlockForMoreFunButton.Locations.title" = "Odkryj więcej Lokacji";
+"GamesVC.UnlockForMoreFunButton.Extras.title" = "Odkryj więcej Dodatków";
+
+"GamesVC.ScoreAndCardsHeader.scoreView.headlineLabel.text" = "Twój wynik:";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Novice.text" = "Nowicjusz";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Experienced.text" = "Doświadczony";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Expert.text" = "Ekspert";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SeductionMaster.text" = "Mistrz uwodzenia";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.KingOfLust.text" = "Król pożądania";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SexGod.text" = "Bóg seksu";
+"GamesVC.ScoreAndCardsHeader.cardView.headlineLabel.text" = "Zdrapane karty:";
+
+"GamesVC.LevelsAndPositionCardsHeader.headlineLabel.text" = "Wybierz poziom i zdrap wyzwanie miłosne";
+
+"GamesVC.LocationsHeader.headlineLabel.text" = "Oznacz lokalizacje";
+"GamesVC.LocationsHeader.headlineDescriptionLabel.text" = "Wypróbuj nowe miejsca na seks i odznacz je, gdy już je wypróbujesz";
+
+"GamesVC.ExtrasHeader.headlineLabel.text" = "Ekscytujące dodatki";
+"GamesVC.ExtrasHeader.headlineDescriptionLabel.text" = "Odważ się wypróbować gorące dodatki i opuścić strefę komfortu";
+
+"GamesVC.LevelsAndPositionCardsHeader.level1.headlineLabel.text" = "Poziom 1";
+"GamesVC.LevelsAndPositionCardsHeader.level2.headlineLabel.text" = "Poziom 2";
+"GamesVC.LevelsAndPositionCardsHeader.level3.headlineLabel.text" = "Poziom 3";
+"GamesVC.LevelsAndPositionCardsHeader.InCar.headlineLabel.text" = "W samochodzie";
+"GamesVC.LevelsAndPositionCardsHeader.InBath.headlineLabel.text" = "W wannie";
+"GamesVC.LevelsAndPositionCardsHeader.Bondage.headlineLabel.text" = "Uwiązanie";
+"GamesVC.LevelsAndPositionCardsHeader.easy.headlineLabel.text" = "Łatwe";
+"GamesVC.LevelsAndPositionCardsHeader.medium.headlineLabel.text" = "Średnie";
+"GamesVC.LevelsAndPositionCardsHeader.complicated.headlineLabel.text" = "Skomplikowane";
+"GamesVC.LevelsAndPositionCardsHeader.sparkling.headlineLabel.text" = "Błyszczące";
+"GamesVC.LevelsAndPositionCardsHeader.kinky.headlineLabel.text" = "Perwersyjne";
+"GamesVC.LevelsAndPositionCardsHeader.captivating.headlineLabel.text" = "Zachwycające";
+"GamesVC.LevelsAndPositionCardsHeader.Point.text" = "punkt";
+"GamesVC.LevelsAndPositionCardsHeader.Points.text" = "punkty";
+
+// MARK: GameCardScrachVC
+"GameCardScrachVC.headlineLabel.text" = "Zdrap pole palcem";
+"GameCardScrachVC.Button.Back.headline.text" = "Wstecz";
+"GameCardScrachVC.Button.Done.headline.text" = "Gotowe";
+"GameCardScrachVC.Button.Reset.headline.text" = "Resetuj";
+"GameCardScrachVC.Probability.headline.text" = "Prawdopodobieństwo:";
+
+// MARK: GameLegsUpVC
+"GameLegsUpVC.headlineLabel.text" = "Nie zapomnij położyć nóg wysoko i podłożyć pod plecy poduszkę!";
+"GameLegsUpVC.Button.GotIt.text" = "Rozumiem!";
+"GameLegsUpVC.Button.DontShowAgain.headline.text" = "Nie pokazuj ponownie";
+
+// MARK: LearningResourcesVC
+"LearningResourcesVC.headlineLabel.text" = "Źródła nauki";
+"LearningResourcesVC.articles.ohBaby.headline" = "Intymność seksualna w trakcie oczekiwania";
+"LearningResourcesVC.articles.theRoadBeforeTheBump.headline" = "Płodność w grach";
+"LearningResourcesVC.articles.chineseConceptionCalendar.headline" = "Chiński kalendarz poczęć";
+"LearningResourcesVC.articles.positionPerfect.headline" = "Pozycje podczas poczęcia i płeć dziecka";
+"LearningResourcesVC.articles.babyliciousNutritious.headline" = "Odżywianie dla płodności";
+"LearningResourcesVC.articles.fertilityCalendar.headline" = "Kalendarz płodności";
+"LearningResourcesVC.articles.waysToShowYour.headline" = "5 sposobów na okazanie miłości ciężarnej partnerce";
+"LearningResourcesVC.articles.hitTheGym.headline" = "Uderz na siłownię? Ćwiczenia podczas starań o dziecko";
+"LearningResourcesVC.articles.howToSupportYourPartner.headline" = "Poronienia";
+"LearningResourcesVC.articles.ohBabySexAfterChildbirth.headline" = "Seks po porodzie";
+"LearningResourcesVC.UnlockForMoreFunButton.Masterclass.title" = "Odblokuj pełną klasę mistrzowską";
+
+
+// MARK: LearningResourceArticleVC
+"LearningResourceArticleVC.headlineLabel.text" = "Artykuł";
+"LearningResourceArticleVC.ReadFullMasterclass.headline.text" = "Przeczytaj pełną klasę mistrzowską";
+"LearningResourceArticleVC.ReadFullMasterclass.subtitle.text" = "Ta klasa mistrzowska jest dostępna tylko dla członków Ovulio Baby Conception. Zaktualizuj, aby natychmiast odblokować tę klasę mistrzowską oraz inne korzyści dostępne tylko dla członków.";
+
+// MARK: CalendarPageVC
+"CalendarPageVC.segment.LunarCalendar.headlineLabel.text" = "Chiński kalendarz księżycowy";
+"CalendarPageVC.segment.FertilityCalendar.headlineLabel.text" = "Kalendarz płodności";
+
+// MARK: CalendarVC
+"LunarCalendarVC.headlineLabel.text" = "Kalendarz chiński";
+"LunarCalendarVC.ChooseYear.text" = "Wybierz rok";
+
+"LunarCalendarVC.LunarCalendarCell.Boy.text" = "Chłopiec";
+"LunarCalendarVC.LunarCalendarCell.Girl.text" = "Dziewczynka";
+
+// MARK: OvulationCalendarVC
+"OvulationCalendarVC.headlineLabel.text" = "Kalendarz płodności";
+"OvulationCalendarVC.Ovulation.headlineLabel.text" = "Owulacja";
+"OvulationCalendarVC.HighFertileday.headlineLabel.text" = "Dzień najwyższej płodności";
+"OvulationCalendarVC.Fertileday.headlineLabel.text" = "Dzień płodny";
+"OvulationCalendarVC.Periodday.headlineLabel.text" = "Dzień okresu";
+"OvulationCalendarVC.Daysbefore.headlineLabel.text" = "Dni przed";
+"OvulationCalendarVC.probability.low.text" = "Niskie";
+"OvulationCalendarVC.probability.high.text" = "Wysokie";
+"OvulationCalendarVC.probability.veryHigh.text" = "Bardzo wysokie";
+"OvulationCalendarVC.probability.highest.text" = "Najwyższe";
+"OvulationCalendarVC.detailsChanceStaticLabel.text" = "Szansa na zajście w ciążę";
+
+"OvulationCalendarVC.demoData.demo.headline.text" = "Demo";
+"OvulationCalendarVC.demoData.data.headline.text" = "data";
+"OvulationCalendarVC.probability.headline.text" = "Prawdopodobieństwo";
+"OvulationCalendarVC.probability.boy.headline.text" = "Chłopiec";
+"OvulationCalendarVC.probability.girl.headline.text" = "Dziewczynka";
+
+// MARK: CalendarDesignationsVC
+"CalendarDesignationsVC.headlineLabel.text" = "Oznaczenia";
+"CalendarDesignationsVC.details.menstruation.text" = "Miesiączka";
+"CalendarDesignationsVC.details.predictedMenstruation.text" = "Przewidywana miesiączka";
+"CalendarDesignationsVC.details.fertileWindow.text" = "Okno płodności";
+"CalendarDesignationsVC.details.estimatedDayOfOvulation.text" = "Szacowany dzień owulacji";
+"CalendarDesignationsVC.details.saveDay.text" = "Dzień „Zapisz”";
+
+
+// MARK: DemoDataAlertVC
+"DemoDataAlertVC.headlineLabel.text" = "Ostrzeżenie!";
+"DemoDataAlertVC.subtitle.text" = "Te dane nie są prawdziwe i nie mają nic wspólnego z Twoim prawdziwym cyklem, zaktualizuj swoją subskrypcję, aby zacząć korzystać z aplikacji w pełni";
+
+// MARK: SalesVC
+"SalesVC.headlineLabel.text" = "Wyprzedaż";
+"SalesVC.button.UnlockForMoreFun.text" = "Odblokuj dla więcej zabawy";
+"SalesVC.button.Continue.text" = "Kontynuuj";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.text" = "Otrzymaj nieograniczony dostęp do swojego planu Poczęcia Dziecka!";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.ColoredString.text" = "planu Poczęcia Dziecka!";
+"SalesVC.YourBabyWishGenderIs.headline.text" = "Twój wybór płci dziecka to";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.headline.text" = "chłopiec";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.coloredString.headline.text" = "chłopiec";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.headline.text" = "dziewczynka";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.coloredString.headline.text" = "dziewczynka";
+"SalesVC.YourBabyWishGenderIs.DoesntMatter.headline.text" = "dziecko płci męskiej/żeńskiej";
+"SalesVC.details.headlineLabel.Unlock all features.text" = "Odblokuj wszystkie funkcje";
+"SalesVC.details.headlineLabel.Unlock all features.ColoredString.text" = "funkcje";
+"SalesVC.details.Unlock all features.Monthly gender Predictions.text" = "Miesięczne przewidywania płci";
+"SalesVC.details.Unlock all features.Unlimited Ovulation Insights.text" = "Nieograniczone Wnioski o Owulacji";
+"SalesVC.details.Unlock all features.Gender Influencing Sex Practices.text" = "Płciowe praktyki wpływające na płeć";
+"SalesVC.details.Unlock all features.Access to Expert written Articles.text" = "Dostęp do artykułów napisanych przez ekspertów";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.text" = "Przyszli rodzice nie mogą przestać zachwycać się";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.ColoredString.text" = "rodzice";
+"SalesVC.details.Future parents can’t stop raving.Higher Chance of getting Pregnant.text" = "Większa szansa na zajście w ciążę";
+"SalesVC.details.Future parents can’t stop raving.Improved Intimacy routine.text" = "Ulepszona rutyna intymna";
+"SalesVC.details.Future parents can’t stop raving.Regular updates with new features.text" = "Regularne aktualizacje z nowymi funkcjami";
+"SalesVC.details.Future parents can’t stop raving.Anti-boring guarantee.text" = "Gwarancja przeciwko nudzie";
+"SalesVC.details.headlineLabel.Developed with\nexperts.text" = "Rozwinięte z\nekspertami";
+"SalesVC.details.headlineLabel.Developed with\nexperts.ColoredString.text" = "ekspertami";
+"SalesVC.details.Developed with\nexperts.subtitleHeadlineText.text" = "Ovulio Baby został opracowany we współpracy z profesjonalistami medycznymi i certyfikowanymi trenerami seksualnymi. Poznaj niektórych z naszych ekspertów poniżej…";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.text" = "Wybierz swój plan poczęcia dziecka";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.coloredString.text" = "plan poczęcia dziecka";
+"SalesVC.details.Choose your baby\nconception plan.subtitleText.text" = "Subskrypcje będą naliczane na Twoją kartę kredytową za pośrednictwem Twojego konta iTunes. Twoje subskrypcje zostaną automatycznie odnowione, chyba że funkcja automatycznego odnowienia zostanie wyłączona co najmniej 24 godziny przed końcem bieżącego okresu rozliczeniowego. Twoje konto zostanie obciążone zgodnie z Twoim planem odnowienia w ciągu 24 godzin przed zakończeniem bieżącego okresu rozliczeniowego. Możesz zarządzać lub wyłączyć funkcję automatycznego odnowienia w ustawieniach swojego konta Apple ID w dowolnym momencie po zakupie.";
+"SalesVC.details.reviews.userName1.text" = "Penny";
+"SalesVC.details.reviews.userName1.comment.text" = "Jestem tak pod wrażeniem dokładności kalendarzy! Były one tak łatwe w nawigacji i użyciu. Dzięki Ovulio Baby znam swój cykl jak własną kieszeń.";
+"SalesVC.details.reviews.userName2.text" = "Michael i Laura";
+"SalesVC.details.reviews.userName2.comment.text" = "Użyliśmy Ovulio Baby do poczęcia naszego drugiego dziecka i to był taki zabawny proces. Gry zabrały nasze życie seksualne na zupełnie nowy poziom, i jesteśmy bliżej niż kiedykolwiek!";
+"SalesVC.details.reviews.userName3.text" = "Astrid";
+"SalesVC.details.reviews.userName3.comment.text" = "Artykuły są naprawdę fajne, podobała mi się aspekt nauki tej aplikacji. Mój mąż i ja jesteśmy teraz specjalistami od ciąży!";
+"SalesVC.details.reviews.userName4.text" = "Philip i Sarah";
+"SalesVC.details.reviews.userName4.comment.text" = "W końcu dostaliśmy dziewczynkę, po dwóch chłopcach! Gorąco polecam Kalendarz Księżycowy każdemu, kto ma nadzieję na określoną płeć. Było łatwe w użyciu i co najlepsze, teraz mamy na drodze dziewczynkę.";
+"SalesVC.details.reviews.userName5.text" = "Megan i Adam";
+"SalesVC.details.reviews.userName5.comment.text" = "Właśnie zaczęliśmy używać tego i już się w nim zakochaliśmy. To taka zróżnicowana aplikacja z tak wieloma specjalnymi funkcjami i informacjami. Jestem pewien, że będziemy rodzicami bardzo szybko!";
+"SalesVC.details.reviews.userName6.text" = "Melanie";
+"SalesVC.details.reviews.userName6.comment.text" = "Zawsze wyobrażałem sobie posiadanie chłopca, po znalezieniu Ovulio Baby, a następnie zajściu w ciążę z moim synem niedługo po tym marzenie stało się rzeczywistością! Niesamowita aplikacja";
+"SalesVC.spalert.success.title" = "Gotowe!";
+"SalesVC.spalert.success.message" = "Twoja aktualizacja do PRO zakończyła się powodzeniem";
+"SalesVC.plans.1week.headline.text" = "1 tydzień";
+"SalesVC.plans.1week.details.text" = "rozliczane co tydzień";
+"SalesVC.plans.1week.priceDetails.perWeek.text" = "tygodniowo";
+"SalesVC.plans.3Months.headline.text" = "3 miesiące";
+"SalesVC.plans.3Months.details.text" = "rozliczane co 3 miesiące";
+"SalesVC.plans.3Months.typeTitle.headline.text" = "Najlepsza wartość";
+"SalesVC.plans.3Months.discount.headline.text" = "ZAOSZCZĘDŹ 75%";
+
+"SalesVC.plans.1Month.typeTitle.headline.text" = "Popularny";
+"SalesVC.plans.1Month.headline.text" = "1 miesiąc";
+"SalesVC.plans.1Month.details.text" = "rozliczane miesięcznie";
+"SalesVC.plans.1Month.discount.headline.text" = "ZAOSZCZĘDŹ 50%";
+"SalesVC.plans.1Month.fullDiscount.headline.text" = "ZAOSZCZĘDŹ 100%";
+"SalesVC.plans.1Month.details.afterword.text" = "Później: ";
+"SalesVC.plans.1Month.details.monthly.text" = "miesięcznik";
+
+"SalesVC.plans.lifetime.typeTitle.headline.text" = "Tylko teraz";
+"SalesVC.plans.lifetime.headline.text" = "Dożywotnio";
+"SalesVC.plans.lifetime.details.text" = "jednorazowo";
+"SalesVC.plans.lifetime.discount.headline.text" = "ZAOSZCZĘDŹ 90%";
+
+
+// MARK: YearPickerPopUpVC
+"YearPickerPopUpVC.headlineLabel.text" = "Wybierz rok";
+
+// MARK: ProfileVC
+"ProfileVC.headlineLabel.text" = "Profil";
+"ProfileVC.headlineLabel.notEnoughData.text" = "Niewystarczająca ilość danych";
+"ProfileVC.buttons.saveChanges.text" = "Zapisz zmiany";
+
+"ProfileVC.ProfileImagTextCell.enterMotherName.text" = "Wprowadź imię matki";
+"ProfileVC.ProfileImagTextCell.enterFatherName.text" = "Wprowadź imię ojca";
+"ProfileVC.ProfileImagTextCell.Mother.text" = "Matka";
+"ProfileVC.ProfileImagTextCell.Father.text" = "Ojciec";
+
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.text" = "Dziecko:";
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.notEnoughData.text" = "Kogo chcesz począć:";
+
+"ProfileVC.ProfileMentruationCycleCell.headlineLabel.text" = "Pierwszy dzień ostatniej miesiączki:";
+"ProfileVC.ProfileMentruationCycleCell.cycleLength.headlineLabel.text" = "Długość cyklu:";
+
+"ProfileVC.ProfileBirthMonthYearCell.headlineLabel.text" = "Dzień, miesiąc i rok urodzenia:";
+"ProfileVC.ProfileBirthMonthYearCell.Mother.text" = "Matka";
+"ProfileVC.ProfileBirthMonthYearCell.Father.text" = "Ojciec";
+
+"ProfileVC.ProfileNotEnoughSubtitleCell.headlineLabel.text" = "Potrzebujemy więcej informacji, aby przewidzieć następne okno płodności. Możesz je zmienić w dowolnym momencie w swoim profilu!";
+
+// MARK: OptionsVC
+"OptionsVC.headlineLabel.text" = "Opcje";
+"OptionsVC.Sections.Settings.headlineLabel.text" = "Ustawienia";
+"OptionsVC.Sections.Contacts.headlineLabel.text" = "Kontakty";
+"OptionsVC.Settings.SetLanguage.headlineLabel.text" = "Ustaw język";
+"OptionsVC.Settings.RestorePurchase.headlineLabel.text" = "Przywróć zakup";
+"OptionsVC.Settings.Notifications.headlineLabel.text" = "Powiadomienia";
+"OptionsVC.Settings.VisitWebsite.headlineLabel.text" = "Odwiedź stronę internetową";
+"OptionsVC.Settings.Legal.headlineLabel.text" = "Prawo";
+"OptionsVC.Settings.HowItWorks.headlineLabel.text" = "Jak działa aplikacja?";
+"OptionsVC.Contacts.E-mailContact.headlineLabel.text" = "Kontakt e-mail";
+"OptionsVC.Contacts.RateTheApp.headlineLabel.text" = "Oceń aplikację";
+"OptionsVC.Contacts.FollowInInstagram.headlineLabel.text" = "Obserwuj na Instagramie";
+"OptionsVC.Contacts.Share.headlineLabel.text" = "Udostępnij";
+"OptionsVC.Contacts.OurExperts.headlineLabel.text" = "Nasi eksperci";
+"OptionsVC.ratingView.email.subject" = "Ocena aplikacji Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.stars" = "Oceniam aplikację Ovulio Baby na %x gwiazdek";
+"OptionsVC.ratingView.email.messageBody.star" = "Oceniam aplikację Ovulio Baby na 1 gwiazdkę";
+"OptionsVC.alert.redeemCode.title" = "Wykorzystaj kod aktywacyjny";
+"OptionsVC.alert.redeemCode.message" = "Wprowadź kod aktywacyjny z wiadomości e-mail lub zamówienia!";
+"OptionsVC.alert.redeemCode.placeholder" = "Kod aktywacyjny";
+
+// Share with friends
+"OptionsVC.shareCovarUIAlertController.messageButton" = "Wiadomość";
+"OptionsVC.shareCovarUIAlertController.emailButton" = "E-mail";
+"OptionsVC.shareCovarUIAlertController.moreButton" = "Więcej";
+"OptionsVC.shareCovarUIAlertController.messageTextBody" = "Wypróbuj aplikację Ovulio Baby! Pobierz ją za darmo na https://ovulio-baby.com";
+"OptionsVC.shareCovarUIAlertController.emailTextBody" = "Witaj,\nwypróbuj aplikację Ovulio Baby!\nPobierz ją za darmo na https://ovulio-baby.com";
+"OptionsVC.keepInTouch.email" = "Pytanie dotyczące aplikacji Ovulio Baby";
+
+// MARK: ReviewAlertView
+"ReviewAlertView.titleLabel.text" = "Jak oceniasz aplikację?";
+"ReviewAlertView.contactUs" = "Skontaktuj się z nami";
+"ReviewAlertView.rateUs" = "Oceń nas";
+
+// MARK: LegalOptionVC
+"LegalOptionVC.headlineLabel.text" = "Prawo";
+"LegalOptionVC.LegalNotice.headlineLabel.text" = "Ogłoszenie prawne";
+"LegalOptionVC.PrivacyPolicy.headlineLabel.text" = "Polityka prywatności";
+"LegalOptionVC.TermsandConditions.headlineLabel.text" = "Warunki korzystania";
+"LegalOptionVC.Disclaimer.headlineLabel.text" = "Zrzeczenie odpowiedzialności";
+"LegalOptionVC.Attribution.headlineLabel.text" = "Atrybucja";
+"LegalOptionVC.TermsOfUse.headlineLabel.text" = "Warunki użytkowania";
+
+// MARK: NotificationsOptionVC
+"NotificationsOptionVC.headlineLabel.text" = "Powiadomienia";
+"NotificationsOptionVC.PeriodStarting.headlineLabel.text" = "Początek okresu";
+"NotificationsOptionVC.PeriodStarting.headlineDescriptionLabel.text" = "To powiadomienie przypomni Ci o nadchodzącym okresie tydzień przed jego rozpoczęciem";
+"NotificationsOptionVC.FavorableDay.headlineLabel.text" = "Faworyzowany dzień na poczęcie";
+"NotificationsOptionVC.GenderNotification.headlineLabel.text" = "Powiadomienie o płci";
+
+// MARK: OurExpertsOptionPageVC
+"OurExpertsOptionPageVC.headlineLabel.text" = "Nasi eksperci";
+
+
+
+
+// MARK: GamesModel: Locations
+"GamesModel.LocationsModel.AtHome.headlineLabel.text" = "W domu";
+"GamesModel.LocationsModel.AtHome.OnTheCouch.text" = "Na kanapie";
+"GamesModel.LocationsModel.AtHome.OnTheFloor.text" = "Na podłodze";
+"GamesModel.LocationsModel.AtHome.OnAChair.text" = "Na krześle";
+"GamesModel.LocationsModel.AtHome.OnTheDiningTable.text" = "Na stole jadalnym";
+"GamesModel.LocationsModel.AtHome.InTheBathroom.text" = "W łazience";
+"GamesModel.LocationsModel.AtHome.InTheShower.text" = "Pod prysznicem";
+"GamesModel.LocationsModel.AtHome.InTheKitchen.text" = "W kuchni";
+"GamesModel.LocationsModel.AtHome.InTheCloset.text" = "W szafie";
+"GamesModel.LocationsModel.AtHome.AgainstAWall.text" = "Przy ścianie";
+"GamesModel.LocationsModel.AtHome.OnTheStairs.text" = "Na schodach";
+"GamesModel.LocationsModel.AtHome.InTheAttic.text" = "Na strychu";
+"GamesModel.LocationsModel.AtHome.OnAYogaMat.text" = "Na macie do jogi";
+"GamesModel.LocationsModel.AtHome.OnTheWashingMachine.text" = "Na pralce";
+"GamesModel.LocationsModel.AtHome.InFrontOfAMirror.text" = "Przed lustrem";
+"GamesModel.LocationsModel.AtHome.AtTheFrontDoor.text" = "Przy drzwiach frontowych";
+"GamesModel.LocationsModel.AtHome.BehindAWindow.text" = "Za oknem";
+"GamesModel.LocationsModel.AtHome.InTheBasement.text" = "W piwnicy";
+"GamesModel.LocationsModel.AtHome.OnTheBalconyIntheGarden.text" = "Na balkonie/w ogrodzie";
+"GamesModel.LocationsModel.AtHome.InTheGardenHouseGarage.text" = "W altance/ogrodzie/garażu";
+
+// MARK: GamesModel: Extras
+"GamesModel.ExtrasModel.DirtyTalk.text" = "Brudne rozmowy";
+"GamesModel.ExtrasModel.Fingering.text" = "Stymulacja palcami";
+"GamesModel.ExtrasModel.Oral.text" = "Orodek";
+"GamesModel.ExtrasModel.Blindfold.text" = "Zawiązanie oczu";
+"GamesModel.ExtrasModel.Handcuffs.text" = "Kajdanki";
+"GamesModel.ExtrasModel.HairPulling.text" = "Pociąganie za włosy";
+"GamesModel.ExtrasModel.GrabByTheNeck.text" = "Chwytanie za szyję";
+"GamesModel.ExtrasModel.WithEarplug.text" = "Z zatyczkami do uszu";
+"GamesModel.ExtrasModel.Bondage.text" = "Więzienie";
+"GamesModel.ExtrasModel.Sextoys.text" = "Zabawki erotyczne";
+"GamesModel.ExtrasModel.HotWaxMassage.text" = "Masaż z gorącym woskiem";
+"GamesModel.ExtrasModel.RolePlaying.text" = "Gra w role";
+"GamesModel.ExtrasModel.WatchPorn.text" = "Oglądanie pornografii";
+"GamesModel.ExtrasModel.Whipping.text" = "Biczowanie";
+"GamesModel.ExtrasModel.SexTape.text" = "Nagranie seksu";
+
+
+// MARK: Article: Babylicious Nutritious
+"LearningResourceArticleVC.babyliciousNutritious.headline" = "Babylicious Nutritious: Odżywianie Płodne dla Promowania Ciąży";
+"LearningResourceArticleVC.babyliciousNutritious.headline.text" = "Jedzenie odżywia ciało, umysł i duszę, a gdy planujesz poczęcie, jedzenie, które spożywasz, może pomóc Ci zrealizować marzenia o poczęciu w bardzo smakowity sposób. W tym artykule omówimy, w jaki sposób odpowiednia dieta może promować ciążę, podzielimy się dlaczego niektóre jedzenie ma moc zwiększenia Twoich szans na zajście w ciążę. Istnieje wiele czynników, które odgrywają rolę podczas próby zajścia w ciążę, zawsze warto dowiedzieć się więcej o swojej płodności jako parze u specjalisty od zdrowia, odpowiednia dieta i zdrowie zostały powiązane z sukcesem w poczęciu. Powiemy Ci również kilka rzeczy do unikania podczas planowania ciąży, abyś mógł zajść w ciążę!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section1.headline" = "Za mało i za dużo";
+"LearningResourceArticleVC.babyliciousNutritious.section1.text" = "To prawda, że statystycznie kobiety, które mają niedowagę lub nadwagę, mają trudniejszy czas zajścia w ciążę, ale to nie znaczy, że jest to niemożliwe! Jednak nadwaga lub niedowaga mogą powodować zaburzenia hormonalne, nieregularności owulacyjne i problemy z miesiączką. Jeśli planujesz zajście w ciążę, rozważ konsultację z dietetykiem, aby znaleźć plan dietetyczny dostosowany do Twojego wzrostu, wagi i ewentualnych problemów zdrowotnych. Dotyczy to również Twojego partnera, ponieważ problemy z wagą mogą powodować problemy z płodnością u mężczyzn.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section2.headline" = "Babylicious Nutritious: Popraw swoje szanse i unikaj…";
+"LearningResourceArticleVC.babyliciousNutritious.section2.text" = "-Palenie. Palenie może zmniejszyć płodność zarówno u mężczyzn, jak i u kobiet, jeśli masz nadzieję zajść w ciążę, rzucenie nałogu może pomóc Ci w podróży ku poczęciu.
+-Za dużo kofeiny. Przy próbie zajścia w ciążę eksperci zgadzają się, że nadmierne spożycie kofeiny może zmniejszyć Twoje szanse na ciążę ze względu na kofeinę i może wpływać na to, jak Twój organizm metabolizuje wszystkie te dobre składniki odżywcze w Twoim organizmie.
+-Alkohol. Poza zabawą w sobotnią noc, nie ma wiele, co alkohol może zaoferować. Przy próbie zajścia w ciążę alkohol może zmniejszyć płodność, nie tylko u kobiet, ale także u mężczyzn. Alkohol może także zaburzyć Twoje hormony, co wpływa na cykl menstruacyjny. Aby zwiększyć swoje szanse na zajście w ciążę, najlepiej trzymać się dobrego starego wody.
+-Przetworzone jedzenie. Wiadomo, że przetworzone jedzenie może obniżyć jakość nasienia mężczyzn, co może wpłynąć na szanse na poczęcie. Przetworzone jedzenie jest pełne cukru, soli i tłuszczów, które po prostu nie są zdrowe podczas próby zajścia w ciążę.
+-Napojów słodkich. Napoje i jedzenie o wysokiej zawartości cukru obniżają płodność zarówno u mężczyzn, jak i u kobiet. Nie tylko to, ale może to dosłownie spowodować starzenie się Twoich organów, takich jak układ rozrodczy!
+-Surowej ryby i ryb o wysokiej zawartości rtęci. Prawdopodobnie słyszałeś, że powinieneś unikać sushi, gdy jesteś w ciąży. To faktycznie dotyczy także próby zajścia w ciążę. Rtęć gromadzi się we krwiobiegu przez pewien czas, wysokie ilości mogą wpłynąć na Twoje zdrowie i Twoje przyszłe dziecko w brzuchu.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section3.headline" = "Babylicious Nutritious: Dobre rzeczy";
+"LearningResourceArticleVC.babyliciousNutritious.section3.text" = "Dokonywanie zmian w diecie może być trudne, ale na szczęście jedzenie, które jest zalecane i promuje ciążę, jest dobre i zdrowe! Zobaczmy, co będziesz jeść, przygotowując się do jedzenia dla dwojga:
+-Oliwa z oliwek extra virgin. Co nie może zrobić ta substancja, prawda? Jest dobra dla skóry, włosów i zaskakująco promuje płodność zarówno u mężczyzn, jak i u kobiet.
+-Owoce morza. Chociaż są ryby, które mają wysoką zawartość rtęci, istnieją również wiele rodzajów owoców morza, z których kobiety starające się zajść w ciążę będą korzystać. Owoce morza są bogatym w składniki odżywcze wyborem posiłku, który jest bogaty w omega 3. Owoce morza takie jak łosoś, anchovies, morszczuk, dorsz, krewetki, homar i wiele innych, mogą pomóc w owulacji i poprawić jakość nasienia.
+-Owoce. Owoce są pełne witamin i bogate w błonnik, przy próbie upieczenia w piekarniku będziesz chciał zaopatrzyć się w ananasy, jabłka nieobrane, maliny, mango, truskawki i banany.
+-Warzywa. Wszyscy słyszeliśmy, że powinniśmy jeść warzywa kiedyś lub innym razem, i to z dobrego powodu. Jarmuż i szpinak są szczególnie korzystne przy próbie zajścia w ciążę, są pełne żelaza, manganu i folianów, które zwiększają prawdopodobieństwo zajścia w ciążę.
+-Zboża pełnoziarniste. Zboża pełnoziarniste takie jak jęczmień, brązowy ryż, pełnoziarnisty chleb i płatki śniadaniowe itp. są doskonałym uzupełnieniem zdrowej diety. Zboża pełnoziarniste zostały powiązane z lepszym wsadzeniem i wskaźnikami ciąży!
+-Strączki. Fasola, groch i soczewica to superżywność w ciąży, zawierają kwas foliowy, który jest kluczową witaminą, która może pomóc w poczęciu. Strączki zwiększają Twoją płodność; zdecydowanie polecamy włączenie tych magicznych ziaren do swojej diety.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section4.headline" = "Babylicious Nutritious: Dieta Śródziemnomorska";
+"LearningResourceArticleVC.babyliciousNutritious.section4.text" = "Dieta śródziemnomorska głównie składa się z olejów roślinnych, fasoli, ryb i warzyw, ta dieta może zwiększyć Twoje prawdopodobieństwo zajścia w ciążę ze względu na swoje bogactwo składników odżywczych. Dieta śródziemnomorska skupia się na całych, nieprzetworzonych produktach spożywczych, które są bogate w wapń, żelazo, błonnik i białko, które są budulcem zdrowego organizmu przygotowującego się do poczęcia. Ta dieta nie ma na celu pozbawienia Cię lub pozostawienia Cię głodnym, wręcz przeciwnie, będziesz czuł się syty na dłużej i zauważysz dodatkowe korzyści, takie jak lepsza funkcja mózgu, zwiększona energia i nastrój, kontrola wagi, zmniejszone zapalenie, lista jest długa. Jest to również dieta, którą można nadal stosować w czasie ciąży i będzie miała niesamowite korzyści dla Twojego małego dziecka. Nie wspominając o tym, że dostępne są mnóstwo pysznych przepisów i pomysłów na posiłki w Internecie, co ułatwia rozpoczęcie i przestrzeganie!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section5.headline" = "Babylicious Nutritious: Żywność, która zwiększa liczbę plemników";
+"LearningResourceArticleVC.babyliciousNutritious.section5.text" = "Istnieje wiele kluczowych witamin, które udowodniono, że zwiększają płodność u mężczyzn. Liczba i jakość plemników Twojego partnera również może wpłynąć na Twoje szanse na zajście w ciążę! Dowiedzmy się, jakie jedzenie może zwiększyć możliwość poczęcia:
+-Orzechy włoskie: Kwas foliowy i B6 zawarte w orzechach włoskich wspierają płodność męską i są łatwym przekąską, jeśli jesteś w biegu.
+-Ryby: Łosoś i sardynki są bogate w Omega-3, są także uznawane za jedne z najlepszych pokarmów zwiększających liczbę plemników.
+-Wołowina: Wołowina jest bogata w cynk, karnitynę i witaminę B12, które wszystkie promują wyższą liczbę plemników!
+-Owoce i warzywa: Badanie przeprowadzone na 250 mężczyznach wykazało, że mężczyźni spożywający większe ilości owoców i warzyw mieli wyższe stężenia i ruchliwość plemników.
+-Ostrygi: Badania wykazały, że witamina B12 pomaga wytwarzać zdrowe plemniki, a ostrygi zawierają dużo tej witaminy! Mają również dużo cynku i witaminy D, które również przyczyniają się do zdrowych, aktywnych plemników.
+-Pomidory: Pomidory zawierają coś, co nazywa się likopenem, a badania wykazały, że spożycie około 4 g likopenu dziennie zwiększa liczbę plemników męskich.
+-Czosnek: Czosnek ma wspaniałe właściwości antyoksydacyjne, które zwiększają produkcję plemników i testosteronu. Więc następnym razem, gdy będziesz jadł posiłek, upewnij się, że dodajesz trochę czosnku, jest smaczny i promuje ogólną płodność.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section6.headline" = "Babylicious Nutritious: Co Szkodzi Liczbie Plemników?";
+"LearningResourceArticleVC.babyliciousNutritious.section6.text" = "Warto zauważyć, że większość przedmiotów, których należy unikać w tym artykule dla kobiet, dotyczy także mężczyzn! Rzeczy takie jak alkohol, kofeina, palenie, przetworzone produkty spożywcze i ryby o wysokiej zawartości rtęci nie są również zalecane mężczyznom podczas próby poczęcia, ale istnieją kilka, które wyróżniają się, gdy mówimy konkretnie o płodności męskiej, sprawdźmy je:
+-Leki przeciwbólowe: Ibuprofen i paracetamol są znane z obniżania płodności męskiej poprzez negatywny wpływ na poziomy testosteronu oraz zakłócanie rozwoju plemników. Bądź ostrożny przy leczeniu swojego następnego bólu głowy i być może zdecyduj się na zimny okład lub naturalne lekarstwo!
+-Słodziki: Słodziki nie są dobrym pomysłem zarówno dla mężczyzn, jak i kobiet próbujących zajść w ciążę, ale dla mężczyzn efekty słodzików w napojach dietetycznych, produktach spożywczych bez cukru itp., powodują zamieszanie w rozwoju plemników, liczbie plemników i poziomach testosteronu.
+-Produkty mleczne o wysokiej zawartości tłuszczu: Badania wykazały, że ser, pełne mleko i śmietana mają negatywny wpływ na płodność męską.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section7.headline" = "Babylicious Nutritious: Ciesz się!";
+"LearningResourceArticleVC.babyliciousNutritious.section7.text" = "Odżywianie swojego ciała w celu promowania ciąży lub w przygotowaniu do ciąży może być pysznym zadaniem. Bez względu na to, czy próbujesz zajść w ciążę w chwili obecnej, czy planujesz to w najbliższej przyszłości, zrównoważona dieta może tylko korzystnie wpłynąć na Ciebie i Twoją przyszłą radość. Pamiętaj, że do tanga trzeba dwojga, jeśli Ty i Twój partner szukacie sposobów na poprawę płodności razem, zacznijcie od diety! Tworzenie dań i przepisów to tylko kolejny sposób na uczynienie podróży ku poczęciu jeszcze bardziej przyjemną!";
+
+
+// MARK: Article: Oh Baby
+"LearningResourceArticleVC.ohBaby.headline" = "Oh Baby: Przewodnik po intymności seksualnej podczas ciąży";
+"LearningResourceArticleVC.ohBaby.text" = "Ciąża może być niesamowitym doświadczeniem; może zbliżyć was jako parę i stworzyć trwałą więź między wami. Zaczniesz dowiadywać się więcej o swoim ciele i zobaczysz swojego partnera w nowym świetle. Kiedy pary wyruszają razem w swoją ciążową przygodę, chcemy podzielić się, jak można nadal dzielić się intymnością seksualną i utrzymywać pasję silną.";
+
+"LearningResourceArticleVC.ohBaby.section1.headline" = "Mity i Fakty na Temat Seksu podczas Ciąży";
+"LearningResourceArticleVC.ohBaby.section1.text" = "Podczas swojej ciążowej podróży zaczniesz myśleć o wszystkich tych mitach, które mogą uczynić seks nieco straszny. Jesteśmy tutaj, aby podzielić się niektórymi z najpopularniejszych mitów na temat stosunków płciowych w czasie ciąży i obalić je dla Twojego spokoju ducha:
+
+Mito 1: Prowadzenie życia seksualnego lub głęboka penetracja podczas ciąży zaszkodzi dziecku. To powszechne obawy, które mają wiele nowych oczekujących par, naturalne jest zastanawianie się, czy ten mit ma jakiekolwiek uzasadnienie, i na szczęście naprawdę nie ma. Pochwę zaprojektowano do rozciągania się podczas stosunku, co tworzy niewielką przestrzeń między twoją pochwą a szyjką macicy. Jeśli twój partner jest wyposażony w poważną długość, dodatkowy fakt, który uspokoi twoje myśli, to to, że szyjka macicy jest zamknięta i owinięta w śluzową zatyczkę, aby chronić twoje dziecko.
+
+Mito 2: Seks może wywołać poród. Ach tak, kolejna powszechna nieprawdziwa przekonanie, jesteśmy bardzo szczęśliwi, że możemy powiedzieć, że to po prostu nieprawda, ten mit powstał po prostu dlatego, że nasienie zawiera prostaglandynę, która jest tym samym hormonem, który jest używany w szpitalu do wywoływania porodu. To podawane jest kobietom w bardzo skoncentrowanej syntetycznej formie. Więc dobre wieści są takie, że mężczyźni po prostu nie wytwarzają wystarczającej ilości tego hormonu, aby ich partnerka poszła na przedwczesny poród.
+
+Mito 3: Twoje dziecko wie, co robicie. Niektórym parom może przerażać bycie seksualnie intymnym z czystego przerażenia, że ich dziecko będzie wiedziało, co się dzieje. Spokojnie, twoje dziecko nie ma zielonego pojęcia, co robisz, obiecujemy. Tak, twoje dziecko może wykrywać dźwięki i ruchy podczas ciąży, ale twój maluch nie może pojąć ani interpretować, co się dzieje.
+
+Seks podczas ciąży może tworzyć głęboką, intymną więź w waszym związku. Nie tylko pomoże to waszemu związkowi, ale może nawet przynieść wam więcej przyjemności, zobaczmy kilka faktów, które na pewno was zainteresują:
+
+Fakt 1: Łatwiej osiągnąć orgazm, gdy jesteś w ciąży! Tak, dobrze przeczytałaś. Kobiety zyskują około 3 funtów więcej krwi, co sprawia, że występowanie orgazmów jest łatwiejsze i częstsze.
+
+Fakt 2: Do widzenia, środki antykoncepcyjne! Tak, oczywiście nie ma potrzeby antykoncepcji podczas ciąży, co jest świetną wiadomością dla tych, którzy znają różne skutki uboczne tabletek antykoncepcyjnych i innych form antykoncepcji.
+
+Fakt 3: Orgazmy mogą złagodzić twoje dolegliwości. Bóle pleców i głowy są częste w ciąży, ale na szczęście twoje ciało cię wspiera! Gdy osiągniesz orgazm, twoje ciało wydziela cudowny hormon zwany oksytocyną, który może złagodzić ból.";
+
+"LearningResourceArticleVC.ohBaby.section2.headline" = "W miarę jak rośniesz – Pozycje dla Komfortu i Przyjemności";
+"LearningResourceArticleVC.ohBaby.section2.text" = "Na początku ciąży sposób, w jaki uprawiasz seks, nie powinien być na to wpływany, ale w miarę jak brzuch i dziecko zaczynają rosnąć, niektóre pozycje mogą stracić swój blask. Niektóre szczególnie dzikie pozycje mogą być niebezpieczne dla brzucha i mogą być nieco niewygodne, dlatego sugerujemy wybieranie pozycji, które są odpowiednie dla rosnącego brzucha. Oto kilka pozycji, które są idealne dla oczekującej pary:
+
+● Łyżeczkowanie: Pozycja łyżeczkowania może być głęboko intymna, nie tylko jesteś w pozycji przytulania, ale pozwala ci leżeć na boku, podtrzymując brzuch.
+● Klasyczna kowbojka: Ta pozycja jest odpowiednia dla twojego brzucha i nie nakłada na niego niepotrzebnego nacisku. Pozwala ci kontrolować prędkość i głębokość w zależności od twojego komfortu.
+● Krawędź łóżka. Leżąc na krawędzi łóżka, podczas gdy twój partner stoi, aby cię penetrować, pozwala to na większe otwarcie nóg i unika kontaktu z brzuchem.
+● Od tyłu: Połóż poduszkę, aby dać swojemu brzuchowi dodatkowe wsparcie i ruszaj w drogę! Należy jednak zauważyć, że może to być niezalecane w późnych etapach ciąży, ponieważ ta pozycja zapewnia głęboką penetrację.
+● Na boku: Obydwoje leżąc na boku, przodem do siebie, połóż obie nogi na biodrach partnera, dzięki czemu może cię penetrować od dołu.";
+
+"LearningResourceArticleVC.ohBaby.section3.headline" = "Łączność jako para";
+"LearningResourceArticleVC.ohBaby.section3.text" = "Zanim się obejrzycie, wasz maluszek już będzie na świecie i naturalnie, intymność seksualna nie będzie już na szczycie waszej listy rzeczy do zrobienia. Wykorzystajcie ten czas, aby pogłębić wasze więzi seksualne, eksplorując nowe pozycje, a także być kreatywnym w spotkaniach, które nie zawsze wymagają penetracji. Gra wstępna może być również świetnym sposobem na dawanie i otrzymywanie przyjemności podczas ciąży, zaraz obok wzajemnej masturbacji!";
+
+"LearningResourceArticleVC.ohBaby.section4.headline" = "Pamiętaj";
+"LearningResourceArticleVC.ohBaby.section4.text" = "Tu w Ovuilo baby dbamy o wasze ogólne zdrowie, więc pamiętajcie, że jeśli seks staje się niewygodny lub bolesny w miarę jak zaczynasz rosnąć, skonsultujcie się z lekarzem. Istnieją zmienne do rozważenia, jeśli chodzi o ciążę wysokiego ryzyka. Wasz lekarz doradzi wam i waszemu partnerowi na temat bezpiecznych praktyk seksualnych lub unikania seksu w ogóle. Jednak jeśli lekarz dał wam zielone światło, seks powinien nadal być na stole do ostatnich 6 tygodni ciąży. Nie musicie rezygnować z pasji między prześcieradłami podczas ciąży, zasługujecie nadal na łączność jako para! Wypróbujcie pozycje dla waszego komfortu i eksperymentujcie z partnerem, aby uzyskać jak najlepsze efekty ze swojej miłości.";
+
+
+// MARK: Artykuł: Pozycja Perfekcyjna
+"LearningResourceArticleVC.positionPerfect.headline" = "Idealna Pozycja: Najlepsze Pozycje dla Poczęcia i Wpływu na Płeć";
+"LearningResourceArticleVC.positionPerfect.ohBaby.text" = "Czy jesteście ciekawi, które pozycje najprawdopodobniej zakończą się ciążą? Zastanawialiście się kiedyś, czy jest możliwe wpływanie na płeć waszego dziecka? Tutaj w Ovuilo Baby zagłębimy się w moc waszych pozycji i podzielimy się wskazówkami na najlepsze wyniki na drodze do zajścia w ciążę. Nie mylcie się, jeśli chodzi o poczęcie, istnieje wiele czynników do rozważenia poza pozycjami, które wypróbowujecie w sypialni, takich jak owulacja, zdrowie i wpływy biologiczne. Niemniej jednak istnieją idealne pozycje do wykorzystania podczas owulacji, które z pewnością mogą zwiększyć wasze szanse na ciążę dziesięciokrotnie, a jeśli liczyliście na określoną płeć, mówi się, że właściwa pozycja może przynieść sukces!";
+
+
+"LearningResourceArticleVC.positionPerfect.section1.headline" = "3 Wartościowe Wskazówki, Które Warte Sprobowania";
+"LearningResourceArticleVC.positionPerfect.section1.text" = "Wskazówka nr 1: Kiedy próbujesz zajść w ciążę, grawitacja jest twoim najlepszym przyjacielem, chodzi o to, aby dać plemnikom jak najlepszą szansę na dotarcie do tego jaja! Jak mówią, 'co idzie w górę, musi spaść', więc unikaj stania prosto po seksie. Zamiast tego leż przez około 15 minut, staraj się zachować jak najwięcej spokoju, aby te pływaki dotarły tam, gdzie mają być. Możesz również pomóc plemnikom, kładąc pod biodrami poduszkę, dając grawitacji przewagę. Pójdziesz krok dalej i uniesiesz nogi, być może z pomocą ściany blisko twojego łóżka. Nie ma gwarancji, że te wskazówki działają w 100% czasu, jednak z pewnością dajesz plemnikom ich największą szansę na osiągnięcie ich życiowego celu, czyli poczęcie!
+Wskazówka nr 2: Osiągnij orgazm! Mówi się, że osiągnięcie orgazmu może zwiększyć twoje szanse na zajście w ciążę ze względu na skurcze macicy podczas szczytu. Ta teoria ma mieszane rezultaty, jednak warto ją wypróbować. Podczas orgazmu uwalniany jest oksytocyna, a jest to hormon dobrej zabawy, usuwający część tego stresu, który jest jednym z największych wrogów poczęcia! A nawet jeśli ta teoria nie jest całkowicie solidna, kto nie chce orgazmu?
+Wskazówka nr 3: Porzuć żel. Istnieje pewna dyskusja na temat tego, czy nawilżenie utrudnia poczęcie, jednak wielu ludzi zaleca porzucenie żelu w procesie, ponieważ wierzy się, że wpływa on na ruchliwość plemników.";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Pozycje Idealne dla Poczęcia";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "1. Klasyczna misjonarska:
+
+Reverse Cowgirl:
+Wjazd od tyłu:
+Doggy Style:
+Nożyczki obok siebie:
+Taczka:";
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Próba chłopca";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "Mówi się, że głębokie penetracje mogą zwiększyć szansę na poczęcie chłopca. Wierzenie to zostało upowszechnione przez dr. Landruma Shettlesa, który zdobył sławę dzięki swojej bestsellerowej książce „How to Choose the Sex of Your Baby”. Sformułował on „Metodę Shettlesa”, która popierała teorię, że „płodność chłopca” jest słabsza, mniejsza i szybsza niż „płodność dziewczynki”. Wierzy się, że głęboka penetracja umożliwia „płodności chłopca” start z przewagą, ponieważ zostaną one zdeponowane blisko szyjki macicy, dzięki czemu te szybkie małe chłopaki wyprzedzą „płodność dziewczynki” do jaja.
+
+Pozycje dla Głębokiej Penetracji
+● Doggy style: Doggy style umożliwia głęboką penetrację, ale upewnij się, że się odwracasz, aby zachować te pływaki po właściwej stronie grawitacji.
+● Stojąc: Teraz, ta jest bardziej opowieścią żon, ale mówi się, że stanie pozwala na głębszą penetrację i może promować poczęcie chłopca.
+● Opodal: Jazda kowbojska to świetna pozycja głębokiej penetracji; jedna, którą możesz kontrolować.
+
+Mała Wskazówka:
+Inną popularną teorią przy próbie poczęcia chłopca jest zwiększenie spożycia kalorii. Badanie przeprowadzone na 740 kobietach wykazało, że kobiety, które zwiększyły spożycie kalorii, miały wyższą szansę na zajście w ciążę z chłopcem. Teoria ta ma zwiększyć poziom glukozy we krwi wspierającą możliwość poczęcia chłopca.";
+
+"LearningResourceArticleVC.positionPerfect.section3.headline" = "Próba Dziewczynki";
+"LearningResourceArticleVC.positionPerfect.section3.text" = "„Metoda Shettlesa” ma również pomagać w możliwości poczęcia dziewczynki, teoria głosi, że jeśli uprawiasz seks około 2-4 dni przed owulacją. Popiera ona teorię, że „płodność dziewczynki” jest silniejsza i bardziej wytrzymała niż „płodność chłopca”, a dziewczęce pływaki będą w stanie przetrwać dłużej, pozwalając im dotrzeć do jaja pierwszym. Ta metoda zaleca również płytką penetrację na podstawie tej samej teorii, że „płodność dziewczynki” przeżyje „płodność chłopca” i przetrwa długą podróż do jaja.
+
+Pozycje dla Płytkiej Penetracji
+● Łyżkowanie: Łyżkowanie to pozycja idealna do płytkiej penetracji, poprzez złączenie nóg podczas łyżkowania, to również może zmniejszyć głęboką penetrację.
+● Obok siebie: Leżąc obok siebie z splecionymi nogami, promuje płytką penetrację.
+● Misjonarska: Kobieta powinna leżeć płasko, z nogami w pozycji misjonarskiej, upewnij się, że nie podnosisz ani nie owijasz nóg wokół partnera, ponieważ umożliwi to głębszą penetrację.
+
+Mała Wskazówka:
+Podobno jeśli twoje pH pochwy jest bardziej kwaśne, masz większą szansę na poczęcie dziewczynki. Istnieje wiele rodzajów jedzenia, które mogą zwiększyć twoją kwasowość, sprawdźmy niektóre z nich:
+● Zboża pełnoziarniste
+● Słodycze i ciasta
+● Jagody
+● Kukurydza
+● Mięso
+● Warzywa liściaste";
+
+"LearningResourceArticleVC.positionPerfect.section4.headline" = "Jeśli Najpierw Ci się Nie Uda, Spróbuj Jeszcze Raz!";
+"LearningResourceArticleVC.positionPerfect.section4.text" = "Kiedy jesteś w trybie tworzenia dziecka, łatwo poczuć się rozczarowanym, jeśli pewne metody, wskazówki i porady nie osiągną zamierzonego celu. „Jeśli najpierw ci się nie uda, spróbuj jeszcze raz”, jak mówi stare przysłowie. Pamiętaj, że niektóre rzeczy są warte czekania, i wszystko stanie się we właściwym czasie, ciesz się bliskością z partnerem i rozkoszuj się chwilami, gdy pracujecie razem jako zespół, aby stać się rodzicami. Ze solidnym zrozumieniem twojego okna płodności i stanu zdrowia, w połączeniu z eksperymentowaniem z pozycjami i grawitacją, nie możesz przegrać! Możesz przeczytać więcej o poczęciu, bawić się w gry erotyczne, aby urozmaicić swoją podróż w kierunku poczęcia, i znaleźć najlepsze pozycje, aby zwiększyć szanse na ciążę i wpłynąć na płeć swojego dziecka, wszystko na swojej aplikacji Ovulio!";
+
+
+
+// MARK: Article: The Chinese Conception Calandar:
+"LearningResourceArticleVC.chineseConceptionCalendar.headline" = "Chiński Kalendarz Poczęcia: Porady z Wschodu dotyczące Wpływania i Przewidywania Płci Twojego Dziecka";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.headline" = "Chiński Kalendarz Poczęcia: Co to jest Chiński Kalendarz Poczęcia?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.text" = "Zanim zanurzymy się w całą sprawę tworzenia dziecka i używania Chińskiego Kalendarza Poczęcia w twojej podróży ku poczęciu, powinniśmy ci wyjaśnić, o co dokładnie chodzi. Ten starożytny kalendarz był używany jako narzędzie do przewidywania i wpływania na płeć przez całą chińską historię przez setki lat. Informacje, które wykorzystuje wykres do przewidywania, to miesiąc poczęcia, księżycowy wiek kobiety w ciąży w czasie poczęcia, a następnie używana jest formuła do przewidywania płci. Wykres miał również wspierać pogląd, że hormony zmieniają się w każdym księżycowym miesiącu; według chińskiej mitologii te wahania hormonów mogą również wpływać na płeć twojego dziecka! Jeśli ty i twój partner jesteście zainteresowani użyciem Chińskiego Kalendarza Poczęcia, ten kalendarz jest dostępny w twojej aplikacji „Ovulio Baby”. Nasz Kalendarz Księżycowy pomaga ci rejestrować twój okres owulacji i daty, w których masz większe szanse na poczęcie dziewczynki lub chłopca. Dbamy o obliczenia i formuły i pomagamy ci obliczyć twój wiek księżycowy. Większość populacji świata używa Kalendarza Gregoriańskiego jako środka do mierzenia czasu, jednak Kalendarz Księżycowy wciąż jest popularny i czczony przez wielu ludzi w Chinach. Pomimo swojego wieku, ma on zdaniem wielu osób dosyć imponującą skuteczność!";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.headline" = "Jakie Informacje Wykorzystuje?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.text" = "Chiński Kalendarz Poczęcia opiera się na twoim wieku księżycowym i księżycowym miesiącu poczęcia twojego dziecka, aby przewidzieć płeć twojego dziecka. Jeśli chcesz obliczyć dni, w których owulujesz lub które dni są najlepsze do poczęcia określonej płci, wystarczy zarejestrować swój wiek księżycowy. Pamiętaj, że twój wiek księżycowy jest nieco inny niż twój prawdziwy wiek. Twój wiek księżycowy jest o około 1-2 lata starszy, ponieważ istnieje różnica między Kalendarzem Gregoriańskim a Księżycowym Chińskim. Chętnie pomagamy w obliczeniu twojego wieku księżycowego, co sprawia, że jest to płynny, łatwy sposób śledzenia twojej płodności.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.headline" = "Używanie Wykresu do Poczęcia Dziewczynki lub Chłopca";
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.text" = "Rodzice, którzy chcieliby mieć określoną płeć, mogą użyć wykresu, planując ciążę, starając się począć w miesiącach na wykresie, które faworyzują poczęcie określonej płci. Może to pomóc parom w wybraniu miesiąca, który może mieć większą szansę na poczęcie dziewczynki lub chłopca. Według współczesnej nauki, nie mamy wiele do powiedzenia w kwestii wpływania na płeć podczas ciąży, zazwyczaj jest to szansa 50/50. Jednak wiele rodziców dzisiaj uważa, że czasami podejście „tradycja ponad nauką” jest dla nich skuteczne! Zdumiewająco, niektóre źródła twierdzą, że ten 700-letni Kalendarz ma 93% skuteczności w dokładnym przewidywaniu płci nienarodzonego dziecka.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.headline" = "Czy Naprawdę Działa?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.text" = "Kalendarz nie chwali się opieraniem na nauce; wiele par i matek donosiło, że Chiński Kalendarz Poczęcia jest najlepszym sposobem na niemedyczne przewidzenie płci twojego dziecka. Więc, aby odpowiedzieć na pytanie, „czy naprawdę działa?” To nie jest gwarancja, ale według wysokiej liczby zgłoszonych wskaźników sukcesu i faktu, że nawet setki lat po jego stworzeniu nadal jest popularną metodą przewidywania płci, uważamy, że warto spróbować. Nie zalecałoby się polegania na Kalendarzu jako definitywnym wniosku, czy czekają cię chłopiec czy dziewczynka.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.headline" = "Ostatnia myśl";
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.text" = "Choć wydaje się, że Chiński Kalendarz Poczęcia ma bardzo wysoką skuteczność, warto pamiętać, że natura jest potężną siłą, która może być nieprzewidywalna nawet w najlepszych czasach! Być może zawsze wyobrażałaś sobie śmiejącą się z małą dziewczynką własną, albo wyobraziłeś sobie swojego małego chłopca wspinającego się na drzewo w podwórku. Jest zupełnie normalne, że masz oczekiwania, jeśli chodzi o płeć twojego dziecka, to jest twoje delikatne przypomnienie, abyś przyjął swoje małe błogosławieństwo bez względu na jego płeć. Dla większości rodziców perspektywa szczęśliwego, zdrowego dziecka jest najważniejsza. Dla tych, którzy są zainteresowani korzystaniem z naszego Kalendarza Księżycowego, może to być ekscytujące doświadczenie dla par do przetestowania. Możesz tworzyć wspaniałe wspomnienia, stawiając z rodziną i przyjaciółmi zakłady na to, jak myślą, jakiej płci będzie twoje dziecko, podczas gdy ty i twój partner trzymacie się wyniku przewidywania Chińskiego Kalendarza. To ekscytujący sposób, aby utrzymać podróż wesołą i lekką do czasu ujawnienia płci małego dziecka. Nie masz nic do stracenia, używając go jako narzędzia do wpływania i przewidywania, czy będziesz mieć chłopca czy dziewczynkę, wyniki mogą cię nawet zaskoczyć!";
+
+
+// MARK: Article: The Fertility Calendar:
+"LearningResourceArticleVC.fertilityCalendar.headline" = "Kalendarz Płodności: Zrozumienie Okna Płodności";
+"LearningResourceArticleVC.fertilityCalendar.text" = "Śledząc dni swojej płodności, zwiększasz szanse na zajście w ciążę. Średni cykl menstruacyjny trwa 28 dni, a w ciągu tego cyklu jest około 6 dni, w których twoja płodność osiąga szczyt, dla większości kobiet jest to około 5 dni poprzedzających owulację, dzień owulacji lub dzień po niej. Twoje jajniki produkują dwa hormony, estrogen i progesteron, które są kluczowe dla zajścia w ciążę, ale także cykle miesiączkowe sprzyjające owulacji korzystnie wpływają na twoje zdrowie, ponieważ to właśnie owulacja odpowiada za produkcję hormonów. W okresie poprzedzającym owulację kobiety produkują znaczną ilość estradiolu, a po owulacji jej organizm będzie produkować jeszcze większą ilość progesteronu. Tak więc, czy będzie dziecko, czy nie, owulacja jest ważna i dostarcza kobietom te cenne hormony, których organizm potrzebuje dla ogólnego zdrowia.";
+
+"LearningResourceArticleVC.fertilityCalendar.section1.headline" = "Czym jest Owulacja?";
+"LearningResourceArticleVC.fertilityCalendar.section1.text" = "Hormon zwany hormonem luteinizującym (LH), wytwarzany w mózgu, inicjuje proces owulacji. LH jest katalizatorem, który rozpoczyna owulację i ciążę. Owulacja to część twojego cyklu menstruacyjnego, gdy twoje ciało uwalnia dojrzałe jajo przez jajowody i do macicy, gdzie czeka na zapłodnienie. Jajo zazwyczaj przetrwa około 24 godzin.";
+
+"LearningResourceArticleVC.fertilityCalendar.section2.headline" = "Objawy Owulacji";
+"LearningResourceArticleVC.fertilityCalendar.section2.text" = "Niektóre kobiety mogą nawet nie zauważyć, kiedy zachodzi owulacja, podczas gdy inne mogą odczuwać wiele znajomych objawów z każdym cyklem. Sprawdźmy, jakie są najczęstsze objawy owulacji:
+-Wrażliwe piersi. Napływ hormonów w organizmie może powodować wrażliwość piersi i sutków.
+-Lekkie plamienie. Niektóre kobiety mogą doświadczać bardzo lekkiego plamienia podczas owulacji, podczas gdy inne w ogóle nie mają plamienia.
+-Wzrost libido. W czasie owulacji kobiety mogą czuć się dodatkowo skore do zabawy, to natura daje jej znak, że to idealny moment, aby zrobić dziecko. Należy pamiętać, że wiele czynników zewnętrznych wpływa na libido, takich jak alkohol, leki, stres, lista jest długa. Warto więc poczytać, jak twoja dieta i nawyki mogą również wpływać na twoje libido.
+-Wahania nastroju. Możesz odczuwać dodatkowy zastrzyk pewności siebie i dobrego nastroju podczas owulacji, gdy twoje hormony zaczynają wzrastać.
+-Wzdęcia. Może to dotyczyć kobiet w różnym stopniu. Zmiana hormonów wpływa na przewód pokarmowy, a twoje ciało zatrzymuje więcej wody podczas owulacji.
+-Wyostrzony zmysł węchu. Kobiety mogą doświadczyć zwiększonego węchu, ponieważ w tym czasie twoje ciało jest bardziej podatne na przyciąganie i wykrywanie zapachu męskich feromonów.
+-Wzrost temperatury ciała. Twoja podstawowa temperatura ciała wzrośnie podczas owulacji, ale większość kobiet nie zauważa tego zmiany, ponieważ jest zazwyczaj subtelna.
+-Nudności i bóle głowy. Zastanawiałeś się kiedyś, dlaczego możesz czuć się lekko mdło w losowy wtorkowy popołudnie? Albo może narzekałeś na ból głowy, mimo że byłeś nawodniony i wypoczęty. Ze względu na zmiany w hormonach, jest normalne odczuwanie nudności i bólów głowy...niestety!
+-Skurcze brzucha. Tak, wiemy, kiedy nie dostajemy skurczy? Prawda jest taka, że wiele kobiet odczuwa łagodne skurcze podczas owulacji. Te skurcze zazwyczaj nie trwają dłużej niż kilka godzin. Są również kobiety, które nie wiedzą nic o owulacji i nie odczuwają żadnych skurczów.
+-Dlaczego więc opowiadamy ci o tych dziwnych i cudownych objawach owulacji? Cóż, kiedy prowadzisz kalendarz płodności, możesz również śledzić i zanotować, co twoje ciało przeżywa. Może ci to również pomóc w dokładnym obliczeniu twojego okna płodności.";
+
+"LearningResourceArticleVC.fertilityCalendar.section3.headline" = "Kalendarz Płodności Ovulio Baby";
+"LearningResourceArticleVC.fertilityCalendar.section3.text" = "W każdej aptece dostępne są zestawy do przewidywania owulacji, które pomogą w przewidywaniu owulacji. Te zestawy mogą być dokładne w wykrywaniu skoku LH u kobiet, który występuje, gdy organizm uwalnia dojrzałe jajo, ale niektóre kobiety mogą doświadczyć tego skoku LH bez uwolnienia jaja, więc zestaw może nie być całkowicie dokładny. Najlepiej jest używać kalendarza płodności razem z zestawami, aby uzyskać najbardziej dokładny odczyt cyklu. Obliczanie okresu owulacji i śledzenie cyklu jeszcze nigdy nie było takie proste dzięki twojej aplikacji „Ovulio Baby”. Pamiętaj, że masz dostęp do funkcji takich jak inne artykuły o ciąży, nasz kalendarz płodności, kalendarz płodności księżycowej, gry erotyczne, aby uczynić podróż ku poczęciu zabawną i świeżą, pozycje seksualne do wypróbowania, a nawet możliwość wpływania na płeć twojej radości!";
+
+"LearningResourceArticleVC.fertilityCalendar.section4.headline" = "Dziękujemy za Odwiedzenie Nas";
+"LearningResourceArticleVC.fertilityCalendar.section4.text" = "Wiemy, że jest wiele do przemyślenia, gdy próbujesz zajść w ciążę, dlatego zaleca się, abyś znał swoje okno płodności i wykorzystywał każdą okazję, która zbliży cię o krok do twojego marzenia o rodzicielstwie. Posiadanie dziecka to tak istotny kamień milowy, ale to nie znaczy, że podróż do zajścia w ciążę musi być tylko wykresami i testami, może to także być czas, aby połączyć się ze swoim partnerem i odkryć sposoby pogłębienia intymności w waszym związku, dlaczego nie trochę się przy tym pobawić? Sprawdź nasz artykuł o tym, jak możesz uczynić zajście w ciążę zabawą i sposoby, w jakie ty i twój partner możecie podwoić swoją intymność i przyjemność w procesie.";
+
+
+// MARK: Article: 5 ways to show your pregnant partner love:
+"LearningResourceArticleVC.waysToShowYour.headline" = "5 sposobów, aby okazać miłość swojej ciężarnej partnerce";
+"LearningResourceArticleVC.waysToShowYour.text" = "";
+
+"LearningResourceArticleVC.waysToShowYour.section1.headline" = "Miłość jest najlepszym lekarstwem...";
+"LearningResourceArticleVC.waysToShowYour.section1.text" = "Oczekiwanie dziecka jest jednym z najbardziej ekscytujących doświadczeń w życiu każdej pary. Może to być również niezwykle stresujące pod wieloma względami. Fizyczne, hormonalne i emocjonalne zmiany i wyzwania związane z ciążą mogą być dość przytłaczające. Bardziej niż kiedykolwiek, Twoja ciężarna partnerka będzie potrzebowała Twojej miłości i wsparcia. Zapewnienie jej szczęścia i zdrowia jest priorytetem. Stres psychiczny może powodować wiele komplikacji, takich jak wysokie ciśnienie krwi, przedwczesny poród i bezsenność w ciąży, więc dbanie o jej spokój i zadowolenie jest bardzo ważne.";
+
+"LearningResourceArticleVC.waysToShowYour.section2.headline" = "Przydatne wskazówki i porady...";
+"LearningResourceArticleVC.waysToShowYour.section2.text" = "Rozważ kilka ważnych wskazówek, jak być dobrym partnerem dla swojej ciężarnej ukochanej. Doświadczając tego wyzwania, ale także niesamowitego czasu w waszym życiu razem, staniecie się bliżej niż kiedykolwiek wcześniej, ale także zmierzycie się z emocjonalnymi wyzwaniami, z którymi nigdy wcześniej nie mieliście do czynienia. Słuchaj jej obaw i staraj się jak najlepiej uspokoić jej umysł. Jeśli Twoja partnerka się zdenerwuje, słuchaj, co mówi i staraj się rozwiązać problem jak najszybciej i najspokojniej. Udostępniaj odpowiednie sugestie, kiedy jest to potrzebne, ale staraj się nie wychodzić na szefa. Hormony często tworzą bałagan emocji i mogą szybko przerodzić się w gniew. Staraj się pamiętać, że to nie jest zwykle Twoja partnerka i że hormony kontrolują wiele jej nastrojów w tej chwili. Myśl o tym jak o wzmocnionym PMS. Tak. Czasami jest to aż tak źle i z najmniejszych rzeczy. Nie wszystkie ciąże mają nieprzewidywalne wahania nastroju przez cały czas, ale zazwyczaj występują one przynajmniej raz lub dwa razy w ciąży. Nawet jeśli są zachwyceni oczekiwaniem, mogą być również przestraszeni, nerwowi lub niepewni co do rzeczy, zwłaszcza jeśli to jest ich pierwsza ciąża. Martwienie się, czy będzie się dobrym rodzicem, jest jednym z największych stresorów podczas ciąży. Uspokój swoją partnerkę, że będzie najlepszym rodzicem i gdy dziecko się urodzi, wszystko się uspokoi. Bądź jej tablicą dźwiękową. Zachęcaj ją do dzielenia się swoimi myślami i uczuciami z Tobą. Pytaj ją, jak się czuje i co myśli o różnych tematach i sytuacjach, aby wiedziała, że aktywnie uczestniczysz w ciąży. Musi wiedzieć, że jesteś dla niej dostępny i czuć się bezpiecznie, że Ci zależy.
+
+Słuchaj jej obaw, uczuć i nadziei. Dając jej znać, że jesteś tam i uznając ją, daje jej wsparcie, którego potrzebuje, kiedy najbardziej tego potrzebuje. Teraz jest bardzo wrażliwa i musi wiedzieć, że możesz być silny za was oboje.
+Daj jej troskliwe masaże, aby złagodzić stres i bóle. Ciąża nie tylko obciąża umysł, ale także ciało. Łagodzenie tych bolących mięśni i stawów może być właśnie tym, co pozwoli jej wiedzieć, że idziesz o krok dalej, aby pokazać, że ci zależy.
+Ciąża może sprawić, że będziemy czuć się wyjątkowo zmęczeni, szczególnie w pierwszym i trzecim trymestrze. Spróbuj bardziej pomagać w domowych obowiązkach, takich jak pranie, gotowanie i załatwianie spraw, aby dać jej tak potrzebny odpoczynek. Tworzenie człowieka to ciężka praca!
+Zachcianki na określone jedzenie mogą pojawić się, gdy najmniej się ich spodziewamy. Więc jeśli Twoja partnerka skubała coś konkretnego, spróbuj zaopatrzyć się w te produkty, aby mogła je mieć, kiedy tylko chce. Nie ma nic lepszego niż zaspokojenie zachcianki na kiszonkę i trochę lodów o 3 nad ranem!
+Czasami ciąża niespodziewanie skutkuje odpoczynkiem w łóżku. Dla tych, którzy cierpią z powodu nudy, trochę rozrywki byłoby miłe. Spróbuj znaleźć jej ulubione rzeczy, takie jak filmy, książki i czasopisma, aby ją zajęły. Szydełkowanie i robienie na drutach to również dobry pomysł. Książki z wyszukiwaniem słów i krzyżówki są powszechnym wyborem.";
+
+"LearningResourceArticleVC.waysToShowYour.section3.headline" = "Podtrzymuj romans...";
+"LearningResourceArticleVC.waysToShowYour.section3.text" = "To tylko kilka wskazówek, które pomogą Ci pokazać Twojej partnerce, że Ci na niej zależy i chcesz dla niej i dziecka jak najlepiej. Spróbuj wymyślić własne pomysły, specjalnie dostosowane do jej upodobań i potrzeb, aby pokazać swoją miłość do niej i uznanie za noszenie Twojego dziecka. Jest to największy komplement, kiedy ktoś przynosi Twoje dziecko na świat i muszą wiedzieć, że zdajesz sobie z tego sprawę. Teraz mają wiele emocji i muszą wiedzieć, że wspierasz je na każdym kroku. Nie pozwól, aby romans umarł w Twoim związku. Wiele par skupia się na planowaniu dziecka i ciąży i zapomina o skupieniu się na sobie nawzajem. Planowanie babymoon może być dobrym pomysłem przed wielkim wejściem nowego członka rodziny. Jeśli babymoon nie jest możliwe, są inne sposoby na utrzymanie pikanterii. Zorganizuj kilka wieczorów randkowych na mieście, jeśli możesz, lub zaplanuj niespodziankę w domu dla swojej partnerki. Każdy chce czuć się wyjątkowo i pożądany, nawet gdy jest w ciąży. Może nawet bardziej.";
+
+"LearningResourceArticleVC.waysToShowYour.section4.headline" = "Miłość unosi się w powietrzu...";
+"LearningResourceArticleVC.waysToShowYour.section4.text" = "Nie pozwól, aby czuli się tylko jak ciężarna osoba lub przyszły rodzic. Gdy dziecko się urodzi, staną przed zupełnie nowym zestawem wyzwań fizycznych i emocjonalnych, więc ważne jest, aby zmniejszyć stres tak bardzo, jak to możliwe przed i po. Możliwości okazywania uczuć są nieograniczone. Miej je na uwadze, przygotowując coś specjalnego. Zrób to wszystko dla niej, a ona stopnieje w Twoich ramionach nie tylko za pokaz uczucia, ale za troskę o to, by to zrobić. Nie musisz robić ekstrawaganckich gestów, aby Twoja partnerka czuła się dobrze. Mały prezent tutaj, dobrze przygotowana kolacja tam, masaż stóp, aby złagodzić bóle dnia. Tak długo, jak gest pochodzi z serca, jestem pewien, że będzie go kochać i doceniać. Powiedz jej, co dla Ciebie znaczy i jak się czujesz, aby ją uspokoić, jeśli czuje się przygnębiona. Powodzenia i gratulacje z okazji nadchodzącego przybycia!";
+
+
+// MARK: Article: Hit the gym? Exercising when trying to conceive:
+"LearningResourceArticleVC.hitTheGym.headline" = "Do siłowni? Ćwiczenia podczas starań o dziecko";
+"LearningResourceArticleVC.hitTheGym.text" = "";
+
+"LearningResourceArticleVC.hitTheGym.section1.headline" = "Utrzymywanie formy podczas starań o dziecko";
+"LearningResourceArticleVC.hitTheGym.section1.text" = "Podczas starań o dziecko prawdopodobnie zaczniesz przemyślać wszystko, co robisz w swojej codziennej rutynie. Czy mogę to zjeść? Czy mogę to wypić? Wszystko to wystarczy, aby doprowadzić cię do szaleństwa, ale jeśli chodzi o ćwiczenia podczas starań o dziecko, zasady są dość proste. Zachowaj umiar i miej na uwadze pewne czynniki, które mają znaczenie zarówno dla mężczyzn, jak i kobiet.";
+
+"LearningResourceArticleVC.hitTheGym.section2.headline" = "Dla kobiet starających się o dziecko";
+"LearningResourceArticleVC.hitTheGym.section2.text" = "Chodzenie i joga płodności to dwa najlepsze sposoby na promowanie krążenia i poprawę siły oraz elastyczności mięśni otaczających macicę. Prowadzenie nieaktywnego stylu życia z małą ilością ćwiczeń może prowadzić do stagnacji przepływu krwi do macicy i innych narządów rozrodczych. Główna tętnica, która dostarcza krew do naszych nóg, dostarcza również krew do macicy, jajników i pochwy — więc po prostu, ruszaj się! Jeśli masz pracę biurową, możesz spędzać dużo czasu na siedzeniu, co powoduje ograniczenie przepływu krwi do macicy. To nie pomoże, zwłaszcza jeśli już masz inne problemy z płodnością. Co więcej, brak ruchu w tej części ciała może przyczyniać się do tworzenia blizn i zrostów. Siedzący tryb życia bezpośrednio przyczynia się również do osłabienia mięśni macicy. Jeśli starasz się o dziecko, dodanie energicznego spaceru do swojej codziennej rutyny może pomóc, ale możesz chcieć wstrzymać się z treningiem do maratonu. Energiczny spacer, rekreacyjna jazda na rowerze, gra w golfa i ogrodnictwo są uważane za umiarkowane ćwiczenia. Jeśli masz nadwagę, umiarkowane ćwiczenia są szczególnie ważne, ponieważ nadwaga negatywnie wpływa na płodność. Jeśli nie jesteś przyzwyczajona do ćwiczeń, zacznij powoli i stopniowo zwiększaj intensywność. Większość kobiet, które są już aktywne, powinna móc kontynuować ćwiczenia bez obaw, że negatywnie wpłynie to na ich płodność. Kobiety, które ćwiczą, aby złagodzić stres, na pewno nie powinny przestawać, gdy chcą zajść w ciążę, chyba że istnieje medyczny powód, aby to zrobić. American College of Obstetrics and Gynecology zaleca 30 minut lub więcej umiarkowanego wysiłku fizycznego dziennie przez większość, jeśli nie wszystkie dni tygodnia, chyba że masz medyczne lub położnicze przeciwwskazania. Optymalny wskaźnik masy ciała (BMI) dla płodności kobiet wynosi od 20 do 25.";
+
+"LearningResourceArticleVC.hitTheGym.section3.headline" = "Dla mężczyzn starających się o dziecko";
+"LearningResourceArticleVC.hitTheGym.section3.text" = "Te same zasady ogólnie dotyczą mężczyzn, ale intensywne ćwiczenia okazały się obniżać poziom testosteronu, co z kolei zmniejsza popęd seksualny i zdrowie plemników. Trzy największe obawy mężczyzn to ciepło, ciśnienie i urazy. Produkcja plemników wymaga temperatury między 34 a 35,5 stopnia Celsjusza. Nawet jednolity wzrost temperatury wystarczy, aby zatrzymać produkcję i zabić już wyprodukowane plemniki. Dlatego najlepiej unikać energicznych ćwiczeń, które wywierają nacisk na jądra lub powodują przegrzanie. Podczas ćwiczeń staraj się unikać noszenia suspensorów, korzystania z gorących kąpieli i saun. A jeśli nie możesz tego uniknąć, ogranicz czas do 15 minut. Kilka sugestii dotyczących „bezpiecznych” ćwiczeń dla mężczyzn, które chronią płodność i zwiększają liczbę plemników, to jogging wokół bloku na tyle długo, aby przyspieszyć bicie serca, pływanie (daje to wiele umiarkowanych ćwiczeń, jednocześnie utrzymując 'chłopaków' chłodnymi i wygodnymi) oraz joga lub pilates — które są trudniejsze, niż się wydaje! Mężczyźni nie powinni przekraczać 45 minut ćwiczeń dziennie dla zdrowia i ruchliwości plemników oraz liczby plemników. Te same zasady dotyczą otyłości u mężczyzn, chociaż ich zalecany BMI nie powinien być niższy niż 18 dla optymalnej płodności.";
+
+"LearningResourceArticleVC.hitTheGym.section4.headline" = "Zanim się pożegnam...";
+"LearningResourceArticleVC.hitTheGym.section4.text" = "Pamiętaj, że ważne jest, aby brać pod uwagę zarówno zdrowie partnera, jak i jego potrzeby podczas starań o dziecko. Próba wprowadzenia życia na świat to cenny dar i należy go traktować jako taki. Upewnienie się, że zdrowie obu partnerów jest najlepsze, jest najwyższym priorytetem. To znacznie zwiększy szanse na poczęcie i skróci czas potrzebny na zajście w ciążę. Ćwiczenia, zdrowe odżywianie i regularne wizyty u lekarza pierwszego kontaktu są bardzo ważne, a także wszelkie wizyty u ginekologa, które są potrzebne. Rutynowe badania i kontrola płodności są wysoce zalecane. W razie wątpliwości, sprawdź to. Jeśli uważasz, że zajście w ciążę zajmuje Ci zbyt dużo czasu, porozmawiaj o tym ze swoim lekarzem, a on może zalecić wizytę u specjalisty w celu bardziej szczegółowych badań i kontroli. Przede wszystkim nie zapomnij się dobrze bawić. Nie kładź zbyt dużego nacisku na siebie lub swojego partnera psychicznie, na temat tego, jak długo to trwa, co może pójść nie tak, lub martw się o to, co się stanie, gdy już będziesz w ciąży. Baw się dobrze!";
+
+
+// MARK: Article: How to support your partner through a miscarriage:
+"LearningResourceArticleVC.howToSupportYourPartner.headline" = "Jak wspierać partnera po poronieniu";
+"LearningResourceArticleVC.howToSupportYourPartner.text" = "";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section1.headline" = "Strata i żałoba";
+"LearningResourceArticleVC.howToSupportYourPartner.section1.text" = "Poronienie to druzgocące i bolesne doświadczenie straty. Głębokie poczucie żalu osoby dotkniętej tym wydarzeniem jest spotęgowane, gdy bliscy nie potrafią jej pomóc w radzeniu sobie z tym bólem. Uczucia pustki, tęsknoty, smutku, samotności i dezorientacji po poronieniu są znacznie trudniejsze do przejścia, gdy osoba czuje się osamotniona w swoim cierpieniu. Jak w przypadku wielu bolesnych doświadczeń w życiu, być może najlepsze, co możemy wynieść z naszych smutków, to to, czego uczymy się, przechodząc przez nie. Nigdy nie zapomnisz ciąży ani swojego dziecka, i nie powinieneś. Gdy twój partner będzie gotowy, by zacząć się regenerować, oto co możesz zrobić, aby pomóc w przezwyciężeniu poronienia.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section2.headline" = "Uznaj stratę";
+"LearningResourceArticleVC.howToSupportYourPartner.section2.text" = "Jeśli twój partner ma trudności z radzeniem sobie z niedawnym poronieniem, zrozum, że jest to równorzędny, a może nawet trudniejszy, żal do przeżycia niż każda inna śmierć bliskiej osoby. Gdy tracimy członka rodziny lub bliskiego przyjaciela, mamy ustalone rytuały, odpowiedni język i oczekiwania, jak wyrażać nasze współczucie. Gdy osoba traci szansę na rodzicielstwo, nie ma powszechnie zrozumiałej etykiety dotyczącej tego, jak reagować. Przeciwnie, poronienie jest zazwyczaj owiane milczeniem. Wyrażenie swojego współczucia i żalu z powodu poronienia może znacząco pomóc twojemu partnerowi poczuć się pocieszonym i mniej samotnym. Pokaż, że ci zależy, kupując drobne prezenty, pisząc listy, dając do zrozumienia, że są dobrym partnerem, i starając się chronić ich przed krzywdzącymi komentarzami. Niektórzy ludzie mogą być nieumyślnie okrutni, a niektórzy po prostu zupełnie nie dbają o uczucia innych.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section3.headline" = "Słuchaj";
+"LearningResourceArticleVC.howToSupportYourPartner.section3.text" = "Zapytaj, czy chcą porozmawiać o poronieniu, i bądź gotowy słuchać cicho i uważnie, gdy będą dzielić się tym, co się stało i jak się czują. To wymaga odwagi, a odwaga to dokładnie to, czego potrzebuje twój cierpiący partner. Przez pierwsze kilka tygodni po stracie ciąży mogą czuć, oprócz wielu innych uczuć, pewien rodzaj niedowierzania. Z drugiej strony, przypomnij im, że jeśli nie chcą rozmawiać, to też jest w porządku. Będziesz tam, kiedy będą gotowi, i tak długo, jak będą cię potrzebować, aby słuchać.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section4.headline" = "Powiedz im, że to nie ich wina";
+"LearningResourceArticleVC.howToSupportYourPartner.section4.text" = "Osoba, która przeszła poronienie, będzie wielokrotnie pytać się, co mogła zrobić, aby spowodować utratę dziecka. Poronienia są bardzo powszechne; szacuje się, że od 1 do 3 lub od 1 do 4 ciąż kończy się stratą. Niektórzy ludzie doświadczają wielokrotnych poronień. Prawda jest taka, że ciąża może nagle się skończyć z różnych powodów, a chociaż może nie przynosi to ukojenia, że nigdy nie dowiesz się dokładnie, co spowodowało poronienie, pomoże to im ogromnie, aby móc uwolnić się od jakichkolwiek uczuć winy. Powiedz im tyle razy, ile potrzebują usłyszeć, że strata nie była wynikiem czegoś, co zrobili lub czego nie zrobili.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section5.headline" = "Nie wymyślaj powodów, dlaczego stracili dziecko";
+"LearningResourceArticleVC.howToSupportYourPartner.section5.text" = "Nikt, kto chce mieć dziecko, kto już zakochał się w swoim dziecku i kto ma nadzieje i marzenia dla swojego ukochanego dziecka, nie chce myśleć, że istnieje jakikolwiek oczywisty powód, dla którego stracili dziecko. Nie próbuj wyjaśniać, co się stało, aby poczuli się lepiej, ponieważ to może tylko pogorszyć sytuację. To również nie jest czas na sugerowanie, że mogą zawsze mieć kolejne dziecko lub spróbować ponownie później. Kolejna ciąża lub przyszłe dziecko nie jest pociechą dla osoby opłakującej obecną stratę. Posiadanie dziecka po poronieniu nie 'zastępuje' tego, które zostało utracone.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section6.headline" = "Pozwól im odpocząć";
+"LearningResourceArticleVC.howToSupportYourPartner.section6.text" = "Zachęcaj ich do snu i dbania o siebie. Rób więcej w domu, aby mogli odpocząć po swoim żalu. Odciąż ich w jakikolwiek sposób. Gotuj zdrowe posiłki. Każdy, kto opłakuje po stracie dziecka, może potrzebować dodatkowej pomocy, aby przetrwać dzień. Przynieś do domu rzeczy, które będą sprzyjać relaksowi, takie jak zapachowe świece, płyty CD z łagodną muzyką i herbatę lawendową/rumiankową. Umów się na wizytę w spa dla swojego partnera lub zarezerwuj masaż, gdy poczują, że są gotowi. Bycie delikatnie traktowanym przez ciepłe, uzdrawiające ręce kogoś może zdziałać cuda w uwolnieniu smutku, żalu i napięcia, które trzymają w swoim ciele.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section7.headline" = "Zaproponuj uczestnictwo w terapii razem z nimi";
+"LearningResourceArticleVC.howToSupportYourPartner.section7.text" = "Terapia może nie tylko pomóc parze przejść przez etapy żałoby, ale dobry terapeuta może również zaoferować pomocne sugestie dotyczące radzenia sobie z żałobą po poronieniu, takie jak polecanie książek i stron internetowych, które mogą pomóc. Oto kolejna sugestia, rytuały obejmujące budowanie totemu siły, nadanie dziecku imienia, napisanie listu do dziecka i upamiętnienie dziecka w sposób, który jest dla was odpowiedni.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section8.headline" = "Zaproponuj udział w memoriale";
+"LearningResourceArticleVC.howToSupportYourPartner.section8.text" = "Istnieje wiele stron internetowych, które oferują sugestie, jak wy i wasz partner możecie to zrobić. Są jubilerzy, którzy tworzą spersonalizowane wisiorki, naszyjniki i breloczki dla osób, które przeszły poronienie, z imieniem i datą narodzin dziecka. Istnieją wirtualne memoriały online poświęcone 'aniołkom', które są bardzo kochane i tęsknią za nimi ich rodziny. Są organizacje wspierające pary, które przeszły poronienie, które przyjmują darowizny na rzecz zmarłego dziecka. Zachęć ich, aby poświęcili czas na zastanowienie się, co mogłoby być dla nich odpowiednie, i porozmawiali z tobą, czy chcieliby włączyć cię do memorialu. Szanuj ich życzenia, jeśli wolą to zrobić samodzielnie lub wcale. Nie wszyscy lubią dzielić się swoim żalem i uważają to za bardzo intymny i prywatny akt. Bycie obok partnera to jedyna rzecz, którą możesz teraz zrobić. Upewnij się, że wiedzą, że są kochani, szanowani i potrzebni. Pamiętaj, choć to dla ciebie trudne, to jest znacznie trudniejsze dla twojego partnera, który nosił dziecko. Gdy nadejdzie odpowiedni czas, wspólnie się uzdrawiajcie, ale daj przestrzeń, gdy jest to potrzebne.";
+
+
+// MARK: Article: Oh, baby! Sex after childbirth:
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.headline" = "Oh, dziecko! Seks po porodzie";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.text" = "";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.headline" = "Zacznijmy od fizyczności!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.text" = "Kilka tygodni po narodzinach dziecka wracasz do domu i zaczynasz przyzwyczajać się do życia z nowym maluchem – ale powrót do życia seksualnego może okazać się nieco problematyczny, nawet jeśli czujesz, że jesteś gotowa. Powrót do aktywności w sypialni różni się w zależności od osoby, ale pamiętaj, że prędzej czy później to się stanie. Nie zmuszaj ani siebie, ani partnera. Pozwól, by rzeczy działy się naturalnie. Będziesz musiała pokonać, doświadczyć i zaakceptować zmiany, które przeszłaś, a jeśli masz trudności, musisz zdać sobie sprawę, że nie jesteście jedyną parą, która przez to przechodziła. Z pomocą partnera, odrobiną zrozumienia i tych wskazówek, na nowo odkryjecie przyjemność z seksu po porodzie!";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.headline" = "Krok 1: Zmierz się ze swoimi lękami";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.text" = "Nie chcesz się spieszyć z seksem po porodzie. Po pierwsze – bądźmy szczerzy – twoja pochwa nie będzie gotowa do seksu od razu po traumie związanej z porodem. Zazwyczaj zaleca się odczekać z seksem do około sześciu tygodni po porodzie, aż do wizyty kontrolnej po porodzie. Jednak różni się to w zależności od pary; niektóre kobiety czują się gotowe przed upływem tych sześciu tygodni, podczas gdy inne mogą potrzebować nawet sześciu miesięcy, zanim poczują się gotowe na miłość. Cesarskie cięcie również wpłynie na twoje życie seksualne po ciąży. Cesarskie cięcie to poważna operacja, która wymaga czasu na gojenie i rekonwalescencję.
+
+Wiele lęków może krążyć w twojej głowie i zniechęcać cię do seksu po porodzie. Strach przed rozerwaniem szwów, bólem, brakiem atrakcyjności dla partnera – to wszystko jest bardzo powszechne! Rozmowa z partnerem o swoich obawach pomoże je zmniejszyć. Poświęć czas na pieszczoty i inne formy przyjemności i intymności, zamiast na penetrację, dopóki nie poczujesz się pewna i gotowa na seks.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.headline" = "Krok 2: Przezwycięż szok porodowy";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.text" = "Bezsenne noce mogą sprawić, że poczujesz się całkowicie wyczerpana i drażliwa przez cały dzień. Więc jeśli masz negatywne myśli lub odczuwasz stres, brak snu prawdopodobnie też nie pomoże. Szanse są takie, że jeśli jesteś wyczerpana, seks będzie ostatnią rzeczą, o której pomyślisz. Ale kiedy będziesz mogła regularnie przesypiać kilka porządnych godzin, zauważysz, że staniesz się zupełnie inną kobietą – taką, która może nawet zacznie myśleć o seksie znowu!
+
+Warto podkreślić, że u wielu mam po porodzie następuje znaczny spadek libido i jest to całkowicie zrozumiałe. Ostry spadek poziomu hormonów, odpowiedzialność za opiekę nad dzieckiem, brak snu, skutki porodowe, nacięcia krocza, cesarki i utrata krwi mają ogromny wpływ na ciało i umysł kobiety. Nie możesz nic z tym zrobić, poza daniem sobie czasu na poradzenie sobie z tym, czasem na uzdrowienie i przetworzenie tego, więc bądź cierpliwa wobec siebie.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.headline" = "Krok 3: Naucz się kochać swoje ciało na nowo";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.text" = "Następnym krokiem jest stopniowy powrót do ćwiczeń i aktywności fizycznej. To pomoże zrzucić zbędne kilogramy, wzmocnić mięśnie brzucha i odzyskać energię – a bez wątpienia także pewność siebie i poczucie własnej wartości. Jeśli jednak karmisz piersią, zapomnij o diecie. Karmienie piersią wymaga dodatkowych kalorii i składników odżywczych dla twojego dziecka, a także daje ci energię, której potrzebujesz! W ciągu dziewięciu miesięcy do roku powinnaś wrócić do swojej wagi sprzed ciąży i odzyskać tonus ciała i mięśni. To jest pewna zachęta dla tych, które mogą karmić swoje dzieci piersią. Jeśli musisz karmić butelką i używać mleka modyfikowanego, są dostępne łatwe ćwiczenia po porodzie online, które możesz wykonywać w zaciszu własnego domu.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.headline" = "Krok 4: Zrób trochę miejsca!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.text" = "Więź między tobą a twoim dzieckiem będzie jak żadna inna, jakiej kiedykolwiek doświadczyłaś, i czasami może pozostawić niewiele miejsca na cokolwiek lub kogokolwiek innego. To znów jest bardzo normalne. Doświadczasz tego, co nazywa się więzią matka-dziecko z twoim maluchem. Opuszczenie łona nie wystarczy, aby rozdzielić dwa ciała, które były zjednoczone przez dziewięć miesięcy. Twoje dziecko nadal postrzega cię jako jedność i dopiero około ósmego miesiąca życia zacznie zdawać sobie sprawę z rzeczywistości.
+
+Powoli wycofuj się z tej fazy, aby dać swojemu dziecku szansę na uzyskanie niezależności. Ty również potrzebujesz czasu, aby wpuścić partnera i nie czuć się wykluczoną. Ważne jest, aby znaleźć czas dla siebie jako para (choć może to być trudne). Spróbuj przytulić się z filmem, gdy dziecko śpi, lub zabrać dziecko na spacer, aby ty i twój partner mogli spędzić trochę czasu razem. Jeśli masz dostępnego opiekuna, zaplanujcie randkę, kiedy oboje będziecie gotowi.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.headline" = "Krok 5: Przywróć pasję do swojego związku";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.text" = "Wreszcie jesteś gotowa, aby znów być namiętną z partnerem i gotowa do działania, ale jeśli to pierwszy raz, kiedy czujesz podniecenie, może to być nieco onieśmielające. Jeśli nadal jesteś trochę wrażliwa, wybierz pozycje, które pozwalają ci być na górze, jak jazda na partnerze lub odwrotna kowbojka. Jazda na partnerze to świetna pozycja do seksu po porodzie. Bycie na górze pozwala ci kontrolować głębokość i penetrację, co może być najlepsze, dopóki nie przyzwyczaisz się do rzeczy na nowo. Używanie dobrego lubrykantu również może ułatwić i uczynić to bardziej komfortowym. Pamiętaj, aby nie spieszyć się i nie pędzić. Weź to powoli i powoli wracaj do zabawy. Kiedy już zaczniesz, będziesz mogła ocenić, co jest wygodne, a co nie, i miejmy nadzieję, że wkrótce ty i twój partner znów będziecie cieszyć się tą gorącą pasją, która sprawiła, że wasze dziecko przyszło na świat!";
+
+
+// MARK: Artykuł: Droga Przed Dziurką:
+"LearningResourceArticleVC.theRoadBeforeTheBump.headline" = "Droga Przed Dziurką: Przewodnik po Zabawie w Zajście w Ciążę";
+"LearningResourceArticleVC.theRoadBeforeTheBump.text" = "Podróż do zajścia w ciążę jest dla każdego inna. Dla niektórych kobiet wystarczy kichnięcie i już są w ciąży! Dla innych może to wymagać więcej planowania i czasu. Chociaż ten czas jest święty, może być stresujące śledzenie harmonogramów owulacji, testów i ciągłe zanurzanie się w bezkresnych morzach informacji dotyczących zajścia w ciążę. Czasami łatwo jest tak się skupić na rezultacie, że intymność może umknąć przez palce. Więc może ta pasja, która kiedyś rozpalała twoje łóżko, zaczyna gasnąć, albo po prostu szukasz sposobu, aby doświadczenie zajścia w ciążę było niezapomniane, myślimy, że ten artykuł jest dla ciebie! Droga przed dziurką może być długa, więc dlaczego nie cieszyć się podróżą?";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.headline" = "11 Sposobów na Ożywienie Zajścia w Ciążę";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.text" = "1. Lokalizacja, lokalizacja, lokalizacja! Czy łóżko stało się twoim standardowym miejscem na miłosne uniesienia z partnerem? Jeśli tak, zmień to i odmień się w kuchni, basenie, lub na biurku! Dla par o silnych sercach, można nawet uprawiać seks publicznie.
+2. Bądź spontaniczny. Nie ma nic lepszego niż poczucie pożądania. Porzuć plany na chwilę i wywołaj spontaniczność! Możesz się umorusać pod prysznicem we dwoje albo szybko poskakać na kanapie, cokolwiek wybierzesz, unikaj planowania seksu tak, jakbyś planował inne obowiązki domowe!
+3.Pobierz gry i aplikacje dla par. Aplikacje, które pozwalają Wam na eksplorację nowych pozycji, wykonywanie seksownych wyzwań i dostarczają dodatkową inspirację, mogą być naprawdę zabawne! Polecamy pobranie aplikacji Scratch Adventure! Pary mogą odkryć nowe fetysze i spełniać swoje sensualne fantazje.
+4.Zapisz to! Spróbuj napisać na osobnych kartkach kilka szalonych rzeczy, które zawsze chciałeś wypróbować. Umieść je w misce i wybierz jedną, gdy będziesz w nastroju. Traktuj to jak listę rzeczy do zrobienia dla par, możecie także zdecydować się nie mówić sobie, co piszecie, aby zbudować napięcie i ciekawość.
+5.Sexy SMS-y. Sexting dodaje elementu oczekiwania do waszego życia seksualnego. Wysyłaj nagie zdjęcia i brudne SMS-y, gdy jesteście osobno, daj im coś, o czym mogą myśleć.
+6.Zabawki. W dzisiejszych czasach jest nieskończona liczba zabawek dostępnych dla par do wypróbowania! Zabawki dodają odrobinę ekstra do waszego seksu i są stworzone dla przyjemności.
+7.Zrób sobie przerwę. Zrób krótką przerwę od codziennej gonitwy i spędź trochę czasu z dala od domu ze swoim kochankiem.
+8.Zmień czasy. Czy zauważasz, że zawsze kończysz na seksie o podobnej porze? Rozważ drzemkę rano lub w przerwie na lunch!
+9.Masaże sensualne. Wyjmij olej i zanurz swojego partnera w niebie! Uwolnij napięcie i poczuj przyjemność, nie zapomnij też się zamienić!
+10.Gra wstępna. Pozwól sobie na więcej miejsca na przyjemność i zabawę podczas próby poczęcia.
+11.Ovulio Baby. Pary mogą zwiększyć swoją intymność, korzystając ze wszystkich funkcji aplikacji Ovulio Baby. Możesz podkręcić temperaturę, wypróbowując szereg gorących i ciężkich pozycji oraz gier erotycznych zaprojektowanych dla zabawy i poczęcia!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.headline" = "Intymność na Steroidach";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.text" = "W długotrwałym związku zwykle mamy ustalone rutyny, które mają swoje miejsce w naszym życiu, utrzymują wszystko płynnie i zapewniają, że wszystko idzie zgodnie z planem. Wiesz dokładnie, co gotujesz na cały tydzień, wiesz, że będziecie przytuleni przed telewizorem po zakończeniu dnia. Nie jest tajemnicą, że intymność może ustąpić miejsca, więc jak możemy przywrócić ją na pierwsze miejsce? Mamy kilka sugestii:
+● Języki miłości. Czy znasz język miłości swojego partnera? Czy to, kiedy spędzasz z nim czas, czy kiedy dajesz mu afirmacje? Każdy czuje się kochany w różny sposób, najlepiej stać się biegłym w języku miłości swojego partnera. Rozważ wzmocnienie aktów miłości w tym ekscytującym czasie, tylko zbliży was to do siebie i zainspiruje do intymności.
+● Ubóstwiaj swojego partnera. Kiedy jesteśmy w długoterminowym związku, często zapominamy o randkowaniu naszych partnerów, podrywaniu ich i flirtowaniu, jak to kiedyś robiliśmy. Wróć do tych dobrych starych czasów, kiedy nadal staraliście się przekonać siebie nawzajem na początku. Kiedy czujemy się połączeni, uczucia ekscytacji i intymności na pewno przyjdą!
+● Pamiętaj, żeby się dobrze bawić. Tak proste jak to może brzmieć, intymność może przybrać wiele form, czy to śmiejąc się razem, czy robiąc coś, o czym zawsze rozmawialiście razem. Pamiętanie o tym, żeby nie brać życia zbyt poważnie i dobrze się bawić z osobą, którą kochasz, może sprawić, że zakochasz się w niej na nowo. Obejrzyjcie występ komika lub zagrajcie razem w grę, nauczcie się rozśmieszać siebie nawzajem, nie pożałujesz!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.headline" = "Sprawy Umysłowe";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.text" = "Kiedy próbujesz zajść w ciążę, jest wiele rzeczy, o których trzeba pamiętać, czasami emocje sięgają zenitu. Gdzie to możliwe, ogranicz stresy w codziennym życiu. Stres może wpływać na ciebie fizycznie i psychicznie w drodze do poczęcia twojej małej pociechy; ważne jest zidentyfikowanie stresów, które można usunąć, i sposobów na relaks. Kiedy czujemy się zaniepokojeni lub pod presją, przekłada się to na to, jak cieszymy się aktywnościami, seksem i komunikacją z naszymi partnerami. Wzięcie kroku wstecz razem, żeby odpocząć i zrelaksować się, może tylko przynieść korzyść obu partnerom w tym wspaniałym procesie! Znajdźcie czas na pogaduszki w łóżku, długie rozmowy przy świetle świec. Możecie zacząć medytować razem lub zacząć nowe hobby w domu; nie pozwólcie, aby stres stanął na drodze, sprawa umysłowa jest ważna.";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.headline" = "Powodzenia";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.text" = "Życzymy powodzenia; wiemy, że czekanie na dobrą nowinę, że w piekarniku rośnie bułka, może być zarówno ekscytujące, jak i nerwowe! Skorzystajcie z tego czasu, aby rozkoszować się intymnością, zabawą i przyjemnością ze swoim partnerem. Tworzenie życia to piękna podróż, a niektórzy nie mogą się doczekać docelowego punktu! Pamiętajcie, aby docenić drogę do poczęcia, po prostu czasem spójrzcie przez okno, zawsze pamiętajcie, kto siedzi obok was, i zanim się obejrzycie... bum!";
+
+
+// In App Purchase
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.title" = "Nie można pobrać informacji o produkcie";
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.message" = "Nieprawidłowy identyfikator produktu: ";
+"InAppPurchase.alertForProductRetrievalInfo.default.message" = "Nieznany błąd. Skontaktuj się z pomocą techniczną";
+
+"InAppPurchase.alertForPurchaseResult.success.title" = "Dziękujemy";
+"InAppPurchase.alertForPurchaseResult.success.message" = "Zakup zakończony pomyślnie.";
+"InAppPurchase.alertForPurchaseResult.error.title" = "Zakup nieudany";
+"InAppPurchase.alertForPurchaseResult.error.clientInvalid.message" = "Nie można dokonać płatności";
+"InAppPurchase.alertForPurchaseResult.error.paymentInvalid.message" = "Nieprawidłowy identyfikator zakupu";
+"InAppPurchase.alertForPurchaseResult.error.paymentNotAllowed.message" = "Urządzenie nie może dokonać płatności";
+"InAppPurchase.alertForPurchaseResult.error.storeProductNotAvailable.message" = "Produkt nie jest dostępny w bieżącym sklepie";
+"InAppPurchase.alertForPurchaseResult.error.cloudServicePermissionDenied.message" = "Brak dostępu do informacji usługi chmurowej";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceNetworkConnectionFailed.message" = "Nie udało się połączyć z siecią";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceRevoked.message" = "Usługa chmurowa została wycofana";
+"InAppPurchase.spalert.success.title" = "Gotowe!";
+"InAppPurchase.spalert.success.message" = "Uaktualnienie do PRO zakończone powodzeniem";
+
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.title" = "Przywracanie zakupów nie powiodło się";
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.message" = "Nieznany błąd. Skontaktuj się z pomocą techniczną";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.title" = "Zakupy przywrócone";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.message" = "Wszystkie zakupy zostały przywrócone. Aplikacja zostanie na chwilę zrestartowana.";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.title" = "Nic do przywrócenia";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.message" = "Nie znaleziono poprzednich zakupów";
+"InAppPurchase.alert.noValidActivationCode.title" = "To nie jest prawidłowy kod aktywacyjny!";
+"InAppPurchase.alert.activationCodeAlreadyUsed.title" = "Ten kod aktywacyjny został już użyty!";
+"InAppPurchase.alert.tooManyTries.title" = "Zbyt wiele nieudanych prób";
+"InAppPurchase.alert.tooManyTries.message" = "Spróbuj ponownie za chwilę";
+"InAppPurchase.alert.uploadError.title" = "Proces nie mógł zostać ukończony";
+"InAppPurchase.alert.uploadError.message" = "Sprawdź swoje połączenie internetowe.";
+
+// LoadingIndicatorHUD.swift
+"LoadingIndicatorHUD.loadingLabel.text" = "Ładowanie";
+
+// MARK: OurExpertsDetailsVC
+"OurExpertsDetailsVC.expertNameLabel.text" = "Dr. Usman, ginekolog";
+"OurExpertsDetailsVC.expertReviewLabel.text" = "'Zajście w ciążę nie musi być stresujące! Ovulio Baby sprawia, że staje się to zabawne, pomagając wybrać najlepsze pozycje seksualne, które zapewnią ci ciążę w najlepszy i najbardziej zabawny sposób! Jeśli szukasz zabawnego sposobu na zajście w ciążę, wypróbuj Ovulio Baby!'";
+"OurExpertsDetailsVC.expertInfoLabel.text" = "Dr. Usman to specjalista z Wielkiej Brytanii ze szczególnym zainteresowaniem płodnością i zdrowiem seksualnym. Jest zapalonym badaczem z ponad 30 publikacjami w międzynarodowych czasopismach recenzowanych przez rówieśników. Dr. Usman wierzy w medycynę opartą na dowodach i przekazywanie wiedzy medycznej w zrozumiały sposób.";
+
+// MARK: HowTheAppWorksVC
+"HowTheAppWorksVC.headlineLabel.text" = "Jak to działa";
+"HowTheAppWorksVC.textView.text" = "W Ovulio Baby poświęcamy się zapewnianiu naszym użytkownikom najnowszych i najbardziej naukowo uzasadnionych metod planowania rodziny oraz zrozumienia czynników, które mogą wpływać na płeć dziecka. Nasze podejście integruje sprawdzone przez czas techniki, inspirowane wszechstronnymi badaniami reprodukcyjnymi, wraz z współczesnymi danymi naukowymi.
+
+Czasowanie i Cykl Owulacji: Kluczowym elementem naszej metodyki jest zrozumienie cyklu owulacji i czasu współżycia. Badania sugerują, że zbliżanie współżycia do daty owulacji może wpływać na płeć dziecka. Jest to oparte na cechach różnych typów plemników i ich zróżnicowanej prędkości i długowieczności.
+
+Aspekty Dietetyczne: Pojawiające się badania wskazują na potencjalny wpływ diety na kształtowanie płci dziecka. Konkretne wzorce żywieniowe i spożycie składników odżywczych mogą być powiązane z prawdopodobieństwem poczęcia chłopca lub dziewczynki, choć te ustalenia są nadal przedmiotem ciągłych badań i nie są ostatecznie udowodnione.
+
+Wpływ Hormonalny: Poziomy hormonalne i ich wahania u potencjalnych rodziców są również brane pod uwagę jako możliwy czynnik. Środowisko hormonalne w czasie poczęcia może mieć wpływ na określenie płci dziecka.
+
+Czynniki Trybu Życia: Czynniki trybu życia, takie jak poziomy stresu, aktywność fizyczna i ogólny stan zdrowia, mogą również mieć pośredni wpływ na płeć dziecka, ponieważ wpływają one na ogólną płodność i zdrowie reprodukcyjne.
+
+Warto zauważyć, że mimo że te metody są oparte na badaniach naukowych, nie gwarantują one określonego rezultatu. Biologia człowieka i procesy reprodukcyjne są złożone, a wiele czynników przyczynia się do określenia płci dziecka. Zachęcamy naszych użytkowników do podejścia do tych metod jako części szerszego zrozumienia zdrowia reprodukcyjnego i planowania rodziny.
+
+Odniesienia do Badań Naukowych: Nasza metodyka jest ciągle aktualizowana zgodnie z trwającymi badaniami zdrowia reprodukcyjnego. Odwołujemy się do szerokiej gamy badań z renomowanych czasopism medycznych i instytucji, aby zapewnić naszym użytkownikom wszechstronne i naukowo uzasadnione porady.
+
+My w Ovulio Baby zobowiązujemy się do wyposażania naszych użytkowników w wiedzę i narzędzia do ich podróży reprodukcyjnej, zawsze priorytetem jest zdrowie, dobre samopoczucie i świadomy wybór.";
+
+
+// DiceToSpiceGameMenu.swift
+"DiceToSpiceGameMenu.headlineLabelBold.text" = "Kostka dla pikanterii";
+"DiceToSpiceGameMenu.headlineLabel.text" = "Kostka dla pikanterii";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.cuteButton.title" = "Delikatna";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.spicyButton.title" = "Ostra";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.customButton.title" = "Trudna";
+
+"DiceToSpiceGameMenu.salesPageView.headlineLabel.text" = "Chcesz jeszcze więcej kombinacji?";
+"DiceToSpiceGameMenu.salesPageView.backToPreviousVersionButton.title" = "Nie chcę zadowalać się z partnerem";
+"DiceToSpiceGameMenu.salesPageView.featuresLabel.text" = "128 nowych kombinacji
+\nNieskończone opcje personalizacji\n";
+
+"DiceToSpiceGameMenu.actionTasks.1" = "Lizać";
+"DiceToSpiceGameMenu.actionTasks.2" = "Ssać";
+"DiceToSpiceGameMenu.actionTasks.3" = "Dmuchnąć";
+"DiceToSpiceGameMenu.actionTasks.4" = "Dotykać";
+"DiceToSpiceGameMenu.actionTasks.5" = "Masaż";
+"DiceToSpiceGameMenu.actionTasks.6" = "Żłobkować";
+"DiceToSpiceGameMenu.actionTasks.7" = "Gryzienie";
+"DiceToSpiceGameMenu.actionTasks.8" = "Ściskać";
+"DiceToSpiceGameMenu.actionTasks.9" = "Całować";
+"DiceToSpiceGameMenu.actionTasks.10" = "Decydujesz";
+
+
+// DiceToSpiceGameSelectBodyParts.swift
+"DiceToSpiceGameSelectBodyParts.headlineLabel.text" = "Stwórz własną kostkę";
+"DiceToSpiceGameSelectBodyParts.subtitleLabel.text" = "Wybierz czynności i części ciała, które chcesz uwzględnić oraz dodaj własne";
+"DiceToSpiceGameSelectBodyParts.bodyPartsHeadlineLabel.text" = "Części ciała";
+"DiceToSpiceGameSelectBodyParts.actionsHeadlineLabel.text" = "Czynności";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.title" = "Dodaj nowe czynności";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.title" = "Dodaj nowe części ciała";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.title" = "Dodaj nową część ciała";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.message" = "Wprowadź nową część ciała, którą chcesz dodać do swojej własnej gry w kostkę";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.placeholder" = "Część ciała";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.title" = "Dodaj nową czynność";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.message" = "Wprowadź nową czynność, którą chcesz dodać do swojej własnej gry w kostkę";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.placeholder" = "Czynność";
+"DiceToSpiceGameSelectBodyParts.hintLabelNoCustomDiceTasks.text" = "Rozpocznij teraz tworzenie własnej gry w kostkę!";
+"DiceToSpiceGameSelectBodyParts.hintButtonNoCustomDiceTasks.text" = "Stwórz teraz";
+"DiceToSpiceGameSelectBodyParts.alertMinimumSelectedBodyPartsAndActions.title" = "Wybierz co najmniej 2 czynności i 2 części ciała, aby poprawnie grać!";
+
+
+// SqueezLickSuckGame.swift
+"SqueezLickSuckGame.headlineLabelBold.text" = "\nŚciskaj,\nLizaj lub Ssij";
+"SqueezLickSuckGame.headlineLabel.text" = "Ściskaj Lizaj Ssij";
+"SqueezLickSuckGame.playerGender.male" = "Mężczyzna";
+"SqueezLickSuckGame.playerGender.female" = "Kobieta";
+"SqueezLickSuckGame.playerGenderTextField.placeholder" = "Imię";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player1" = "Imię Gracza 1";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player2" = "Imię Gracza 2";
+"SqueezLickSuckGame.letsGoButton.title" = "Zaczynamy";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.title" = "Brakuje nazwy gracza";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.message" = "Proszę nadać każdemu graczowi imię!";
+"SqueezLickSuckGame.text.point" = "Punkt";
+"SqueezLickSuckGame.text.points" = "Punkty";
+"SqueezLickSuckGame.text.turn" = "Tura %x";
+
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.descriptionLabel.text" = "Co chcesz zrobić następnie?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.squeezeButton.title" = "Ściskaj";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.lickButton.title" = "Lizaj";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.suckButton.title" = "Ssij";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.diceButton.title" = "Kostka";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.skipButton.title" = "Pomiń";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.completeButton.title" = "Zakończono";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.title" = "Ściskaj, Lizaj lub Ssij?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.message" = "Aby kontynuować, najpierw wybierz, co chcesz zrobić!";
+"SqueezLickSuckGame.levelButton.title" = "Poziom: ";
+"SqueezLickSuckGame.levelButton.level.1" = "Epicure";
+"SqueezLickSuckGame.levelButton.level.2" = "Dirty";
+"SqueezLickSuckGame.levelButton.level.3" = "Niestandardowy";
+"SqueezLickSuckGame.selectLevel.alert.title" = "Wybierz poziom";
+"SqueezLickSuckGame.selectLevel.alert.message" = "Na jakim poziomie trudności chcesz grać?";
+"SqueezLickSuckGame.EnterPlayerNameView.playerNamesLabel.text" = "Wpisz swoje imiona";
+"SqueezLickSuckGame.EnterPlayerNameView.levelHeadlineLabel.text" = "Wybierz poziom trudności";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.title" = "Brak dostępnych zadań SLS!";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.message" = "Wybierz kilka części ciała, które chcesz uwzględnić, lub dodaj własne!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.title" = "Nie znaleziono zadania dla Ciebie!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.message" = "Wybierz kilka dalszych części ciała, które chcesz uwzględnić, lub dodaj własne!";
+"SqueezLickSuckGame.hintLabelNoSlsTasks.text" = "Zacznij teraz tworzyć własne zadania SLS!";
+"SqueezLickSuckGame.hintButtonNoSlsTasks.text" = "Stwórz teraz";
+
+"SqueezLickSuckGame.challenges.1" = "Usta";
+"SqueezLickSuckGame.challenges.2" = "Penis";
+"SqueezLickSuckGame.challenges.3" = "Jądra";
+"SqueezLickSuckGame.challenges.4" = "Szyjka macicy";
+"SqueezLickSuckGame.challenges.5" = "Łechtaczka";
+"SqueezLickSuckGame.challenges.6" = "Wargi sromowe";
+"SqueezLickSuckGame.challenges.7" = "Anal";
+"SqueezLickSuckGame.challenges.8" = "Zad";
+"SqueezLickSuckGame.challenges.9" = "Klatka piersiowa";
+"SqueezLickSuckGame.challenges.10" = "Brodawki sutkowe";
+"SqueezLickSuckGame.challenges.11" = "Szyja";
+"SqueezLickSuckGame.challenges.12" = "Udo";
+"SqueezLickSuckGame.challenges.13" = "Palec";
+"SqueezLickSuckGame.challenges.14" = "Stopy";
+"SqueezLickSuckGame.challenges.15" = "Palce u stóp";
+"SqueezLickSuckGame.challenges.16" = "Noga";
+"SqueezLickSuckGame.challenges.17" = "Ramię";
+"SqueezLickSuckGame.challenges.18" = "Ucho";
+"SqueezLickSuckGame.challenges.19" = "Nos";
+"SqueezLickSuckGame.challenges.20" = "Pępek";
+"SqueezLickSuckGame.challenges.21" = "Brzuch";
+"SqueezLickSuckGame.challenges.22" = "Dłoń";
+"SqueezLickSuckGame.challenges.23" = "Plecy";
+"SqueezLickSuckGame.challenges.24" = "Perineum";
+"SqueezLickSuckGame.challenges.25" = "Policzki";
+"SqueezLickSuckGame.challenges.26" = "Krocze";
+"SqueezLickSuckGame.challenges.27" = "Ty decydujesz";
+
+
+
+//MARK: Yoga Fertility Position data
+"YogaVC.PostionsDetails.Where.headline.text" = "Gdzie?";
+"YogaVC.PostionsDetails.Why.headline.text" = "Dlaczego?";
+"YogaVC.PostionsDetails.How.headline.text" = "Jak?";
+
+"YogaVC.YogaFertility.RecliningBoundAngle.headline.text" = "Leżący związek";
+"YogaVC.YogaFertility.RecliningBoundAngle.whereText" = "Miednica, wewnętrzne uda i krocze.";
+"YogaVC.YogaFertility.RecliningBoundAngle.whyText" = "Może ci pomóc w staraniach o dziecko, promując relaksację miednicy, redukując stres i zwiększając przepływ krwi do narządów rozrodczych.";
+"YogaVC.YogaFertility.RecliningBoundAngle.howText" = "Połóż się na plecach z kolanami delikatnie zgiętymi. Złącz podeszwy stóp i pozwól, aby nogi naturalnie się rozłożyły. Rozluźnij mięśnie ramion i ułóż ręce w kształcie serca, z kciukami dotykającymi się i palcami wskazującymi spotykającymi się na dolnej części brzucha. Utrzymuj tę pozycję przez co najmniej trzy minuty, skupiając swoją koncentrację i energię na okolicach miednicy.";
+
+"YogaVC.FertilityPosition.WarriorIIPose.headline.text" = "Pozycja Wojownika II";
+"YogaVC.FertilityPosition.WarriorIIPose.whereText" = "Biodra, uda i miednica.";
+"YogaVC.FertilityPosition.WarriorIIPose.whyText" = "Pozycję Wojownika II powszechnie uważa się za potencjalnie korzystną dla płodności, przypisując jej zdolność do otwierania i wzmacniania bioder i boków.";
+"YogaVC.FertilityPosition.WarriorIIPose.howText" = "Aby przyjąć tę pozycję, stój stabilnie i zrób krok naprzód, zginając przód stopy. Przednia stopa powinna być skierowana do przodu, podczas gdy tylna stopa zwrócona na bok. Zgiń przednie kolano i wyciągnij ramiona na boki, otwierając ciało na bok. Spójrz na przednią dłoń przez pięć oddechów, a następnie powtórz sekwencję po drugiej stronie.";
+
+"YogaVC.FertilityPosition.CobraPose.headline.text" = "Pozycja Kobra";
+"YogaVC.FertilityPosition.CobraPose.whereText" = "Miednica, dolna część pleców i krążenie krwi.";
+"YogaVC.FertilityPosition.CobraPose.whyText" = "Ta pozycja oferuje wydłużający i rozciągający efekt zarówno na górną, jak i dolną część pleców, promując zwiększone krążenie do jajników i macicy.";
+"YogaVC.FertilityPosition.CobraPose.howText" = "Zacznij leżąc twarzą w dół, prostując nogi i trzymając kostki razem. Biodra, nogi i górna część stóp powinny stabilnie przylegać do podłogi. Połóż ręce pod ramionami i przyciągnij łokcie blisko tułowia, przyciskając je do boków. Wdechowe, wypchnij się przez ręce, zaciskając łopatki. Napięcie brzucha, kierując kość ogonową w kierunku podłogi, podczas unoszenia klatki piersiowej. Utrzymuj tę pozycję przez 15 do 30 sekund, zachowując równomierny oddech. Aby zwolnić, wydech i delikatnie opuść głowę na podłogę, używając rąk do opuszczenia ciała. Powtórz tę sekwencję trzy do pięciu razy.";
+
+"YogaVC.FertilityPosition.FrogPose.headline.text" = "Pozycja Żabki";
+"YogaVC.FertilityPosition.FrogPose.whereText" = "Miednica, krocze i wewnętrzne uda.";
+"YogaVC.FertilityPosition.FrogPose.whyText" = "Pozycja Żabki delikatnie rozszerza biodra i zwiększa krążenie krwi do narządów rozrodczych, zapewniając ożywiający stretch, który jest zarówno intensywny, jak i głęboko zakorzeniony.";
+"YogaVC.FertilityPosition.FrogPose.howText" = "Zacznij od przyjęcia neutralnej pozycji na czworakach, ustawiając kolana pod biodrami i nadgarstki pod barkami. Stopniowo rozsuń kolana na boki, zgięcie stóp, pozwalając ich wewnętrznym krawędziom opierać się na macie. Delikatnie opuść się na przedramiona, przyciągając łopatki bliżej siebie. Wydech, przesuń biodra do tyłu i w dół. Utrzymuj tę pozycję, oddychając równomiernie, przez trzy do sześciu oddechów lub do trzech minut.";
+
+"YogaVC.FertilityPosition.SeatedForwardBendPose.headline.text" = "Pozycja Siedzącego Skłonu do Przodu";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whereText" = "Uda, dolna część pleców i biodra.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whyText" = "Promuje elastyczność w dolnej części pleców, mięśniach udowych i biodrach. Ta pozycja oferuje cenne korzyści, ożywiając istotne organy takie jak jajniki i żołądek, jednocześnie pomagając w złagodzeniu stresu psychicznego. Te połączone efekty mogą potencjalnie przyczynić się do zwiększonej płodności.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.howText" = "Usiądź na macie z nogami wyciągniętymi przed siebie. Zachowaj wyprostowaną postawę, zgiń się w biodrach i sięgnij po palce lub piszczele, składając się do przodu. Zachowaj tę pozycję przez 5-10 oddechów.";
+
+"YogaVC.FertilityPosition.HeadToKneePose.headline.text" = "Pozycja głowy do kolana";
+"YogaVC.FertilityPosition.HeadToKneePose.whereText" = "Nadwyrężone mięśnie, dolna część pleców i krocze.";
+"YogaVC.FertilityPosition.HeadToKneePose.whyText" = "Ta postawa pomaga otworzyć biodra i plecy, jednocześnie zwiększając przepływ krwi do dolnych narządów i zapewniając głęboki rozciąg mięśni łydek.";
+"YogaVC.FertilityPosition.HeadToKneePose.howText" = "Zacznij siedząc z wyprostowanymi nogami. Na wdechu złap lewą stopę, a następnie na wydechu delikatnie pochyl tułów, pozwalając głowie się odprężyć. Po utrzymaniu tej pozycji przez pięć oddechów, przejdź na drugą stronę.";
+
+"YogaVC.FertilityPosition.BridgePose.headline.text" = "Pozycja mostu";
+"YogaVC.FertilityPosition.BridgePose.whereText" = "Miednica, biodra i dolna część pleców.";
+"YogaVC.FertilityPosition.BridgePose.whyText" = "Ta pozycja działa kojąco na centralny układ nerwowy, poprawiając ogólny przepływ krwi w całym ciele. Rozluźnia napięcie w dolnej części brzucha, jednocześnie wzmacniając mięśnie bioder. Wywiera odnowienie na narządy rozrodcze, potencjalnie zwiększając szanse na płodność!";
+"YogaVC.FertilityPosition.BridgePose.howText" = "Połóż się na plecach z kolanami zgiętymi i stopami płasko na podłodze, w odległości bioder od siebie, a pięty blisko pośladków. Podnieś miednicę, skrzyżuj dłonie pod nią i utrzymaj przez około minutę, z udami równoległymi do podłogi. Aby zwolnić, rozłóż dłonie i stopniowo opuszczaj kręgosłup. Powtórz trzy do pięciu razy.";
+
+"YogaVC.FertilityPosition.PlowPose.headline.text" = "Pozycja pluga";
+"YogaVC.FertilityPosition.PlowPose.whereText" = "Miednica i tarczyca.";
+"YogaVC.FertilityPosition.PlowPose.whyText" = "Poprzez zwiększanie przepływu krwi w miednicy, stymulację tarczycy w regulacji cyklu menstruacyjnego i redukcję stresu, potencjalnie tworząc bardziej korzystne środowisko dla płodności.";
+"YogaVC.FertilityPosition.PlowPose.howText" = "Połóż ramiona na macie z dłońmi do dołu i wyciągnij je w kierunku przodu macie, aby uzyskać wsparcie. Użyj przedramion i dłoni, aby unieść nogi pod kątem 90 stopni, a następnie przynieś stopy nad głowę, aż dotkną podłogi za tobą. Prostuj nogi. Złącz dłonie z łokciami wewnątrz, a dłonie razem, i wyciągnij ręce prosto, sięgając kolanek do przodu, jednocześnie zakotwiczając ramiona. Upewnij się, że biodra są wyrównane nad ramionami. Unikaj odwracania głowy, patrząc w górę, aby chronić szyję. Trzymaj przez 5 głębokich oddechów, a następnie aby wyjść, opuść ręce na podłogę, puść dłonie i zwijaj kręgosłup na macie, jeden kręg po drugim, z prostymi nogami i stopami razem.";
+
+
+
+//MARK: Yoga Prental data
+"YogaVC.YogaPrental.StandingSideBend.headline.text" = "Pozycja skrzywienia boku w staniu";
+"YogaVC.YogaPrental.StandingSideBend.whereText" = "Ramiona i górna część pleców.";
+"YogaVC.YogaPrental.StandingSideBend.whyText" = "Zmniejsza ból pleców i sztywność ramion.";
+"YogaVC.YogaPrental.StandingSideBend.howText" = "Stojąc szeroko rozstawionymi nogami, z rękami u boku, głęboko wdychając, wyprostuj kręgosłup. Powoli zacznij wyginać ciało w prawo, wdechając łagodnie, regularnie oddychając. Podnieś lewą rękę nad głowę, opierając prawą dłoń na biodrze lub udzie dla dodatkowego wsparcia. Pozostań w tej pozycji przez 30 sekund. Powtórz tę sekwencję po lewej stronie.";
+
+"YogaVC.YogaPrental.WideKneedChildsPose.headline.text" = "Szeroko rozstawiona pozycja dziecka";
+"YogaVC.YogaPrental.WideKneedChildsPose.whereText" = "Brzuch, plecy i biodra.";
+"YogaVC.YogaPrental.WideKneedChildsPose.whyText" = "Szeroko rozstawiona pozycja dziecka łagodzi ból pleców i zmniejsza ciśnienie brzucha. Ta pozycja rozszerzająca biodra może również zmniejszyć ryzyko powikłań porodowych oraz łagodzić stres i niepokój.";
+"YogaVC.YogaPrental.WideKneedChildsPose.howText" = "Klęknij na macie jogi, rozłóż nogi na boki, z piętami przy pośladkach i palcami dużymi u stóp dotykającymi się. Opadnij klatką piersiową ku podłodze, aż czoło dotknie macie. Wyciągnij ramiona nad głowę i oprzyj dłonie na macie. Utrzymuj tę pozycję przez 3-5 minut w zależności od komfortu.";
+
+"YogaVC.YogaPrental.BoundAnglePose.headline.text" = "Pozycja związanych kątów";
+"YogaVC.YogaPrental.BoundAnglePose.whereText" = "Uda, kolana i biodra.";
+"YogaVC.YogaPrental.BoundAnglePose.whyText" = "Redukuje zmęczenie i ból kolan, jednocześnie otwierając biodra i uda, aby ułatwić poród.";
+"YogaVC.YogaPrental.BoundAnglePose.howText" = "Usiądź na macie, zbliżając stopy do siebie w kierunku miednicy. Opuszczaj kolana do swojego komfortowego poziomu. Chwyć stopy dłońmi i wyprostuj się, oddychając głęboko. Utrzymuj tę pozycję przez 1-5 minut, odchylając się od czasu do czasu do przodu, jeśli chcesz głęboko rozciągnąć biodra.";
+
+"YogaVC.YogaPrental.AnkleToKneePose.headline.text" = "Pozycja kostki na kolano";
+"YogaVC.YogaPrental.AnkleToKneePose.whereText" = "Biodra, pośladki i plecy.";
+"YogaVC.YogaPrental.AnkleToKneePose.whyText" = "Pozycja kostki na kolano dostosowuje się do brzucha, jednocześnie poszerzając biodra. Łagodzi również nacisk na plecy i napięcie w pośladkach.";
+"YogaVC.YogaPrental.AnkleToKneePose.howText" = "Usiądź w pozycji siedzącej, wsuń lewą nogę pod prawą. Umieść prawą kostkę na lewym kolanie, upewniając się, że lewa kostka jest w linii z prawym kolanem, a piszczele są równoległe. Składając się nieco do przodu, wdychając powietrze, poczujesz głęboki rozciąg w biodrach oraz pośladkach. Utrzymuj tę pozycję przez 30 sekund. Pozostając w pozycji kostki na kolano, umieść dłonie za plecami, trzymając ramiona prosto z dłońmi spłaszczonymi na macie, aby wesprzeć równowagę. Gdy odchylasz się do tyłu w kierunku swoich ramion, oddychając równomiernie, powinieneś poczuć głęboki rozciąg w plecach. Utrzymuj tę pozycję przez 30 sekund. Powtórz tę samą sekwencję, zmieniając lewą kostkę na prawe kolano.";
+
+"YogaVC.YogaPrental.SeatedSideBend.headline.text" = "Pozycja skrętu boku na siedząco";
+"YogaVC.YogaPrental.SeatedSideBend.whereText" = "Biodro, miednica i plecy.";
+"YogaVC.YogaPrental.SeatedSideBend.whyText" = "Rozciąganie się na boku siedząco nie tylko zmniejsza stres, ale także łagodzi nacisk na dolną część pleców oraz redukuje napięcie w biodrach i miednicy podczas ciąży.";
+"YogaVC.YogaPrental.SeatedSideBend.howText" = "Siedząc wyprostowany, wydłuż kręgosłup z nogami skrzyżowanymi. Wdychając delikatnie, wyprostuj prawą rękę i pochyl ciało w lewo. Umieść lewą rękę na macie w celu wsparcia i wdychaj głęboko, utrzymując ten rozciąg przez 30 sekund. Powoli wróć do siedzenia prosto, wdechając pełnymi płucami. Następnie zmień stronę na lewą rękę i powtórz sekwencję.";
+
+"YogaVC.YogaPrental.StandingForwardBend.headline.text" = "Pozycja skrętu boku na siedząco";
+"YogaVC.YogaPrental.StandingForwardBend.whereText" = "Udo, biodra, plecy i krążenie.";
+"YogaVC.YogaPrental.StandingForwardBend.whyText" = "Pozycja skrętu boku na siedząco może poprawić krążenie krwi, co może złagodzić opuchnięte stopy i nogi. Ta pozycja dostarcza również głęboki rozciąg w dolnej części pleców oraz łagodzi napięcie w biodrach i mięśniach łydek.";
+"YogaVC.YogaPrental.StandingForwardBend.howText" = "Stojąc z rękami na biodrach i stopami nieco szerzej niż szerokość bioder. Zacznij pochylać się do przodu w biodrach, utrzymując prosty kręgosłup, gdy się składasz. Gdy osiągniesz swój poziom komfortu, z prostym kręgosłupem, zgiń kolana i zrelaksuj się w pochyleniu do przodu. Możesz pozwolić swoim ręką opaść lub możesz złapać przeciwległe łokcie. Utrzymuj tę pozycję przez 30 sekund, oddychając rytmicznie.";
+
+"YogaVC.YogaPrental.CatCowPose.headline.text" = "Pozycja kota i krowy";
+"YogaVC.YogaPrental.CatCowPose.whereText" = "Szyja, ramiona, tułów i plecy.";
+"YogaVC.YogaPrental.CatCowPose.whyText" = "Ta pozycja wzmacnia krążenie i ruchomość kręgosłupa, jednocześnie rozciągając szyję, ramiona i tułów. Poczuj, jak stres znika!";
+"YogaVC.YogaPrental.CatCowPose.howText" = "Zaczynając na czworaka, wdychaj głęboko i wyginaj kręgosłup, opuszczając brzuch i spoglądając w górę. Następnie wydechaj i powoli przyciągnij brodę do klatki piersiowej, zaokrąglając kręgosłup. Delikatnie kontynuuj tę sekwencję przez 30 sekund do 1 minuty.";
+
+"YogaVC.YogaPrental.TrianglePose.headline.text" = "Pozycja trójkąta";
+"YogaVC.YogaPrental.TrianglePose.whereText" = "Nogi, kręgosłup i plecy.";
+"YogaVC.YogaPrental.TrianglePose.whyText" = "Pozycja trójkąta pomaga wzmocnić i uelastycznić nogi, co może być przydatne podczas porodu. Uodparnia również mięśnie pleców i kręgosłupa, dając ci ulgę od bólów i dolegliwości spowodowanych przez rosnący brzuch.";
+"YogaVC.YogaPrental.TrianglePose.howText" = "Stojąc w pozycji wyprostowanej, stwórz odległość między stopami, rozciągając nogi na komfortowy limit. Unieś ręce na boki, aż znajdą się w linii z barkami. Obróć prawą stopę o 90 stopni, a lewą stopę do wewnątrz, tak aby palce były skierowane prosto przed siebie. Powoli wydechaj i zgiń się w pasie z prawej strony. Wyciągnij prawą rękę do kostki i lewą rękę w górę, obracając głowę w kierunku lewej ręki. Powtórz tę sekwencję po przeciwnej stronie.";
+
+"YogaVC.YogaPrental.GarlandPose.headline.text" = "Pozycja Kielicha";
+"YogaVC.YogaPrental.GarlandPose.whereText" = "Dno miednicy i biodra.";
+"YogaVC.YogaPrental.GarlandPose.whyText" = "Pozycja Kielicha korzystnie wpływa na kobiety w ciąży poprzez wzmacnianie dna miednicy, zwiększanie elastyczności bioder oraz łagodzenie problemów trawiennych. Ponadto promuje lepszą postawę, przygotowując ciało do porodu.";
+"YogaVC.YogaPrental.GarlandPose.howText" = "Stań z nogami nieco szerzej niż biodra, skieruj palce stóp na zewnątrz. Powoli zgiń kolana i opuść biodra. Złącz dłonie z kciukami przy klatce piersiowej, upewnij się, że łokcie są na poziomie kolan. Utrzymuj tę pozycję przez 30 sekund.";
+
+"YogaVC.YogaPrental.SideCorpsePose.headline.text" = "Pozycja Boczna Zwłok";
+"YogaVC.YogaPrental.SideCorpsePose.whereText" = "Serce i krążenie.";
+"YogaVC.YogaPrental.SideCorpsePose.whyText" = "Ta pozycja sprzyja wygodnemu odpoczynkowi i relaksowi. Może również zmniejszyć nacisk na żyłę główną, poprawiając krążenie krwi. Usuwa również dyskomfort związany z obrzękiem i niestrawnością.";
+"YogaVC.YogaPrental.SideCorpsePose.howText" = "Połóż się na lewym boku i użyj poduszki między nogami oraz pod głową. Zachowując prostą lewą nogę, zacznij zgięcie prawej nogi, aż kolano znajdzie się tuż poniżej brzucha. Wyciągnij lewą rękę nad podłogę i umieść prawą dłoń z płaską dłonią na podłodze w celu wsparcia. Utrzymuj tę pozycję przez 30 sekund i powtórz sekwencję na prawym boku.";
+
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.headline.text" = "Modyfikacja Pozycji Rozszerzonego Dziecka";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whereText" = "Brzuch, plecy i biodra.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whyText" = "Ta modyfikacja pozycji rozszerzonego dziecka dostosowuje się do kobiet w późnych fazach ciąży. Poprzez użycie poduszek do wsparcia głowy i klatki piersiowej oraz pozostawienie miejsca na brzuch, łagodzi ból pleców i nacisk na brzuch. Ta pozycja zwiększająca szerokość bioder może również zmniejszyć ryzyko powikłań porodowych oraz łagodzić stres i niepokój.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.howText" = "Klęknij na macie jogi, rozstaw nogi szeroko, z piętami przy pośladkach i dużymi palcami dotykającymi się. Opóźnij klatkę piersiową na poduszkach, aby wesprzeć głowę i klatkę piersiową. Wyciągnij ręce na boki i oprzyj dłonie płasko. Utrzymuj tę pozycję przez 3-5 minut w zależności od wygody.";
+
+"YogaVC.YogaPrental.BridgePose.headline.text" = "Pozycja Mostu";
+"YogaVC.YogaPrental.BridgePose.whereText" = "Dno miednicy, plecy i klatka piersiowa.";
+"YogaVC.YogaPrental.BridgePose.whyText" = "Pozycja Mostu wzmacnia mięśnie rdzenia i dna miednicy, łagodzi bóle pleców, poprawia krążenie, zmniejszając obrzęk, oraz przynosi ulgę w stresie. Ponadto delikatnie rozciąga klatkę piersiową, poprawiając oddychanie i pojemność płuc.";
+"YogaVC.YogaPrental.BridgePose.howText" = "Połóż się na plecach z kolanami zgiętymi i stopami płasko na macie, piętami kilka centymetrów przed pośladkami. Zachowaj kolana w linii z kostkami i stopy na szerokość bioder. Ramiona obok ciała, opuszkami palców muskającymi pięty. Aktywuj siłę nóg i wypchnij się piętami. Powoli unieś biodra z podłogi, jeden kręg po drugim, aż uda będą prawie równoległe do podłogi. Wyciągnij kość ogonową. Trzymaj ręce obok ciała lub zepnij palce za kolanami, aby rozciągnąć klatkę piersiową. Utrzymuj prosty kark i uważaj, aby nie skręcić go podczas pozycji. W razie potrzeby odwróć głowę i wyjdź z pozycji, aby uniknąć kontuzji. Trzymaj tę pozycję przez 15-30 sekund.";
+
+"YogaVC.YogaPrental.LegsUpTheWallPose.headline.text" = "Pozycja Nóg Pod Ścianą";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whereText" = "Plecy, nogi i stopy.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whyText" = "Może złagodzić opuchnięcie nóg i dyskomfort poprzez poprawę krążenia krwi. Dodatkowo łagodzi ból w dolnej części pleców i pomaga w ogólnej postawie ciała. Pozycja ta również sprzyja poczuciu spokoju i może być ożywiającą praktyką.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.howText" = "Umieść wałek, poduszkę lub złożony koc blisko ściany. Usiądź na lewej stronie tych podpór, wyrównując kolana do lewej strony i przesuń pośladki tak blisko do ściany, jak to możliwe. Powoli opuść ciało, aby opierać się na lewym boku, a następnie delikatnie przesuń pośladki na podpory. Może być konieczne dostosowanie poprzez delikatne przesunięcie pośladków, aż dotkną one ściany. Wyciągnij nogi do góry, trzymając je w odległości około szerokości bioder. Relaksuj się w tej pozycji, pozwól sobie na odpoczynek przez 6-8 cykli oddechowych, zanim pochylisz się na lewą stronę i użyjesz rąk, aby wrócić do pozycji siedzącej.";
+
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.headline.text" = "Pozycja Savasana (Na Plecach)";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whereText" = "Plecy, biodra i miednica.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whyText" = "Łagodzi dyskomfort związany z leżeniem płasko na plecach, co może uciskać główne naczynia krwionośne. Dzięki utrzymaniu nachylenia przy wsparciu, ta pozycja zapewnia lepszy przepływ krwi do dziecka i minimalizuje dyskomfort. Dodatkowo zapewnia poczucie relaksu i ulgi od wagi brzucha.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.howText" = "Podczas gdy leżenie płasko na plecach w ciąży może być niewygodne i zmniejszać przepływ krwi do dziecka, leżenie na pochyleniu oferuje bardziej komfortową alternatywę. Ułóż dwa bloki na macie w kształcie 'L', a następnie umieść wałek lub duży stos poduszek na wierzchu. Ustaw się tak, aby pośladki znajdowały się na krawędzi podpór. Złóż stopy razem, pozwalając kolanom rozchylić się na boki. Powoli połóż się na plecach na pochyleniu, korzystając z pełnego wsparcia podpór. Zrób sobie zasłużoną przerwę i rozluźnij się w tej pozycji przez 5-10 minut.";
+
+"YogaVC.YogaPrental.GoddessPose.headline.text" = "Pozycja Bogini";
+"YogaVC.YogaPrental.GoddessPose.whereText" = "Biodra, miednica, nogi i rdzeń.";
+"YogaVC.YogaPrental.GoddessPose.whyText" = "Wzmacnia mięśnie nogi, zapewniając niezbędne wsparcie w miarę wzrostu brzucha. Ta pozycja może również pomóc w rozluźnieniu bioder i miednicy, poprawiając elastyczność i komfort w czasie ciąży oraz potencjalnie ułatwiając poród.";
+"YogaVC.YogaPrental.GoddessPose.howText" = "Zrób krok stopami, poszerzając swoje położenie wzdłuż maty, z palcami stóp skierowanymi na zewnątrz. Gdy zginasz kolana, upewnij się, że pozostają za palcami, a naturalna siła grawitacji kieruje kości ogonem w dół. Twoje ramiona mogą znaleźć wygodną pozycję - opierając się na udach, w pozycji modlitewnej lub z dłońmi zwróconymi do góry. Pozostań w tej niskiej pozycji przez 5-7 cykli oddechowych, zanim delikatnie złączysz stopy, prostując nogi.";
+
+"YogaVC.YogaPrental.PigeonPose.headline.text" = "Pozycja Gołębia";
+"YogaVC.YogaPrental.PigeonPose.whereText" = "Uda, biodra, dolna część pleców i dno miednicy.";
+"YogaVC.YogaPrental.PigeonPose.whyText" = "Łagodzi dyskomfort w biodrach i dolnej części pleców, zapewnia łagodne rozciągnięcie dna miednicy oraz jest pozycją redukującą stres dla dobrostanu emocjonalnego. Dodatkowo pomaga w przygotowaniu do porodu poprzez świadomość ciała i poprawia postawę, gdy ciało przystosowuje się do rosnącego brzucha.";
+"YogaVC.YogaPrental.PigeonPose.howText" = "Rozpocznij w pozycji na czworakach, przesuń prawe kolano do przodu i na zewnątrz, wyrównując je z prawym nadgarstkiem. Wyciągnij lewą nogę prosto do tyłu. Upewnij się, że biodra są wyrównane, a prawa piszczel jest równoległa do maty. Powoli opuść tułów nad zgiętą prawą nogą, używając przedramion do wsparcia lub poduszki pod biodra, jeśli to konieczne. Oddychaj głęboko, utrzymując rozciągnięcie przez około 30 sekund do minuty. Upewnij się, że wykonujesz tę pozycję ostrożnie, dokonując niezbędnych dostosowań dla wygody.";
+
+"YogaVC.YogaPrental.ChildsPose.headline.text" = "Pozycja Dziecka";
+"YogaVC.YogaPrental.ChildsPose.whereText" = "Barki, szyja, kręgosłup i plecy.";
+"YogaVC.YogaPrental.ChildsPose.whyText" = "Ta pozycja oferuje delikatne rozciągnięcie stawów miednicznych, zwiększając wewnętrzne wymiary kanału miednicy i ujścia. Ten zwiększony przestrzeń ułatwia opadanie i pojawienie się dziecka podczas porodu. Jest doskonałą pozycją przygotowawczą do porodu, unikalnie korzystającą z twojej miednicy do gotowości na proces porodowy.";
+"YogaVC.YogaPrental.ChildsPose.howText" = "Zacznij w pozycji na czworakach, następnie delikatnie rozszerz kolana, aby zrobić miejsce na brzuch. Opuść biodra w kierunku pięt, wyciągnij ramiona do przodu i opuść czoło na matę. Oddychaj powoli i głęboko, czując delikatne rozciągnięcie w dolnej części pleców i biodrach. Pozostań w tej pozycji tak długo, jak jest to wygodne, koncentrując się na relaksacji. Aby wyjść, wróć rękami do pozycji siedzącej.";
+
+"YogaVC.YogaPrental.FigureFourPose.headline.text" = "Pozycja Cyfry Cztery";
+"YogaVC.YogaPrental.FigureFourPose.whereText" = "Dno miednicy, miednica, biodra i plecy.";
+"YogaVC.YogaPrental.FigureFourPose.whyText" = "Łagodzi ból w dolnej części pleców, zwiększa elastyczność bioder, aktywuje i wzmacnia mięśnie dna miednicy, redukuje stres i wspiera dobrostan emocjonalny.";
+"YogaVC.YogaPrental.FigureFourPose.howText" = "Połóż się na plecach, upewniając się, że stopy są płasko na podłodze z zgiętymi kolanami. Wdech i podnieś prawą nogę. Za pomocą lewej ręki delikatnie prowadź prawą stopę, aby spoczęła na lewym kolanie. W tym momencie możesz zdecydować, czy pozostać tutaj, czy też, dla głębszego rozciągnięcia, złączyć ręce za kolanami. Warto zauważyć, że leżenie płasko na plecach przez dłuższy czas należy unikać po osiągnięciu 20 tygodnia ciąży i dalej, ponieważ może być niewygodne. W razie potrzeby spróbuj wykonać tę pozycję siedząc na krześle. Trzymaj rozciągnięcie przez około 5-10 oddechów z każdej strony.";
+
+
+//MARK: ScratchCardMenu
+"ScratchCardMenu.headlineLabel.text" = "Zdrap potwierdzenie";
+"SensualSecretsGameMenu.nextButton.title" = "Dalej";
+
+
+
+//MARK: Affirmation text
+"Affirmation.Categories0.headline0.text" = "Mój organizm jest gotowy do poczęcia.";
+"Affirmation.Categories0.headline1.text" = "Miłość i nadzieja towarzyszą mi na drodze do rodzicielstwa.";
+"Affirmation.Categories0.headline2.text" = "Każdy dzień zbliża mnie do mojego wytęsknionego dziecka.";
+"Affirmation.Categories0.headline3.text" = "Zaufam swojemu ciału i jego naturalnemu rytmowi.";
+"Affirmation.Categories0.headline4.text" = "Z każdym oddechem otrzymuję pozytywną energię dla mojego pragnienia posiadania dziecka.";
+"Affirmation.Categories0.headline5.text" = "Mój umysł i ciało są w harmonii dla spełnienia mojego marzenia.";
+"Affirmation.Categories0.headline6.text" = "Miłość, którą czuję, wspiera moją drogę do rodzicielstwa.";
+"Affirmation.Categories0.headline7.text" = "W każdej chwili jestem otwarty na cuda życia.";
+"Affirmation.Categories0.headline8.text" = "Manifestuję miłość, szczęście i spełnienie w mojej rodzinie.";
+"Affirmation.Categories0.headline9.text" = "Moje pragnienie posiadania dzieci zostanie spełnione w odpowiednim czasie.";
+"Affirmation.Categories0.headline10.text" = "Potrafię przyjąć pomoc i otrzymać wsparcie na swojej drodze.";
+"Affirmation.Categories0.headline11.text" = "Jestem gotowy na piękną ciążę.";
+"Affirmation.Categories0.headline12.text" = "Dobrze dbam o siebie.";
+"Affirmation.Categories0.headline13.text" = "Zaufam swojej intuicji.";
+"Affirmation.Categories0.headline14.text" = "Moja kolej nadejdzie.";
+"Affirmation.Categories0.headline15.text" = "Jestem zdrowy/zdrowa.";
+"Affirmation.Categories0.headline16.text" = "Jestem wdzięczny/wdzięczna za wszystko, co mam.";
+"Affirmation.Categories0.headline17.text" = "Jestem gotowy/gotowa na poczęcie dziecka.";
+"Affirmation.Categories0.headline18.text" = "Mam najlepsze warunki dla dziecka.";
+"Affirmation.Categories0.headline19.text" = "Mój organizm jest płodny.";
+"Affirmation.Categories0.headline20.text" = "Będę w ciąży.";
+"Affirmation.Categories0.headline21.text" = "Moje żeńskie ciało jest silne.";
+"Affirmation.Categories0.headline22.text" = "Jestem otwarty/otwarta na nowe doświadczenia.";
+"Affirmation.Categories0.headline23.text" = "Moje ciało jest silne i zdrowe: Wierzę, że moje ciało jest silne i zdrowe, gotowe przyjąć cud ciąży.";
+"Affirmation.Categories0.headline24.text" = "Każdy cykl zbliża mnie do celu: Każdy miesiączkowy cykl to kolejny krok na drodze do mojej ciąży. Każdy cykl przybliża mnie do mojego celu.";
+"Affirmation.Categories0.headline25.text" = "Jestem cierpliwy/cierpliwa i ufam procesowi: Dobre rzeczy potrzebują czasu. Ćwiczę cierpliwość i ufam, że wszystko stanie się we właściwym czasie.";
+"Affirmation.Categories0.headline26.text" = "Dbam o swoje zdrowie emocjonalne: Troszcząc się o swoje zdrowie emocjonalne, tworzę pozytywną przestrzeń dla optymalnego funkcjonowania mojego ciała.";
+"Affirmation.Categories0.headline27.text" = "Miłość i wsparcie mnie otaczają: Jestem otoczony/a miłością i wsparciem, czy to ze strony partnera, rodziny czy przyjaciół. Razem przechodzimy przez tę podróż.";
+"Affirmation.Categories0.headline28.text" = "Wizualizuję pozytywną przyszłość: Wizualizuję moje życie jako matka i radość, jaką przyniesie. Ta pozytywna wizja wzmacnia moją motywację.";
+"Affirmation.Categories0.headline29.text" = "Dbam o swoje ciało: Poprzez zdrowe odżywianie, regularne ćwiczenia i odpowiednią ilość snu dbam o swoje ciało i tworzę optymalne warunki dla ciąży.";
+"Affirmation.Categories0.headline30.text" = "Ustalam realne oczekiwania: Rozumiem, że zajście w ciążę wymaga czasu i zaangażowania. Ustalam realne oczekiwania i cieszę się z każdego postępu.";
+"Affirmation.Categories0.headline31.text" = "Moja miłość i zaangażowanie są cenne: Moje pragnienie założenia rodziny pokazuje moją miłość i zaangażowanie. Te cechy będą wspierać wzbogacające rodzicielstwo.";
+"Affirmation.Categories0.headline32.text" = "Każdy dzień to nowa szansa: Każdy dzień niesie nowe możliwości nadziei i sukcesu. Witam każdy dzień jako szansę na pozytywną zmianę.";
+"Affirmation.Categories0.headline33.text" = "Łączę się z moim partnerem: Podróż do zajścia w ciążę to wspólna podróż. Łączenie się z moim partnerem wzmacnia nasze wzajemne wsparcie.";
+"Affirmation.Categories0.headline34.text" = "Odpuszczam i się relaksuję: Odpuszczając i relaksując się, tworzę przestrzeń dla naturalnych procesów w moim ciele.";
+"Affirmation.Categories0.headline35.text" = "Kocham i akceptuję moje ciało: Bez względu na wyzwania, kocham i akceptuję moje ciało. Ta miłość przyczynia się do pozytywnego podejścia.";
+"Affirmation.Categories0.headline36.text" = "Każdy wysiłek jest wartościowy: Każdy krok, jaki podejmuję, czy to poprzez zdrowe nawyki czy wsparcie medyczne, to wartościowy wkład w mój cel.";
+"Affirmation.Categories0.headline37.text" = "Wierzę w swoje zdolności: Wierzę w moje zdolności jako przyszła mama. To pozytywne podejście wzmacnia moją wiarę w sukces.";
+"Affirmation.Categories0.headline38.text" = "Rozpoznaję stres i odpuszczam - robię miejsce dla zrelaksowanego pragnienia posiadania dzieci.";
+"Affirmation.Categories0.headline39.text" = "Mój umysł i ciało znajdują pokój na drodze do szczęścia z dzieckiem.";
+"Affirmation.Categories0.headline40.text" = "Ufam procesowi i redukuję stres dla harmonijnego poczęcia.";
+"Affirmation.Categories0.headline41.text" = "Relaksacja otwiera drogę dla mojego pragnienia posiadania dzieci.";
+"Affirmation.Categories0.headline42.text" = "Stres znika, gdy z miłością wyruszam na moją drogę.";
+"Affirmation.Categories0.headline43.text" = "Wydycham stres i wdycham poczęcie.";
+"Affirmation.Categories0.headline44.text" = "Moje spokojne nastawienie wspomaga płodność.";
+"Affirmation.Categories0.headline45.text" = "Każdy oddech przynosi spokój i pewność siebie.";
+"Affirmation.Categories0.headline46.text" = "W spokoju znajduję siłę dla mojego pragnienia posiadania dzieci.";
+"Affirmation.Categories0.headline47.text" = "Codziennie coraz bardziej odpuszczam stres.";
+
+
+"Affirmation.Categories1.headline0.text" = "Rozpoznaję moje lęki i miłościwie je odpuszczam - w drodze do mojego dziecka.";
+"Affirmation.Categories1.headline1.text" = "Moje zaufanie do mojego ciała przewyższa wszelkie obawy, jakie mam dotyczące posiadania dzieci.";
+"Affirmation.Categories1.headline2.text" = "Każdy oddech umacnia mnie w obliczu moich zmartwień i obaw.";
+"Affirmation.Categories1.headline3.text" = "Lęki ustępują, gdy skupiam się na mojej miłości do mojego dziecka.";
+"Affirmation.Categories1.headline4.text" = "Moje myśli są pozytywne, lęki nie mają miejsca w moim pragnieniu posiadania dziecka.";
+"Affirmation.Categories1.headline5.text" = "Jestem silny/silna i odważny/odważna, lęki nie mają wpływu na moją drogę.";
+"Affirmation.Categories1.headline6.text" = "Znajduję pokój w spokoju i pokonuję lęki.";
+"Affirmation.Categories1.headline7.text" = "Nadzieja na moje dziecko przysłania wszelkie lęki.";
+"Affirmation.Categories1.headline8.text" = "Moje serce jest wolne od lęków - miłość kieruje moje pragnienie posiadania dziecka.";
+"Affirmation.Categories1.headline9.text" = "Lęki rozpuszczają się, gdy się przygotowuję do mojego dziecka.";
+
+
+"Affirmation.Categories2.headline0.text" = "Jestem dobry/dobra tak, jak jestem.";
+"Affirmation.Categories2.headline1.text" = "W każdym oddechu wybieram pozytywność i pokój.";
+"Affirmation.Categories2.headline2.text" = "Każdy dzień to nowa okazja do wzrostu i szczęścia.";
+"Affirmation.Categories2.headline3.text" = "Miłość i światło płyną przez moje życie.";
+"Affirmation.Categories2.headline4.text" = "Przyciągam pozytywne energie i możliwości.";
+"Affirmation.Categories2.headline5.text" = "Moje serce jest otwarte na radość i wdzięczność.";
+"Affirmation.Categories2.headline6.text" = "Kształtuję swoje życie zgodnie z moimi marzeniami i wartościami.";
+"Affirmation.Categories2.headline7.text" = "Podążam ścieżką mojego przeznaczenia z pewnością siebie.";
+"Affirmation.Categories2.headline8.text" = "Jestem architektem mojego szczęścia i świadomie je kształtuję.";
+"Affirmation.Categories2.headline9.text" = "Moje wnętrze promieniuje pozytywnością, miłością i pokojem.";
+"Affirmation.Categories2.headline10.text" = "Promieniuję pozytywną energią i przyciągam dobre rzeczy.";
+"Affirmation.Categories2.headline11.text" = "Każdy dzień niesie nowe możliwości i pozytywne perspektywy.";
+"Affirmation.Categories2.headline12.text" = "Z każdym oddechem wzmacniam swój wewnętrzny pokój i siłę.";
+"Affirmation.Categories2.headline13.text" = "Miłość i światło towarzyszą mi na mojej drodze życiowej.";
+"Affirmation.Categories2.headline14.text" = "Jestem otwarty/a na wzrost, szczęście i pozytywne zmiany.";
+"Affirmation.Categories2.headline15.text" = "Moje serce jest pełne miłości i wdzięczności.";
+"Affirmation.Categories2.headline16.text" = "Kształtuję swoje życie świadomie i pozytywnie.";
+"Affirmation.Categories2.headline17.text" = "Optymizm jest moim stałym towarzyszem.";
+"Affirmation.Categories2.headline18.text" = "Jestem twórcą mojej własnej pozytywnej rzeczywistości.";
+"Affirmation.Categories2.headline19.text" = "Moje życie jest wypełnione radością, miłością i pozytywnymi doświadczeniami.";
+"Affirmation.Categories2.headline20.text" = "Myśl pozytywnie, żyj pozytywnie - każdego dnia na nowo.";
+"Affirmation.Categories2.headline21.text" = "Jestem architektem mojego szczęścia i świadomie je kształtuję.";
+"Affirmation.Categories2.headline22.text" = "Radość życia płynie przez mnie, dzień po dniu.";
+"Affirmation.Categories2.headline23.text" = "Znajduję powody do wdzięczności w każdej chwili.";
+"Affirmation.Categories2.headline24.text" = "Moje myśli tworzą świat pełen pozytywności.";
+"Affirmation.Categories2.headline25.text" = "Jestem magnesem dla dobrej energii i chwil szczęścia.";
+"Affirmation.Categories2.headline26.text" = "Kształtuję swoje życie pełne optymizmu z pewnością siebie.";
+"Affirmation.Categories2.headline27.text" = "Znajduję głęboką radość w prostocie życia.";
+"Affirmation.Categories2.headline28.text" = "Pozytywność jest moim źródłem siły, które mnie wspiera.";
+"Affirmation.Categories2.headline29.text" = "Moje serce bije w rytmie pozytywnych możliwości.";
+"Affirmation.Categories2.headline30.text" = "Jestem twórcą mojej rzeczywistości. Dziś wybieram miłość, radość i pokój.";
+"Affirmation.Categories2.headline31.text" = "Każdy oddech odświeża mój duch. Jestem gotowy/gotowa na obfitość, którą przynosi mi ten dzień.";
+"Affirmation.Categories2.headline32.text" = "Z każdym nowym dniem moja siła i mądrość rosną.";
+"Affirmation.Categories2.headline33.text" = "Ufam w proces życia i pozwalam sobie na to, co nie jest pod moją kontrolą.";
+"Affirmation.Categories2.headline34.text" = "Dziś otwieram swoje serce na nowe możliwości i pozytywne spotkania.";
+"Affirmation.Categories2.headline35.text" = "Głęboka serenada spoczywa we mnie. Jestem w harmonii z moim wewnętrznym spokojem.";
+"Affirmation.Categories2.headline36.text" = "Jestem magnesem dla pozytywnych energii. Dobre rzeczy przyciągają dobre rzeczy.";
+"Affirmation.Categories2.headline37.text" = "Mój dzień zaczyna się od miłości i kończy wdzięcznością.";
+"Affirmation.Categories2.headline38.text" = "Jestem architektem moich marzeń. Dziś buduję moje szczęście.";
+"Affirmation.Categories2.headline39.text" = "Moje ciało jest zdrowe, mój umysł jest klarowny. Jestem gotowy/gotowa na przygody tego dnia.";
+
+
+"Affirmation.Categories3.headline0.text" = "Silni razem: Znajdujemy miłość i wsparcie w naszym partnerstwie.";
+"Affirmation.Categories3.headline1.text" = "Każdego dnia wzmacniamy naszą miłość i więź z sobą.";
+"Affirmation.Categories3.headline2.text" = "Zaufanie i szacunek rosną w naszym związku.";
+"Affirmation.Categories3.headline3.text" = "Nasza miłość pokonuje każde wyzwanie razem.";
+"Affirmation.Categories3.headline4.text" = "Razem tworzymy przestrzeń dla radości i wzajemnego rozwoju.";
+"Affirmation.Categories3.headline5.text" = "Miłość jest naszym kotwicą we wszystkich sytuacjach.";
+"Affirmation.Categories3.headline6.text" = "Nasze partnerstwo cechuje zrozumienie i komunikacja.";
+"Affirmation.Categories3.headline7.text" = "Znajdujemy siłę i szczęście w naszej miłości.";
+"Affirmation.Categories3.headline8.text" = "Idziemy razem za rękę przez wzloty i upadki, umacniani przez naszą miłość.";
+"Affirmation.Categories3.headline9.text" = "Nasz związek jest miejscem miłości i wspólnych marzeń.";
+"Affirmation.Categories3.headline10.text" = "Nasza miłość rośnie z każdą chwilą, którą spędzamy razem.";
+"Affirmation.Categories3.headline11.text" = "W naszym partnerstwie jest miejsce na zaufanie i śmiech.";
+"Affirmation.Categories3.headline12.text" = "Razem tworzymy miłość, która jest silna i niezachwiana.";
+"Affirmation.Categories3.headline13.text" = "Doskonale się uzupełniamy, nasze partnerstwo jest pełne harmonii.";
+"Affirmation.Categories3.headline14.text" = "W naszym związku jest miejsce na miłość, wolność i szacunek.";
+"Affirmation.Categories3.headline15.text" = "Nasze połączenie jest źródłem radości i szczęścia.";
+"Affirmation.Categories3.headline16.text" = "Miłość i akceptacja charakteryzują nasze partnerstwo.";
+"Affirmation.Categories3.headline17.text" = "Razem pokonujemy każde wyzwanie, umacniani przez naszą miłość.";
+"Affirmation.Categories3.headline18.text" = "Znajdujemy pokój i bezpieczeństwo w naszej miłości.";
+"Affirmation.Categories3.headline19.text" = "Nasze partnerstwo to podróż pełna miłości i wspólnych doświadczeń.";
+
+
+// RatingScreenMenu.swift
+"RatingScreenMenu.headlineLabel.text" = "Prosimy o ocenę aplikacji!";
+"RatingScreenMenu.subtitleLabel.text" = "Aby nadal korzystać z aplikacji za darmo, poświęć kilka sekund na sprawdzenie aplikacji w App Store, aby docenić naszą pracę.";
+"RatingScreenMenu.subtitleLabel2.text" = "Po przesłaniu recenzji prześlij zrzut ekranu swojej recenzji jako dowód.";
+"RatingScreenMenu.reviewNowButton.title" = "Przejrzyj teraz";
+"RatingScreenMenu.uploadScreenshotButton.title" = "Prześlij zrzut ekranu";
+
+// InAppPurchaseOfferMenu.swift
+"InAppPurchaseOfferMenu.purchaseButton.titleLabel.text" = "Odblokuj wszystko";
+"InAppPurchaseOfferMenu.purchaseButton.subtitleLabel.text" = "Jednorazowo";
+
+
+// MARK: PodcastsVC
+"PodcastsVC.headlineLabel.text" = "Categories";
+"PodcastsVC.audioHeadlineLabel.text" = "Głęboka relaksacja poprzez progresywną relaksację mięśni";
+"PodcastsVC.audioSubtitleLabel.text" = "Pozbycie się stresu, wzmocnienie świadomości ciała, odnalezienie wewnętrznego spokoju";
+"PodcastArticleVC.headlineLabel.text" = "Relaksacja i Poczęcie. Dlaczego to ważne?";
+"PodcastArticleVC.subtitleLabel.text" = "Poczucie relaksu podczas starań o poczęcie jest kluczowe zarówno dla ciała, jak i umysłu. Stres i niepokój mogą zakłócać równowagę hormonalną, utrudniając zajście w ciążę. Dlatego w tej sekcji znajdziesz sesje Progresywnej Relaksacji Mięśni (PMR) – zaprojektowane tak, aby pomóc Ci rozluźnić napięcie, uspokoić umysł i stworzyć idealne warunki do poczęcia.
+
+PMR działa poprzez systematyczne napinanie i rozluźnianie różnych grup mięśniowych, co pomaga obniżyć poziom kortyzolu, poprawić krążenie i zwiększyć ogólne samopoczucie. To nie tylko redukuje stres i niepokój, ale także wspiera lepszy sen, równowagę emocjonalną i bardziej podatny stan do poczęcia.
+
+Weź głęboki oddech, odpręż się i pozwól swojemu ciału odnaleźć naturalny rytm z Ovulio Baby.";
+
+// MARK: NameGenerateVC
+
+"NameGenerateVC.headlineLabel.text" = "Generator imion";
+"NameGenerateVC.chooseName.text" = "Wybierz imię dla";
+"NameGenerateVC.region.text" = "Region (opcjonalnie)";
+"NameGenerateVC.lastName.text" = "Nazwisko (opcjonalnie)";
+"NameGenerateVC.chooseStyle.text" = "Wybierz styl";
+"NameGenerateVC.chooseLength.text" = "Wybierz długość";
+"NameGenerateVC.region.placeholder.text" = "Wybierz region do dostosowania imienia";
+"NameGenerateVC.lastnme.placeholder.text" = "Twoje nazwisko";
+"NameGenerateVC.chooseStyle.label1.text" = "Nowoczesne";
+"NameGenerateVC.chooseStyle.label2.text" = "Na czasie";
+"NameGenerateVC.chooseStyle.label3.text" = "Tradycyjne";
+"NameGenerateVC.chooseStyle.label4.text" = "Biblijne";
+"NameGenerateVC.chooseStyle.label5.text" = "Unikalne";
+"NameGenerateVC.chooseStyle.label6.text" = "Zabawne";
+
+"NameGenerateVC.chooseLength.label1.text" = "Bez znaczenia";
+"NameGenerateVC.chooseLength.label2.text" = "Trzyliterowe";
+"NameGenerateVC.chooseLength.label3.text" = "Jednosylabowe";
+"NameGenerateVC.chooseLength.label4.text" = "Średniej długości";
+"NameGenerateVC.chooseLength.label5.text" = "Długie";
+"NameGenerateVC.chooseLength.label6.text" = "Podwójne imię";
+
+"NameGenerateVC.generateButton.text" = "Generuj";
+"NameGenerateVC.gender.unisex.text" = "Uniseks";
+"NameGenerateVC.loader.generatingName.text" = "Generowanie imion";
+
+// MARK: SwipeNameCardVC
+"SwipeNameCardVC.header.text" = "Przesuń wizytówki";
+"SwipeNameCardVC.lastName.text" = "Nazwisko";
+
+// MARK: FavouriteNameVC
+"FavouriteNameVC.headlineLabel.text" = "Ulubione imiona";
+"FavouriteNameVC.girlsNames.text" = "Imiona żeńskie:";
+"FavouriteNameVC.unisexNames.text" = "Imiona uniseks:";
+"FavouriteNameVC.boysNames.text" = "Imiona męskie:";
+
+// MARK: ChooseRegionVC
+"ChooseRegionVC.headlineLabel.text" = "Wybierz region";
+"ChooseRegionVC.searchRegion.placeholder.text" = "Szukaj regionu";
+"ChooseRegionVC.HeaderSection.text" = "SUGEROWANE";

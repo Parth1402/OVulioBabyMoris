@@ -1,0 +1,1229 @@
+/* 
+  Localizable.strings
+  Ovulio Baby
+
+  Created by Jash on 2023-10-08.
+  
+*/
+
+
+// General UI
+"UIAlertController.continueButton" = "Doorgaan";
+"UIAlertController.cancelButton" = "Annuleren";
+"UIAlertController.deleteButton" = "Verwijderen";
+"UIAlertController.okButton" = "OK";
+"UIAlertController.laterButton" = "Later";
+"UIAlertController.noButton" = "Nee";
+"UIAlertController.backButton" = "Terug";
+
+
+// MARK: FirstOnBoardingPageVC
+"FirstOnBoardingPageVC.Button.Next.headlineLabel.text" = "Volgende";
+"FirstOnBoardingPageVC.Button.Skip.headlineLabel.text" = "Overslaan";
+"FirstOnBoardingPageVC.Button.Allow.headlineLabel.text" = "Toestaan";
+
+// MARK: WithEaseOnBoardingVC
+"WithEaseOnBoardingVC.headlineLabel.text" = "Met gemak en passie naar het verlangen naar een baby";
+
+// MARK: TrackFertilityOnBoardingVC
+"TrackFertilityOnBoardingVC.headlineLabel.text" = "Volg je vruchtbaarheid op!";
+"TrackFertilityOnBoardingVC.headlineDescriptionLabel.text" = "Begin aan een ontdekkingsreis terwijl je je ovulatie- en cyclusgegevens bijhoudt";
+
+// MARK: InfluenceGenderOnBoardingVC
+"InfluenceGenderOnBoardingVC.headlineLabel.text" = "Beïnvloed het geslacht van je baby!";
+"InfluenceGenderOnBoardingVC.headlineDescriptionLabel.text" = "Leer hoe dieet, seksposities en het juiste moment om intiem te zijn het geslacht van je baby kunnen beïnvloeden";
+
+// MARK: DevelopedExpertOnBoardingVc
+"DevelopedExpertOnBoardingVc.headlineLabel.text" = "Ontwikkeld met experts!";
+"DevelopedExpertOnBoardingVc.headlineDescriptionLabel.text" = "Door overleg met verloskundigen, gynaecologen en andere gezondheidsdeskundigen zorgen we voor uw veiligheid en welzijn";
+"DevelopedExpertOnBoardingVc.ExpertName.headlineLabel.text" = "Dr. Muller, gynaecoloog";
+
+// MARK: OurReferencesOnBoardingVC
+"OurReferencesOnBoardingVC.headlineLabel.text" = "Onze referenties spreken voor zich";
+"OurReferencesOnBoardingVC.headlineDescriptionLabel.text" = "Met onze app Scratch Adventure hebben we de top van de App Store-hitlijsten wereldwijd gehaald, meer dan 2,5 miljoen downloads behaald en lovende recensies gekregen!";
+
+// MARK: ReceiveNotificationsOnBoardingVC
+"ReceiveNotificationsOnBoardingVC.headlineLabel.text" = "Wil je meldingen ontvangen?";
+"ReceiveNotificationsOnBoardingVC.headlineDescriptionLabel.text" = "Sta Ovulio Baby toe om toegang te krijgen tot je meldingen en mis nooit meer een cruciale datum!";
+
+// MARK: SecondOnBoardingPageVC
+"SecondOnBoardingPageVC.Button.Submit.headlineLabel.text" = "Verzenden";
+"SecondOnBoardingPageVC.Button.SkipStep.headlineLabel.text" = "Stap overslaan";
+"SecondOnBoardingPageVC.Button.LetsGo.headlineLabel.text" = "Laten we gaan";
+
+// MARK: WhoPlayingOnBoardingVC
+"WhoPlayingOnBoardingVC.headlineLabel.text" = "Wie speelt er mee?";
+
+// MARK: MentruationCycleOnBoardingVC
+"MentruationCycleOnBoardingVC.headlineLabel.text" = "Hallo";
+"MentruationCycleOnBoardingVC.headlineDescriptionLabel.text" = "We hebben wat meer gegevens nodig om de meest gunstige dag voor conceptie te voorspellen";
+
+// MARK: TermsConditionOnBoardingVC
+"TermsConditionOnBoardingVC.headlineLabel.text" = "Welkom!";
+"TermsConditionOnBoardingVC.headlineDescriptionLabel.text" = "Ovulio Baby is uitsluitend bedoeld voor educatieve en informatieve doeleinden. Hoewel we hebben samengewerkt met medische experts om nauwkeurige en betrouwbare informatie te verstrekken, vervangt deze app niet de begeleiding van een gekwalificeerde zorgverlener. De informatie en tools die Ovulio Baby biedt, zijn geen vervanging voor professioneel medisch advies. Ovulio Baby kan de nauwkeurigheid, volledigheid of geschiktheid van de verstrekte informatie niet garanderen, aangezien individuele omstandigheden kunnen variëren. Hoewel Ovulio Baby deskundig advies en inzicht biedt in conceptie en genderbeïnvloeding, kan de natuur op de best mogelijke momenten onvoorspelbaar zijn, gebruikersresultaten en succes kunnen variëren. Het gebruik van deze app is op eigen risico, en we wijzen elke verantwoordelijkheid af voor enige acties die zijn ondernomen op basis van de verstrekte informatie of tools. Door Ovulio Baby te gebruiken, erkent u dat u deze disclaimer hebt gelezen en begrepen en gaat u akkoord met verantwoord gebruik van de app, in samenwerking met het advies en de begeleiding van een gekwalificeerde zorgverlener indien nodig.";
+"TermsConditionOnBoardingVC.agreementLabel.text" = "We bevestigen dat we de Algemene Voorwaarden, Privacybeleid en Disclaimer hebben gelezen en accepteren.";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.termsAndConditions" = "Algemene Voorwaarden";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.privacyPolicy" = "Privacybeleid";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer" = "Disclaimer";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer_tappable" = "Disclaimer";
+"TermsConditionOnBoardingVC.alert.previewTerms.title" = "Voorbeeld Algemene Voorwaarden";
+"TermsConditionOnBoardingVC.alert.previewTerms.message" = "Ga akkoord met onze voorwaarden voordat je verdergaat. (Klik op de paars omlijnde afgeronde knop)";
+
+// MARK: HomeViewController
+"HomeViewController.headlineLabel.text" = "Ouderdom Reis";
+"HomeViewController.headlineDescriptionLabel.text" = "Dit is jouw unieke reis en we zijn hier om je elke stap van de weg te ondersteunen!";
+
+"HomeViewController.YourGoalCell.headlineLabel.text" = "Jouw doel";
+"HomeViewController.YourGoalCell.conceiveChildLabel.text" = "Een kind verwekken binnen de komende maanden";
+"HomeViewController.YourGoalCell.conceiveBoyLabel.text" = "Een jongen verwekken binnen de komende maanden";
+"HomeViewController.YourGoalCell.conceiveGirlLabel.text" = "Een meisje verwekken binnen de komende maanden";
+
+"HomeViewController.categories.headlineLabel.text" = "Categorieën";
+"HomeViewController.categories.games.headlineLabel.text" = "Spellen";
+"HomeViewController.categories.games.headlineDescriptionLabel.text" = "Seksposities en locaties";
+"HomeViewController.categories.calendar.headlineLabel.text" = "Kalender";
+"HomeViewController.categories.calendar.headlineDescriptionLabel.text" = "Chinese Maan- en Vruchtbaarheidskalender";
+"HomeViewController.categories.learningResources.headlineLabel.text" = "Leermiddelen";
+"HomeViewController.categories.learningResources.headlineDescriptionLabel.text" = "Conceptie Masterclass";
+"HomeViewController.categories.postcastCategory.headlineLabel.text" = "Ontspan en bedenk";
+"HomeViewController.categories.postcastCategory.headlineDescriptionLabel.text" = "Verminder stress en ondersteun uw vruchtbaarheid op natuurlijke wijze";
+"HomeViewController.categories.upgrade.headlineLabel.text" = "Upgrade nu om alles te ontgrendelen";
+"HomeViewController.categories.DiceToSpice.headlineLabel.text" = "Dobbel om te kruiden";
+"HomeViewController.categories.DiceToSpice.headlineDescriptionLabel.text" = "Gooi dobbelstenen met sexy uitdagingen";
+"HomeViewController.categories.Affirmation.headlineLabel.text" = "Affirmaties";
+"HomeViewController.categories.Affirmation.headlineDescriptionLabel.text" = "Positieve affirmaties om te helpen bij het zwanger worden";
+"HomeViewController.categories.Yoga.headlineLabel.text" = "Yoga";
+"HomeViewController.categories.Yoga.headlineDescriptionLabel.text" = "Yogahoudingen om te helpen bij conceptie";
+"HomeViewController.categories.NameGenetrate.headlineLabel.text" = "Generator voor babynamen";
+
+// MARK: YourGoalSelectionVC
+"YourGoalSelectionVC.headlineLabel.text" = "Met wie wil je een kind verwekken?";
+"YourGoalSelectionVC.gender.boy.text" = "Jongen";
+"YourGoalSelectionVC.gender.girl.text" = "Meisje";
+"YourGoalSelectionVC.gender.doesntMatter.text" = "Maakt niet uit";
+
+// MARK: YogaVC
+"YogaVC.headlineLabel.text" = "Yogahoudingen";
+"YogaVC.FertilityPositions.headlineLabel.text" = "Vruchtbaarheids\nhoudingen";
+"YogaVC.PrenatalYoga.headlineLabel.text" = "Zwangerschaps\nyoga";
+"YogaVC.FertilityPositions.headlineDescriptionLabel.text" = "Probeer deze yogahoudingen om je vruchtbaarheid te verhogen.";
+
+// MARK: YogaDetailVC
+"YogaDetailVC.headlineLabel.text" = "Krabbel over het veld\nmet je vinger";
+
+// MARK: GamesVC
+"GamesVC.headlineLabel.text" = "Spellen";
+"GamesVC.UnlockForMoreFunButton.Locations.title" = "Ontdek meer locaties";
+"GamesVC.UnlockForMoreFunButton.Extras.title" = "Verken meer Extra's";
+
+"GamesVC.ScoreAndCardsHeader.scoreView.headlineLabel.text" = "Jouw score:";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Novice.text" = "Beginneling";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Experienced.text" = "Ervaren";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Expert.text" = "Expert";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SeductionMaster.text" = "Verleidingsmeester";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.KingOfLust.text" = "Koning van Lust";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SexGod.text" = "Seksgod";
+"GamesVC.ScoreAndCardsHeader.cardView.headlineLabel.text" = "Kaarten gekrast:";
+
+"GamesVC.LevelsAndPositionCardsHeader.headlineLabel.text" = "Kies een niveau en krabbel een liefdesuitdaging";
+
+"GamesVC.LocationsHeader.headlineLabel.text" = "Markeer de locaties";
+"GamesVC.LocationsHeader.headlineDescriptionLabel.text" = "Probeer nieuwe seksplekken uit en vink ze af zodra je ze hebt gedaan";
+
+"GamesVC.ExtrasHeader.headlineLabel.text" = "Spannende extra's";
+"GamesVC.ExtrasHeader.headlineDescriptionLabel.text" = "Durft uitdagende extra's te proberen en verlaat je comfortzone";
+
+"GamesVC.LevelsAndPositionCardsHeader.level1.headlineLabel.text" = "Niveau 1";
+"GamesVC.LevelsAndPositionCardsHeader.level2.headlineLabel.text" = "Niveau 2";
+"GamesVC.LevelsAndPositionCardsHeader.level3.headlineLabel.text" = "Niveau 3";
+"GamesVC.LevelsAndPositionCardsHeader.InCar.headlineLabel.text" = "In de auto";
+"GamesVC.LevelsAndPositionCardsHeader.InBath.headlineLabel.text" = "In bad";
+"GamesVC.LevelsAndPositionCardsHeader.Bondage.headlineLabel.text" = "Bondage";
+"GamesVC.LevelsAndPositionCardsHeader.easy.headlineLabel.text" = "Makkelijk";
+"GamesVC.LevelsAndPositionCardsHeader.medium.headlineLabel.text" = "Gemiddeld";
+"GamesVC.LevelsAndPositionCardsHeader.complicated.headlineLabel.text" = "Gecompliceerd";
+"GamesVC.LevelsAndPositionCardsHeader.sparkling.headlineLabel.text" = "Sprankelend";
+"GamesVC.LevelsAndPositionCardsHeader.kinky.headlineLabel.text" = "Kinky";
+"GamesVC.LevelsAndPositionCardsHeader.captivating.headlineLabel.text" = "Boeiend";
+"GamesVC.LevelsAndPositionCardsHeader.Point.text" = "punt";
+"GamesVC.LevelsAndPositionCardsHeader.Points.text" = "punten";
+
+// MARK: GameCardScrachVC
+"GameCardScrachVC.headlineLabel.text" = "Krabbel over het veld met je vinger";
+"GameCardScrachVC.Button.Back.headline.text" = "Terug";
+"GameCardScrachVC.Button.Done.headline.text" = "Klaar";
+"GameCardScrachVC.Button.Reset.headline.text" = "Herstellen";
+"GameCardScrachVC.Probability.headline.text" = "Kans:";
+
+// MARK: GameLegsUpVC
+"GameLegsUpVC.headlineLabel.text" = "Vergeet niet om je benen omhoog te leggen en een kussen onder je rug te leggen!";
+"GameLegsUpVC.Button.GotIt.text" = "Begrepen!";
+"GameLegsUpVC.Button.DontShowAgain.headline.text" = "Niet meer weergeven";
+
+// MARK: LearningResourcesVC
+"LearningResourcesVC.headlineLabel.text" = "Leermiddelen";
+"LearningResourcesVC.articles.ohBaby.headline" = "Seksuele intimiteit tijdens de zwangerschap";
+"LearningResourcesVC.articles.theRoadBeforeTheBump.headline" = "Maak het zwanger worden leuk";
+"LearningResourcesVC.articles.chineseConceptionCalendar.headline" = "Chinese conceptiekalender";
+"LearningResourcesVC.articles.positionPerfect.headline" = "Conceptie- en geslachtsposities";
+"LearningResourcesVC.articles.babyliciousNutritious.headline" = "Vruchtbaar voedsel om zwangerschap te bevorderen";
+"LearningResourcesVC.articles.fertilityCalendar.headline" = "Vruchtbaarheidscalender";
+"LearningResourcesVC.articles.waysToShowYour.headline" = "5 manieren om je zwangere partner liefde te tonen";
+"LearningResourcesVC.articles.hitTheGym.headline" = "Naar de sportschool? Sporten als je zwanger probeert te worden";
+"LearningResourcesVC.articles.howToSupportYourPartner.headline" = "Miskramen";
+"LearningResourcesVC.articles.ohBabySexAfterChildbirth.headline" = "Seks na de bevalling";
+"LearningResourcesVC.UnlockForMoreFunButton.Masterclass.title" = "Ontgrendel de volledige masterclass";
+
+
+// MARK: LearningResourceArticleVC
+"LearningResourceArticleVC.headlineLabel.text" = "Artikel";
+"LearningResourceArticleVC.ReadFullMasterclass.headline.text" = "Lees volledige masterclass";
+"LearningResourceArticleVC.ReadFullMasterclass.subtitle.text" = "Deze masterclass is alleen beschikbaar voor leden van Ovulio Baby Conceptie. Upgrade om direct deze masterclass te ontgrendelen plus andere exclusieve voordelen voor leden.";
+
+// MARK: CalendarPageVC
+"CalendarPageVC.segment.LunarCalendar.headlineLabel.text" = "Chinese maankalender";
+"CalendarPageVC.segment.FertilityCalendar.headlineLabel.text" = "Vruchtbaarheidscalender";
+
+// MARK: CalendarVC
+"LunarCalendarVC.headlineLabel.text" = "Chinese Kalender";
+"LunarCalendarVC.ChooseYear.text" = "Kies een jaar";
+
+"LunarCalendarVC.LunarCalendarCell.Boy.text" = "Jongen";
+"LunarCalendarVC.LunarCalendarCell.Girl.text" = "Meisje";
+
+// MARK: OvulationCalendarVC
+"OvulationCalendarVC.headlineLabel.text" = "Vruchtbaarheidscalender";
+"OvulationCalendarVC.Ovulation.headlineLabel.text" = "Eisprong";
+"OvulationCalendarVC.HighFertileday.headlineLabel.text" = "Hoog vruchtbare dag";
+"OvulationCalendarVC.Fertileday.headlineLabel.text" = "Vruchtbare dag";
+"OvulationCalendarVC.Periodday.headlineLabel.text" = "Menstruatiedag";
+"OvulationCalendarVC.Daysbefore.headlineLabel.text" = "Dagen voor";
+"OvulationCalendarVC.probability.low.text" = "Laag";
+"OvulationCalendarVC.probability.high.text" = "Hoog";
+"OvulationCalendarVC.probability.veryHigh.text" = "Zeer hoog";
+"OvulationCalendarVC.probability.highest.text" = "Hoogste";
+"OvulationCalendarVC.detailsChanceStaticLabel.text" = "Kans om\nzwanger te worden";
+
+"OvulationCalendarVC.demoData.demo.headline.text" = "Demo";
+"OvulationCalendarVC.demoData.data.headline.text" = "gegevens";
+"OvulationCalendarVC.probability.headline.text" = "Kans";
+"OvulationCalendarVC.probability.boy.headline.text" = "Jongen";
+"OvulationCalendarVC.probability.girl.headline.text" = "Meisje";
+
+// MARK: CalendarDesignationsVC
+"CalendarDesignationsVC.headlineLabel.text" = "Aanduidingen";
+"CalendarDesignationsVC.details.menstruation.text" = "Menstruatie";
+"CalendarDesignationsVC.details.predictedMenstruation.text" = "Voorspelde menstruatie";
+"CalendarDesignationsVC.details.fertileWindow.text" = "Vruchtbaar venster";
+"CalendarDesignationsVC.details.estimatedDayOfOvulation.text" = "Geschatte dag van ovulatie";
+"CalendarDesignationsVC.details.saveDay.text" = "Bespaar dag";
+
+
+// MARK: DemoDataAlertVC
+"DemoDataAlertVC.headlineLabel.text" = "Waarschuwing!";
+"DemoDataAlertVC.subtitle.text" = "Deze gegevens zijn niet waar en hebben niets te maken met uw echte cyclus, vernieuw uw abonnement om de app optimaal te kunnen gebruiken";
+
+// MARK: SalesVC
+"SalesVC.headlineLabel.text" = "Verkoop";
+"SalesVC.button.UnlockForMoreFun.text" = "Ontgrendel voor meer plezier";
+"SalesVC.button.Continue.text" = "Doorgaan";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.text" = "Krijg onbeperkte toegang tot je Baby\nConceptieplan!";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.ColoredString.text" = "Conceptieplan!";
+"SalesVC.YourBabyWishGenderIs.headline.text" = "Je babywensgeslacht is";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.headline.text" = "een jongetje";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.coloredString.headline.text" = "jongetje";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.headline.text" = "een meisje";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.coloredString.headline.text" = "meisje";
+"SalesVC.YourBabyWishGenderIs.DoesntMatter.headline.text" = "een jongen/meisje";
+"SalesVC.details.headlineLabel.Unlock all features.text" = "Ontgrendel alle functies";
+"SalesVC.details.headlineLabel.Unlock all features.ColoredString.text" = "functies";
+"SalesVC.details.Unlock all features.Monthly gender Predictions.text" = "Maandelijkse geslachtsvoorspellingen";
+"SalesVC.details.Unlock all features.Unlimited Ovulation Insights.text" = "Onbeperkte ovulatie-inzichten";
+"SalesVC.details.Unlock all features.Gender Influencing Sex Practices.text" = "Geslachtsinvloed op seksoefeningen";
+"SalesVC.details.Unlock all features.Access to Expert written Articles.text" = "Toegang tot door experts geschreven artikelen";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.text" = "Toekomstige ouders kunnen niet stoppen met loven";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.ColoredString.text" = "ouders";
+"SalesVC.details.Future parents can’t stop raving.Higher Chance of getting Pregnant.text" = "Hogere kans om zwanger te worden";
+"SalesVC.details.Future parents can’t stop raving.Improved Intimacy routine.text" = "Verbeterde intimiteitsroutine";
+"SalesVC.details.Future parents can’t stop raving.Regular updates with new features.text" = "Regelmatige updates met nieuwe functies";
+"SalesVC.details.Future parents can’t stop raving.Anti-boring guarantee.text" = "Anti-verveel garantie";
+"SalesVC.details.headlineLabel.Developed with\nexperts.text" = "Ontwikkeld met\nexperts";
+"SalesVC.details.headlineLabel.Developed with\nexperts.ColoredString.text" = "experts";
+"SalesVC.details.Developed with\nexperts.subtitleHeadlineText.text" = "Ovulio Baby is ontwikkeld in samenwerking met medische professionals en gecertificeerde sekscoaches. Maak kennis met enkele van onze experts hieronder...";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.text" = "Kies je baby\nconceptieplan";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.coloredString.text" = "conceptieplan";
+"SalesVC.details.Choose your baby\nconception plan.subtitleText.text" = "Abonnementen worden in rekening gebracht op uw creditcard via uw iTunes-account. Uw abonnementen worden automatisch verlengd, tenzij automatisch verlengen ten minste 24 uur voor het einde van de huidige periode is uitgeschakeld. Uw account wordt in rekening gebracht volgens uw plan voor verlenging binnen 24 uur voor het einde van de huidige periode. U kunt automatisch verlengen beheren of uitschakelen in de accountinstellingen van uw Apple ID op elk gewenst moment na aankoop.";
+"SalesVC.details.reviews.userName1.text" = "Penny";
+"SalesVC.details.reviews.userName1.comment.text" = "Ik ben zo onder de indruk van de nauwkeurigheid van de kalenders! Ze waren zo gemakkelijk te navigeren en te gebruiken. Dankzij Ovulio Baby ken ik mijn cyclus als mijn broekzak.";
+"SalesVC.details.reviews.userName2.text" = "Michael en Laura";
+"SalesVC.details.reviews.userName2.comment.text" = "We hebben Ovulio Baby gebruikt om ons tweede kind te verwekken en het was zo'n leuk proces. De spellen brachten ons seksleven naar een totaal nieuw niveau, en we zijn closer dan ooit!";
+"SalesVC.details.reviews.userName3.text" = "Astrid";
+"SalesVC.details.reviews.userName3.comment.text" = "De artikelen zijn echt gaaf, ik heb genoten van het leeraspect van de app. Mijn man en ik zijn nu zwangerschapsprofs!";
+"SalesVC.details.reviews.userName4.text" = "Philip en Sarah";
+"SalesVC.details.reviews.userName4.comment.text" = "We hebben eindelijk een meisje gekregen, na twee jongens! Ik zou de Maankalender ten zeerste aanbevelen aan iedereen die op zoek is naar een bepaald geslacht. Het was eenvoudig te gebruiken en het beste van alles, we krijgen nu een meisje.";
+"SalesVC.details.reviews.userName5.text" = "Megan en Adam";
+"SalesVC.details.reviews.userName5.comment.text" = "We zijn pas net begonnen met het gebruiken hiervan en we zijn nu al verliefd. Het is zo'n diverse app met zoveel speciale functies en informatie. Ik weet zeker dat we binnenkort ouders zullen zijn!";
+"SalesVC.details.reviews.userName6.text" = "Melanie";
+"SalesVC.details.reviews.userName6.comment.text" = "Ik zag altijd een jongen voor me, nadat ik Ovulio Baby had gevonden en vervolgens zwanger was geworden van mijn zoon kort daarna, is die droom nu werkelijkheid geworden! Geweldige app";
+"SalesVC.spalert.success.title" = "Klaar!";
+"SalesVC.spalert.success.message" = "Uw upgrade naar PRO was succesvol";
+"SalesVC.plans.1week.headline.text" = "1 Week";
+"SalesVC.plans.1week.details.text" = "wekelijks gefactureerd";
+"SalesVC.plans.1week.priceDetails.perWeek.text" = "per week";
+"SalesVC.plans.3Months.headline.text" = "3 maanden";
+"SalesVC.plans.3Months.details.text" = "elke 3 maanden gefactureerd";
+"SalesVC.plans.3Months.typeTitle.headline.text" = "Beste waarde";
+"SalesVC.plans.3Months.discount.headline.text" = "BESPAAR 75%";
+
+// MARK: SalesVC
+"SalesVC.plans.1Month.typeTitle.headline.text" = "Populair";
+"SalesVC.plans.1Month.headline.text" = "1 maand";
+"SalesVC.plans.1Month.details.text" = "maandelijks gefactureerd";
+"SalesVC.plans.1Month.discount.headline.text" = "BESPAAR 50%";
+"SalesVC.plans.1Month.fullDiscount.headline.text" = "BESPAAR 100%";
+"SalesVC.plans.1Month.details.afterword.text" = "Nawoorden: ";
+"SalesVC.plans.1Month.details.monthly.text" = "maandelijks";
+
+"SalesVC.plans.lifetime.typeTitle.headline.text" = "Alleen nu";
+"SalesVC.plans.lifetime.headline.text" = "Levenslang";
+"SalesVC.plans.lifetime.details.text" = "eenmalig";
+"SalesVC.plans.lifetime.discount.headline.text" = "bespaar 90%";
+
+
+// MARK: YearPickerPopUpVC
+"YearPickerPopUpVC.headlineLabel.text" = "Selecteer een jaar";
+
+// MARK: ProfileVC
+"ProfileVC.headlineLabel.text" = "Profiel";
+"ProfileVC.headlineLabel.notEnoughData.text" = "Niet genoeg gegevens";
+"ProfileVC.buttons.saveChanges.text" = "Wijzigingen opslaan";
+
+"ProfileVC.ProfileImagTextCell.enterMotherName.text" = "Voer de naam van de moeder in";
+"ProfileVC.ProfileImagTextCell.enterFatherName.text" = "Voer de naam van de vader in";
+"ProfileVC.ProfileImagTextCell.Mother.text" = "Moeder";
+"ProfileVC.ProfileImagTextCell.Father.text" = "Vader";
+
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.text" = "Baby:";
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.notEnoughData.text" = "Wie wil je verwekken:";
+
+"ProfileVC.ProfileMentruationCycleCell.headlineLabel.text" = "Eerste dag van je laatste menstruatie:";
+"ProfileVC.ProfileMentruationCycleCell.cycleLength.headlineLabel.text" = "Cycluslengte:";
+
+"ProfileVC.ProfileBirthMonthYearCell.headlineLabel.text" = "Dag, maand en jaar van geboorte:";
+"ProfileVC.ProfileBirthMonthYearCell.Mother.text" = "Moeder";
+"ProfileVC.ProfileBirthMonthYearCell.Father.text" = "Vader";
+
+"ProfileVC.ProfileNotEnoughSubtitleCell.headlineLabel.text" = "We hebben wat meer informatie nodig om de volgende vruchtbare periode te voorspellen. Je kunt het op elk moment wijzigen in je profiel!";
+
+// MARK: OptionsVC
+"OptionsVC.headlineLabel.text" = "Opties";
+"OptionsVC.Sections.Settings.headlineLabel.text" = "Instellingen";
+"OptionsVC.Sections.Contacts.headlineLabel.text" = "Contacten";
+"OptionsVC.Settings.SetLanguage.headlineLabel.text" = "Taal instellen";
+"OptionsVC.Settings.RestorePurchase.headlineLabel.text" = "Aankoop herstellen";
+"OptionsVC.Settings.Notifications.headlineLabel.text" = "Meldingen";
+"OptionsVC.Settings.VisitWebsite.headlineLabel.text" = "Bezoek website";
+"OptionsVC.Settings.Legal.headlineLabel.text" = "Juridisch";
+"OptionsVC.Settings.HowItWorks.headlineLabel.text" = "Hoe de app werkt?";
+"OptionsVC.Contacts.E-mailContact.headlineLabel.text" = "E-mail contact";
+"OptionsVC.Contacts.RateTheApp.headlineLabel.text" = "Beoordeel de app";
+"OptionsVC.Contacts.FollowInInstagram.headlineLabel.text" = "Volg op Instagram";
+"OptionsVC.Contacts.Share.headlineLabel.text" = "Delen";
+"OptionsVC.Contacts.OurExperts.headlineLabel.text" = "Onze experts";
+"OptionsVC.ratingView.email.subject" = "Beoordeling Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.stars" = "Ik heb %x sterren gegeven aan Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.star" = "Ik heb 1 ster gegeven aan Ovulio Baby";
+"OptionsVC.alert.redeemCode.title" = "Activeer activeringscode";
+"OptionsVC.alert.redeemCode.message" = "Voer de activeringscode in vanuit uw e-mail of uw bestelling!";
+"OptionsVC.alert.redeemCode.placeholder" = "Activeringscode";
+
+// Share with friends
+"OptionsVC.shareCovarUIAlertController.messageButton" = "Bericht";
+"OptionsVC.shareCovarUIAlertController.emailButton" = "E-mail";
+"OptionsVC.shareCovarUIAlertController.moreButton" = "Meer";
+"OptionsVC.shareCovarUIAlertController.messageTextBody" = "Probeer de Ovulio Baby-app! Krijg het gratis op https://ovulio-baby.com";
+"OptionsVC.shareCovarUIAlertController.emailTextBody" = "Hallo,\nprobeer de Ovulio Baby-app!\nKrijg het gratis op https://ovulio-baby.com";
+"OptionsVC.keepInTouch.email" = "Vraag over de Ovulio Baby-app";
+
+// MARK: ReviewAlertView
+"ReviewAlertView.titleLabel.text" = "Hoe zou je de app beoordelen?";
+"ReviewAlertView.contactUs" = "Neem contact op";
+"ReviewAlertView.rateUs" = "Beoordeel ons";
+
+// MARK: LegalOptionVC
+"LegalOptionVC.headlineLabel.text" = "Juridisch";
+"LegalOptionVC.LegalNotice.headlineLabel.text" = "Juridische kennisgeving";
+"LegalOptionVC.PrivacyPolicy.headlineLabel.text" = "Privacybeleid";
+"LegalOptionVC.TermsandConditions.headlineLabel.text" = "Algemene voorwaarden";
+"LegalOptionVC.Disclaimer.headlineLabel.text" = "Disclaimer";
+"LegalOptionVC.Attribution.headlineLabel.text" = "Aanwijzing";
+"LegalOptionVC.TermsOfUse.headlineLabel.text" = "Gebruiksvoorwaarden";
+
+// MARK: NotificationsOptionVC
+"NotificationsOptionVC.headlineLabel.text" = "Meldingen";
+"NotificationsOptionVC.PeriodStarting.headlineLabel.text" = "Begin van de menstruatie";
+"NotificationsOptionVC.PeriodStarting.headlineDescriptionLabel.text" = "Deze melding herinnert je een week van tevoren aan je menstruatie";
+"NotificationsOptionVC.FavorableDay.headlineLabel.text" = "Gunstige dag voor conceptie";
+"NotificationsOptionVC.GenderNotification.headlineLabel.text" = "Geslachtsmelding";
+
+// MARK: OurExpertsOptionPageVC
+"OurExpertsOptionPageVC.headlineLabel.text" = "Onze experts";
+
+
+
+
+// MARK: GamesModel: Locations
+"GamesModel.LocationsModel.AtHome.headlineLabel.text" = "Thuis";
+"GamesModel.LocationsModel.AtHome.OnTheCouch.text" = "Op de bank";
+"GamesModel.LocationsModel.AtHome.OnTheFloor.text" = "Op de vloer";
+"GamesModel.LocationsModel.AtHome.OnAChair.text" = "Op een stoel";
+"GamesModel.LocationsModel.AtHome.OnTheDiningTable.text" = "Op de eettafel";
+"GamesModel.LocationsModel.AtHome.InTheBathroom.text" = "In de badkamer";
+"GamesModel.LocationsModel.AtHome.InTheShower.text" = "In de douche";
+"GamesModel.LocationsModel.AtHome.InTheKitchen.text" = "In de keuken";
+"GamesModel.LocationsModel.AtHome.InTheCloset.text" = "In de kast";
+"GamesModel.LocationsModel.AtHome.AgainstAWall.text" = "Tegen de muur";
+"GamesModel.LocationsModel.AtHome.OnTheStairs.text" = "Op de trap";
+"GamesModel.LocationsModel.AtHome.InTheAttic.text" = "Op zolder";
+"GamesModel.LocationsModel.AtHome.OnAYogaMat.text" = "Op een yogamat";
+"GamesModel.LocationsModel.AtHome.OnTheWashingMachine.text" = "Op de wasmachine";
+"GamesModel.LocationsModel.AtHome.InFrontOfAMirror.text" = "Voor de spiegel";
+"GamesModel.LocationsModel.AtHome.AtTheFrontDoor.text" = "Bij de voordeur";
+"GamesModel.LocationsModel.AtHome.BehindAWindow.text" = "Achter het raam";
+"GamesModel.LocationsModel.AtHome.InTheBasement.text" = "In de kelder";
+"GamesModel.LocationsModel.AtHome.OnTheBalconyIntheGarden.text" = "Op het balkon/in de tuin";
+"GamesModel.LocationsModel.AtHome.InTheGardenHouseGarage.text" = "In het tuinhuisje/de garage";
+
+// MARK: GamesModel: Extras
+"GamesModel.ExtrasModel.DirtyTalk.text" = "Geile praatjes";
+"GamesModel.ExtrasModel.Fingering.text" = "Vingeren";
+"GamesModel.ExtrasModel.Oral.text" = "Oraal";
+"GamesModel.ExtrasModel.Blindfold.text" = "Blinddoek";
+"GamesModel.ExtrasModel.Handcuffs.text" = "Handboeien";
+"GamesModel.ExtrasModel.HairPulling.text" = "Haartrekken";
+"GamesModel.ExtrasModel.GrabByTheNeck.text" = "Bij de nek grijpen";
+"GamesModel.ExtrasModel.WithEarplug.text" = "Met oordopje";
+"GamesModel.ExtrasModel.Bondage.text" = "Bondage";
+"GamesModel.ExtrasModel.Sextoys.text" = "Sextoys";
+"GamesModel.ExtrasModel.HotWaxMassage.text" = "Massage met warme was";
+"GamesModel.ExtrasModel.RolePlaying.text" = "Rollenspel";
+"GamesModel.ExtrasModel.WatchPorn.text" = "Porno kijken";
+"GamesModel.ExtrasModel.Whipping.text" = "Zweepslagen";
+"GamesModel.ExtrasModel.SexTape.text" = "Sextape";
+
+
+// MARK: Article: Babylicious Nutritious
+"LearningResourceArticleVC.babyliciousNutritious.headline" = "Babylicious Nutritious: Voedselrijk Voedsel om Zwangerschap te bevorderen";
+"LearningResourceArticleVC.babyliciousNutritious.headline.text" = "Voedsel voedt je lichaam, geest en ziel, en wanneer je van plan bent om zwanger te worden, kan het voedsel dat je eet je helpen je dromen van conceptie een zeer smakelijke realiteit te maken. In dit artikel zullen we verkennen hoe het juiste dieet zwangerschap kan bevorderen, we zullen delen waarom sommige voedingsmiddelen de kracht hebben om je kansen op zwangerschap te vergroten. Er zijn veel factoren in het spel bij het proberen zwanger te worden, het is altijd het beste om meer te weten te komen over je vruchtbaarheid als koppel bij een gezondheidswerker, het juiste dieet en gezondheid zijn gekoppeld aan succesvolle conceptie. We zullen je ook laten weten welke dingen je moet vermijden bij het plannen van je zwangerschap, zodat je kunt beginnen met het bedenken!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section1.headline" = "Te dun & te dik";
+"LearningResourceArticleVC.babyliciousNutritious.section1.text" = "Het is waar dat statistisch gezien vrouwen die te dun of te dik zijn het moeilijker hebben om zwanger te worden, dat wil niet zeggen dat het onmogelijk is natuurlijk! Echter, overgewicht of ondergewicht kan hormonale onevenwichtigheden, ovulatie onregelmatigheden en menstruatieproblemen veroorzaken. Als je van plan bent om zwanger te worden, overweeg dan om een diëtist te raadplegen om een dieetplan op maat te vinden voor je lengte, gewicht en eventuele mogelijke gezondheidsproblemen. Dit geldt ook voor je partner, want gewichtsproblemen kunnen ook problemen veroorzaken bij mannelijke vruchtbaarheid.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section2.headline" = "Babylicious Nutritious: Verbeter je kansen en vermijd...";
+"LearningResourceArticleVC.babyliciousNutritious.section2.text" = "-Roken. Roken kan de vruchtbaarheid verminderen bij zowel mannen als vrouwen, als je hoopt zwanger te worden, kan stoppen met de gewoonte je helpen op je reis naar conceptie.
+-Te veel cafeïne. Bij het proberen zwanger te worden, zijn experts het erover eens dat overmatige cafeïneconsumptie je kansen op zwangerschap kan verminderen vanwege cafeïne en kan invloed hebben op hoe je lichaam al die goede voedingsstoffen in je systeem metaboliseert.
+-Alcohol. Behalve om op een zaterdagavond los te gaan, lijkt er niet veel goed te zijn aan alcohol. Bij het proberen zwanger te worden, kan alcohol de vruchtbaarheid verminderen, niet alleen bij vrouwen maar ook bij mannen. Alcohol kan ook je hormonen in de war brengen, wat invloed heeft op je menstruatiecyclus. Om je kansen op zwangerschap te vergroten, is het het beste om bij goed ouderwets water te blijven.
+-Bewerkte voedingsmiddelen. Het is bekend dat bewerkte voedingsmiddelen de kwaliteit van het sperma van mannen kunnen verminderen, wat invloed kan hebben op je kansen op conceptie. Bewerkte voedingsmiddelen zitten boordevol suiker, zout en vet, wat gewoonweg niet gezond is bij het proberen zwanger te worden.
+-Suikerhoudende dranken. Dranken en voedingsmiddelen met een hoog suikergehalte verminderen de vruchtbaarheid bij zowel mannen als vrouwen. Niet alleen dat, maar het kan letterlijk je organen, zoals je voortplantingssysteem, sneller doen verouderen!
+- Rauwe vis en vis met veel kwik. Je hebt waarschijnlijk gehoord dat je sushi moet vermijden terwijl je zwanger bent. Dit geldt eigenlijk ook wanneer je probeert zwanger te worden. Kwik hoopt zich in de loop van de tijd op in de bloedbaan, hoge hoeveelheden kunnen invloed hebben op je gezondheid en die van je toekomstige baby in de buik.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section3.headline" = "Babylicious Nutritious: Het goede spul";
+"LearningResourceArticleVC.babyliciousNutritious.section3.text" = "Veranderingen aanbrengen in je dieet kan moeilijk zijn, maar gelukkig is het voedsel dat wordt aangemoedigd en zwangerschap bevordert goed en goed voor je! Laten we eens kijken wat je zult eten ter voorbereiding op eten voor twee:
+-Extra vierge olijfolie. Wat kan dit spul niet, toch? Het is goed voor je huid, haar en bevordert verrassend genoeg de vruchtbaarheid bij zowel mannen als vrouwen.
+-Zeevruchten. Hoewel er vis is die veel kwik bevat, zijn er ook veel zeevruchten waar vrouwen die proberen zwanger te worden baat bij zullen hebben. Zeevruchten zijn een voedzame maaltijdkeuze die rijk is aan omega 3. Zeevruchten zoals zalm, ansjovis, kabeljauw, kabeljauw, garnalen, kreeft en nog veel meer, kunnen helpen bij de ovulatie en ook de kwaliteit van het sperma verbeteren.
+-Fruit. Fruit zit vol met vitamines en vezels, als je probeert zwanger te worden, wil je een voorraad aanleggen van ananas, ongeschildde appels, frambozen, mango's, aardbeien en bananen.
+-Groenten. We hebben allemaal wel eens gehoord dat we onze groenten moeten eten, en met goede reden. Boerenkool en spinazie zijn bijzonder gunstig als je probeert zwanger te worden, ze zitten boordevol ijzer, mangaan en foliumzuur, die de kans op zwangerschap verhogen.
+-Volkoren. Volkorenproducten zoals gerst, zilvervliesrijst, volkorenbrood en -ontbijtgranen, enz. zijn een briljante toevoeging aan een gezond dieet. Volkorenproducten zijn gekoppeld aan een betere innesteling en zwangerschapscijfers!
+-Peulvruchten. Bonen, erwten en linzen zijn een zwangerschapssuperfood, ze bevatten foliumzuur, wat een cruciale vitamine is die kan helpen bij de conceptie. Peulvruchten verhogen je vruchtbaarheid; we raden zeker aan om deze magische bonen in je dieet op te nemen.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section4.headline" = "Babylicious Nutritious: Het Mediterrane Dieet";
+"LearningResourceArticleVC.babyliciousNutritious.section4.text" = "Het Mediterrane dieet bestaat voornamelijk uit plantaardige oliën, bonen, vis en groenten, dit dieet kan je kans op zwangerschap vergroten vanwege de voedingsrijke eigenschappen. Het Med-dieet richt zich op hele, onbewerkte voedingsmiddelen die rijk zijn aan calcium, ijzer, vezels en eiwitten, wat de bouwstenen zijn van een gezond lichaam dat zich voorbereidt op conceptie. Dit dieet is niet bedoeld om te deprimeren of je hongerig te laten voelen, in feite zul je je langer vol voelen en secundaire voordelen opmerken zoals betere hersenfunctie, verhoogde energie en stemming, gewichtsbeheer, verminderde ontsteking, de lijst gaat maar door. Dit is ook een dieet dat nog steeds kan worden gevolgd tijdens de zwangerschap en ongelooflijke voordelen zal hebben voor je kleintje. Niet te vergeten dat er tal van heerlijke recepten en maaltijdideeën online beschikbaar zijn, waardoor het gemakkelijk is om te beginnen en vol te houden!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section5.headline" = "Babylicious Nutritious: Voedsel dat het aantal zaadcellen verhoogt";
+"LearningResourceArticleVC.babyliciousNutritious.section5.text" = "Er zijn veel cruciale vitamines die bewezen hebben een hogere vruchtbaarheid te bevorderen bij mannen. Het aantal zaadcellen en de kwaliteit van het sperma van je partner kunnen ook van invloed zijn op je kansen op zwangerschap! Laten we eens kijken welke voedingsmiddelen de kans op conceptie kunnen vergroten:
+-Walnoten: Foliumzuur en B6 in walnoten ondersteunen de mannelijke vruchtbaarheid en zijn een gemakkelijke snack als je onderweg bent.
+-Vis: Zalm en sardines zitten boordevol omega-3, het staat ook bekend als een van de beste voedingsmiddelen om het aantal zaadcellen te verhogen.
+-Rundvlees: Rundvlees zit boordevol zink, carnitine en vitamine B12, die allemaal een hoger aantal zaadcellen bevorderen!
+-Fruit en groenten: Een onderzoek met 250 mannelijke deelnemers ontdekte dat mannen die grotere hoeveelheden fruit en groenten aten, een superieure spermaconcentratie en -beweeglijkheid hadden.
+-Oesters: Onderzoek meldt dat vitamine B12 helpt bij het ontwikkelen van gezond sperma, en oesters bevatten er veel van! Ze hebben ook een grote hoeveelheid zink en vitamine D, die ook bekend staan om bij te dragen aan gezond, actief sperma.
+-Tomaten: Tomaten bevatten iets dat Lycopene wordt genoemd, en studies hebben aangetoond dat het consumeren van ongeveer 4 g Lycopene per dag het aantal zaadcellen bij mannen doet toenemen.
+-Knoflook: Knoflook heeft prachtige antioxidante eigenschappen die de sperma productie en testosteron verhogen. Dus de volgende keer dat je een maaltijd hebt, voeg wat knoflook toe, het is lekker en bevordert de algehele vruchtbaarheid.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section6.headline" = "Babylicious Nutritious: Wat Schade toebrengt aan het aantal zaadcellen?";
+"LearningResourceArticleVC.babyliciousNutritious.section6.text" = "Het is belangrijk op te merken dat de meeste items die in dit artikel worden vermeden voor vrouwen, ook van toepassing zijn op mannen! Dingen zoals alcohol, cafeïne, roken, bewerkte voedingsmiddelen en vis met veel kwik worden ook niet aanbevolen voor mannen om te consumeren bij het proberen zwanger te worden, maar er zijn er een paar die opvallen wanneer we specifiek praten over mannelijke vruchtbaarheid, laten we ze eens bekijken:
+-Pijnmedicatie: Ibuprofen en paracetamol staan ​​bekend om het verminderen van de mannelijke vruchtbaarheid door negatief van invloed te zijn op testosteronniveaus en het verstoren van de ontwikkeling van sperma. Wees voorzichtig bij het behandelen van je volgende hoofdpijn en kies misschien voor een koude kompres of een natuurlijk middel!
+-Zoetstoffen: Zoetstoffen zijn geen goed idee voor zowel mannen als vrouwen die proberen zwanger te worden, maar voor mannen hebben de effecten van zoetstoffen in light frisdranken, suikervrije voedingsopties, enz., een verwoestend effect op de ontwikkeling van sperma, het aantal zaadcellen en testosteronniveaus.
+-Zuivelproducten met veel vet: Studies hebben aangetoond dat kaas, volle melk en room een negatief effect hebben op de mannelijke vruchtbaarheid.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section7.headline" = "Babylicious Nutritious: Geniet ervan!";
+"LearningResourceArticleVC.babyliciousNutritious.section7.text" = "Je lichaam voeden om zwangerschap te bevorderen of ter voorbereiding op zwangerschap kan een heerlijke taak zijn. Of je nu op dit moment probeert zwanger te worden of je plant het in de nabije toekomst te doen, het eten van een uitgebalanceerd dieet kan alleen maar voordelig zijn voor jou en je toekomstige bundel van vreugde. Onthoud dat het twee partijen kost om te dansen, als jij en je partner manieren zoeken om samen je vruchtbaarheid te verbeteren, begin dan met je dieet! Maaltijden en recepten maken is gewoon nog een manier om de reis naar conceptie des te leuker te maken!";
+
+
+// MARK: Article: Oh Baby
+"LearningResourceArticleVC.ohBaby.headline" = "Oh Baby: Een Gids voor Seksuele Intimiteit Tijdens de Zwangerschap";
+"LearningResourceArticleVC.ohBaby.text" = "Zwangerschap kan een geweldige ervaring zijn; het kan jullie als koppel dichter bij elkaar brengen en een levenslange band tussen jullie twee vormen. Jullie zullen meer over je lichaam gaan leren en je partner op een nieuwe manier leren kennen. Terwijl stellen samen hun zwangerschapsavontuur beginnen, willen we delen hoe je nog steeds seksuele intimiteit kunt delen en de passie levend kunt houden.";
+
+"LearningResourceArticleVC.ohBaby.section1.headline" = "Mythen & Feiten Over Seks Tijdens de Zwangerschap";
+"LearningResourceArticleVC.ohBaby.section1.text" = "Op je zwangerschapsreis begin je na te denken over al die mythen die seks een beetje eng kunnen maken. We zijn hier om enkele van de meest voorkomende mythen over geslachtsgemeenschap tijdens de zwangerschap te delen en te ontkrachten voor je gemoedsrust:
+
+Mythe 1: Seks hebben of diepe penetratie hebben terwijl je zwanger bent, zal de baby schaden. Dit is een veelvoorkomende angst die veel nieuwe aanstaande stellen hebben, het is natuurlijk om je af te vragen of deze mythe enige waarheid bevat en gelukkig is dat niet het geval. De vagina is ontworpen om uit te rekken tijdens seks, dit creëert een kleine ruimte tussen je vagina en de baarmoederhals. Als je partner serieus lang is, is een toegevoegd feit om je gerust te stellen dat de baarmoederhals gesloten is en omhuld met een slijmprop om je baby te beschermen.
+
+Mythe 2: Seks kan weeën opwekken. Ah ja, nog een veel voorkomend misverstand, we zijn erg blij om te melden dat dit gewoon niet waar is, deze mythe is ontstaan simpelweg omdat sperma prostaglandine bevat, wat hetzelfde hormoon is dat in het ziekenhuis wordt gebruikt om weeën op te wekken. Dit wordt aan vrouwen gegeven in een sterk geconcentreerde synthetische vorm. Dus, het goede nieuws is, mannen produceren eenvoudigweg niet genoeg van dit hormoon om hun partner te laten bevallen.
+
+Mythe 3: Je baby weet wat je aan het doen bent. Het kan sommige stellen freaken om seksueel intiem te zijn uit pure angst dat hun baby weet wat er aan de hand is. Wees gerust, je baby heeft geen flauw benul van wat je aan het doen bent, we beloven het. Ja, je baby kan geluiden en bewegingen detecteren terwijl je zwanger bent, maar je kleintje kan niet begrijpen of interpreteren wat er gebeurt.
+
+Seks tijdens de zwangerschap kan een diepe, intieme band in je relatie creëren. Het zal niet alleen je relatie ten goede komen, maar het kan je zelfs meer plezier bezorgen, laten we eens kijken naar slechts een paar feiten die je zeker zullen opwinden:
+
+Feit 1: Het is gemakkelijker om een orgasme te krijgen wanneer je zwanger bent! Ja, je leest het goed. Vrouwen krijgen ongeveer 3 pond meer bloed, waardoor het optreden van orgasmes gemakkelijker en frequenter wordt.
+
+Feit 2: Vaarwel anticonceptie! Ja, uiteraard is er geen anticonceptie nodig tijdens de zwangerschap en dit is geweldig nieuws voor degenen die de verschillende bijwerkingen van de pil en andere vormen van anticonceptie kennen.
+
+Feit 3: Orgasmes kunnen je ongemak verlichten. Rugpijn en hoofdpijn zijn veelvoorkomend wanneer je zwanger bent, gelukkig heeft je lichaam je rug! Wanneer je een orgasme hebt, geeft je lichaam het wonderhormoon oxytocine vrij dat pijn kan verlichten.";
+
+"LearningResourceArticleVC.ohBaby.section2.headline" = "Naarmate je groeit - Posities voor Comfort en Plezier";
+"LearningResourceArticleVC.ohBaby.section2.text" = "Aan het begin van je zwangerschap zou de manier waarop je seks hebt niet beïnvloed moeten worden, maar naarmate je buik en baby beginnen te groeien, kunnen sommige posities hun glans verliezen. Sommige bijzonder wilde posities zijn mogelijk niet veilig voor je buik en kunnen een beetje ongemakkelijk zijn, dus we raden aan om posities te kiezen die geschikt zijn voor een groeiende buik. Hier zijn enkele posities die ideaal zijn voor een verwachtend stel:
+
+● Lepelen: De lepelpositie kan diep intiem zijn, niet alleen lig je in een knuffelpositie, maar je kunt ook op je zij liggen, wat je buik ondersteunt.
+● Klassiek cowgirl: Deze positie is geschikt voor je buik en legt er geen onnodige druk op. Het stelt je in staat de snelheid en diepte naar wens aan te passen.
+● De rand van het bed. Liggen op de rand van het bed terwijl je partner staat om binnen te dringen, dit laat je benen meer openen en de hoek vermijdt buikcontact.
+● Van achteren: Leg een kussen neer om je buik extra ondersteuning te geven en ga ervoor! Let op, dit wordt mogelijk niet aanbevolen in de late stadia van de zwangerschap omdat deze positie diepe penetratie biedt.
+● Op je zij: Met jullie beiden liggend op jullie zij, naar elkaar toe gericht, leg beide benen over de heupen van je partner zodat hij je van onderaf kan penetreren.";
+
+"LearningResourceArticleVC.ohBaby.section3.headline" = "Verbinding maken als koppel";
+"LearningResourceArticleVC.ohBaby.section3.text" = "Voordat je het weet, is jullie kleintje er en natuurlijk zal seksuele intimiteit dan niet langer bovenaan je to-dolijst staan. Gebruik deze tijd om je seksuele band met je partner te verdiepen door nieuwe posities te verkennen en ook creatief te worden met ontmoetingen die niet altijd penetratie vereisen, voorspel kan ook een geweldige manier zijn om plezier te geven en te ontvangen tijdens de zwangerschap, naast wederzijdse masturbatie!";
+
+"LearningResourceArticleVC.ohBaby.section4.headline" = "Onthoud Gewoon";
+"LearningResourceArticleVC.ohBaby.section4.text" = "Hier bij Ovuilo baby geven we om je algehele gezondheid, onthoud, als seks ongemakkelijk of pijnlijk wordt naarmate je groeit, raadpleeg dan je arts, aangezien er variabelen zijn om te overwegen als het gaat om risicovolle zwangerschappen. Je arts zal je en je partner adviseren over veilige sekspraktijken of om seks helemaal te vermijden. Als je arts je echter groen licht heeft gegeven, moet seks tot de laatste 6 weken van de zwangerschap nog steeds op tafel staan. Je hoeft de passie tussen de lakens tijdens je zwangerschap niet op te geven, je verdient het nog steeds om verbinding te maken als koppel! Probeer posities voor je comfort uit en experimenteer met je partner over hoe je het beste uit jullie vrijpartij kunt halen.";
+
+
+// MARK: Article: Position Perfect
+// MARK: LearningResourceArticleVC: Position Perfect
+"LearningResourceArticleVC.positionPerfect.headline" = "Position Perfect: Top Posities voor Conceptie en Genderinvloed";
+"LearningResourceArticleVC.ohBaby.text" = "Ben je nieuwsgierig om te weten welke posities het meest waarschijnlijk eindigen met een baby in die buik? Heb je je ooit afgevraagd of het mogelijk is om invloed uit te oefenen op het geslacht van je baby? Hier op Ovuilo Baby duiken we meteen in de kracht van je posities en delen we tips voor het beste resultaat op weg naar zwangerschap. Begrijp ons niet verkeerd, als het gaat om conceptie, zijn er veel factoren om rekening mee te houden naast de posities die je uitprobeert in de slaapkamer, wat betreft ovulatie, gezondheid en biologische invloeden, enzovoort. Dat gezegd hebbende, er zijn ideale posities om te gebruiken tijdens de ovulatie die zeker je kansen op zwangerschap met tien kunnen vergroten, en als je hoopt op een specifiek geslacht, wordt gezegd dat de juiste positie misschien wel succesvolle resultaten oplevert!";
+
+"LearningResourceArticleVC.positionPerfect.section1.headline" = "3 Tips Die het Proberen Waard Zijn";
+"LearningResourceArticleVC.positionPerfect.section1.text" = "Tip #1: Als je zwanger probeert te raken, is zwaartekracht je beste vriend, het draait allemaal om de zaadcellen de beste kans te geven om dat eitje te bereiken! Zoals ze zeggen, 'wat omhoog gaat, moet naar beneden komen', dus rechtop staan na de seks moet worden vermeden. Blijf in plaats daarvan ongeveer 15 minuten liggen, probeer zo stil mogelijk te blijven zodat die zwemmers kunnen komen waar ze naartoe gaan. Je kunt de zaadcellen ook helpen door een kussen onder de heupen te plaatsen, zodat de zwaartekracht de overhand heeft. Ga nog een stap verder en til je benen op, mogelijk met behulp van een muur dicht bij je bed. Er is geen garantie dat deze tips 100% van de tijd werken, maar je geeft de zaadcellen absoluut de beste kans om hun levensdoel te bereiken, jou zwanger maken!
+Tip #2: Heb een orgasme! Er wordt gezegd dat het hebben van een orgasme je kansen op conceptie kan vergroten vanwege de baarmoedercontractie tijdens de climax. Deze theorie heeft gemengde resultaten, maar het is het proberen waard. Oxytocine wordt tijdens een orgasme vrijgegeven, en dit is een feelgood-hormoon, dat wat van die stress wegneemt, wat een van de ergste vijanden van conceptie is! En hé, zelfs als deze theorie niet helemaal waterdicht is, wie wil er nou geen orgasme?
+Tip #3: Ditch de glijmiddel. Er is enig debat of glijmiddel conceptie hindert, maar veel mensen raden aan het glijmiddel in het proces te vermijden, omdat wordt gedacht dat het de mobiliteit van sperma beïnvloedt.";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Posities Perfect voor Conceptie";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "1. Klassieke Missionaris:
+2. Reverse Cowgirl:
+3. Achterin Binnendringen:
+4. Doggy Style:
+5. Scharen Zij aan Zij:
+6. Kruiwagen:";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Proberen voor een Jongen";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "Er wordt gezegd dat diepe penetratie de kans vergroot om een jongen te verwekken. Dit geloof werd gepopulariseerd door Dr. Landrum Shettles, zijn claim to fame was zijn bestverkopende boek ‘How to Choose the Sex of Your Baby’. Hij bedacht 'The Shettles Method', die de theorie ondersteunde dat 'jongenszaad' zwakker, kleiner en sneller was dan 'meisjeszaad'. Diepe penetratie zou het 'jongenszaad' een voorsprong geven omdat ze dicht bij de baarmoederhals worden afgezet, zodat die snelle jongens het 'meisjeszaad' naar het ei verslaan.
+
+Posities voor Diepe Penetratie
+● Doggy style: Doggy style maakt diepe penetratie mogelijk, zorg er gewoon voor dat je omdraait zodat je die zwemmers aan de juiste kant van de zwaartekracht houdt.
+● Staand: Nu, dit is iets meer een fabeltje, maar er wordt gezegd dat rechtop staan diepere penetratie mogelijk maakt en de verwekking van een jongen zou kunnen bevorderen.
+● Berijden: Berijden is een geweldige positie voor diepe penetratie; een positie die je kunt controleren.
+
+Een Kleine Tip:
+Een andere populaire theorie bij het proberen een jongen te verwekken, is het verhogen van je calorie-inname. Een onderzoek onder 740 vrouwen concludeerde dat vrouwen die hun calorie-inname verhoogden een hogere kans hadden om zwanger te worden van een jongen. Deze theorie zou de hoge bloedglucosewaarden verhogen en zo de mogelijkheid om een jongen te verwekken ondersteunen.";
+
+"LearningResourceArticleVC.positionPerfect.section3.headline" = "Proberen voor een Meisje";
+"LearningResourceArticleVC.positionPerfect.section3.text" = "‘The Shettles Method’ wordt gezegd ook te helpen bij de mogelijkheid om een meisje te verwekken, de theorie stelt dat als je rond 2-4 dagen voor de ovulatie geslachtsgemeenschap hebt. Het ondersteunt de opvatting dat 'meisjeszaad' sterker en duurzamer is dan 'jongenszaad' en dat de meisjesspermatozoa langer zullen overleven, waardoor ze als eerste bij het ei kunnen komen. Deze methode raadt ook oppervlakkige penetratie aan op basis van dezelfde theorie dat 'meisjeszaad' het 'jongenszaad' zal overleven en de lange reis naar het ei zal doorstaan.
+
+Posities voor Oppervlakkige Penetratie
+● Lepeltje lepeltje: Lepeltje lepeltje is een positie die perfect is voor oppervlakkige penetratie, door je benen te sluiten terwijl je lepeltje lepeltje ligt, kan dit ook diepe penetratie verminderen.
+● Naast elkaar: Zij aan zij liggen met de benen verstrengeld zal oppervlakkige penetratie bevorderen.
+● Missionaris: De vrouw moet plat liggen, met haar benen in de missionarishouding, zorg ervoor dat je je benen niet optilt of om je partner wikkelt, want dit staat diepere penetratie toe.
+
+Een Kleine Tip:
+Naar verluidt is de kans groter om een meisje te verwekken als je vaginale pH meer aan de zure kant is. Er zijn veel soorten voedsel die je zuurgraad kunnen verhogen, laten we er een paar bekijken:
+● Volkoren ontbijtgranen
+● Snoepjes en taarten
+● Bosbessen
+● Maïs
+● Vlees
+● Bladgroenten";
+
+"LearningResourceArticleVC.positionPerfect.section4.headline" = "Als het eerst niet lukt, probeer het dan opnieuw!";
+"LearningResourceArticleVC.positionPerfect.section4.text" = "Terwijl je bezig bent met het maken van een baby, is het gemakkelijk om teleurgesteld te raken als bepaalde methoden, tips en adviezen niet het gewenste doel bereiken. 'Als het eerst niet lukt, probeer het dan opnieuw', zoals het oude gezegde gaat. Bedenk dat sommige dingen het wachten waard zijn, en het zal allemaal op tijd gebeuren. Geniet van de intimiteit met je partner en koester de momenten waarop je samenwerkt als een team om ouders te worden. Met het solide begrip van je vruchtbare venster en gezondheidsstatus, gecombineerd met het experimenteren met posities en zwaartekracht, kun je niet verliezen! Je kunt meer lezen over conceptie, seksspelletjes spelen om je conceptiereis op te fleuren, en de beste posities vinden om de kans op zwangerschap te vergroten en de gender van je baby te beïnvloeden, allemaal op je Ovulio-app!";
+
+
+
+// MARK: Article: The Chinese Conception Calandar:
+"LearningResourceArticleVC.chineseConceptionCalendar.headline" = "De Chinese Conceptie Kalender: Advies uit het Oosten over het Beïnvloeden en Voorspellen van het Geslacht van je Baby";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.headline" = "De Chinese Conceptie Kalender: Wat is de Chinese Conceptie Kalender?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.text" = "Voordat we ons storten op al het baby-maak werk en het gebruik van de Chinese Conceptie Kalender op je reis om te verwekken, moeten we je eerst vertellen wat het precies is. Deze oude kalender wordt al honderden jaren gebruikt als een tool om het geslacht te voorspellen en beïnvloeden in de Chinese geschiedenis. De informatie die de kalender gebruikt voor voorspelling is de maand van conceptie, de maanleeftijd van de zwangere vrouw op het moment van conceptie, vervolgens wordt er een formule gebruikt om het geslacht te voorspellen. Er wordt ook gezegd dat de kalender de notie ondersteunt dat hormonen elke maanmaand veranderen; volgens de Chinese mythologie kunnen deze hormonale schommelingen ook het geslacht van je baby beïnvloeden! Als jij en je partner geïnteresseerd zijn in het gebruik van de Chinese Conceptie Kalender, is deze kalender beschikbaar op je 'Ovulio Baby'-app. Onze Lunar Kalender helpt je bij het vastleggen van je ovulatieperiode en welke data je een hogere kans hebt om een jongen of meisje te verwekken. Het verzorgt de berekeningen en formules, en helpt je je maanleeftijd uit te werken. De meerderheid van de wereldbevolking gebruikt de Gregoriaanse Kalender als een middel om de tijd bij te houden, maar de Maankalender is nog steeds populair en vereerd door veel mensen in China. Ondanks zijn leeftijd wordt gezegd dat het een behoorlijk verbazingwekkend succespercentage heeft!";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.headline" = "Welke Informatie Gebruikt Het?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.text" = "De Chinese Conceptie Kalender vertrouwt op je maanleeftijd en de maanmaand van de conceptie van je baby om het geslacht van je baby te voorspellen. Als je wilt uitvinden op welke dagen je ovuleert of welke dagen het beste zijn om een bepaald geslacht te verwekken, hoef je alleen je maanleeftijd vast te leggen. Bedenk wel, je maanleeftijd is iets anders dan je echte leeftijd. Je maanleeftijd is ongeveer 1-2 jaar ouder omdat er een verschil is tussen de Gregoriaanse Kalender en de Chinese Maankalender. We helpen graag bij het berekenen van je Maanleeftijd, waardoor het een naadloze, gemakkelijke manier is om je vruchtbaarheid bij te houden.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.headline" = "Het Gebruiken van de Tabel om een Jongen of Meisje te Verwekken";
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.text" = "Ouders die graag een specifiek geslacht willen hebben, kunnen de tabel gebruiken bij het plannen van een zwangerschap, door te proberen te verwekken in de maanden op de tabel die gunstig zijn voor de conceptie van een bepaald geslacht. Dit kan koppels helpen bij het selecteren van een maand die mogelijk een grotere kans biedt om een baby meisje of jongen te verwekken. Volgens de moderne wetenschap hebben we niet veel te zeggen over het beïnvloeden van het geslacht als het gaat om zwangerschap, het is meestal een 50/50 kans. Veel ouders vinden echter dat soms een 'traditie boven wetenschap' benadering voor hen werkt! Verbazingwekkend genoeg beweren sommige bronnen dat deze 700 jaar oude kalender een succespercentage heeft van 93% voor het nauwkeurig voorspellen van het geslacht van een ongeboren baby.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.headline" = "Werkt het Echt?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.text" = "De Kalender beweert niet gebaseerd te zijn op wetenschap; veel koppels en moeders hebben gemeld dat de Chinese Conceptie Tabel de beste manier is om het geslacht van je baby niet-medisch te voorspellen. Dus, om de vraag te beantwoorden, 'werkt het echt?' Het is geen garantie, maar volgens een groot aantal gerapporteerde succespercentages en het feit dat zelfs honderden jaren na zijn creatie het nog steeds een populaire methode is van geslachtsvoorspelling, denken wij dat het het proberen waard is. We zouden niet adviseren om alleen op de Kalender te vertrouwen als een definitieve conclusie over of je een jongen of meisje krijgt.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.headline" = "Een Laatste Gedachte";
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.text" = "Hoewel het lijkt alsof de Chinese Conceptie kalender een zeer hoog succespercentage heeft, is het belangrijk om te onthouden dat de natuur een kracht is om rekening mee te houden en dat het op de best mogelijke momenten onvoorspelbaar kan zijn! Misschien heb je altijd al geglimlacht bij het idee van een eigen meisje, of misschien heb je je kleine jongen al zien klimmen in een boom in de achtertuin. Het is volkomen normaal om verwachtingen te hebben als het gaat om het geslacht van je baby, dit is je vriendelijke herinnering om je kleine zegen te omarmen ongeacht hun geslacht. Voor de meeste ouders is het vooruitzicht van een gelukkige, gezonde baby het belangrijkste. Voor degenen die geïnteresseerd zijn in het gebruik van onze Maankalender, kan het een spannend experiment zijn voor koppels om uit te proberen. Je kunt geweldige herinneringen creëren door je familie en vrienden te laten wedden op wat zij denken dat het geslacht van je baby zou kunnen zijn, terwijl jij en je partner vasthouden aan je Chinese Kalender voorspelling. Dit is een spannende manier om de reis speels en licht te houden tot het onthullen van het geslacht van de kleintje. Je hebt niets te verliezen door het als een hulpmiddel te gebruiken om te beïnvloeden en voorspellen of je een jongen of een meisje zult krijgen, de resultaten kunnen je zelfs verrassen!";
+
+
+// MARK: Article: The Fertility Calendar:
+"LearningResourceArticleVC.fertilityCalendar.headline" = "De Vruchtbaarheidskalender: Het Begrijpen van je Vruchtbaarheidsvenster";
+"LearningResourceArticleVC.fertilityCalendar.text" = "Door de dagen van je vruchtbaarheid bij te houden, vergroot je de kans om zwanger te worden. De gemiddelde menstruatiecyclus is 28 dagen en er zijn ongeveer 6 dagen in die cyclus waarop je vruchtbaarheid op zijn hoogtepunt is, voor de meerderheid van de vrouwen is dit ongeveer 5 dagen voorafgaand aan de ovulatie, de dag van de ovulatie of de dag erna. Je eierstokken produceren twee hormonen, oestrogeen en progesteron, die cruciaal zijn voor het zwanger worden, maar ovulatoire menstruatiecycli zijn ook gunstig voor je gezondheid omdat ovulatie verantwoordelijk is voor de productie van hormonen. In de aanloop naar de ovulatie zal een vrouw een aanzienlijke hoeveelheid estradiol produceren en daarna zal haar lichaam een nog aanzienlijkere hoeveelheid progesteron produceren. Dus, baby of geen baby, ovulatie is belangrijk en geeft vrouwen die waardevolle hormonen die haar lichaam nodig heeft voor haar algehele gezondheid.";
+
+"LearningResourceArticleVC.fertilityCalendar.section1.headline" = "Wat is Ovulatie?";
+"LearningResourceArticleVC.fertilityCalendar.section1.text" = "Een hormoon genaamd Luteïniserend hormoon (LH) dat in de hersenen wordt geproduceerd, zet het proces van ovulatie in gang. LH is een katalysator die ovulatie en zwangerschap in beweging zet. Ovulatie is het deel van je menstruatiecyclus waarin je lichaam een volwassen eicel door de eileiders en in de baarmoeder zal vrijgeven waar het wacht om bevrucht te worden. De eicel overleeft meestal ongeveer 24 uur.";
+
+"LearningResourceArticleVC.fertilityCalendar.section2.headline" = "Tekenen van Ovulatie";
+"LearningResourceArticleVC.fertilityCalendar.section2.text" = "Sommige vrouwen herkennen mogelijk niet eens wanneer ze ovuleren, terwijl anderen bij elke cyclus veel bekende tekenen voelen. Laten we eens kijken naar enkele van de meest voorkomende tekenen dat je ovuleert:
+- Gevoelige borsten. De hormonenstroom in het lichaam kan leiden tot gevoelige borsten en tepels.
+- Licht bloedverlies. Sommige vrouwen kunnen heel lichte bloedingen ervaren tijdens de ovulatie, terwijl andere vrouwen helemaal niet bloeden.
+- Een verhoogd libido. Tijdens de ovulatie voelen vrouwen zich misschien extra opgewonden, dit is de hint van de natuur dat het de perfecte tijd is om een baby te maken. Bedenk wel dat veel externe factoren een rol spelen bij je libido, zoals alcohol, medicijnen, stress, de lijst gaat maar door. Dus het is de moeite waard om te lezen hoe je dieet en gewoonten ook van invloed kunnen zijn op je libido.
+- Stemmingsschommelingen. Je kunt een extra boost van zelfvertrouwen en stemming ervaren tijdens de ovulatie wanneer je hormonen beginnen te pieken.
+- Opgeblazen gevoel. Dit kan vrouwen in verschillende mate beïnvloeden. De verandering in hormonen beïnvloedt het spijsverteringskanaal en je lichaam houdt tijdens de ovulatie vaak meer water vast.
+- Een sterke reukzin. Vrouwen kunnen een verhoogd reukvermogen ervaren, omdat je lichaam tijdens deze periode eerder geneigd is de geur van mannelijke feromonen aan te trekken en te detecteren.
+- Een stijging van de lichaamstemperatuur. Je basale lichaamstemperatuur zal stijgen tijdens de ovulatie, maar de meeste vrouwen merken deze verandering niet op omdat deze meestal subtiel is.
+- Misselijkheid en hoofdpijn. Heb je je ooit afgevraagd waarom je je misschien een beetje misselijk voelt op een willekeurige dinsdagmiddag? Of misschien heb je geklaagd over hoofdpijn, ook al was je gehydrateerd en uitgerust. Door de veranderingen in je hormonen is het gebruikelijk om misselijkheid en hoofdpijn te ervaren... helaas!
+- Buikkrampen. Ja, we weten het, wanneer hebben we geen krampen? Het is waar dat veel vrouwen milde krampen ervaren tijdens de ovulatie. Deze krampen duren meestal niet langer dan een paar uur. Er zijn ook vrouwen die er helemaal niets van merken als het gaat om ovulatie, en ze voelen helemaal geen krampen.
+Dus waarom hebben we je verteld over al die vreemde en wonderlijke tekenen van ovulatie? Nou, als je een vruchtbaarheidskalender bijhoudt, kun je ook bijhouden en noteren wat je lichaam doormaakt. Dit kan je ook helpen bij een nauwkeurige berekening van je vruchtbaarheidsvenster.";
+
+"LearningResourceArticleVC.fertilityCalendar.section3.headline" = "Ovulio Baby Vruchtbaarheidskalender";
+"LearningResourceArticleVC.fertilityCalendar.section3.text" = "Er zijn ovulatievoorspellingskits verkrijgbaar bij elke apotheek die kunnen helpen bij het voorspellen van ovulatie. Deze kits kunnen nauwkeurig zijn in het detecteren van de LH-piek van een vrouw, die optreedt wanneer het lichaam een volwassen ei vrijgeeft, maar sommige vrouwen kunnen deze LH-piek ervaren zonder het ei vrij te geven, dus de kit kan niet helemaal nauwkeurig zijn. Het is het beste om een vruchtbaarheidskalender samen met kits te gebruiken om de meest nauwkeurige meting van je cyclus te krijgen. Het berekenen van je ovulatieperiode en het bijhouden van je cyclus is nog nooit zo eenvoudig geweest met je 'Ovulio Baby'-app. Onthoud dat je toegang hebt tot functies zoals andere zwangerschapsartikelen, onze vruchtbaarheidskalender, de maankalender voor vruchtbaarheid, seksspelletjes om de reis naar conceptie leuk en fris te maken, seksposities om uit te proberen en mogelijk zelfs invloed uit te oefenen op het geslacht van je kleine wondertje!";
+
+"LearningResourceArticleVC.fertilityCalendar.section4.headline" = "Bedankt voor het Langskomen";
+"LearningResourceArticleVC.fertilityCalendar.section4.text" = "We weten dat er veel is om over na te denken als je probeert zwanger te worden, daarom wordt aanbevolen om je vruchtbaarheidsvenster te kennen en elke kans te grijpen die je een stap dichter bij je droom van het ouderschap brengt. Het krijgen van een baby is zo'n betekenisvolle mijlpaal, maar dat wil niet zeggen dat de reis naar conceptie alleen maar bestaat uit grafieken en tests, het kan ook een tijd zijn om verbinding te maken met je partner en manieren te verkennen om de intimiteit in je relatie te verdiepen, waarom er geen plezier aan te beleven? Bekijk ons artikel over hoe je zwanger worden kunt gamificeren en manieren waarop jij en je partner jullie intimiteit en plezier in het proces kunnen verdubbelen.";
+
+
+// MARK: Article: 5 ways to show your pregnant partner love:
+"LearningResourceArticleVC.waysToShowYour.headline" = "5 manieren om je zwangere partner liefde te tonen";
+"LearningResourceArticleVC.waysToShowYour.text" = "";
+
+"LearningResourceArticleVC.waysToShowYour.section1.headline" = "Liefde is het beste medicijn...";
+"LearningResourceArticleVC.waysToShowYour.section1.text" = "Een kind verwachten is een van de meest opwindende ervaringen in het leven van een koppel. Het kan ook op vele manieren extreem stressvol zijn. De fysieke, hormonale en emotionele veranderingen en uitdagingen die gepaard gaan met een zwangerschap kunnen behoorlijk overweldigend zijn. Meer dan ooit zal je zwangere partner je liefde en steun nodig hebben. Het is een prioriteit om ervoor te zorgen dat ze gelukkig en gezond is. Mentale stress kan veel complicaties veroorzaken, zoals hoge bloeddruk, vroegtijdige bevalling en slapeloosheid tijdens een zwangerschap, dus het is erg belangrijk om ervoor te zorgen dat ze kalm en tevreden is.";
+
+"LearningResourceArticleVC.waysToShowYour.section2.headline" = "Handige tips en advies...";
+"LearningResourceArticleVC.waysToShowYour.section2.text" = "Overweeg een paar belangrijke tips over hoe je een goede partner kunt zijn voor je zwangere geliefde. Terwijl jullie samen deze uitdagende, maar geweldige tijd in je leven doormaken, zullen jullie dichter naar elkaar toe groeien dan ooit tevoren, maar ook emotionele uitdagingen aangaan die je nog nooit eerder hebt meegemaakt. Luister naar haar zorgen en probeer haar gedachten zoveel mogelijk te verlichten. Als je partner van streek raakt, luister dan naar wat ze zegt en probeer het probleem zo snel en rustig mogelijk op te lossen. Doe waar nodig relevante suggesties, maar probeer niet bazig over te komen. Hormonen kunnen nogal wat emoties veroorzaken en kunnen snel omslaan in woede. Probeer te onthouden dat dit niet je gebruikelijke partner is en dat de hormonen nu veel van haar stemmingswisselingen beheersen. Denk eraan als een versterkte PMS. Ja. Soms wordt het zo erg en om de kleinste dingen. Niet alle zwangerschappen hebben onvoorspelbare stemmingswisselingen, maar ze ervaren ze meestal op een bepaald moment in de zwangerschap minstens een of twee keer. Zelfs als ze opgetogen is om zwanger te zijn, kan ze ook bang, nerveus of onzeker zijn over dingen, vooral als dit haar eerste zwangerschap is. Zich zorgen maken of men een goede ouder zal zijn, is een van de grootste stressfactoren tijdens de zwangerschap. Reassureer je partner dat ze de allerbeste ouder zal zijn en dat alles goed komt zodra de baby er is. Wees haar klankbord. Moedig haar aan om haar gedachten en gevoelens met je te delen. Vraag haar hoe ze zich voelt en wat ze denkt over verschillende onderwerpen en situaties, zodat ze weet dat je een actieve rol speelt in de zwangerschap. Ze moet weten dat je beschikbaar bent voor haar en zich veilig voelen dat je om haar geeft.
+
+Luister naar haar zorgen, gevoelens en hoop. Haar laten weten dat je er bent en haar erkenning geven, geeft haar de steun die ze nodig heeft wanneer ze die het meest nodig heeft. Ze is nu erg kwetsbaar en moet weten dat je sterk kunt zijn voor jullie beiden.
+Geef haar liefdevolle massages om haar stress en pijn te verlichten. Zwangerschap belast niet alleen de geest, maar ook het lichaam. Het verzachten van die pijnlijke spieren en gewrichten kan precies zijn wat nodig is om haar te laten weten dat je een extra inspanning levert om je zorg te tonen.
+Zwangerschap kan ons extra moe maken, vooral in het eerste en derde trimester. Probeer meer te helpen met klusjes in huis, zoals de was doen, koken en boodschappen doen, zodat ze de broodnodige rust kan krijgen. Een mens maken is hard werken!
+Verlangens naar bepaald voedsel kunnen opkomen wanneer we het het minst verwachten. Dus als je partner ergens specifiek van geniet, probeer dan deze items in voorraad te hebben zodat ze ze kan hebben wanneer ze maar wil. Er is niets beter dan een verlangen naar een augurk en wat ijs om 3 uur 's nachts te bevredigen!
+Soms resulteert zwangerschap onverwacht in bedrust. Voor degenen die zich vervelen, zou wat entertainment leuk zijn. Probeer enkele van haar favoriete dingen te vinden, zoals films, boeken en tijdschriften, om haar bezig te houden. Haken en breien zijn ook een goed idee. Woordzoekers en kruiswoordpuzzels zijn een veelgebruikte oplossing.";
+
+"LearningResourceArticleVC.waysToShowYour.section3.headline" = "Houd de romantiek levend...";
+"LearningResourceArticleVC.waysToShowYour.section3.text" = "Dit zijn slechts enkele tips om je te helpen je partner te laten zien dat je om haar geeft en het beste wilt voor haar en de baby. Probeer je eigen ideeën te bedenken, specifiek gedetailleerd naar haar smaak en behoeften, om je liefde voor haar te tonen en je waardering voor het dragen van je kind. Het is het grootste compliment als iemand je kind ter wereld brengt en ze moet weten dat je je dat realiseert. Ze heeft nu veel emoties en moet weten dat je haar op alle mogelijke manieren steunt. Laat de romantiek in je relatie niet sterven. Veel koppels raken verstrikt in de babyplanning en zwangerschap en vergeten zich op elkaar te concentreren. Het plannen van een babymoon kan een goed idee zijn voordat de nieuwe toevoeging zijn grote entree maakt. Als een babymoon niet mogelijk is, zijn er andere manieren om de dingen spannend te houden. Plan wat date-nachten in de stad als je kunt of plan een verrassing thuis voor je partner. Iedereen wil zich speciaal en gewenst voelen, zelfs tijdens de zwangerschap. Misschien zelfs meer.";
+
+"LearningResourceArticleVC.waysToShowYour.section4.headline" = "Liefde hangt in de lucht...";
+"LearningResourceArticleVC.waysToShowYour.section4.text" = "Laat haar zich niet alleen voelen als een zwangere persoon of een aanstaande ouder. Zodra de baby er is, zal ze geconfronteerd worden met een hele reeks nieuwe fysieke en emotionele uitdagingen, dus het is belangrijk om de stressbelasting zoveel mogelijk te verminderen voor en na de bevalling. De mogelijkheden om je gevoelens te tonen zijn eindeloos. Houd haar in gedachten bij het voorbereiden van iets speciaals. Maak het helemaal over haar en ze zal in je armen smelten, niet alleen vanwege de uiting van genegenheid, maar ook omdat je genoeg om haar geeft om het te doen. Je hoeft geen extravagante gebaren te maken om je partner zich goed te laten voelen. Een klein cadeau hier, een goed bereid diner daar, een voetmassage om de pijnen van de dag te verlichten. Zolang het gebaar uit het hart komt, weet ik zeker dat ze het zal waarderen en ervan zal houden. Laat haar verbaal weten wat ze voor je betekent en hoe je je over haar voelt om haar gerust te stellen als ze zich down voelt. Veel geluk en gefeliciteerd met de aanstaande komst!";
+
+
+// MARK: Article: Hit the gym? Exercising when trying to conceive:
+"LearningResourceArticleVC.hitTheGym.headline" = "Naar de sportschool? Oefeningen bij een zwangerschapswens";
+"LearningResourceArticleVC.hitTheGym.text" = "";
+
+"LearningResourceArticleVC.hitTheGym.section1.headline" = "Fit blijven tijdens het proberen zwanger te worden";
+"LearningResourceArticleVC.hitTheGym.section1.text" = "Wanneer je probeert zwanger te worden, begin je waarschijnlijk alles in je dagelijkse routine te heroverwegen. Moet ik dit eten? Kan ik dat drinken? Het is allemaal genoeg om je gek te maken, maar als het gaat om sporten terwijl je probeert zwanger te worden, zijn de regels vrij eenvoudig. Houd het matig en houd rekening met bepaalde factoren die een verschil maken voor zowel mannen als vrouwen.";
+
+"LearningResourceArticleVC.hitTheGym.section2.headline" = "Voor vrouwen die proberen zwanger te worden";
+"LearningResourceArticleVC.hitTheGym.section2.text" = "Wandelen en vruchtbaarheidsyoga zijn twee van de beste manieren om de bloedsomloop te bevorderen en de kracht en flexibiliteit van de spieren rond de baarmoeder te verbeteren. Een inactieve levensstijl met weinig tot geen beweging kan een situatie van stagnatie van de bloedstroom naar de baarmoeder en andere voortplantingsorganen veroorzaken. De hoofdartee die bloed naar onze benen voert, voorziet ook onze baarmoeder, eierstokken en vagina van bloed - dus blijf in beweging! Als je een kantoorbaan hebt, zit je waarschijnlijk veel, wat de bloedstroom naar de baarmoeder kan belemmeren. Dit zal niet helpen, vooral als je al andere vruchtbaarheidsproblemen hebt. Bovendien kan het onvoldoende bewegen van dit gebied van ons lichaam bijdragen aan de vorming van littekenweefsel en verklevingen. Een zittende levensstijl draagt ook direct bij aan zwakke spieren in de baarmoeder. Als je probeert zwanger te worden, kan een stevige wandeling toevoegen aan je dagelijkse routine helpen, maar je wilt misschien nog even wachten met trainen voor die marathon. Stevig wandelen, rustig fietsen, golfen en tuinieren worden beschouwd als matige oefeningen. Als je overgewicht hebt, is matige lichaamsbeweging vooral belangrijk, omdat overgewicht je vruchtbaarheid negatief beïnvloedt. Als je helemaal niet gewend bent om te sporten, begin dan langzaam en bouw het geleidelijk op. De meeste vrouwen die al actief zijn, zouden zonder zorgen moeten kunnen blijven sporten, zonder dat dit hun vruchtbaarheid negatief beïnvloedt. Vrouwen die sporten om stress te verminderen, moeten hier zeker niet mee stoppen wanneer ze zwanger willen worden, tenzij er een medische reden voor is. Het American College of Obstetrics and Gynecology raadt aan om op de meeste, zo niet alle dagen van de week 30 minuten of meer matige lichaamsbeweging per dag te doen, tenzij je een medische of obstetrische complicatie hebt. De optimale Body Mass Index (BMI) voor vruchtbaarheid bij vrouwen ligt tussen 20 en 25.";
+
+"LearningResourceArticleVC.hitTheGym.section3.headline" = "Voor mannen die proberen zwanger te worden";
+"LearningResourceArticleVC.hitTheGym.section3.text" = "Dezelfde regels gelden over het algemeen voor mannen, maar er is gebleken dat intensieve lichaamsbeweging de testosteronniveaus verlaagt, wat op zijn beurt het libido en de gezondheid van de sperma vermindert. De drie grootste zorgen voor mannen zijn hitte, druk en trauma. De productie van sperma vereist een temperatuur tussen 34 en 35 graden Celsius. Zelfs een stijging van één graad is voldoende om de productie te stoppen en al geproduceerd sperma te doden. Het is dus het beste om intensieve lichaamsbeweging te vermijden die druk uitoefent op je testikels of je oververhit maakt. Wanneer je sport, probeer dan het dragen van sportondergoed, het nemen van hete baden en het gebruik van stoombaden te vermijden. En als je het echt niet kunt vermijden, beperk de tijd dan tot 15 minuten. Enkele suggesties voor 'veilige' oefeningen voor mannen terwijl je de vruchtbaarheid beschermt en het aantal zaadcellen verhoogt, zijn joggen rond het blok, lang genoeg om een versnelde hartslag te krijgen, zwemmen (dit biedt veel matige lichaamsbeweging terwijl de 'jongens' koel en comfortabel blijven) en yoga of pilates - die beide moeilijker zijn dan ze lijken! Mannen moeten niet meer dan 45 minuten per dag sporten voor de gezondheid en mobiliteit van de sperma en het aantal zaadcellen. Dezelfde regels voor obesitas gelden ook voor mannen, hoewel hun aanbevolen BMI niet lager mag zijn dan 18 voor optimale vruchtbaarheid.";
+
+"LearningResourceArticleVC.hitTheGym.section4.headline" = "Voordat ik afscheid neem...";
+"LearningResourceArticleVC.hitTheGym.section4.text" = "Onthoud dat het belangrijk is om rekening te houden met zowel de gezondheid als de behoeften van je partner wanneer je probeert zwanger te worden. Proberen leven in de wereld te brengen is een kostbaar geschenk en moet als zodanig worden behandeld. Ervoor zorgen dat de gezondheid van beide partners optimaal is, is een topprioriteit. Dit zal de kansen op conceptie aanzienlijk vergroten en de tijd die nodig is om zwanger te worden verkorten. Lichaamsbeweging, gezond eten en regelmatige bezoeken aan je huisarts zijn erg belangrijk, evenals alle benodigde afspraken bij de gynaecoloog. Routinecontroles en vruchtbaarheidscontroles worden sterk aanbevolen. Bij twijfel, laat het controleren. Als je denkt dat het te lang duurt om zwanger te worden, bespreek dit dan met je arts en zij kunnen je misschien doorverwijzen naar een specialist voor meer diepgaande tests en controles. En vooral, vergeet niet plezier te hebben tijdens het proberen. Leg niet te veel mentale stress op jezelf of je partner over hoe lang het duurt, wat er mis zou kunnen gaan of maak je zorgen over wat er zal gebeuren zodra je zwanger bent. Geniet ervan!";
+
+
+// MARK: Article: How to support your partner through a miscarriage:
+"LearningResourceArticleVC.howToSupportYourPartner.headline" = "Hoe je je partner kunt ondersteunen na een miskraam";
+"LearningResourceArticleVC.howToSupportYourPartner.text" = "";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section1.headline" = "Verlies en rouw";
+"LearningResourceArticleVC.howToSupportYourPartner.section1.text" = "Een miskraam is een verwoestende en pijnlijke ervaring van verlies. Het diepe gevoel van verdriet van een persoon wordt exponentieel versterkt wanneer geliefden zich niet in staat voelen om hen te helpen omgaan. Gevoelens van leegte, verlangen, verdriet, eenzaamheid en verwarring na een miskraam zijn veel moeilijker te navigeren wanneer iemand zich alleen voelt in zijn of haar lijden. Zoals bij veel pijnlijke ervaringen in het leven, is misschien het beste wat we uit ons verdriet kunnen halen wat we leren door er doorheen te gaan. Je zult de zwangerschap of je baby nooit vergeten, en dat zou je ook niet moeten doen. Wanneer je partner klaar is om te beginnen met herstellen, is hier wat je kunt doen om verder te gaan na de miskraam.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section2.headline" = "Erken het verlies";
+"LearningResourceArticleVC.howToSupportYourPartner.section2.text" = "Als je partner moeite heeft om om te gaan met een recente miskraam, begrijp dan dat het een even groot, zo niet moeilijker, verdriet is om te rouwen dan om het verlies van een andere dierbare. Wanneer we een familielid of een goede vriend verliezen, hebben we vastgestelde rituelen, passende taal en verwachtingen over hoe we ons medeleven kunnen betuigen. Wanneer iemand zijn kans op ouderschap verliest, is er geen universeel begrepen etiquette over hoe te reageren. Integendeel, een miskraam is meestal gehuld in stilte. Je medeleven en verdriet uiten over een miskraam kan je partner enorm helpen zich getroost en minder alleen te voelen. Laat zien dat je om hen geeft door kleine cadeautjes te kopen, brieven te schrijven, hen te laten weten dat ze een goede partner zijn en te proberen hen te beschermen tegen kwetsende opmerkingen. Sommige mensen kunnen onbedoeld wreed zijn en anderen zijn gewoon ronduit ongeïnteresseerd in de gevoelens van anderen.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section3.headline" = "Luisteren";
+"LearningResourceArticleVC.howToSupportYourPartner.section3.text" = "Vraag of ze willen praten over de miskraam, en wees bereid om stil en aandachtig te luisteren terwijl ze delen wat er is gebeurd en hun gevoelens. Dit vergt moed, en moed is precies wat een rouwende partner van jou nodig heeft. De eerste weken na een zwangerschapsverlies kunnen ze, naast vele andere gevoelens, een gevoel van ongeloof ervaren. Aan de andere kant, herinner hen eraan dat het ook goed is als ze niet willen praten. Je zult er zijn wanneer ze klaar zijn, en zo lang als ze je nodig hebben om te luisteren.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section4.headline" = "Zeg hen dat het niet hun schuld is";
+"LearningResourceArticleVC.howToSupportYourPartner.section4.text" = "Iemand die een miskraam heeft gehad, zal zichzelf keer op keer afvragen wat hij of zij had kunnen doen om het verlies van hun baby te veroorzaken. Miskramen zijn heel gewoon; schattingen van hoe vaak een zwangerschap eindigt in een verlies liggen tussen 1 op 3 of 1 op 4. Sommige mensen ondergaan meerdere miskramen. De waarheid is dat zwangerschappen om verschillende redenen plotseling kunnen eindigen, en hoewel het misschien geen troost biedt aan iemand om nooit precies te weten wat een miskraam heeft veroorzaakt, zal het hen enorm helpen om alle schuldgevoelens los te laten. Zeg hen zo vaak als ze het nodig hebben dat het verlies niet te wijten was aan iets wat ze wel of niet hebben gedaan.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section5.headline" = "Bedenk geen redenen waarom ze de baby hebben verloren";
+"LearningResourceArticleVC.howToSupportYourPartner.section5.text" = "Niemand die een kind wil, die al verliefd is geworden op hun baby en die hoop en dromen heeft voor hun geliefde kind, wil denken dat er een duidelijke reden is waarom ze de baby hebben verloren. Probeer niet uit te leggen wat er is gebeurd om hen zich beter te laten voelen, want het kan hen alleen maar overstuur maken. Dit is ook niet het moment om te suggereren dat ze altijd nog een andere baby kunnen krijgen of het later opnieuw kunnen proberen. Een andere zwangerschap of toekomstige baby is geen troost voor iemand die rouwt om hun huidige verlies. Een baby krijgen na een miskraam vervangt niet degene die verloren is gegaan.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section6.headline" = "Laat ze rusten";
+"LearningResourceArticleVC.howToSupportYourPartner.section6.text" = "Moedig hen aan om te slapen en voor zichzelf te zorgen. Doe meer in het huishouden zodat ze kunnen herstellen van hun verdriet. Maak hun last lichter op elke mogelijke manier. Kook gezonde maaltijden. Iedereen die rouwt na het verlies van een baby kan extra hulp gebruiken om de dag door te komen. Breng spullen mee naar huis die ontspanning bevorderen, zoals geurkaarsen, een cd met zachte muziek en wat lavendel/kamille thee. Maak een afspraak voor je partner in een spa of bij een geregistreerde massagetherapeut wanneer ze er klaar voor zijn. Zacht behandeld worden door de warme, helende handen van iemand kan wonderen doen om de verdriet, rouw en spanning die ze in hun lichaam vasthouden los te laten.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section7.headline" = "Bied aan om mee te gaan naar een therapeut";
+"LearningResourceArticleVC.howToSupportYourPartner.section7.text" = "Niet alleen kan therapie een paar helpen om door de stadia van rouw heen te komen, maar een goede therapeut kan ook nuttige suggesties bieden over hoe specifiek om te gaan met rouw na een miskraam, zoals het aanbevelen van boeken en websites die kunnen helpen. Hier is nog een suggestie: rituelen omvatten het bouwen van een kracht totem, het benoemen van de baby, het schrijven van een brief aan de baby en het herdenken van de baby op een manier die voor jou goed voelt.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section8.headline" = "Bied aan om deel te nemen aan een herdenking";
+"LearningResourceArticleVC.howToSupportYourPartner.section8.text" = "Er zijn veel websites die suggesties bieden over hoe jij en je partner dit kunnen doen. Er zijn juweliers die gepersonaliseerde hangers, kettingen en sleutelhangers maken voor mensen die een miskraam hebben gehad, met de naam en de uitgerekende datum van hun baby. Er zijn online virtuele gedenktekens gewijd aan 'engelen' die dierbaar zijn geliefd en gemist door hun families. Er zijn organisaties die zich inzetten voor het ondersteunen van koppels die een miskraam hebben gehad, en die donaties accepteren in de naam van een verloren baby. Moedig hen aan om de tijd te nemen om na te denken over wat goed voor hen zou voelen, en om met je te praten over of ze je willen betrekken bij een herdenking. Respecteer hun wensen als ze dit liever alleen doen of helemaal niet. Niet iedereen deelt graag zijn of haar verdriet en beschouwt dit als een zeer intieme en persoonlijke handeling. Er voor je partner zijn is het enige wat je op dit moment kunt doen. Zorg ervoor dat ze weten dat ze geliefd, gerespecteerd en gewenst zijn. Onthoud, ook al is dit moeilijk voor jou, het is veel moeilijker voor je partner die de baby droeg. Wanneer het juiste moment daar is, genees samen maar geef ruimte wanneer dat nodig is.";
+
+
+// MARK: Article: Oh, baby! Sex after childbirth:
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.headline" = "Oh, baby! Seks na de bevalling";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.text" = "";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.headline" = "Laten we fysiek worden!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.text" = "Enkele weken na de geboorte van je baby ben je weer thuis en begin je je nieuwe leven met je kleintje op te pakken — maar terugkeren naar je seksleven kan verrassend lastig blijken, zelfs als je je er klaar voor voelt. Het terugkeren naar je seksleven in de slaapkamer verschilt van persoon tot persoon, maar weet dat het uiteindelijk zal gebeuren. Dwing jezelf of je partner niet. Laat de dingen natuurlijk gebeuren. Je zult de veranderingen die je hebt doorgemaakt moeten overwinnen, ervaren en accepteren, en als je moeilijkheden ondervindt, moet je je realiseren dat je niet het enige koppel bent dat dit heeft meegemaakt. Met de hulp van je partner, een beetje begrip en deze tips, zul je de geneugten van seks na de bevalling herontdekken!";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.headline" = "Stap 1: Confronteer je angsten";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.text" = "Je wilt niet overhaast seks hebben na de bevalling. Om te beginnen — laten we eerlijk zijn — je vagina zal niet meteen klaar zijn voor seks na het trauma van het baren van een baby. Het wordt meestal aanbevolen om geslachtsgemeenschap uit te stellen tot je postnatale controle ongeveer zes weken na de bevalling. Dit verschilt echter per koppel, en sommige vrouwen voelen zich goed voor deze zes weken, terwijl sommige vrouwen tot zes maanden kunnen wachten voordat ze zich klaar voelen om te vrijen. Een keizersnede zal ook invloed hebben op je seksleven na de zwangerschap. Een keizersnede is een grote operatie en kost tijd om te genezen en te herstellen.
+
+Er kunnen een aantal angsten in je hoofd blijven hangen en je afhouden van seks na de bevalling. Angst dat de hechtingen scheuren, dat het pijn zal doen, dat je niet langer aantrekkelijk zult zijn voor je partner, zijn allemaal heel gewoon! Praten met je partner over je angsten zal helpen om ze te verminderen. Neem de tijd voor strelingen en andere vormen van plezier en intimiteit in plaats van penetratie totdat je je zelfverzekerd en klaar voelt voor seks.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.headline" = "Stap 2: Kom over de schok van de bevalling heen";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.text" = "Slapeloze nachten kunnen je allerlei gekke dingen laten voelen en je de hele dag op scherp zetten. Dus als je negatieve gedachten hebt of dingen stressvol vindt, zal gebrek aan slaap waarschijnlijk ook niet helpen. De kans is groot dat als je uitgeput bent, seks het laatste is waar je aan denkt. Maar zodra je in staat bent om regelmatig een paar fatsoenlijke uren slaap te krijgen, zul je merken dat je een andere vrouw bent — een vrouw die misschien zelfs weer aan seks begint te denken!
+
+Het is belangrijk te benadrukken dat een grote daling van het libido bij veel moeders optreedt na de bevalling en dat het volkomen begrijpelijk is. De sterke daling van de hormoonspiegels, de verantwoordelijkheid voor de zorg voor je baby, slaapgebrek, de naweeën van de bevalling, episiotomieën, keizersneden en bloedverlies hebben allemaal een grote invloed op het lichaam en de geest van een vrouw. Er is niets dat je eraan kunt doen, behalve jezelf de tijd geven om ermee om te gaan, de tijd om te helen en te verwerken, dus wees geduldig met jezelf.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.headline" = "Stap 3: Leer opnieuw van je lichaam te houden";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.text" = "De volgende stap is om geleidelijk weer te gaan bewegen en te gaan sporten. Dit zal helpen om die extra kilo's kwijt te raken, je buikspieren te versterken en je energie terug te krijgen — en zonder twijfel je zelfvertrouwen en eigenwaarde in het proces. Als je echter borstvoeding geeft, vergeet dan diëten. Borstvoeding vereist extra calorieën en voedingsstoffen voor de voeding van je baby en geeft je ook de energie die je nodig hebt! In negen maanden tot een jaar zou je weer op je gewicht van voor de zwangerschap moeten zijn en lichaam- en spiertonus moeten hebben opgebouwd. Dat is een beetje een stimulans voor degenen die hun baby's kunnen borstvoeden. Als je flesvoeding moet geven en formule moet gebruiken, zijn er enkele eenvoudige post-zwangerschap workouts online beschikbaar die je vanuit het comfort van je eigen huis kunt volgen.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.headline" = "Stap 4: Maak wat ruimte!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.text" = "De band tussen jou en je baby zal als geen ander zijn die je ooit hebt meegemaakt, en het kan soms weinig ruimte laten voor iets of iemand anders. Dit is opnieuw heel normaal. Je ervaart wat bekend staat als de moeder-babyband met je kleintje. Het verlaten van de baarmoeder is niet genoeg om twee lichamen te scheiden die negen maanden verenigd waren. Je baby ziet je nog steeds als één geheel en zal zich pas bewust worden van de realiteit als hij of zij ongeveer acht maanden oud is.
+
+Bevrijd jezelf langzaam uit deze fase om je kind de kans te geven onafhankelijk te worden. Je hebt ook tijd nodig om je partner toe te laten en je niet buitengesloten te voelen. Het is belangrijk om wat tijd voor jullie samen vrij te maken als koppel (hoe moeilijk dat ook mag zijn). Probeer samen een film te kijken als de baby slaapt of de baby mee te nemen voor een wandeling, zodat jij en je partner wat ontspanningstijd samen hebben. Als je een oppas beschikbaar hebt, plan dan een date night wanneer jullie beiden er klaar voor zijn.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.headline" = "Stap 5: Breng wat passie terug in je relatie";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.text" = "Eindelijk ben je weer klaar om gepassioneerd met je partner te worden en klaar om de daad te verrichten, maar als dit de eerste keer is dat je je opgewonden voelt, kan het een beetje ontmoedigend zijn. Als je nog steeds een beetje gevoelig bent, ga dan voor posities waarmee je de controle kunt hebben, zoals rijden of reverse cowgirl. Rijden is een geweldige positie voor seks na de bevalling. Bovenop je partner zijn, zodat je de diepte en penetratie kunt controleren, is misschien het beste totdat je weer aan de dingen gewend bent. Het gebruik van een goed glijmiddel kan de zaken ook wat gemakkelijker en comfortabeler laten verlopen. Denk eraan om de tijd te nemen en niet te haasten. Neem het rustig aan en kom langzaam weer in het plezier. Zodra je hier begint, kun je beoordelen wat comfortabel aanvoelt en wat niet, en hopelijk kunnen jij en je partner binnen de kortste keren weer genieten van die vurige passie die je baby in de eerste plaats heeft gemaakt!";
+
+
+// MARK: Article: The Road Before the Bump:
+"LearningResourceArticleVC.theRoadBeforeTheBump.headline" = "De Weg Voor de Zwangerschap: Een Gids om Zwanger Worden te Gamificeren";
+"LearningResourceArticleVC.theRoadBeforeTheBump.text" = "De reis naar conceptie is voor iedereen anders. Voor sommige vrouwen, ze niezen gewoon en ze zijn zwanger! Voor anderen kan het meer planning en tijd vergen. Hoewel deze tijd heilig is, kan het stressvol zijn om ovulatieschema's bij te houden, tests te doen en voortdurend over een eindeloze zee van informatie over zwanger worden te gaan. Soms is het zo gemakkelijk om zo gefixeerd te raken op het resultaat, dat intimiteit door de mazen van het net kan glippen. Dus misschien dat de passie die ooit je bed in vuur en vlam zette, begint te tanen, of misschien ben je gewoon op zoek om de ervaring van zwanger worden onvergetelijk te maken, we denken dat dit artikel voor jou is! De weg voor de zwangerschap kan een lange zijn, dus waarom zou je niet van de rit genieten?";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.headline" = "11 Manieren om Zwanger Worden Op te Fleuren";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.text" = "1. Locatie, locatie, locatie! Is het bed je gebruikelijke plek geworden als je intiem bent met je geliefde? Zo ja, schud het dan op en word gek in de keuken, het zwembad of op die studeertafel! Voor de moedige stellen daarbuiten, je zou zelfs in het openbaar bezig kunnen zijn.
+2. Wees spontaan. Er gaat niets boven het gevoel van gewenst te zijn, laat de schema's even varen en creëer spontaniteit! Je zou vies kunnen worden in een onverwachte douche voor twee of een vluggertje op de bank, wat je ook kiest om te doen, vermijd seks inplannen alsof het een andere huishoudelijke klus is!
+3. Download spellen en apps voor stellen. Apps waarmee jullie beide nieuwe posities kunnen verkennen, sexy uitdagingen kunnen voltooien en je die extra inspiratie kunnen geven, kunnen zo leuk zijn! We raden aan de Scratch Adventure app te downloaden! Stellen kunnen nieuw ontdekte kinks vinden en hun sensuele fantasieën beleven.
+4. Schrijf het op! Probeer wat kinky dingen die je altijd al hebt willen proberen op aparte papiertjes te schrijven, stop ze in een kom en pak er een als je in de stemming bent. Denk hierbij aan een bucketlist voor stellen, je zou er ook voor kunnen kiezen om elkaar niet te vertellen wat je schrijft om de opwinding en nieuwsgierigheid op te bouwen.
+5. Sexy berichten. Sexting voegt een element van anticipatie toe aan je seksleven. Stuur naaktfoto's en vieze berichten terwijl je uit elkaar bent, geef ze iets om over na te denken.
+6. Speeltjes. Tegenwoordig zijn er een oneindig aantal speeltjes beschikbaar voor stellen om te proberen! Speeltjes voegen iets extra's toe aan jullie liefdesspel en zijn gebouwd voor plezier.
+7. Ga er even tussenuit. Neem een korte pauze van de dagelijkse drukte en geniet van wat tijd samen met je geliefde.
+8. Verander de tijden. Merk je dat je meestal rond dezelfde tijd seks hebt? Overweeg een stoutmoedige ochtendsessie of een middagpauze!
+9. Sensuele massages. Haal de olie tevoorschijn en stuur je partner naar de hemel! Laat die spanning los en voel het genot, en vergeet niet om elkaar af te wisselen!
+10. Voorspel. Geef meer ruimte voor plezier en spel bij het proberen zwanger te worden.
+11. Ovulio Baby. Stellen kunnen hun intimiteit versterken door gebruik te maken van alle functies op je Ovulio Baby-app. Je kunt de temperatuur verhogen door een scala aan hete en zware posities en seksspelletjes uit te proberen die zijn ontworpen voor plezier en conceptie!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.headline" = "Intimiteit In Overvloed";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.text" = "In een toegewijde relatie hebben we de neiging om onze routines uit te stippelen, en die routines hebben een plaats in ons leven, ze zorgen ervoor dat alles soepel verloopt en zorgen ervoor dat het volgens plan verloopt. Je weet precies wat je voor de week gaat koken, je weet dat je na de dag voor de tv gaat knuffelen. Het is geen geheim dat intimiteit op de achtergrond kan raken, dus hoe kunnen we het weer op de bestuurdersstoel krijgen? We hebben een paar suggesties:
+● Liefdestalen. Ken je de liefdestaal van je partner? Is het als je tijd met ze doorbrengt? Of is het als je ze bevestigingen geeft? Iedereen voelt zich geliefd op verschillende manieren, het is het beste om vloeiend te worden in de liefdestaal van je partner. Overweeg de daden van liefde op te voeren tijdens deze spannende tijd, het zal je alleen maar dichterbij brengen en intimiteit inspireren.
+● Hoffelijkheid aan je partner. Wanneer we in een langdurige relatie zitten, vergeten we vaak om onze partners te daten, hen te versieren en te flirten zoals we vroeger deden. Ga terug naar de goede oude tijd toen je elkaar nog aan het begin probeerde te veroveren. Als we ons verbonden voelen, zullen gevoelens van opwinding en intimiteit zeker volgen!
+● Onthoud om plezier te hebben. Zo simpel als het ook klinkt, intimiteit kan vele vormen aannemen, of het nu samen lachen is of iets doen waar je altijd over hebt gesproken. Onthoud om het leven niet te serieus te nemen en plezier te hebben met je partner kan ervoor zorgen dat je opnieuw verliefd wordt op hen. Bekijk samen een stand-up show of speel een spel, leer elkaar aan het lachen te maken, je zult er geen spijt van krijgen!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.headline" = "De Geest Telt Mee";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.text" = "Er is zoveel om aan te denken als je probeert zwanger te worden, soms lopen de emoties hoog op. Waar het mogelijk is, verminder stress in je dagelijks leven. Stress kan je zowel fysiek als mentaal beïnvloeden op weg naar het krijgen van je kleine wonder; het is belangrijk om stressfactoren te identificeren die kunnen worden verwijderd en manieren te vinden om te ontspannen. Wanneer we angstig of onder druk staan, sijpelt het door in hoe we genieten van activiteiten, seks en communiceren met onze partners. Samen een stapje terug doen om uit te rusten en te ontspannen kan alleen maar voordelen opleveren voor beide partners in dit prachtige proces! Maak tijd voor een goed gesprek, slaap uit op een regenachtige dag en voer luchtige gesprekken. Je zou samen kunnen gaan mediteren of een nieuwe hobby in huis kunnen beginnen; laat stress je niet in de weg staan, de geest telt mee.";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.headline" = "Veel Succes";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.text" = "We wensen je geluk; we weten dat wachten op het goede nieuws dat je een broodje in de oven hebt, spannend en zenuwslopend tegelijk kan zijn! Neem deze tijd om te genieten van intimiteit, plezier en genot met je partner. Het creëren van leven is zo'n mooie reis, en sommigen kunnen niet wachten om bij de bestemming te komen! Vergeet niet de weg naar conceptie te waarderen, kijk af en toe uit het raam, onthoud altijd wie er naast je zit en voor je het weet…bump!";
+
+
+// In App Purchase
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.title" = "Kan productinformatie niet ophalen";
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.message" = "Ongeldige productidentificator: ";
+"InAppPurchase.alertForProductRetrievalInfo.default.message" = "Onbekende fout. Neem contact op met de ondersteuning";
+
+"InAppPurchase.alertForPurchaseResult.success.title" = "Bedankt";
+"InAppPurchase.alertForPurchaseResult.success.message" = "Aankoop voltooid.";
+"InAppPurchase.alertForPurchaseResult.error.title" = "Aankoop mislukt";
+"InAppPurchase.alertForPurchaseResult.error.clientInvalid.message" = "Niet toegestaan om de betaling uit te voeren";
+"InAppPurchase.alertForPurchaseResult.error.paymentInvalid.message" = "De aankoopidentificator was ongeldig";
+"InAppPurchase.alertForPurchaseResult.error.paymentNotAllowed.message" = "Het apparaat is niet toegestaan om de betaling uit te voeren";
+"InAppPurchase.alertForPurchaseResult.error.storeProductNotAvailable.message" = "Het product is niet beschikbaar in de huidige winkel";
+"InAppPurchase.alertForPurchaseResult.error.cloudServicePermissionDenied.message" = "Toegang tot cloudservice-informatie is niet toegestaan";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceNetworkConnectionFailed.message" = "Kan geen verbinding maken met het netwerk";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceRevoked.message" = "Cloudservice is ingetrokken";
+"InAppPurchase.spalert.success.title" = "Klaar!";
+"InAppPurchase.spalert.success.message" = "Uw upgrade naar PRO was succesvol";
+
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.title" = "Herstellen mislukt";
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.message" = "Onbekende fout. Neem contact op met de ondersteuning";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.title" = "Aankopen hersteld";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.message" = "Alle aankopen zijn hersteld. De app wordt kort opnieuw opgestart.";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.title" = "Niets te herstellen";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.message" = "Er zijn geen eerdere aankopen gevonden";
+"InAppPurchase.alert.noValidActivationCode.title" = "Dit is geen geldige activeringscode!";
+"InAppPurchase.alert.activationCodeAlreadyUsed.title" = "De activeringscode is al gebruikt!";
+"InAppPurchase.alert.tooManyTries.title" = "Te veel mislukte pogingen";
+"InAppPurchase.alert.tooManyTries.message" = "Probeer het later opnieuw";
+"InAppPurchase.alert.uploadError.title" = "Het proces kon niet worden voltooid";
+"InAppPurchase.alert.uploadError.message" = "Controleer uw internetverbinding.";
+
+// LoadingIndicatorHUD.swift
+"LoadingIndicatorHUD.loadingLabel.text" = "Bezig met laden";
+
+// MARK: OurExpertsDetailsVC
+"OurExpertsDetailsVC.expertNameLabel.text" = "Dr. Usman, gynaecoloog";
+"OurExpertsDetailsVC.expertReviewLabel.text" = "'Zwanger worden hoeft niet stressvol te zijn! Ovulio Baby maakt het leuk door je te helpen de beste seksposities te kiezen die ervoor zorgen dat je op de leukste manier zwanger wordt! Als je op zoek bent naar een leuke manier om zwanger te worden, probeer dan Ovulio Baby!'";
+"OurExpertsDetailsVC.expertInfoLabel.text" = "Dr. Usman is een in het VK gevestigde specialist met een speciale interesse in vruchtbaarheid en seksuele gezondheid. Hij is een enthousiaste onderzoeker met meer dan 30 publicaties in peer-reviewed internationale tijdschriften. Dr. Usman gelooft in op bewijs gebaseerde geneeskunde en het leveren van hardcore medische kennis op een begrijpelijke manier.";
+
+// MARK: HowTheAppWorksVC
+"HowTheAppWorksVC.headlineLabel.text" = "Hoe het werkt";
+"HowTheAppWorksVC.textView.text" = "Bij Ovulio Baby zijn we toegewijd aan het bieden van onze gebruikers de nieuwste en meest wetenschappelijk onderbouwde methoden voor gezinsplanning en het begrijpen van de factoren die de geslachtskeuze van de baby kunnen beïnvloeden. Onze aanpak integreert beproefde technieken, geïnspireerd door uitgebreid onderzoek naar voortplanting, samen met hedendaagse wetenschappelijke gegevens.
+
+Timing en ovulatiecyclus: Een sleutel element in onze methodologie is het begrijpen van de ovulatiecyclus en het timen van geslachtsgemeenschap. Studies suggereren dat geslachtsgemeenschap dichter bij de ovulatiedatum kan invloed hebben op het geslacht van de baby. Dit is gebaseerd op de kenmerken van verschillende spermatypes en hun verschillende snelheden en levensduur.
+
+Voedingsaspecten: Opkomend onderzoek wijst op de mogelijke impact van voeding op het beïnvloeden van het geslacht van de baby. Specifieke voedingspatronen en voedingsstoffeninname kunnen worden geassocieerd met de kans om een mannelijk of vrouwelijk kind te verwekken, hoewel deze bevindingen nog steeds onder voortdurende studie zijn en niet definitief zijn bewezen.
+
+Hormonale invloed: Hormonale niveaus en hun schommelingen bij potentiële ouders worden ook beschouwd als een mogelijke factor. De hormonale omgeving op het moment van conceptie kan een rol spelen bij het bepalen van het geslacht van de baby.
+
+Levensstijlfactoren: Levensstijlfactoren zoals stressniveaus, lichamelijke activiteit en algemene gezondheid kunnen ook een indirecte invloed hebben op het geslacht van de baby, omdat ze van invloed zijn op de algemene vruchtbaarheid en de voortplantingsgezondheid.
+
+Het is belangrijk op te merken dat hoewel deze methoden zijn gebaseerd op wetenschappelijk onderzoek, ze geen specifiek resultaat garanderen. De menselijke biologie en voortplantingsprocessen zijn complex, en vele factoren dragen bij aan de bepaling van het geslacht van een baby. We moedigen onze gebruikers aan om deze methoden te benaderen als onderdeel van een breder begrip van de voortplantingsgezondheid en gezinsplanning.
+
+Referenties naar wetenschappelijke studies: Onze methodologie wordt voortdurend bijgewerkt in lijn met lopend onderzoek naar voortplantingsgezondheid. We verwijzen naar een breed scala aan studies uit gerenommeerde medische tijdschriften en instellingen om ervoor te zorgen dat onze gebruikers goed afgerond en wetenschappelijk onderbouwd advies ontvangen.
+
+Wij bij Ovulio Baby zijn toegewijd aan het empoweren van onze gebruikers met kennis en tools voor hun reproductieve reis, waarbij we altijd gezondheid, welzijn en geïnformeerde keuze vooropstellen. \n\n";
+
+
+// DiceToSpiceGameMenu.swift
+!
+"DiceToSpiceGameMenu.headlineLabelBold.text" = "Dobbelen voor plezier";
+"DiceToSpiceGameMenu.headlineLabel.text" = "Dobbelen voor plezier";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.cuteButton.title" = "Zacht";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.spicyButton.title" = "Pittig";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.customButton.title" = "Moeilijk";
+
+"DiceToSpiceGameMenu.salesPageView.headlineLabel.text" = "Wil je nog meer combinaties?";
+"DiceToSpiceGameMenu.salesPageView.backToPreviousVersionButton.title" = "Ik wil niet tevreden zijn met mijn partner";
+"DiceToSpiceGameMenu.salesPageView.featuresLabel.text" = "128 nieuwe combinaties
+\nOneindige personalisatie-opties\n";
+
+"DiceToSpiceGameMenu.actionTasks.1" = "Likken";
+"DiceToSpiceGameMenu.actionTasks.2" = "Zuigen";
+"DiceToSpiceGameMenu.actionTasks.3" = "Blazen";
+"DiceToSpiceGameMenu.actionTasks.4" = "Aanraken";
+"DiceToSpiceGameMenu.actionTasks.5" = "Masseren";
+"DiceToSpiceGameMenu.actionTasks.6" = "Kietelen";
+"DiceToSpiceGameMenu.actionTasks.7" = "Knabbelen";
+"DiceToSpiceGameMenu.actionTasks.8" = "Knijpen";
+"DiceToSpiceGameMenu.actionTasks.9" = "Kussen";
+"DiceToSpiceGameMenu.actionTasks.10" = "Jij beslist";
+
+// DiceToSpiceGameSelectBodyParts.swift
+"DiceToSpiceGameSelectBodyParts.headlineLabel.text" = "Maak je eigen dobbelsteen";
+"DiceToSpiceGameSelectBodyParts.subtitleLabel.text" = "Selecteer de acties en lichaamsdelen die je wilt opnemen en voeg je eigen toe";
+"DiceToSpiceGameSelectBodyParts.bodyPartsHeadlineLabel.text" = "Lichaamsdelen";
+"DiceToSpiceGameSelectBodyParts.actionsHeadlineLabel.text" = "Acties";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.title" = "Voeg nieuwe acties toe";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.title" = "Voeg nieuwe lichaamsdelen toe";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.title" = "Voeg nieuw lichaamsdeel toe";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.message" = "Voer een nieuw lichaamsdeel in dat je aan je aangepaste dobbelspel wilt toevoegen";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.placeholder" = "Lichaamsdeel";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.title" = "Voeg nieuwe actie toe";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.message" = "Voer een nieuwe actie in die je aan je aangepaste dobbelspel wilt toevoegen";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.placeholder" = "Actie";
+"DiceToSpiceGameSelectBodyParts.hintLabelNoCustomDiceTasks.text" = "Begin nu met het maken van je eigen dobbelspel!";
+"DiceToSpiceGameSelectBodyParts.hintButtonNoCustomDiceTasks.text" = "Creëer nu";
+"DiceToSpiceGameSelectBodyParts.alertMinimumSelectedBodyPartsAndActions.title" = "Selecteer minimaal 2 acties en 2 lichaamsdelen om correct te spelen!";
+
+
+// SqueezLickSuckGame.swift
+"SqueezLickSuckGame.headlineLabelBold.text" = "\nKnijpen,\nLikken of Zuigen";
+"SqueezLickSuckGame.headlineLabel.text" = "Knijpen Likken Zuigen";
+"SqueezLickSuckGame.playerGender.male" = "Man";
+"SqueezLickSuckGame.playerGender.female" = "Vrouw";
+"SqueezLickSuckGame.playerGenderTextField.placeholder" = "Voornaam";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player1" = "Speler 1 Naam";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player2" = "Speler 2 Naam";
+"SqueezLickSuckGame.letsGoButton.title" = "Laten we gaan";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.title" = "Spelersnaam ontbreekt";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.message" = "Geef elke speler alstublieft een naam!";
+"SqueezLickSuckGame.text.point" = "Punt";
+"SqueezLickSuckGame.text.points" = "Punten";
+"SqueezLickSuckGame.text.turn" = "Beurt van %x";
+
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.descriptionLabel.text" = "Wat wil je hierna doen?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.squeezeButton.title" = "Knijpen";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.lickButton.title" = "Likken";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.suckButton.title" = "Zuigen";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.diceButton.title" = "Dobbelsteen";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.skipButton.title" = "Overslaan";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.completeButton.title" = "Voltooid";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.title" = "Knijpen, Likken of Zuigen?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.message" = "Kies eerst wat je hierna wilt doen!";
+"SqueezLickSuckGame.levelButton.title" = "Niveau: ";
+"SqueezLickSuckGame.levelButton.level.1" = "Epicure";
+"SqueezLickSuckGame.levelButton.level.2" = "Vuil";
+"SqueezLickSuckGame.levelButton.level.3" = "Aangepast";
+"SqueezLickSuckGame.selectLevel.alert.title" = "Selecteer een Niveau";
+"SqueezLickSuckGame.selectLevel.alert.message" = "Op welk moeilijkheidsniveau wil je spelen?";
+"SqueezLickSuckGame.EnterPlayerNameView.playerNamesLabel.text" = "Voer je namen in";
+"SqueezLickSuckGame.EnterPlayerNameView.levelHeadlineLabel.text" = "Kies een moeilijkheidsgraad";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.title" = "Geen SLS-taken beschikbaar!";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.message" = "Selecteer enkele lichaamsdelen die je wilt opnemen of voeg je eigen toe!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.title" = "Er kon geen taak voor je worden gevonden!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.message" = "Selecteer alstublieft enkele verdere lichaamsdelen die je wilt opnemen of voeg je eigen toe!";
+"SqueezLickSuckGame.hintLabelNoSlsTasks.text" = "Begin nu met het maken van je eigen SLS-taken!";
+"SqueezLickSuckGame.hintButtonNoSlsTasks.text" = "Maak nu";
+
+"SqueezLickSuckGame.challenges.1" = "Lippen";
+"SqueezLickSuckGame.challenges.2" = "Penis";
+"SqueezLickSuckGame.challenges.3" = "Ballen";
+"SqueezLickSuckGame.challenges.4" = "Vagina";
+"SqueezLickSuckGame.challenges.5" = "Clitoris";
+"SqueezLickSuckGame.challenges.6" = "Labia";
+"SqueezLickSuckGame.challenges.7" = "Anaal";
+"SqueezLickSuckGame.challenges.8" = "Kont";
+"SqueezLickSuckGame.challenges.9" = "Borst";
+"SqueezLickSuckGame.challenges.10" = "Tepels";
+"SqueezLickSuckGame.challenges.11" = "Nek";
+"SqueezLickSuckGame.challenges.12" = "Dij";
+"SqueezLickSuckGame.challenges.13" = "Vinger";
+"SqueezLickSuckGame.challenges.14" = "Voeten";
+"SqueezLickSuckGame.challenges.15" = "Tenen";
+"SqueezLickSuckGame.challenges.16" = "Been";
+"SqueezLickSuckGame.challenges.17" = "Arm";
+"SqueezLickSuckGame.challenges.18" = "Oor";
+"SqueezLickSuckGame.challenges.19" = "Neus";
+"SqueezLickSuckGame.challenges.20" = "Navel";
+"SqueezLickSuckGame.challenges.21" = "Belly";
+"SqueezLickSuckGame.challenges.22" = "Hand";
+"SqueezLickSuckGame.challenges.23" = "Back";
+"SqueezLickSuckGame.challenges.24" = "Taint";
+"SqueezLickSuckGame.challenges.25" = "Cheeks";
+"SqueezLickSuckGame.challenges.26" = "Crotch";
+"SqueezLickSuckGame.challenges.27" = "Je beslist";
+
+
+
+//MARK: Yoga Fertility Position data
+"YogaVC.PostionsDetails.Where.headline.text" = "Waar?";
+"YogaVC.PostionsDetails.Why.headline.text" = "Waarom?";
+"YogaVC.PostionsDetails.How.headline.text" = "Hoe?";
+
+"YogaVC.YogaFertility.RecliningBoundAngle.headline.text" = "Liggende Gebonden Hoek";
+"YogaVC.YogaFertility.RecliningBoundAngle.whereText" = "Bekken, binnenkant van de dijen en lies.";
+"YogaVC.YogaFertility.RecliningBoundAngle.whyText" = "Het kan je ondersteunen bij het proberen zwanger te worden door bekkenontspanning te bevorderen, stress te verminderen en de bloedstroom naar de voortplantingsorganen te verbeteren.";
+"YogaVC.YogaFertility.RecliningBoundAngle.howText" = "Ga liggend op je rug met je knieën licht gebogen. Breng de zolen van je voeten bij elkaar en laat je benen natuurlijk uit elkaar vallen. Ontspan je schouderspieren en positioneer je handen in een hartvorm, met duimen die elkaar raken en wijsvingers die elkaar ontmoeten op je onderbuik. Houd deze houding minimaal drie minuten aan, terwijl je je concentratie en energie richt op je bekkengebied.";
+
+"YogaVC.FertilityPosition.WarriorIIPose.headline.text" = "Krijger II Houding";
+"YogaVC.FertilityPosition.WarriorIIPose.whereText" = "Heupen, dijen en bekken.";
+"YogaVC.FertilityPosition.WarriorIIPose.whyText" = "Krijger II wordt breed omarmd vanwege de mogelijke vruchtbaarheidsbevorderende voordelen, toegeschreven aan zijn vermogen om de heupen en flanken te openen en te versterken.";
+"YogaVC.FertilityPosition.WarriorIIPose.howText" = "Om deze houding aan te nemen, sta stevig en neem een stap naar voren, buig je voorste voet. De voorste voet moet naar voren wijzen, terwijl de achterste voet naar de zijkant wijst. Buig je voorste knie en strek je armen naar buiten, open je lichaam naar de zijkant. Kijk naar de voorste hand voor een telling van vijf ademhalingen, herhaal dan de sequentie aan de andere kant.";
+
+"YogaVC.FertilityPosition.CobraPose.headline.text" = "Cobra Houding";
+"YogaVC.FertilityPosition.CobraPose.whereText" = "Bekken, onderrug en bloedcirculatie.";
+"YogaVC.FertilityPosition.CobraPose.whyText" = "Deze houding biedt een verlengend en rekend effect op zowel de boven- als onderrug, en bevordert een verbeterde bloedcirculatie naar de eierstokken en baarmoeder.";
+"YogaVC.FertilityPosition.CobraPose.howText" = "Begin door met je gezicht naar beneden te liggen, strek je benen uit en houd je enkels bij elkaar. Je bekken, benen en de bovenkant van je voeten moeten stevig contact maken met de vloer. Plaats je handen onder je schouders en trek je ellebogen dicht tegen je torso, knuffel ze tegen je zij. Adem in, duw door je handen, trek je schouderbladen terug. Span je kern aan, richt je staartbeen naar de grond terwijl je je borst optilt. Houd deze houding 15 tot 30 seconden vast, terwijl je gelijkmatig ademt. Om los te laten, adem je uit en laat je voorzichtig je hoofd op de grond zakken, gebruik je armen om je lichaam te laten zakken. Herhaal deze sequentie drie tot vijf keer.";
+
+"YogaVC.FertilityPosition.FrogPose.headline.text" = "Kikker Houding";
+"YogaVC.FertilityPosition.FrogPose.whereText" = "Bekken, lies en binnenkant van de dijen.";
+"YogaVC.FertilityPosition.FrogPose.whyText" = "De Kikker houding verwijdt voorzichtig de heupen en verbetert de bloedcirculatie naar de voortplantingsorganen, wat een verkwikkende stretch biedt die zowel intens als diep grondend is.";
+"YogaVC.FertilityPosition.FrogPose.howText" = "Begin door een neutrale tafelpositie aan te nemen op handen en knieën, waarbij je je knieën onder je heupen en je polsen onder je schouders plaatst. Verwijdt geleidelijk je knieën naar de zijkanten, buig je voeten, zodat de binnenranden op de mat rusten. Laat jezelf voorzichtig op je onderarmen zakken, trek je schouderbladen dichter bij elkaar. Terwijl je uitademt, verschuif je je heupen naar achteren en naar beneden. Houd deze houding aan, adem rustig, gedurende drie tot zes ademhalingen, of tot drie minuten.";
+
+"YogaVC.FertilityPosition.SeatedForwardBendPose.headline.text" = "Zittende Voorovergebogen Houding";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whereText" = "Hamstrings, onderrug en heupen.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whyText" = "Het bevordert flexibiliteit in de onderrug, hamstrings en heupspieren. Deze houding biedt waardevolle voordelen door essentiële organen zoals de eierstokken en maag te revitaliseren, en helpt tegelijkertijd mentale stress te verlichten. Deze gecombineerde effecten kunnen mogelijk bijdragen aan een verbeterde vruchtbaarheid.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.howText" = "Ga op je mat zitten met je benen voor je uitgestrekt. Houd een rechte houding aan, scharnier aan je heupen en reik naar je tenen of scheenbenen terwijl je naar voren buigt. Houd deze positie 5-10 ademhalingen vast.";
+
+"YogaVC.FertilityPosition.HeadToKneePose.headline.text" = "Hoofd-naar-Knie Houding";
+"YogaVC.FertilityPosition.HeadToKneePose.whereText" = "Hamstrings, onderrug en lies.";
+"YogaVC.FertilityPosition.HeadToKneePose.whyText" = "Deze houding helpt de heupen en rug te openen, terwijl het ook de bloedtoevoer naar de lagere organen bevordert en je hamstrings een diepe rek geeft.";
+"YogaVC.FertilityPosition.HeadToKneePose.howText" = "Begin door met gestrekte benen te zitten. Op een inademing pak je je linker voet vast, dan op een uitademing buig je voorzichtig je torso terwijl je je hoofd laat zakken. Houd deze houding vijf ademhalingen vast, schakel dan over naar de andere kant.";
+
+"YogaVC.FertilityPosition.BridgePose.headline.text" = "Brughouding";
+"YogaVC.FertilityPosition.BridgePose.whereText" = "Bekken, heupen en onderrug.";
+"YogaVC.FertilityPosition.BridgePose.whyText" = "Deze houding heeft een kalmerend effect op het centrale zenuwstelsel, verbetert de algehele bloedcirculatie door het lichaam. Het verlicht spanning in de onderbuik terwijl het ook de spieren van de heupen versterkt. Het heeft een verjongend effect op de voortplantingsorganen, wat mogelijk uw vruchtbaarheidsperspectieven kan verbeteren!";
+"YogaVC.FertilityPosition.BridgePose.howText" = "Begin door op je rug te liggen met gebogen knieën en voeten plat op de grond, op heupafstand van elkaar, en hielen in de buurt van je billen. Til je bekken op, kruis je handen eronder en houd een minuut lang vast met dijen parallel aan de vloer. Om los te laten, maak je je handen los en laat je je wervelkolom geleidelijk zakken. Herhaal drie tot vijf keer.";
+
+"YogaVC.FertilityPosition.PlowPose.headline.text" = "Ploeghouding";
+"YogaVC.FertilityPosition.PlowPose.whereText" = "Bekken en schildklierklier.";
+"YogaVC.FertilityPosition.PlowPose.whyText" = "Door de bloedstroom naar het bekken te verhogen, de schildklier te stimuleren voor de regulatie van de menstruatiecyclus en stress te verminderen, mogelijk een gunstiger omgeving te creëren voor vruchtbaarheid.";
+"YogaVC.FertilityPosition.PlowPose.howText" = "Plaats je armen op de mat met de handpalmen naar beneden en strek ze naar voren uit voor ondersteuning. Gebruik je onderarmen en handpalmen om je benen naar een hoek van 90 graden te tillen en breng vervolgens je voeten over je hoofd totdat ze de grond achter je raken. Houd je benen recht. Kruis je vingers in elkaar met de handpalmen tegen elkaar en strek je armen recht, reik je knokkels naar voren terwijl je je schouders grondt. Zorg ervoor dat je heupen boven je schouders staan. Draai je hoofd niet terwijl je omhoog kijkt om je nek te beschermen. Houd 5 diepe ademhalingen vast en om te vertrekken, laat je je armen op de grond zakken, laat je je handen los en rol je je wervelkolom naar beneden naar de mat, één wervelkolom tegelijk, met gestrekte benen en voeten bij elkaar.";
+
+
+
+//MARK: Yoga Prental data
+"YogaVC.YogaPrental.StandingSideBend.headline.text" = "Staande Zijwaartse Buiging Houding";
+"YogaVC.YogaPrental.StandingSideBend.whereText" = "Schouders en bovenrug.";
+"YogaVC.YogaPrental.StandingSideBend.whyText" = "Verlicht rugpijn en stijfheid in de schouders.";
+"YogaVC.YogaPrental.StandingSideBend.howText" = "Sta met je benen op heupbreedte uit elkaar met je armen langs je lichaam, adem diep in terwijl je je ruggengraat strekt. Begin langzaam je lichaam naar rechts te buigen, terwijl je rustig en gelijkmatig ademhaalt. Til je linkerarm boven je hoofd, terwijl je je rechterhand op je heup of dij legt voor extra ondersteuning. Blijf 30 seconden in deze houding. Herhaal deze sequentie aan je linkerkant.";
+
+"YogaVC.YogaPrental.WideKneedChildsPose.headline.text" = "Wijde Kniel Kinderhouding";
+"YogaVC.YogaPrental.WideKneedChildsPose.whereText" = "Buik, rug en heupen.";
+"YogaVC.YogaPrental.WideKneedChildsPose.whyText" = "De Wijde Kniel Kinderhouding verlicht rugpijn en vermindert druk op de buik. Deze heupverbredende houding kan ook het risico op complicaties tijdens de bevalling verminderen en stress en angst verzachten.";
+"YogaVC.YogaPrental.WideKneedChildsPose.howText" = "Ga op je yogamat knielen, spreid je benen uit elkaar, met je hielen naar je billen en je grote tenen tegen elkaar. Laat je borst naar de vloer zakken totdat je voorhoofd de mat raakt. Strek je armen boven je hoofd uit en leg je handpalmen plat neer. Houd deze houding 3-5 minuten vast, afhankelijk van je comfort.";
+
+"YogaVC.YogaPrental.BoundAnglePose.headline.text" = "Gebonden Hoek Houding";
+"YogaVC.YogaPrental.BoundAnglePose.whereText" = "Dijen, knieën en heupen.";
+"YogaVC.YogaPrental.BoundAnglePose.whyText" = "Vermindert vermoeidheid en kniepijn, terwijl de heupen en dijen worden geopend om een gemakkelijkere bevalling te bevorderen.";
+"YogaVC.YogaPrental.BoundAnglePose.howText" = "Ga op je yogamat zitten en breng de onderkanten van je voeten samen naar je bekken. Laat je knieën zakken tot je comfortniveau. Houd je voeten vast met je handen en zit rechtop terwijl je diep ademhaalt. Houd deze houding 1-5 minuten vast, af en toe voorover leunend als je een diepe rek in je heupen wilt voelen.";
+
+"YogaVC.YogaPrental.AnkleToKneePose.headline.text" = "Enkel-naar-Knie Houding";
+"YogaVC.YogaPrental.AnkleToKneePose.whereText" = "Heupen, bilspieren en rug.";
+"YogaVC.YogaPrental.AnkleToKneePose.whyText" = "De Enkel-naar-Knie houding past zich aan aan je buik terwijl het ook je heupen verbreedt. Het verlicht ook de druk op de rug en spanning in je bilspieren.";
+"YogaVC.YogaPrental.AnkleToKneePose.howText" = "Kom in een zittende positie, stop je linkerbeen onder je rechterbeen. Plaats je rechterenkel op je linkerknie, zorg ervoor dat je linkerenkel in lijn is met je rechterknie en je scheenbenen parallel zijn. Buig lichtjes naar voren, adem in terwijl je diep inademt, voel je een diepe rek in je heupen en bilspieren. Houd deze houding 30 seconden vast. Houdend in de enkel-naar-knie houding, plaats je je handen achter je rug, houd je armen recht met je handpalmen plat op je mat om je evenwicht te ondersteunen. Terwijl je achterover leunt in je armen, rustig ademhalend, zou je een diepe rek in je rug moeten voelen. Houd deze houding 30 seconden vast. Herhaal dezelfde sequentie door afwisselend je linker enkel op je rechterknie te plaatsen.";
+
+"YogaVC.YogaPrental.SeatedSideBend.headline.text" = "Zittende Zijwaartse Buiging";
+"YogaVC.YogaPrental.SeatedSideBend.whereText" = "Heup, bekken en rug.";
+"YogaVC.YogaPrental.SeatedSideBend.whyText" = "De zittende zijwaartse strekking verlaagt niet alleen stress maar verlicht ook de druk op de onderrug en verlicht spanning in heupen en bekken tijdens de zwangerschap.";
+"YogaVC.YogaPrental.SeatedSideBend.howText" = "Zittend rechtop, lengte je ruggengraat met je benen gekruist. Terwijl je zachtjes inademt, strek je je rechterarm uit en leun je je lichaam naar links. Plaats je linkerhand op de mat ter ondersteuning en adem diep in terwijl je deze stretch 30 seconden vasthoudt. Kom langzaam terug naar een rechte zithouding, terwijl je volledig ademt. Wissel dan naar je linkerarm en herhaal de sequentie.";
+
+"YogaVC.YogaPrental.StandingForwardBend.headline.text" = "Staande Voorovergebogen Houding";
+"YogaVC.YogaPrental.StandingForwardBend.whereText" = "Hamstrings, heupen, rug en bloedsomloop.";
+"YogaVC.YogaPrental.StandingForwardBend.whyText" = "De staande voorovergebogen houding kan de bloedsomloop verbeteren, waardoor gezwollen voeten en benen worden verlicht. Deze houding geeft ook een diepe rek in de onderrug en verlicht zelfs spanning in de heupen en hamstrings.";
+"YogaVC.YogaPrental.StandingForwardBend.howText" = "Sta met je handen op je heupen en je voeten iets breder dan heupbreedte uit elkaar. Begin naar voren te leunen bij de heupen, houd een rechte rug terwijl je naar beneden vouwt. Wanneer je je comfortniveau hebt bereikt, met een platte rug, buig je je knieën en ontspan je in een vooroverbuiging. Je kunt je armen laten hangen of je kunt tegenovergestelde ellebogen vastpakken. Houd deze houding 30 seconden vast terwijl je ritmisch ademhaalt.";
+
+"YogaVC.YogaPrental.CatCowPose.headline.text" = "Kat-Koe Houding";
+"YogaVC.YogaPrental.CatCowPose.whereText" = "Nek, schouders, torso en rug.";
+"YogaVC.YogaPrental.CatCowPose.whyText" = "Deze houding bevordert de circulatie en de mobiliteit van de wervelkolom, terwijl je nek, schouders en torso worden uitgerekt. Voel de stress wegvloeien!";
+"YogaVC.YogaPrental.CatCowPose.howText" = "Begin op handen en knieën, adem diep in en span je rug aan terwijl je je buik laat zakken en omhoog kijkt. Adem dan uit en trek langzaam je kin naar je borst en rond je rug. Blijf rustig doorgaan met deze sequentie gedurende 30 seconden tot 1 minuut.";
+
+"YogaVC.YogaPrental.TrianglePose.headline.text" = "Driehoek Houding";
+"YogaVC.YogaPrental.TrianglePose.whereText" = "Benen, wervelkolom en rug.";
+"YogaVC.YogaPrental.TrianglePose.whyText" = "De driehoek houding helpt je benen sterk en buigzaam te maken, wat van pas kan komen tijdens de bevalling. Het versterkt ook je rug- en rugspieren, wat verlichting biedt bij de pijntjes en kwalen veroorzaakt door die groeiende babybuik.";
+"YogaVC.YogaPrental.TrianglePose.howText" = "Begin in een staande positie, creëer wat afstand tussen je voeten, strek je benen uit tot een comfortabele limiet. Til je armen opzij op tot ze in lijn zijn met je schouders. Draai je rechtervoet naar 90 graden en je linkerbeen naar binnen, zodat je tenen recht vooruit wijzen. Adem langzaam uit en buig langzaam bij je taille vanaf de rechterkant. Strek je rechterhand naar je enkel en je linkerarm omhoog, draai je hoofd naar het zicht van je linkerarm. Herhaal deze sequentie aan de tegenovergestelde zijde.";
+
+"YogaVC.YogaPrental.GarlandPose.headline.text" = "Garland Houding";
+"YogaVC.YogaPrental.GarlandPose.whereText" = "Bekkenbodem en heupen.";
+"YogaVC.YogaPrental.GarlandPose.whyText" = "De Garland Houding biedt voordelen voor zwangere vrouwen door de bekkenbodem te versterken, de heupflexibiliteit te verbeteren en spijsverteringsproblemen te verlichten. Het bevordert ook een betere houding en bereidt het lichaam voor op de bevalling.";
+"YogaVC.YogaPrental.GarlandPose.howText" = "Sta met je voeten iets breder dan je heupen, draai je tenen naar buiten. Buig langzaam je knieën en laat je heupen zakken. Breng je handen bij elkaar, met je duimen naar je borst, zorg ervoor dat je ellebogen op je knieën rusten. Houd deze houding 30 seconden vast.";
+
+"YogaVC.YogaPrental.SideCorpsePose.headline.text" = "Zijdelingse Lijk Houding";
+"YogaVC.YogaPrental.SideCorpsePose.whereText" = "Hart en bloedsomloop.";
+"YogaVC.YogaPrental.SideCorpsePose.whyText" = "Deze houding bevordert comfortabele rust en ontspanning. Het kan ook de druk op de vena cava, een belangrijke ader, verminderen, waardoor de bloedsomloop verbetert. Het verlicht ook ongemak gerelateerd aan zwelling en spijsverteringsproblemen.";
+"YogaVC.YogaPrental.SideCorpsePose.howText" = "Ga op je linkerzij liggen en gebruik een kussen tussen je benen en onder je hoofd. Houd je linkerbeen recht, begin je rechterbeen te buigen totdat je knie net onder de buik is. Strek je linkerarm uit over de vloer en plaats je rechterhand met je handpalm plat op de vloer ter ondersteuning. Houd deze houding 30 seconden vast en herhaal deze sequentie aan je rechterkant.";
+
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.headline.text" = "Aanpassing Wijde Kniel Kinderhouding";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whereText" = "Buik, rug en heupen.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whyText" = "Deze aanpassing van de wijde kniel kinderhouding is geschikt voor vrouwen die zich in de late stadia van hun zwangerschap bevinden. Door kussens te gebruiken om je hoofd en borst te ondersteunen en ruimte te bieden voor je buik, verlicht het rugpijn en druk op de buik. Deze heupverbredende houding kan ook het risico op bevallingscomplicaties verminderen en stress en angst verzachten.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.howText" = "Kniel op je yogamat, spreid je benen uit elkaar, met je hielen naar je billen en je grote tenen die elkaar raken. Laat je borst op je kussens rusten om je hoofd en borst te ondersteunen. Strek je armen naar je zij uit en leg je handpalmen plat neer. Houd deze houding 3-5 minuten vast, afhankelijk van je comfort.";
+
+"YogaVC.YogaPrental.BridgePose.headline.text" = "Brughouding";
+"YogaVC.YogaPrental.BridgePose.whereText" = "Bekkenbodem, rug en borst.";
+"YogaVC.YogaPrental.BridgePose.whyText" = "De Brughouding versterkt de kern- en bekkenbodemspieren, verlicht lage rugpijn, verbetert de bloedsomloop om zwelling te verminderen en bevordert stressverlichting. Het rekt ook voorzichtig de borst, verbetert de ademhaling en longcapaciteit.";
+"YogaVC.YogaPrental.BridgePose.howText" = "Ga op je rug liggen met gebogen knieën en voeten plat op de mat, hakken een paar centimeter voor je billen. Houd je knieën in lijn met je enkels en je voeten op heupbreedte uit elkaar. Armen langs je zij, vingertoppen raken je hielen. Span je beenspieren aan en druk op je hielen. Til langzaam je heupen van de vloer, één wervel tegelijk, totdat je dijen bijna evenwijdig aan de vloer zijn. Verleng je staartbeen. Houd je armen langs je zij of klem je vingers vast voor een borstrekoefening. Houd je nek recht en draai hem tijdens de houding niet om, om letsel te voorkomen. Als dat nodig is, draai je je hoofd en kom je uit de houding om letsel te voorkomen. Houd deze houding 15-30 seconden vast.";
+
+"YogaVC.YogaPrental.LegsUpTheWallPose.headline.text" = "Benen tegen de Muur Houding";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whereText" = "Rug, benen en voeten.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whyText" = "Het kan beenzwelling en ongemak verlichten door de bloedsomloop te verbeteren. Bovendien verlicht het lage rugpijn en helpt het bij de algehele lichaamshouding. De houding bevordert ook een gevoel van kalmte en kan een verjongende praktijk zijn.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.howText" = "Plaats een bolster, kussen of gevouwen deken bij een muur. Ga links van deze ondersteuning zitten, breng je knieën naar links en beweeg je billen zo dicht mogelijk bij de muur als je comfortabel kunt. Laat langzaam je lichaam zakken om op je linkerzij te rusten en verschuif dan voorzichtig je billen naar de ondersteuning. Je moet je misschien aanpassen door je onderlichaam voorzichtig te schuiven totdat het de muur raakt. Strek je benen omhoog, houd ze ongeveer op heupbreedte uit elkaar. Ontspan in deze positie, laat jezelf rusten voor 6-8 ademhalingen voordat je naar je linkerzij rolt en met je handen terugkeert naar een zittende positie.";
+
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.headline.text" = "Savasana Houding (Op de rug)";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whereText" = "Rug, heupen en bekken.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whyText" = "Het verlicht het ongemak van het plat op de rug liggen, wat grote bloedvaten kan samendrukken. Door een helling aan te houden met ondersteunende hulpmiddelen, zorgt deze positie voor een betere bloedtoevoer naar de baby en minimaliseert het ongemak. Bovendien biedt het een gevoel van ontspanning en verlichting van het gewicht van de buik.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.howText" = "Hoewel plat op je rug liggen tijdens de zwangerschap ongemakkelijk kan zijn en de bloedstroom naar je baby kan verminderen, biedt achteroverliggen op een helling een comfortabeler alternatief. Schik twee blokken in een 'L'-vorm op je mat en plaats vervolgens een bolster of een royale stapel kussens erop. Positioneer jezelf met je billen aan de rand van de ondersteuning. Breng de zolen van je voeten samen en laat je knieën naar buiten vallen. Zak langzaam achterover op de helling, genietend van de volledige ondersteuning van je hulpmiddelen. Neem een welverdiende pauze en ontspan in deze positie gedurende 5-10 minuten.";
+
+"YogaVC.YogaPrental.GoddessPose.headline.text" = "Godin Houding";
+"YogaVC.YogaPrental.GoddessPose.whereText" = "Heupen, bekken, benen en kern.";
+"YogaVC.YogaPrental.GoddessPose.whyText" = "Het versterkt de beenspieren, biedt broodnodige ondersteuning naarmate de buik groeit. Deze houding kan ook helpen bij het openen van de heupen en het bekken, wat flexibiliteit en comfort tijdens de zwangerschap bevordert en mogelijk een gemakkelijkere bevalling en geboorte ondersteunt.";
+"YogaVC.YogaPrental.GoddessPose.howText" = "Zet een stap met je voeten, verbreed je stand langs je mat, met je tenen naar buiten gericht. Buig bij het buigen van je knieën ervoor dat ze achter je tenen blijven en laat de natuurlijke zwaartekracht je stuitje naar beneden leiden. Je armen kunnen een comfortabele positie vinden - rustend op je dijen, in een gebedspositie of met de handpalmen naar boven gedraaid. Blijf in deze lage positie gedurende 5-7 ademhalingen voordat je je voeten voorzichtig bij elkaar brengt terwijl je je benen strekt.";
+
+"YogaVC.YogaPrental.PigeonPose.headline.text" = "Duif Houding";
+"YogaVC.YogaPrental.PigeonPose.whereText" = "Dijen, heupen, onderrug en bekkenbodem.";
+"YogaVC.YogaPrental.PigeonPose.whyText" = "Het verlicht ongemak in de heupen en onderrug, biedt een zachte rek van de bekkenbodem en is een stressverlagende houding voor emotioneel welzijn. Bovendien helpt het bij de voorbereiding op de bevalling door lichaamsbewustzijn en verbetert het de houding naarmate het lichaam zich aanpast aan de groeiende buik.";
+"YogaVC.YogaPrental.PigeonPose.howText" = "Begin in een tafelbladpositie, breng je rechterknie naar voren en naar buiten, in lijn met je rechterpols. Strek je linkervoet recht naar achteren. Zorg ervoor dat je heupen recht staan en het rechter scheenbeen parallel aan de mat is. Laat langzaam je romp over je gebogen rechterbeen zakken, gebruik je onderarmen voor ondersteuning of een kussen onder je heupen indien nodig. Adem diep in en houd de rek ongeveer 30 seconden tot een minuut vast. Voer deze houding voorzichtig uit en maak indien nodig aanpassingen voor comfort.";
+
+"YogaVC.YogaPrental.ChildsPose.headline.text" = "Kindhouding";
+"YogaVC.YogaPrental.ChildsPose.whereText" = "Schouders, nek, wervelkolom en rug.";
+"YogaVC.YogaPrental.ChildsPose.whyText" = "Deze houding biedt een zachte rek voor de bekkengewrichten, waardoor de interne afmetingen van het bekkenkanaal en de uitlaat worden vergroot. Deze toegenomen ruimte vergemakkelijkt de afdaling en het verschijnen van de baby tijdens de bevalling. Het dient als een uitstekende voorbereidende houding voor de bevalling en biedt unieke voordelen voor je bekken ter voorbereiding op het bevallingsproces.";
+"YogaVC.YogaPrental.ChildsPose.howText" = "Begin in een tafelbladpositie en maak je knieën voorzichtig breder om ruimte te maken voor je buik. Breng je heupen naar achteren richting je hielen, strek je armen naar voren uit en rust je voorhoofd op de mat. Neem langzame, diepe ademhalingen, voel een zachte rek in je onderrug en heupen. Blijf in deze houding zo lang als comfortabel is, gericht op ontspanning. Om eruit te komen, loop je met je handen terug en keer je terug naar een zittende positie.";
+
+"YogaVC.YogaPrental.FigureFourPose.headline.text" = "Vierkant Houding";
+"YogaVC.YogaPrental.FigureFourPose.whereText" = "Bekkenbodem, bekken, heupen en rug.";
+"YogaVC.YogaPrental.FigureFourPose.whyText" = "Het biedt verlichting bij lage rugpijn, verbetert de flexibiliteit van de heupen, betrekt en versterkt de bekkenbodemspieren, vermindert stress en bevordert emotioneel welzijn.";
+"YogaVC.YogaPrental.FigureFourPose.howText" = "Ga op je rug liggen, zorg ervoor dat je voeten plat op de grond staan met je knieën gebogen. Adem in en til je rechterbeen op. Begeleid met je linkerhand voorzichtig je rechtervoet om op je linkerknie te rusten. Op dit punt kun je ervoor kiezen om hier te blijven of, voor een diepere rek, je handen achter je knie te klemmen. Het is belangrijk op te merken dat langdurig plat op je rug liggen vanaf 20 weken zwangerschap en daarna moet worden vermeden, omdat het ongemakkelijk kan worden. Als dat nodig is, probeer dan deze houding uit te voeren terwijl je op een stoel zit. Houd de rek ongeveer 5 tot 10 ademhalingen aan elke kant vast.";
+
+
+//MARK: ScratchCardMenu
+"ScratchCardMenu.headlineLabel.text" = "Kras de\nbevestiging";
+"SensualSecretsGameMenu.nextButton.title" = "Volgende";
+
+
+
+//MARK: Affirmation text
+"Affirmation.Categories0.headline0.text" = "Mijn lichaam is klaar voor conceptie.";
+"Affirmation.Categories0.headline1.text" = "Liefde en hoop vergezellen mij op mijn weg naar het ouderschap.";
+"Affirmation.Categories0.headline2.text" = "Elke dag brengt me dichter bij mijn langverwachte baby.";
+"Affirmation.Categories0.headline3.text" = "Ik vertrouw op mijn lichaam en zijn natuurlijke ritme.";
+"Affirmation.Categories0.headline4.text" = "Met elke ademhaling ontvang ik positieve energie voor mijn wens om een kind te krijgen.";
+"Affirmation.Categories0.headline5.text" = "Mijn geest en lichaam zijn in harmonie voor de vervulling van mijn droom.";
+"Affirmation.Categories0.headline6.text" = "De liefde die ik voel ondersteunt mijn weg naar het ouderschap.";
+"Affirmation.Categories0.headline7.text" = "In elk moment sta ik open voor de wonderen van het leven.";
+"Affirmation.Categories0.headline8.text" = "Ik manifesteer liefde, geluk en vervulling in mijn familie.";
+"Affirmation.Categories0.headline9.text" = "Mijn verlangen om kinderen te krijgen zal op het perfecte moment vervuld worden.";
+"Affirmation.Categories0.headline10.text" = "Ik kan hulp accepteren en ondersteund worden op mijn pad.";
+"Affirmation.Categories0.headline11.text" = "Ik ben klaar voor een mooie zwangerschap.";
+"Affirmation.Categories0.headline12.text" = "Ik zorg goed voor mezelf.";
+"Affirmation.Categories0.headline13.text" = "Ik vertrouw op mijn intuïtie.";
+"Affirmation.Categories0.headline14.text" = "Mijn tijd zal komen.";
+"Affirmation.Categories0.headline15.text" = "Ik ben gezond.";
+"Affirmation.Categories0.headline16.text" = "Ik ben dankbaar voor alles wat ik heb.";
+"Affirmation.Categories0.headline17.text" = "Ik ben klaar om een kind te verwekken.";
+"Affirmation.Categories0.headline18.text" = "Ik heb de beste omstandigheden voor een baby.";
+"Affirmation.Categories0.headline19.text" = "Mijn lichaam is vruchtbaar.";
+"Affirmation.Categories0.headline20.text" = "Ik zal zwanger worden.";
+"Affirmation.Categories0.headline21.text" = "Mijn vrouwelijke lichaam is sterk.";
+"Affirmation.Categories0.headline22.text" = "Ik sta open voor nieuwe ervaringen.";
+"Affirmation.Categories0.headline23.text" = "Mijn lichaam is sterk en gezond: Ik vertrouw erop dat mijn lichaam sterk en gezond is, klaar om het wonder van de zwangerschap te verwelkomen.";
+"Affirmation.Categories0.headline24.text" = "Elke cyclus brengt me dichterbij: Elke menstruatiecyclus is een nieuwe stap op weg naar mijn zwangerschap. Elke cyclus brengt me dichter bij mijn doel.";
+"Affirmation.Categories0.headline25.text" = "Ik ben geduldig en vertrouw op het proces: Goede dingen hebben tijd nodig. Ik oefen geduld en vertrouw erop dat alles op het juiste moment zal gebeuren.";
+"Affirmation.Categories0.headline26.text" = "Ik zorg voor mijn emotionele gezondheid: Door voor mijn emotionele gezondheid te zorgen, creëer ik een positieve ruimte voor mijn lichaam om optimaal te functioneren.";
+"Affirmation.Categories0.headline27.text" = "Liefde en steun omringen me: Ik word omringd door liefde en steun, of het nu van mijn partner, familie of vrienden is. Samen gaan we deze reis aan.";
+"Affirmation.Categories0.headline28.text" = "Ik visualiseer een positieve toekomst: Ik visualiseer mijn leven als moeder en de vreugde die het zal brengen. Deze positieve visie versterkt mijn motivatie.";
+"Affirmation.Categories0.headline29.text" = "Ik zorg voor mijn lichaam: Door gezond te eten, regelmatig te sporten en genoeg te slapen, zorg ik voor mijn lichaam en creëer ik optimale omstandigheden voor zwangerschap.";
+"Affirmation.Categories0.headline30.text" = "Ik stel realistische verwachtingen: Ik erken dat zwanger worden tijd en toewijding kost. Ik stel realistische verwachtingen en vier elke vooruitgang.";
+"Affirmation.Categories0.headline31.text" = "Mijn liefde en toewijding zijn waardevol: Mijn verlangen om een gezin te stichten toont mijn liefde en toewijding. Deze eigenschappen zullen een verrijkend ouderschap ondersteunen.";
+"Affirmation.Categories0.headline32.text" = "Elke dag is een nieuwe kans: Elke dag brengt nieuwe kansen voor hoop en succes. Ik verwelkom elke dag als een kans voor positieve verandering.";
+"Affirmation.Categories0.headline33.text" = "Ik verbind me met mijn partner: De reis naar zwangerschap is een gezamenlijke reis. Het contact maken met mijn partner versterkt onze ondersteuning voor elkaar.";
+"Affirmation.Categories0.headline34.text" = "Ik laat los en ontspan: Door los te laten en te ontspannen, creëer ik ruimte voor de natuurlijke processen in mijn lichaam.";
+"Affirmation.Categories0.headline35.text" = "Ik hou van en accepteer mijn lichaam: Ondanks de uitdagingen hou ik van en accepteer ik mijn lichaam. Deze liefde draagt bij aan een positieve houding.";
+"Affirmation.Categories0.headline36.text" = "Elke inspanning is waardevol: Elke stap die ik neem, of het nu gaat om gezonde gewoonten of medische ondersteuning, is een waardevolle bijdrage aan mijn doel.";
+"Affirmation.Categories0.headline37.text" = "Ik geloof in mijn capaciteiten: Ik geloof in mijn capaciteiten als toekomstige moeder. Deze positieve houding versterkt mijn geloof in succes.";
+"Affirmation.Categories0.headline38.text" = "Ik herken stress en laat het los - maak ruimte voor een ontspannen verlangen om kinderen te krijgen.";
+"Affirmation.Categories0.headline39.text" = "Mijn geest en lichaam vinden vrede op weg naar babygeluk.";
+"Affirmation.Categories0.headline40.text" = "Ik vertrouw op het proces en verminder stress voor een harmonieuze conceptie.";
+"Affirmation.Categories0.headline41.text" = "Ontspanning opent de weg voor mijn kinderwens.";
+"Affirmation.Categories0.headline42.text" = "Stress verdwijnt wanneer ik liefdevol aan mijn pad begin.";
+"Affirmation.Categories0.headline43.text" = "Ik adem stress uit en adem conceptie in.";
+"Affirmation.Categories0.headline44.text" = "Mijn sereniteit bevordert vruchtbaarheid.";
+"Affirmation.Categories0.headline45.text" = "Elke ademhaling brengt rust en vertrouwen.";
+"Affirmation.Categories0.headline46.text" = "In rust en stilte vind ik kracht voor mijn kinderwens.";
+"Affirmation.Categories0.headline47.text" = "Elke dag laat ik stress meer en meer los.";
+
+
+"Affirmation.Categories1.headline0.text" = "Ik herken mijn angsten en laat ze liefdevol los - op weg naar mijn baby.";
+"Affirmation.Categories1.headline1.text" = "Mijn vertrouwen in mijn lichaam weegt zwaarder dan eventuele angsten die ik heb over het krijgen van kinderen.";
+"Affirmation.Categories1.headline2.text" = "Elke ademhaling versterkt me in het gezicht van mijn zorgen en angsten.";
+"Affirmation.Categories1.headline3.text" = "Angsten verdwijnen wanneer ik me richt op mijn liefde voor mijn kind.";
+"Affirmation.Categories1.headline4.text" = "Mijn gedachten zijn positief, angsten hebben geen plaats in mijn verlangen om een kind te krijgen.";
+"Affirmation.Categories1.headline5.text" = "Ik ben sterk en moedig, angsten hebben geen invloed op mijn pad.";
+"Affirmation.Categories1.headline6.text" = "Ik vind vrede in rust en overwin angsten.";
+"Affirmation.Categories1.headline7.text" = "De verwachting van mijn baby overtreft alle angsten.";
+"Affirmation.Categories1.headline8.text" = "Mijn hart is vrij van angsten - liefde leidt mijn verlangen om een kind te krijgen.";
+"Affirmation.Categories1.headline9.text" = "Angsten verdwijnen naarmate ik me voorbereid op mijn baby.";
+
+
+"Affirmation.Categories2.headline0.text" = "Ik ben goed zoals ik ben.";
+"Affirmation.Categories2.headline1.text" = "Bij elke ademhaling kies ik voor positiviteit en vrede.";
+"Affirmation.Categories2.headline2.text" = "Elke dag is een nieuwe kans op groei en geluk.";
+"Affirmation.Categories2.headline3.text" = "Liefde en licht stromen door mijn leven.";
+"Affirmation.Categories2.headline4.text" = "Ik trek positieve energieën en kansen aan.";
+"Affirmation.Categories2.headline5.text" = "Mijn hart staat open voor vreugde en dankbaarheid.";
+"Affirmation.Categories2.headline6.text" = "Ik vorm mijn leven volgens mijn dromen en waarden.";
+"Affirmation.Categories2.headline7.text" = "Ik bewandel het pad van mijn lot met vertrouwen.";
+"Affirmation.Categories2.headline8.text" = "Ik ben de architect van mijn geluk en vorm het bewust.";
+"Affirmation.Categories2.headline9.text" = "Mijn innerlijke zelf straalt positiviteit, liefde en vrede uit.";
+"Affirmation.Categories2.headline10.text" = "Ik straal positieve energie uit en trek goede dingen aan.";
+"Affirmation.Categories2.headline11.text" = "Elke dag brengt nieuwe mogelijkheden en positieve kansen.";
+"Affirmation.Categories2.headline12.text" = "Bij elke ademhaling versterk ik mijn innerlijke rust en kracht.";
+"Affirmation.Categories2.headline13.text" = "Liefde en licht begeleiden me op mijn levenspad.";
+"Affirmation.Categories2.headline14.text" = "Ik sta open voor groei, geluk en positieve verandering.";
+"Affirmation.Categories2.headline15.text" = "Mijn hart is gevuld met liefde en dankbaarheid.";
+"Affirmation.Categories2.headline16.text" = "Ik vorm mijn leven bewust en positief.";
+"Affirmation.Categories2.headline17.text" = "Optimisme is mijn constante metgezel.";
+"Affirmation.Categories2.headline18.text" = "Ik ben de schepper van mijn eigen positieve realiteit.";
+"Affirmation.Categories2.headline19.text" = "Mijn leven is gevuld met vreugde, liefde en positieve ervaringen.";
+"Affirmation.Categories2.headline20.text" = "Denk positief, leef positief - elke dag opnieuw.";
+"Affirmation.Categories2.headline21.text" = "Ik ben de architect van mijn geluk en vorm het bewust.";
+"Affirmation.Categories2.headline22.text" = "De levensvreugde stroomt door me heen, dag na dag.";
+"Affirmation.Categories2.headline23.text" = "Ik vind redenen om dankbaar te zijn in elk moment.";
+"Affirmation.Categories2.headline24.text" = "Mijn gedachten vormen een wereld vol positiviteit.";
+"Affirmation.Categories2.headline25.text" = "Ik ben een magneet voor goede energie en gelukkige momenten.";
+"Affirmation.Categories2.headline26.text" = "Ik vorm mijn leven vol optimisme met vertrouwen.";
+"Affirmation.Categories2.headline27.text" = "Ik vind diepe vreugde in de eenvoud van het leven.";
+"Affirmation.Categories2.headline28.text" = "Positiviteit is mijn bron van kracht die me ondersteunt.";
+"Affirmation.Categories2.headline29.text" = "Mijn hart klopt op het ritme van positieve mogelijkheden.";
+"Affirmation.Categories2.headline30.text" = "Ik ben de schepper van mijn realiteit. Vandaag kies ik voor liefde, vreugde en vrede.";
+"Affirmation.Categories2.headline31.text" = "Elke ademhaling verfrist mijn geest. Ik ben klaar voor de overvloed die deze dag me brengt.";
+"Affirmation.Categories2.headline32.text" = "Met elke nieuwe dag groeien mijn kracht en wijsheid.";
+"Affirmation.Categories2.headline33.text" = "Ik vertrouw op het proces van het leven en laat los wat ik niet kan controleren.";
+"Affirmation.Categories2.headline34.text" = "Vandaag open ik mijn hart voor nieuwe mogelijkheden en positieve ontmoetingen.";
+"Affirmation.Categories2.headline35.text" = "Een diepe sereniteit rust in mij. Ik ben in harmonie met mijn innerlijke vrede.";
+"Affirmation.Categories2.headline36.text" = "Ik ben een magneet voor positieve energieën. Goede dingen trekken goede dingen aan.";
+"Affirmation.Categories2.headline37.text" = "Mijn dag begint met liefde en eindigt met dankbaarheid.";
+"Affirmation.Categories2.headline38.text" = "Ik ben de architect van mijn dromen. Vandaag bouw ik aan mijn geluk.";
+"Affirmation.Categories2.headline39.text" = "Mijn lichaam is gezond, mijn geest is helder. Ik ben klaar voor de avonturen van deze dag.";
+
+
+"Affirmation.Categories3.headline0.text" = "Samen sterk: We vinden liefde en steun in onze relatie.";
+"Affirmation.Categories3.headline1.text" = "Elke dag versterkt onze liefde en verbinding met elkaar.";
+"Affirmation.Categories3.headline2.text" = "Vertrouwen en respect groeien in onze relatie.";
+"Affirmation.Categories3.headline3.text" = "Onze liefde overwint samen elke uitdaging.";
+"Affirmation.Categories3.headline4.text" = "Samen creëren we ruimte voor vreugde en wederzijdse groei.";
+"Affirmation.Categories3.headline5.text" = "Liefde is onze anker in alle situaties.";
+"Affirmation.Categories3.headline6.text" = "Onze relatie wordt gekenmerkt door begrip en communicatie.";
+"Affirmation.Categories3.headline7.text" = "We vinden kracht en geluk in onze liefde.";
+"Affirmation.Categories3.headline8.text" = "We lopen hand in hand door hoogtes en laagtes, versterkt door onze liefde.";
+"Affirmation.Categories3.headline9.text" = "Onze relatie is een plek van liefde en gedeelde dromen.";
+"Affirmation.Categories3.headline10.text" = "Onze liefde groeit met elk moment dat we samen doorbrengen.";
+"Affirmation.Categories3.headline11.text" = "Er is ruimte voor vertrouwen en gelach in onze relatie.";
+"Affirmation.Categories3.headline12.text" = "Samen creëren we een liefde die sterk en onwankelbaar is.";
+"Affirmation.Categories3.headline13.text" = "We vullen elkaar perfect aan, onze relatie is vol harmonie.";
+"Affirmation.Categories3.headline14.text" = "Er is ruimte voor liefde, vrijheid en respect in onze relatie.";
+"Affirmation.Categories3.headline15.text" = "Onze verbinding is een bron van vreugde en geluk.";
+"Affirmation.Categories3.headline16.text" = "Liefde en acceptatie kenmerken onze relatie.";
+"Affirmation.Categories3.headline17.text" = "Samen overwinnen we elke uitdaging, versterkt door onze liefde.";
+"Affirmation.Categories3.headline18.text" = "We vinden vrede en veiligheid in onze liefde.";
+"Affirmation.Categories3.headline19.text" = "Onze relatie is een reis vol liefde en gedeelde ervaringen.";
+
+
+// RatingScreenMenu.swift
+"RatingScreenMenu.headlineLabel.text" = "Geef een beoordeling van de App!";
+"RatingScreenMenu.subtitleLabel.text" = "Om de App gratis te kunnen blijven gebruiken, neem alstublieft een paar seconden de tijd om de App te beoordelen in de App Store om ons werk te waarderen.";
+"RatingScreenMenu.subtitleLabel2.text" = "Upload na het indienen van de recensie een screenshot van je recensie als bewijs.";
+"RatingScreenMenu.reviewNowButton.title" = "Review nu";
+"RatingScreenMenu.uploadScreenshotButton.title" = "Upload Screenshot Bewijs";
+
+// InAppPurchaseOfferMenu.swift
+"InAppPurchaseOfferMenu.purchaseButton.titleLabel.text" = "Alles ontgrendelen";
+"InAppPurchaseOfferMenu.purchaseButton.subtitleLabel.text" = "Eenmalig";
+
+
+// MARK: PodcastsVC
+"PodcastsVC.headlineLabel.text" = "Categories";
+"PodcastsVC.audioHeadlineLabel.text" = "Diepe ontspanning door progressieve spierontspanning";
+"PodcastsVC.audioSubtitleLabel.text" = "Stress loslaten, lichaamsbewustzijn versterken, innerlijke rust vinden";
+"PodcastArticleVC.headlineLabel.text" = "Ontspanning & Conceptie. Waarom is het belangrijk?";
+"PodcastArticleVC.subtitleLabel.text" = "Je ontspannen voelen tijdens het proberen zwanger te worden is essentieel voor zowel je lichaam als je geest. Stress en angst kunnen de hormonale balans verstoren, waardoor conceptie moeilijker wordt. Daarom vind je in deze sectie Progressieve Spierontspanning (PMR) sessies, ontworpen om spanning los te laten, je geest te kalmeren en de ideale omstandigheden voor een zwangerschap te creëren.
+
+PMR werkt door systematisch verschillende spiergroepen aan te spannen en te ontspannen, wat helpt om het cortisolniveau te verlagen, de bloedsomloop te verbeteren en het algehele welzijn te bevorderen. Dit vermindert niet alleen stress en angst, maar bevordert ook een betere slaap, emotionele balans en een ontvankelijke toestand voor conceptie.
+
+Haal diep adem, ontspan en laat je lichaam zijn natuurlijke ritme vinden met Ovulio Baby.";
+
+// MARK: NameGenerateVC
+"NameGenerateVC.headlineLabel.text" = "Naamgenerator";
+"NameGenerateVC.chooseName.text" = "Kies naam voor";
+"NameGenerateVC.region.text" = "Regio (optioneel)";
+"NameGenerateVC.lastName.text" = "Achternaam (optioneel)";
+"NameGenerateVC.chooseStyle.text" = "Kies stijl";
+"NameGenerateVC.chooseLength.text" = "Kies lengte";
+"NameGenerateVC.region.placeholder.text" = "Selecteer regio voor naamafstemming";
+"NameGenerateVC.lastnme.placeholder.text" = "Je achternaam";
+"NameGenerateVC.chooseStyle.label1.text" = "Modern";
+"NameGenerateVC.chooseStyle.label2.text" = "Trendy";
+"NameGenerateVC.chooseStyle.label3.text" = "Traditioneel";
+"NameGenerateVC.chooseStyle.label4.text" = "Bijbels";
+"NameGenerateVC.chooseStyle.label5.text" = "Uniek";
+"NameGenerateVC.chooseStyle.label6.text" = "Grappig";
+
+"NameGenerateVC.chooseLength.label1.text" = "Maakt niet uit";
+"NameGenerateVC.chooseLength.label2.text" = "Drie letters";
+"NameGenerateVC.chooseLength.label3.text" = "Eén lettergreep";
+"NameGenerateVC.chooseLength.label4.text" = "Gemiddelde lengte";
+"NameGenerateVC.chooseLength.label5.text" = "Lang";
+"NameGenerateVC.chooseLength.label6.text" = "Dubbele naam";
+
+"NameGenerateVC.generateButton.text" = "Genereren";
+"NameGenerateVC.gender.unisex.text" = "Uniseks";
+"NameGenerateVC.loader.generatingName.text" = "Namen worden gegenereerd";
+
+
+// MARK: SwipeNameCardVC
+"SwipeNameCardVC.header.text" = "Veeg naamkaartjes";
+"SwipeNameCardVC.lastName.text" = "Achternaam";
+
+// MARK: FavouriteNameVC
+"FavouriteNameVC.headlineLabel.text" = "Favoriete namen";
+"FavouriteNameVC.girlsNames.text" = "Meisjesnamen:";
+"FavouriteNameVC.unisexNames.text" = "Uniseksnamen:";
+"FavouriteNameVC.boysNames.text" = "Jongensnamen:";
+
+// MARK: ChooseRegionVC
+"ChooseRegionVC.headlineLabel.text" = "Regio kiezen";
+"ChooseRegionVC.searchRegion.placeholder.text" = "Regio zoeken";
+"ChooseRegionVC.HeaderSection.text" = "VOORGESTELD";

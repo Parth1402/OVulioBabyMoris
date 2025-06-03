@@ -1,0 +1,1230 @@
+/* 
+  Localizable.strings
+  Ovulio Baby
+
+  Created by Jash on 2023-10-08.
+  
+*/
+
+
+// General UI
+"UIAlertController.continueButton" = "Continue";
+"UIAlertController.cancelButton" = "Cancel";
+"UIAlertController.deleteButton" = "Delete";
+"UIAlertController.okButton" = "OK";
+"UIAlertController.laterButton" = "Later";
+"UIAlertController.noButton" = "No";
+"UIAlertController.backButton" = "Back";
+
+
+// MARK: FirstOnBoardingPageVC
+"FirstOnBoardingPageVC.Button.Next.headlineLabel.text" = "Next";
+"FirstOnBoardingPageVC.Button.Skip.headlineLabel.text" = "Skip";
+"FirstOnBoardingPageVC.Button.Allow.headlineLabel.text" = "Allow";
+
+// MARK: WithEaseOnBoardingVC
+"WithEaseOnBoardingVC.headlineLabel.text" = "With ease and passion to the desire for a baby";
+
+// MARK: TrackFertilityOnBoardingVC
+"TrackFertilityOnBoardingVC.headlineLabel.text" = "Track your fertility!";
+"TrackFertilityOnBoardingVC.headlineDescriptionLabel.text" = "Embark on a journey of discovery as you track your ovulation and cycle data";
+
+// MARK: InfluenceGenderOnBoardingVC
+"InfluenceGenderOnBoardingVC.headlineLabel.text" = "Influence your baby’s gender!";
+"InfluenceGenderOnBoardingVC.headlineDescriptionLabel.text" = "Learn how diet, sex positions and the right time to get intimate can influence the gender of your bundle of joy";
+
+// MARK: DevelopedExpertOnBoardingVc
+"DevelopedExpertOnBoardingVc.headlineLabel.text" = "Developed with experts!";
+"DevelopedExpertOnBoardingVc.headlineDescriptionLabel.text" = "By consulting with midwives, gynecologists and other health professionals, we ensure your safety and well-being";
+"DevelopedExpertOnBoardingVc.ExpertName.headlineLabel.text" = "Dr. Muller, gynecologist";
+
+// MARK: OurReferencesOnBoardingVC
+"OurReferencesOnBoardingVC.headlineLabel.text" = "Our references speak for themselves";
+"OurReferencesOnBoardingVC.headlineDescriptionLabel.text" = "With our App Scratch Adventure we have been in the topping App Store charts worldwide, gained over 2.5 Million downloads and glowing reviews!";
+
+// MARK: ReceiveNotificationsOnBoardingVC
+"ReceiveNotificationsOnBoardingVC.headlineLabel.text" = "Do you want to receive notifications?";
+"ReceiveNotificationsOnBoardingVC.headlineDescriptionLabel.text" = "Allow Ovulio Baby access to your notifications and never miss a crucial date again!";
+
+// MARK: SecondOnBoardingPageVC
+"SecondOnBoardingPageVC.Button.Submit.headlineLabel.text" = "Submit";
+"SecondOnBoardingPageVC.Button.SkipStep.headlineLabel.text" = "Skip step";
+"SecondOnBoardingPageVC.Button.LetsGo.headlineLabel.text" = "Let’s Go";
+
+// MARK: WhoPlayingOnBoardingVC
+"WhoPlayingOnBoardingVC.headlineLabel.text" = "Who is playing?";
+
+// MARK: MentruationCycleOnBoardingVC
+"MentruationCycleOnBoardingVC.headlineLabel.text" = "Hello";
+"MentruationCycleOnBoardingVC.headlineDescriptionLabel.text" = "We need some more data to predict the most favorable day for conception";
+
+// MARK: TermsConditionOnBoardingVC
+"TermsConditionOnBoardingVC.headlineLabel.text" = "Welcome!";
+"TermsConditionOnBoardingVC.headlineDescriptionLabel.text" = "Ovulio Baby is intended for educational and informational purposes only. While we have collaborated with medical experts to provide accurate and reliable information, this app does not replace the guidance of a qualified healthcare professional. The information and tools provided by Ovulio Baby are not a substitute for professional medical advice. Ovulio Baby cannot guarantee the accuracy, completeness, or suitability of the information provided, as individual circumstances can vary. While Ovulio Baby provides expert advice and insight into conception and gender influence, nature can be unpredictable at the best of times, user results and success may vary. The use of this app is at your own risk, and we disclaim any responsibility for any actions taken based on the information or tools provided. By using Ovulio Baby, you acknowledge that you have read and understood this disclaimer and agree to use the app responsibly, in conjunction with the advice and guidance of a qualified healthcare professional when need.";
+"TermsConditionOnBoardingVC.agreementLabel.text" = "We confirm that we have read and accept the Terms and Conditions, Privacy Policy and Disclaimer.";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.termsAndConditions" = "Terms and Conditions";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.privacyPolicy" = "Privacy Policy";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer" = "Disclaimer";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer_tappable" = "Disclaimer";
+"TermsConditionOnBoardingVC.alert.previewTerms.title" = "Preview Terms";
+"TermsConditionOnBoardingVC.alert.previewTerms.message" = "Please agree to our terms before you continue. (Click on the purple outlined rounded button)";
+
+// MARK: HomeViewController
+"HomeViewController.headlineLabel.text" = "Parenthood Journey";
+"HomeViewController.headlineDescriptionLabel.text" = "This is your unique journey and we are here to support you every step of the way!";
+
+"HomeViewController.YourGoalCell.headlineLabel.text" = "Your goal";
+"HomeViewController.YourGoalCell.conceiveChildLabel.text" = "Conceive a child within the next months";
+"HomeViewController.YourGoalCell.conceiveBoyLabel.text" = "Conceive a boy within the next months";
+"HomeViewController.YourGoalCell.conceiveGirlLabel.text" = "Conceive a girl within the next months";
+
+"HomeViewController.categories.headlineLabel.text" = "Categories";
+"HomeViewController.categories.games.headlineLabel.text" = "Games";
+"HomeViewController.categories.games.headlineDescriptionLabel.text" = "Sex Positions and Locations";
+"HomeViewController.categories.calendar.headlineLabel.text" = "Calendar";
+"HomeViewController.categories.calendar.headlineDescriptionLabel.text" = "Chinese Lunar and Fertility Calendar";
+"HomeViewController.categories.learningResources.headlineLabel.text" = "Learning resources";
+"HomeViewController.categories.learningResources.headlineDescriptionLabel.text" = "Conception Masterclass";
+"HomeViewController.categories.postcastCategory.headlineLabel.text" = "Relax & Conceive";
+"HomeViewController.categories.postcastCategory.headlineDescriptionLabel.text" = "Reduce stress and support your fertility naturally";
+"HomeViewController.categories.upgrade.headlineLabel.text" = "Upgrade now to unlock everything";
+"HomeViewController.categories.DiceToSpice.headlineLabel.text" = "Dice to spice";
+"HomeViewController.categories.DiceToSpice.headlineDescriptionLabel.text" = "Throw dices with sexy challenges";
+"HomeViewController.categories.Affirmation.headlineLabel.text" = "Affirmations";
+"HomeViewController.categories.Affirmation.headlineDescriptionLabel.text" = "Positive affirmations to help with conceiving";
+"HomeViewController.categories.Yoga.headlineLabel.text" = "Yoga";
+"HomeViewController.categories.Yoga.headlineDescriptionLabel.text" = "Yoga Positions to help with conceiving";
+"HomeViewController.categories.NameGenetrate.headlineLabel.text" = "Baby name \ngenerator";
+
+// MARK: YourGoalSelectionVC
+"YourGoalSelectionVC.headlineLabel.text" = "Who do you want to conceive?";
+"YourGoalSelectionVC.gender.boy.text" = "Boy";
+"YourGoalSelectionVC.gender.girl.text" = "Girl";
+"YourGoalSelectionVC.gender.doesntMatter.text" = "Doesn't mattern";
+
+// MARK: YogaVC
+"YogaVC.headlineLabel.text" = "Yoga positions";
+"YogaVC.FertilityPositions.headlineLabel.text" = "Fertility\npositions";
+"YogaVC.PrenatalYoga.headlineLabel.text" = "Prenatal\nyoga";
+"YogaVC.FertilityPositions.headlineDescriptionLabel.text" = "Try these yoga poses to increase your fertility.";
+
+// MARK: YogaDetailVC
+"YogaDetailVC.headlineLabel.text" = "Scratch the field\nwith your finger";
+
+// MARK: GamesVC
+"GamesVC.headlineLabel.text" = "Games";
+"GamesVC.UnlockForMoreFunButton.Locations.title" = "Explore more Locations";
+"GamesVC.UnlockForMoreFunButton.Extras.title" = "Explore more Extras";
+
+"GamesVC.ScoreAndCardsHeader.scoreView.headlineLabel.text" = "Your score:";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Novice.text" = "Novice";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Experienced.text" = "Experienced";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Expert.text" = "Expert";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SeductionMaster.text" = "Seduction master";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.KingOfLust.text" = "King of Lust";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SexGod.text" = "Sex god";
+"GamesVC.ScoreAndCardsHeader.cardView.headlineLabel.text" = "Cards scratched:";
+
+"GamesVC.LevelsAndPositionCardsHeader.headlineLabel.text" = "Choose a level and scratch a love challenge";
+
+"GamesVC.LocationsHeader.headlineLabel.text" = "Mark the locations";
+"GamesVC.LocationsHeader.headlineDescriptionLabel.text" = "Try out new sex spots and check them off, as soon as you have done them";
+
+"GamesVC.ExtrasHeader.headlineLabel.text" = "Exciting extras";
+"GamesVC.ExtrasHeader.headlineDescriptionLabel.text" = "Dare to try hot extras and leave your comfort zone";
+
+"GamesVC.LevelsAndPositionCardsHeader.level1.headlineLabel.text" = "Level 1";
+"GamesVC.LevelsAndPositionCardsHeader.level2.headlineLabel.text" = "Level 2";
+"GamesVC.LevelsAndPositionCardsHeader.level3.headlineLabel.text" = "Level 3";
+"GamesVC.LevelsAndPositionCardsHeader.InCar.headlineLabel.text" = "In Car";
+"GamesVC.LevelsAndPositionCardsHeader.InBath.headlineLabel.text" = "In Bath";
+"GamesVC.LevelsAndPositionCardsHeader.Bondage.headlineLabel.text" = "Bondage";
+"GamesVC.LevelsAndPositionCardsHeader.easy.headlineLabel.text" = "Easy";
+"GamesVC.LevelsAndPositionCardsHeader.medium.headlineLabel.text" = "Medium";
+"GamesVC.LevelsAndPositionCardsHeader.complicated.headlineLabel.text" = "Complicated";
+"GamesVC.LevelsAndPositionCardsHeader.sparkling.headlineLabel.text" = "Sparkling";
+"GamesVC.LevelsAndPositionCardsHeader.kinky.headlineLabel.text" = "Kinky";
+"GamesVC.LevelsAndPositionCardsHeader.captivating.headlineLabel.text" = "Captivating";
+"GamesVC.LevelsAndPositionCardsHeader.Point.text" = "point";
+"GamesVC.LevelsAndPositionCardsHeader.Points.text" = "points";
+
+// MARK: GameCardScrachVC
+"GameCardScrachVC.headlineLabel.text" = "Scratch the field with your finger";
+"GameCardScrachVC.Button.Back.headline.text" = "Back";
+"GameCardScrachVC.Button.Done.headline.text" = "Done";
+"GameCardScrachVC.Button.Reset.headline.text" = "Reset";
+"GameCardScrachVC.Probability.headline.text" = "Probability:";
+
+// MARK: GameLegsUpVC
+"GameLegsUpVC.headlineLabel.text" = "Do not forget to put your legs up and put a pillow under your back!";
+"GameLegsUpVC.Button.GotIt.text" = "Got it!";
+"GameLegsUpVC.Button.DontShowAgain.headline.text" = "Don’t show again";
+
+// MARK: LearningResourcesVC
+"LearningResourcesVC.headlineLabel.text" = "Learning resources";
+"LearningResourcesVC.articles.ohBaby.headline" = "Sexual intimacy while expecting";
+"LearningResourcesVC.articles.theRoadBeforeTheBump.headline" = "Gamify getting pregnant";
+"LearningResourcesVC.articles.chineseConceptionCalendar.headline" = "Chinese conception calendar";
+"LearningResourcesVC.articles.positionPerfect.headline" = "Conception and gender positions";
+"LearningResourcesVC.articles.babyliciousNutritious.headline" = "Fertile food to promote pregnancy";
+"LearningResourcesVC.articles.fertilityCalendar.headline" = "Fertile female calendar";
+"LearningResourcesVC.articles.waysToShowYour.headline" = "5 ways to show your pregnant partner love";
+"LearningResourcesVC.articles.hitTheGym.headline" = "Hit the gym? Exercising when trying to conceive";
+"LearningResourcesVC.articles.howToSupportYourPartner.headline" = "Miscarriages";
+"LearningResourcesVC.articles.ohBabySexAfterChildbirth.headline" = "Sex after
+childbirth";
+"LearningResourcesVC.UnlockForMoreFunButton.Masterclass.title" = "Unlock full masterclass";
+
+
+// MARK: LearningResourceArticleVC
+"LearningResourceArticleVC.headlineLabel.text" = "Article";
+"LearningResourceArticleVC.ReadFullMasterclass.headline.text" = "Read full masterclass";
+"LearningResourceArticleVC.ReadFullMasterclass.subtitle.text" = "This masterclass is available to Ovulio Baby Conception members only. Upgrade to instantly unlock this masterclass plus other member-only benefits.";
+
+// MARK: CalendarPageVC
+"CalendarPageVC.segment.LunarCalendar.headlineLabel.text" = "Chinese Lunar Calendar";
+"CalendarPageVC.segment.FertilityCalendar.headlineLabel.text" = "Fertility Calendar";
+
+// MARK: CalendarVC
+"LunarCalendarVC.headlineLabel.text" = "Chinese Calendar";
+"LunarCalendarVC.ChooseYear.text" = "Choose a year";
+
+"LunarCalendarVC.LunarCalendarCell.Boy.text" = "Boy";
+"LunarCalendarVC.LunarCalendarCell.Girl.text" = "Girl";
+
+// MARK: OvulationCalendarVC
+"OvulationCalendarVC.headlineLabel.text" = "Fertile Calendar";
+"OvulationCalendarVC.Ovulation.headlineLabel.text" = "Ovulation";
+"OvulationCalendarVC.HighFertileday.headlineLabel.text" = "High Fertile day";
+"OvulationCalendarVC.Fertileday.headlineLabel.text" = "Fertile day";
+"OvulationCalendarVC.Periodday.headlineLabel.text" = "Period day";
+"OvulationCalendarVC.Daysbefore.headlineLabel.text" = "Days before";
+"OvulationCalendarVC.probability.low.text" = "Low";
+"OvulationCalendarVC.probability.high.text" = "High";
+"OvulationCalendarVC.probability.veryHigh.text" = "Very High";
+"OvulationCalendarVC.probability.highest.text" = "Highest";
+"OvulationCalendarVC.detailsChanceStaticLabel.text" = "Chance of getting\npregnant";
+
+"OvulationCalendarVC.demoData.demo.headline.text" = "Demo";
+"OvulationCalendarVC.demoData.data.headline.text" = "data";
+"OvulationCalendarVC.probability.headline.text" = "Probability";
+"OvulationCalendarVC.probability.boy.headline.text" = "Boy";
+"OvulationCalendarVC.probability.girl.headline.text" = "Girl";
+
+// MARK: CalendarDesignationsVC
+"CalendarDesignationsVC.headlineLabel.text" = "Designations";
+"CalendarDesignationsVC.details.menstruation.text" = "Menstruation";
+"CalendarDesignationsVC.details.predictedMenstruation.text" = "Predicted menstruation";
+"CalendarDesignationsVC.details.fertileWindow.text" = "Fertile window";
+"CalendarDesignationsVC.details.estimatedDayOfOvulation.text" = "Estimated day of ovulation";
+"CalendarDesignationsVC.details.saveDay.text" = "”Save” day";
+
+
+// MARK: DemoDataAlertVC
+"DemoDataAlertVC.headlineLabel.text" = "Warning!";
+"DemoDataAlertVC.subtitle.text" = "This data is not true and has nothing to do with your real cycle, please renew your subscription to start using the app to the fullest";
+
+// MARK: SalesVC
+"SalesVC.headlineLabel.text" = "Sales";
+"SalesVC.button.UnlockForMoreFun.text" = "Unlock for more fun";
+"SalesVC.button.Continue.text" = "Continue";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.text" = "Get unlimited access to your Baby\nConception plan!";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.ColoredString.text" = "Conception plan!";
+"SalesVC.YourBabyWishGenderIs.headline.text" = "Your baby wish gender is";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.headline.text" = "a male baby";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.coloredString.headline.text" = "male";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.headline.text" = "a female baby";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.coloredString.headline.text" = "female";
+"SalesVC.YourBabyWishGenderIs.DoesntMatter.headline.text" = "a male/female baby";
+"SalesVC.details.headlineLabel.Unlock all features.text" = "Unlock all features";
+"SalesVC.details.headlineLabel.Unlock all features.ColoredString.text" = "features";
+"SalesVC.details.Unlock all features.Monthly gender Predictions.text" = "Monthly gender Predictions";
+"SalesVC.details.Unlock all features.Unlimited Ovulation Insights.text" = "Unlimited Ovulation Insights";
+"SalesVC.details.Unlock all features.Gender Influencing Sex Practices.text" = "Gender Influencing Practices";  //"Gender Influencing Sex Practices";
+"SalesVC.details.Unlock all features.Access to Expert written Articles.text" = "Access to Expert written Articles";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.text" = "Future parents can’t stop raving";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.ColoredString.text" = "parents";
+"SalesVC.details.Future parents can’t stop raving.Higher Chance of getting Pregnant.text" = "Higher Chance of getting Pregnant";
+"SalesVC.details.Future parents can’t stop raving.Improved Intimacy routine.text" = "Improved Intimacy routine";
+"SalesVC.details.Future parents can’t stop raving.Regular updates with new features.text" = "Regular updates with new features";
+"SalesVC.details.Future parents can’t stop raving.Anti-boring guarantee.text" = "Anti-boring guarantee";
+"SalesVC.details.headlineLabel.Developed with\nexperts.text" = "Developed with\nexperts";
+"SalesVC.details.headlineLabel.Developed with\nexperts.ColoredString.text" = "experts";
+"SalesVC.details.Developed with\nexperts.subtitleHeadlineText.text" = "Ovulio Baby has been developed in collaboration with medical professionals and certified relationship coaches. Meet some of our experts below…";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.text" = "Choose your baby\nconception plan";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.coloredString.text" = "conception plan";
+"SalesVC.details.Choose your baby\nconception plan.subtitleText.text" = "Subscriptions will be charged to your credit card through your iTunes account. Your subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase.";
+"SalesVC.details.reviews.userName1.text" = "Penny";
+"SalesVC.details.reviews.userName1.comment.text" = "I am so impressed with the accuracy of the calendars! They were so easy to navigate and use. I know my cycle like the back of my hand thanks to Ovulio Baby.";
+"SalesVC.details.reviews.userName2.text" = "Michael and Laura";
+"SalesVC.details.reviews.userName2.comment.text" = "We used Ovulio Baby to conceive our second child and it was such a fun process. The games took our sex lives to a totally new level, and we are closer than ever!";
+"SalesVC.details.reviews.userName3.text" = "Astrid";
+"SalesVC.details.reviews.userName3.comment.text" = "The articles are really cool, I enjoyed the learning aspect of the app. My husband and I are now pregnancy pros!";
+"SalesVC.details.reviews.userName4.text" = "Philip and Sarah";
+"SalesVC.details.reviews.userName4.comment.text" = "We finally got a girl, after two boys! I would strongly recommend the Lunar Calendar to anyone hoping for a certain gender. It was simple to use and best of all, we now have a baby girl on the way.";
+"SalesVC.details.reviews.userName5.text" = "Megan and Adam";
+"SalesVC.details.reviews.userName5.comment.text" = "We have only just started using this and we are already in love. It’s such a diverse app with so many special features and information. I’m sure we’ll be parents very soon!";
+"SalesVC.details.reviews.userName6.text" = "Melanie";
+"SalesVC.details.reviews.userName6.comment.text" = "I always pictured having a boy, after finding Ovulio Baby and then falling pregnant with my son shortly after that dream is now a reality! Amazing app";
+"SalesVC.spalert.success.title" = "Done!";
+"SalesVC.spalert.success.message" = "Your upgrade to PRO was successful";
+"SalesVC.plans.1week.headline.text" = "1 Week";
+"SalesVC.plans.1week.details.text" = "billed weekly";
+"SalesVC.plans.1week.priceDetails.perWeek.text" = "per week";
+"SalesVC.plans.3Months.headline.text" = "3 months";
+"SalesVC.plans.3Months.details.text" = "billed every 3 months";
+"SalesVC.plans.3Months.typeTitle.headline.text" = "Best value";
+"SalesVC.plans.3Months.discount.headline.text" = "SAVE 75%";
+
+"SalesVC.plans.1Month.typeTitle.headline.text" = "Popular";
+"SalesVC.plans.1Month.headline.text" = "1 month";
+"SalesVC.plans.1Month.details.text" = "billed Monthly";
+"SalesVC.plans.1Month.discount.headline.text" = "SAVE 50%";
+"SalesVC.plans.1Month.fullDiscount.headline.text" = "SAVE 100%";
+"SalesVC.plans.1Month.details.afterword.text" = "Afterword: ";
+"SalesVC.plans.1Month.details.monthly.text" = "monthly";
+
+"SalesVC.plans.lifetime.typeTitle.headline.text" = "Only now";
+"SalesVC.plans.lifetime.headline.text" = "Lifetime";
+"SalesVC.plans.lifetime.details.text" = "one time";
+"SalesVC.plans.lifetime.discount.headline.text" = "SAVE 90%";
+
+
+// MARK: YearPickerPopUpVC
+"YearPickerPopUpVC.headlineLabel.text" = "Select a year";
+
+// MARK: ProfileVC
+"ProfileVC.headlineLabel.text" = "Profile";
+"ProfileVC.headlineLabel.notEnoughData.text" = "Not enough data";
+"ProfileVC.buttons.saveChanges.text" = "Save changes";
+
+"ProfileVC.ProfileImagTextCell.enterMotherName.text" = "Enter Mother Name";
+"ProfileVC.ProfileImagTextCell.enterFatherName.text" = "Enter Father Name";
+"ProfileVC.ProfileImagTextCell.Mother.text" = "Mother";
+"ProfileVC.ProfileImagTextCell.Father.text" = "Father";
+
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.text" = "Baby:";
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.notEnoughData.text" = "Who do you want to conceive:";
+
+"ProfileVC.ProfileMentruationCycleCell.headlineLabel.text" = "First day of your last menstruation:";
+"ProfileVC.ProfileMentruationCycleCell.cycleLength.headlineLabel.text" = "Cycle length:";
+
+"ProfileVC.ProfileBirthMonthYearCell.headlineLabel.text" = "Day, month and year of birth:";
+"ProfileVC.ProfileBirthMonthYearCell.Mother.text" = "Mother";
+"ProfileVC.ProfileBirthMonthYearCell.Father.text" = "Father";
+
+"ProfileVC.ProfileNotEnoughSubtitleCell.headlineLabel.text" = "We need some more information to predict next fertile window. You can change it at any time right in your profile!";
+
+// MARK: OptionsVC
+"OptionsVC.headlineLabel.text" = "Options";
+"OptionsVC.Sections.Settings.headlineLabel.text" = "Settings";
+"OptionsVC.Sections.Contacts.headlineLabel.text" = "Contacts";
+"OptionsVC.Settings.SetLanguage.headlineLabel.text" = "Set language";
+"OptionsVC.Settings.RestorePurchase.headlineLabel.text" = "Restore Purchase";
+"OptionsVC.Settings.Notifications.headlineLabel.text" = "Notifications";
+"OptionsVC.Settings.VisitWebsite.headlineLabel.text" = "Visit Website";
+"OptionsVC.Settings.Legal.headlineLabel.text" = "Legal";
+"OptionsVC.Settings.HowItWorks.headlineLabel.text" = "How the App works?";
+"OptionsVC.Contacts.E-mailContact.headlineLabel.text" = "E-mail contact";
+"OptionsVC.Contacts.RateTheApp.headlineLabel.text" = "Rate the app";
+"OptionsVC.Contacts.FollowInInstagram.headlineLabel.text" = "Follow in Instagram";
+"OptionsVC.Contacts.Share.headlineLabel.text" = "Share";
+"OptionsVC.Contacts.OurExperts.headlineLabel.text" = "Our experts";
+"OptionsVC.ratingView.email.subject" = "Rating Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.stars" = "I rated %x stars to Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.star" = "I rated 1 star to Ovulio Baby";
+"OptionsVC.alert.redeemCode.title" = "Redeem activation code";
+"OptionsVC.alert.redeemCode.message" = "Enter the activation code from your email or your order!";
+"OptionsVC.alert.redeemCode.placeholder" = "Activation Code";
+
+// Share with friends
+"OptionsVC.shareCovarUIAlertController.messageButton" = "Message";
+"OptionsVC.shareCovarUIAlertController.emailButton" = "E-Mail";
+"OptionsVC.shareCovarUIAlertController.moreButton" = "More";
+"OptionsVC.shareCovarUIAlertController.messageTextBody" = "Try out the Ovulio Baby app! Get it for free at https://ovulio-baby.com";
+"OptionsVC.shareCovarUIAlertController.emailTextBody" = "Hello,\ntry out the Ovulio Baby app!\nGet it for free at https://ovulio-baby.com";
+"OptionsVC.keepInTouch.email" = "Ovulio Baby App Question";
+
+// MARK: ReviewAlertView
+"ReviewAlertView.titleLabel.text" = "How would you rate the App?";
+"ReviewAlertView.contactUs" = "Contact Us";
+"ReviewAlertView.rateUs" = "Rate Us";
+
+// MARK: LegalOptionVC
+"LegalOptionVC.headlineLabel.text" = "Legal";
+"LegalOptionVC.LegalNotice.headlineLabel.text" = "Legal Notice";
+"LegalOptionVC.PrivacyPolicy.headlineLabel.text" = "Privacy Policy";
+"LegalOptionVC.TermsandConditions.headlineLabel.text" = "Terms and Conditions";
+"LegalOptionVC.Disclaimer.headlineLabel.text" = "Disclaimer";
+"LegalOptionVC.Attribution.headlineLabel.text" = "Attribution";
+"LegalOptionVC.TermsOfUse.headlineLabel.text" = "Terms Of Use";
+
+// MARK: NotificationsOptionVC
+"NotificationsOptionVC.headlineLabel.text" = "Notifications";
+"NotificationsOptionVC.PeriodStarting.headlineLabel.text" = "Period starting";
+"NotificationsOptionVC.PeriodStarting.headlineDescriptionLabel.text" = "This notification will remind you about your period a week before it starts";
+"NotificationsOptionVC.FavorableDay.headlineLabel.text" = "Favorable day for conception";
+"NotificationsOptionVC.GenderNotification.headlineLabel.text" = "Gender notification";
+
+// MARK: OurExpertsOptionPageVC
+"OurExpertsOptionPageVC.headlineLabel.text" = "Our Experts";
+
+
+
+
+// MARK: GamesModel: Locations
+"GamesModel.LocationsModel.AtHome.headlineLabel.text" = "At home";
+"GamesModel.LocationsModel.AtHome.OnTheCouch.text" = "On the couch";
+"GamesModel.LocationsModel.AtHome.OnTheFloor.text" = "On the floor";
+"GamesModel.LocationsModel.AtHome.OnAChair.text" = "On a chair";
+"GamesModel.LocationsModel.AtHome.OnTheDiningTable.text" = "On the dining table";
+"GamesModel.LocationsModel.AtHome.InTheBathroom.text" = "In the bathroom";
+"GamesModel.LocationsModel.AtHome.InTheShower.text" = "In the shower";
+"GamesModel.LocationsModel.AtHome.InTheKitchen.text" = "In the kitchen";
+"GamesModel.LocationsModel.AtHome.InTheCloset.text" = "In the closet";
+"GamesModel.LocationsModel.AtHome.AgainstAWall.text" = "Against a wall";
+"GamesModel.LocationsModel.AtHome.OnTheStairs.text" = "On the stairs";
+"GamesModel.LocationsModel.AtHome.InTheAttic.text" = "In the attic";
+"GamesModel.LocationsModel.AtHome.OnAYogaMat.text" = "On a yoga mat";
+"GamesModel.LocationsModel.AtHome.OnTheWashingMachine.text" = "On the washing machine";
+"GamesModel.LocationsModel.AtHome.InFrontOfAMirror.text" = "In front of a mirror";
+"GamesModel.LocationsModel.AtHome.AtTheFrontDoor.text" = "At the front door";
+"GamesModel.LocationsModel.AtHome.BehindAWindow.text" = "Behind a window";
+"GamesModel.LocationsModel.AtHome.InTheBasement.text" = "In the basement";
+"GamesModel.LocationsModel.AtHome.OnTheBalconyIntheGarden.text" = "On the balcony/in the garden";
+"GamesModel.LocationsModel.AtHome.InTheGardenHouseGarage.text" = "In the garden house/garage";
+
+// MARK: GamesModel: Extras
+"GamesModel.ExtrasModel.DirtyTalk.text" = "Dirty Talk";
+"GamesModel.ExtrasModel.Fingering.text" = "Fingering";
+"GamesModel.ExtrasModel.Oral.text" = "Oral";
+"GamesModel.ExtrasModel.Blindfold.text" = "Blindfold";
+"GamesModel.ExtrasModel.Handcuffs.text" = "Handcuffs";
+"GamesModel.ExtrasModel.HairPulling.text" = "Hair pulling";
+"GamesModel.ExtrasModel.GrabByTheNeck.text" = "Grab by the neck";
+"GamesModel.ExtrasModel.WithEarplug.text" = "With earplug";
+"GamesModel.ExtrasModel.Bondage.text" = "Bondage";
+"GamesModel.ExtrasModel.Sextoys.text" = "Sextoys";
+"GamesModel.ExtrasModel.HotWaxMassage.text" = "Hot wax massage";
+"GamesModel.ExtrasModel.RolePlaying.text" = "Role Playing";
+"GamesModel.ExtrasModel.WatchPorn.text" = "Watch Porn";
+"GamesModel.ExtrasModel.Whipping.text" = "Whipping";
+"GamesModel.ExtrasModel.SexTape.text" = "Sex tape";
+
+
+// MARK: Article: Babylicious Nutritious
+"LearningResourceArticleVC.babyliciousNutritious.headline" = "Babylicious Nutritious: Fertile Food to Promote Pregnancy";
+"LearningResourceArticleVC.babyliciousNutritious.headline.text" = "Food nourishes your body, mind, and soul, and when you are planning to conceive, the food you eat can help you achieve your dreams of conception a very tasty reality. In this article, we’ll explore how the right diet can promote pregnancy, we’ll share why some foods have the power to increase your chances of falling pregnant. There are many factors at play when trying for a baby, it’s always best to find out more about your fertility as a couple with a health professional, the right diet and health have been linked to conception success. We’ll also let you know a few things to avoid when planning your pregnancy so you can get to conceiving!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section1.headline" = "Under & Over";
+"LearningResourceArticleVC.babyliciousNutritious.section1.text" = "It is true that statistically speaking, women who are under or overweight have a harder time getting pregnant, that is not to say it is impossible of course! However, being overweight or underweight may cause hormonal imbalances, ovulation irregularities, and menstruation problems. If you’re planning on getting pregnant, consider consulting with a dietician to find a dietary plan customized to your height, weight, and any possible health conditions. This is also goes for your partner, as weight issues can present problems in male fertility too.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section2.headline" = "Babylicious Nutritious: Improve your Chances and Avoid…";
+"LearningResourceArticleVC.babyliciousNutritious.section2.text" = "-Smoking. Smoking can reduce fertility in men and women, if you’re hoping to conceive, kicking the habit can help you along your journey to conception.
+-Too much caffeine. When trying to conceive, experts agree that excessive caffeine consumption can reduce your chances of pregnancy due to caffeine and can impact how your body metabolizes all those good nutrients in your system.
+-Alcohol. Other than getting down on a Saturday night, there isn’t much alcohol is good for it seems. When trying to get pregnant, alcohol can reduce fertility, not only in females but also in males too. Alcohol can also throw off your hormones, which affects your menstrual cycle. To increase your odds of pregnancy, it’s best to stick to good old water.
+-Processed foods. It’s known that processed foods can reduce men’s semen quality which may impact your odds of conception. Processed foods are packed with sugar, salt, and fats, which just simply aren’t healthy when trying to get pregnant.
+-Sugary drinks. Drinks and foods with a high sugar content lower fertility in both males and females. Not only that, but it can literally cause your organs, like your reproductive system to age before their time!
+- Raw fish and fish high in mercury. You’ve probably heard that you should steer clear of sushi while you’re pregnant. This actually also applies when trying to conceive. Mercury builds up within the bloodstream over a period of time, high amounts can impact your health and your future baby in the belly.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section3.headline" = "Babylicious Nutritious: The Good Stuff";
+"LearningResourceArticleVC.babyliciousNutritious.section3.text" = "Making changes to your diet can be tough, but luckily, the food that is encouraged and promotes pregnancy is good and good for you! Let’s see what you’ll be eating while preparing to eat for two:
+-Extra virgin olive oil. What can’t this stuff do, right? It’s good for your skin, hair and surprisingly promotes fertility in both men and women.
+-Seafood. Although there are fish that are high in mercury, there also are many seafoods that women trying to conceive will benefit from. Seafood is a nutrient-packed meal choice that is high in omega 3. Seafood such as salmon, anchovies, hake, cod, shrimp, lobster and many more, can assist in ovulation and also improve the quality of semen.
+-Fruits. Fruit is full of vitamins and high in fiber, when trying for a bun in the oven, you’ll want to stock up on pineapples, unpeeled apples, raspberries, mangos, strawberries, and bananas.
+-Veggies. We’ve all been told to eat our vegetables at some time or another, and for good reason. Kale and spinach are particularly beneficial when trying to conceive, they are full of iron, manganese, and folate, which boost the likelihood of pregnancy.
+-Whole grains. Whole grains such as barley, brown rice, whole wheat bread and cereal, etc. are a brilliant addition to a healthy diet. Whole grains have been linked to better implantation and pregnancy rates!
+-Legumes. Beans, peas, and lentils are a pregnancy superfood, they contain folic acid which is a crucial vitamin that can assist in conception. Legumes increase your fertility; we definitely recommend incorporating these magic beans into your diet.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section4.headline" = "Babylicious Nutritious: The Mediterranean Diet";
+"LearningResourceArticleVC.babyliciousNutritious.section4.text" = "The Mediterranean diet mainly consists of vegetable oils, beans, fish and vegetables, this diet can increase your probability of falling pregnant due to its nutrient-dense qualities. The Med diet focuses on whole, unprocessed foods that are high in calcium, iron, fiber, and protein, which are the building blocks of a healthy body preparing to conceive. This diet is not aimed to deprive or leave you feeling hungry, in fact, you’ll feel fuller for longer and notice secondary benefits like better brain function, increased energy and mood, weight management, reduced inflammation, the list goes on. This is also a diet that can still be followed during pregnancy and will have incredible benefits for your little one too. Not to mention, there are tons of delicious recipes and meal ideas available online making it easy to start and stick to!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section5.headline" = "Babylicious Nutritious: Foods that Increase Sperm Count";
+"LearningResourceArticleVC.babyliciousNutritious.section5.text" = "There are many crucial vitamins that are proven to yield higher fertility among males. Your partner’s sperm count and quality can impact your chances of pregnancy too! Let’s find out what foods can increase the possibility of conception:
+-Walnuts: Folate and B6 found in walnuts support male fertility and are an easy snack if you’re on the go.
+-Fish: Salmon and sardines are packed with Omega-3, it’s also known as one of the best foods to increase sperm count.
+-Beef: Beef is loaded with zinc, carnitine, and vitamin B12, all of which promote higher sperm count!
+-Fruits and Vegetables: A study with 250 male participants found that men who ate higher quantities of fruits and vegetables had superior sperm concentrations and motility.
+-Oysters: Research reports that vitamin B12 helps develop healthy sperm, and oysters contain a lot of it! They also have a high amount of zinc and vitamin D which are also known to contribute to healthy, active sperm.
+-Tomatoes: Tomatoes contain something called Lycopene, and studies have shown that consuming about 4g of Lycopene a day surges male sperm count.
+-Garlic: Garlic has wonderful antioxidant qualities which increase sperm production and testosterone. So next time you have a meal, be sure to add some garlic, it’s tasty and promotes overall fertility.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section6.headline" = "Babylicious Nutritious: What Harms Sperm Count?";
+"LearningResourceArticleVC.babyliciousNutritious.section6.text" = "It is important to note that most of the items to avoid in this article for women, also applies to men! Things like alcohol, caffeine, smoking, processed foods, and high mercury fish are also not recommended for males to consume when trying to conceive, but there are a few that stand out when talking specifically about male fertility, let’s check them out:
+-Pain medication: Ibuprofen and paracetamol have been known to decrease male fertility by negatively impacting testosterone levels as well as disrupting sperm development. Take care when treating your next headache and perhaps opt for a cold compress or a natural remedy!
+-Sweeteners: Sweeteners are not a good idea for both male and females trying to conceive, yet for men, the effects of sweeteners in diet sodas, sugar-free food options, etc., wreak havoc on sperm development, sperm count, and testosterone levels.
+-High Fat Dairy Products: Studies have shown that cheese, whole milk, and cream have a negative effect on male fertility.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section7.headline" = "Babylicious Nutritious: Enjoy!";
+"LearningResourceArticleVC.babyliciousNutritious.section7.text" = "Nourishing your body to promote pregnancy or in preparation for pregnancy can be a delicious task. Whether you’re trying to conceive at the moment or you’re planning for the near future, eating a balanced diet can only benefit you and your future bundle of joy.  Remember it takes two to tango, if you and your partner are looking for ways to improve your fertility together, start with your diet! Creating meals and recipes is just another way to make the journey to conception all the more enjoyable!";
+
+
+// MARK: Article: Oh Baby
+"LearningResourceArticleVC.ohBaby.headline" = "Oh Baby: A Guide to Sexual Intimacy While You’re Expecting";
+"LearningResourceArticleVC.ohBaby.text" = "Pregnancy can be an amazing experience; it can bring you closer as a couple and form a lifelong bond between the two of you. You will begin to learn more about your body and get to see your partner in a new light. As couples embark on their pregnancy adventure together, we want to share how you can still share sexual intimacy and keep the passion going strong.";
+
+"LearningResourceArticleVC.ohBaby.section1.headline" = "Myths & Facts About Sex During Pregnancy";
+"LearningResourceArticleVC.ohBaby.section1.text" = "On your pregnancy journey, you’ll start to think on all those myths that can make sex a little bit scary. We’re here to share some of the most common myths about intercourse during pregnancy, and debunk them for your peace of mind:
+
+Myth 1: Having sex or deep penetration while you’re pregnant will harm the baby. This is a common fear that many new expecting couples have, it’s natural to wonder if this myth holds any truth and thankfully, it really doesn’t. The vagina is designed to stretch during sex, this creates a little gap between your vagina and the cervix. If your partner is packing serious length, an added fact to put your mind at ease is that the cervix is closed and wrapped in a mucus plug to protect your baby.
+
+Myth 2: Sex can induce labor. Ah yes, another common misconception, we are very happy to report that this is simply not true, this myth came about simply because semen contains prostaglandin, which is the same hormone that is used at hospital to induce labor. This is given to woman in a highly concentrate synthetic form. So, the good news is, men simply don’t create enough of this hormone to cause their partner to go into an untimely labor.
+
+Myth 3: Your baby knows what you’re up to. It may freak some coupes out to be sexually intimate out of the sheer terror that their baby will know what is going on. Rest assured, your baby doesn’t have a cooking clue what you’re getting up to, we promise. Yes, your baby can detect noises and movement while you’re pregnant, but your little one cannot comprehend or interpret what is happening.
+
+Sex during pregnancy can create a deep, intimate connection in your relationship. Not only will it benefit your relationship, but it can even bring you more pleasure, let’s take a look at just a few facts that are sure to excite you:
+
+Fact 1: It’s easier to orgasm when you’re pregnant! Yes, you read that right. Women gain around 3 more pounds of blood, making the occurrence of orgasms easier and more frequent.
+
+Fact 2: Goodbye birth control! Yes, obviously there is no need for birth control while pregnant and this is great news for those who know the various side effects of the pill and other forms of contraceptives.
+
+Fact 3: Orgasms can ease your discomfort. Back pain and headaches are common when you’re pregnant, lucky for you, your body has your back! When you orgasm, your body releases the wonderous hormone called oxytocin which can ease pain.";
+
+"LearningResourceArticleVC.ohBaby.section2.headline" = "As You Grow – Positions for Comfort and Pleasure";
+"LearningResourceArticleVC.ohBaby.section2.text" = "At the start of your pregnancy the way you have sex shouldn’t be impacted but as your belly and baby begin to grow, some positions can lose their shine. Some particularly wild positions may not be safe for your belly and could be a little uncomfortable, so we suggest opting for positions that accommodate a growing belly. Here are some positions that are ideal for an expecting couple:
+
+● Spooning: The spooning position can be deeply intimate, not only are you in a cuddling position, but allows you to lie on your side, supporting your belly.
+● Classic cowgirl: This position accommodates your belly and doesn’t put any unnecessary pressure on it. It puts you in control of the speed and depth according to your comfort.
+● The edge of the bed. Lying on the edge of the bed while your partner stands to penetrate you, this allows your legs to open more, and the angle avoids belly contact.
+● From behind: Pop a pillow down to give your tummy extra support and go to town! Just note, this may not be advised in the late stages of pregnancy as this position provides deep penetration.
+● On your side: With both of you laying down on your sides, facing each other, put both of your legs over your partners hip so that he can penetrate you from below.";
+
+"LearningResourceArticleVC.ohBaby.section3.headline" = "Connect as a Couple";
+"LearningResourceArticleVC.ohBaby.section3.text" = "Before you know it, your little one will have arrived and naturally, sexual intimacy will no longer be at the top of your to do list. Take this time to deepen your sexual connection with your partner by exploring new positions and also getting creative with encounters that don’t always call for penetration, foreplay can also be a great way to give and receive pleasure during pregnancy, right alongside mutual masturbation!";
+
+"LearningResourceArticleVC.ohBaby.section4.headline" = "Just Remember";
+"LearningResourceArticleVC.ohBaby.section4.text" = "Here at Ovuilo baby we care about your overall health, remember, if sex becomes uncomfortable or painful as you begin to grow, consult with your doctor, as there are variables to consider when it comes to high-risk pregnancies. Your doctor will advise you and your partner on safe sex practices or to avoid sex altogether. However, if your doctor has given you the green light, sex should still be on the table until the last 6 weeks of pregnancy. You don’t have to forgo passion between the sheets during your pregnancy, you still deserve to connect as a couple! Try out positions for your comfort and experiment with your partner on how to get the best out of your lovemaking.";
+
+
+// MARK: Article: Position Perfect
+"LearningResourceArticleVC.positionPerfect.headline" = "Position Perfect: Top Positions for Conception and Gender Influence";
+"LearningResourceArticleVC.ohBaby.text" = "Are you curious to know what positions are most likely to end with a baby in that belly? Have you ever wondered if it is possible to influence the gender of your baby? Here on Ovuilo Baby we’ll be diving headfirst into the power of your positions and sharing tips for the best outcome on your way to getting pregnant. Don’t get us wrong, when it comes to conceiving, there are many factors to consider other than the positions you try out in the bedroom, what with ovulation, health, and biological influences etc. That being said, there are ideal positions to use while ovulating that can certainly increase your chances of pregnancy by tenfold, and if you’re hoping for a specific gender, it said that the right position just might yield successful results!";
+
+
+"LearningResourceArticleVC.positionPerfect.section1.headline" = "3 Tips That are Worth a Shot";
+"LearningResourceArticleVC.positionPerfect.section1.text" = "Tip #1: When trying to conceive, gravity is your best friend, it’s all about giving the sperm the best chance to get to that egg! As they say, ‘what goes up, must come down’, so standing up straight after sex should be avoided. Instead, continue to lay down for around 15 minutes, try your best to stay still so that those swimmers get to where they’re going. You can also help the sperm out by placing a pillow underneath the hips, giving gravity the upper hand. Take it a step further and put your legs up, possibly with the assistance of a wall close to your bed. There is no guarantee that these tips work 100% of the time, however you’re most definitely giving the sperm their greatest shot at achieving their life’s purpose, getting you pregnant!
+Tip #2: Have an orgasm! It is said that having an orgasm can increase your chances of conception due to the uterine contraction during climax. This theory has mixed results, yet it is worth experimenting with. Oxytocin is released during orgasm, and this is a feelgood hormone, removing some of that stress, which is one of conception’s worst enemies! And hey, even if this theory is not entirely rock solid, who doesn’t want an orgasm anyway?
+Tip #3: Ditch the lube. There is some debate on if lubrication hinders conception, yet many people recommend ditching the lubrication in the process, as it’s believed to affect the mobility of sperm.";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Positions Perfect for Conception";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "1.Class Missionary:
+2.Reverse Cowgirl:
+3.Rear Entry:
+4.Doggy Style:
+5.Side-by-Side Scissors:
+6.Wheelbarrow:";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Trying for a Boy";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "It is said that deep penetration can increase the likelihood of conceiving a boy. This belief was popularized by Dr. Landrum Shettles, his claim to fame was his bestselling book ‘How to Choose the Sex of Your Baby’. He theorized ‘The Shettles Method’ which supported the notion that ‘boy sperm’ was weaker, smaller, and faster than ‘girl sperm’. Deep penetration is believed to allow the ‘boy sperm’ a head start as they will be deposited close to the cervix, so that those fast little guys beat the ‘girl sperm’ to the egg.
+
+Positions for Deep Penetration
+● Doggy style: Doggy style enables deep penetration, just be sure to turn over so that you keep those swimmers on the right side of gravity.
+● Standing up: Now, this one is a little more of a wives tale, but it is said that standing up allows for deeper penetration and could promote the conception of a baby boy.
+● Straddling: Riding cowgirl is a great deep penetration position; one you can control.
+
+A Little Tip:
+Another popular theory when attempting to conceive a boy, is increasing your intake of calories. A study conducted with 740 women concluded that women who increased their calorie intake had a higher chance of falling pregnant with a boy. This theory is said to increase high blood glucose levels supporting the possibility of conceiving a boy.";
+
+"LearningResourceArticleVC.positionPerfect.section3.headline" = "Trying for a Girl";
+"LearningResourceArticleVC.positionPerfect.section3.text" = "‘The Shettles Method’ is said to also aid in the possibility of conceiving a girl, the theory states that if you have intercourse around 2-4 days before ovulation. It supports the notion that ‘girl sperms’ are stronger and more durable than ‘boy sperm’ and the girl swimmers will be able to survive longer, allowing them to get to the egg first. This method also recommends shallow penetration based on the same theory that ‘girl sperm’ will outlive the ‘boy sperm’ and endure the long journey to the egg.
+
+Positions for Shallow Penetration
+● Spooning: Spooning is a position that is perfect for shallow penetration to occur, by closing your legs while spooning, this can also reduce deep penetration.
+● Side by side: Lying side by side with legs intertwined will promote shallow penetration.
+● Missionary: The women should lay flat, with her legs in the missionary position, be sure not to lift or wrap your legs around your partner as this will allow for deeper penetration.
+
+A Little Tip:
+Supposedly if your vaginal ph. is more on the acidic side, you’re more likely to conceive a girl. There are many types of food that can increase your acidity, let’s check some out:
+● Whole grain cereals
+● Sweets and cakes
+● Blueberries
+● Corn
+● Meat
+● Leafy greens";
+
+"LearningResourceArticleVC.positionPerfect.section4.headline" = "If at First You Don’t Succeed, Try, Try Again!";
+"LearningResourceArticleVC.positionPerfect.section4.text" = "While you’re in baby making mode, it’s easy to feel disappointed if certain methods, tips, and advice don’t achieve the desired goal. ‘If at first you don’t succeed, try, try again’, as the old saying goes. Keep in mind that some things are worth the wait, and it’ll all happen in good time, enjoy being intimate with your partner and revel in the moments you work together as a team to become parents. With the solid understanding of your fertile window and health status, paired with experimentation of positions and gravity, you can’t lose! You can read more on conception, play sex games to spice up your conception journey, and find the best positions to increase chance of pregnancy and influence your baby’s gender all on your Ovulio app!";
+
+
+
+// MARK: Article: The Chinese Conception Calandar:
+"LearningResourceArticleVC.chineseConceptionCalendar.headline" = "The Chinese Conception Calander: Advice from the East on Influencing and Predicting the Gender of Your Baby";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.headline" = "The Chinese Conception Calendar: What is the Chinese Conception Calendar?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.text" = "Before we dive into all the baby-making business and using the Chinese Conception Calendar on your journey to conceive, we should fill you in on what it is exactly. This ancient calendar has been used as a tool to predict and influence gender throughout Chinese history for hundreds of years. The information that the chart utilizes for prediction is the month of conception, lunar age of the pregnant women at the time of conception, then a formula is used to predict gender. The chart has also been said to support the notion that hormones change each lunar month; according to Chinese mythology, these hormone fluctuations can influence your baby’s gender too! If you and your partner are interested in using The Chinese Conception Calendar, this calendar is available on your ‘Ovulio Baby’ app. Our Lunar Calendar helps you record your ovulation period and what dates you have a higher chance of conceiving a boy or girl. It takes care of the calculations and formulas, and helps you work out your lunar age. The majority of the world’s population uses the Gregorian Calendar as a means of timekeeping, yet The Lunar Calendar is still popular and revered by many people in China. Despite its age, it’s stated to have a pretty staggering success rate!";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.headline" = "What Information Does It Use?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.text" = "The Chinese Conception Chart relies on your lunar age and your baby's conception lunar month to predict the gender of your baby. If you’re looking to work out the days you’re ovulating or what days are best to conceive a certain gender, you’ll just need to record your lunar age. Bear in mind, your lunar age is slightly different from your real age. Your lunar age is around 1-2 years older as there is a difference between the Gregorian Calendar and the Chinese Lunar. We happily assist in calculating your Lunar age making it a seamless, easy means of tracking your fertility.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.headline" = "Using the Chart to Conceive a Boy or a Girl";
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.text" = "Parents who would like to have a specific gender may use the chart when planning a pregnancy, by aiming to conceive in the months on the chart that favor the conception of a particular gender. This can assist couples in selecting a month that might have a greater chance of conceiving a baby girl or boy. According to modern science, we do not have much say over influencing gender when it comes to pregnancy, it is usually a 50/50 chance. However, many parents today find that sometimes a ‘tradition over science’ approach is what works for them! Astonishingly, some sources claim this 700-year-old Calendar has a 93% success rate for accurately predicting the gender of an unborn baby.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.headline" = "Does it Really Work?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.text" = "The Calendar does not boast to be based on science; many couples and moms have reported that the Chinese Conception Chart is the best way to non-medically predict the gender of your baby. So, to answer the question, ‘does it really work?’ It is not a guarantee, but according to a high number of reported success rates and the fact that even hundreds of years after its creation, it is still a popular method of gender prediction, we think it’s worth a shot. We would not advise relying on the Calendar as a definite conclusion on whether you’re in for a boy or girl.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.headline" = "A Final Thought";
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.text" = "Although it seems that the Chinese Conception chart has a very high success rate, it is important to remember that nature is a force to be reckoned with and it can be unpredictable at the best of times! Perhaps you have always imagined giggling with a little girl of your own, or maybe envisioned your little boy climbing a tree in the backyard. It is completely normal to have expectations when it comes to your baby’s gender, this is your gentle reminder to embrace your little blessing regardless of their gender. For most parents, the prospect of a happy, healthy baby is the most important thing. For those who are interested in using our Lunar Calendar, it can be an exciting experiment for couples to put to the test. You can create great memories by having your family and friends wager bets on what they think the gender of your baby might be, while you and your partner stick with your Chinese Chart prediction result. This is an exciting way to keep the journey playful and light until revealing the little one's gender. You have nothing to lose by using it as a tool to influence and predict whether you’ll be having a boy or a girl, the results may even surprise you!";
+
+
+// MARK: Article: The Fertility Calendar:
+"LearningResourceArticleVC.fertilityCalendar.headline" = "The Fertility Calendar: Understanding your Fertility Window";
+"LearningResourceArticleVC.fertilityCalendar.text" = "By tracking the days of your fertility, you’re boosting the chances of getting pregnant. The average menstrual cycle is 28 days and there around 6 days in that cycle where your fertility is at its peak, for the majority of women this is about 5 days leading up to ovulation, the day of ovulation or the day after. Your ovaries produce two hormones, estragon and progesterone which are crucial for getting pregnant, not only that, but ovulatory menstrual cycles benefit your health as ovulation is responsible for the production of hormones. Leading up to ovulation, women will produce a significant amount of estradiol and then after ovulation her body will produce an even more significant amount of progesterone. So, baby or no baby, ovulation is important and gives women those valuable hormones her body needs to benefit her overall health.";
+
+"LearningResourceArticleVC.fertilityCalendar.section1.headline" = "What is Ovulation?";
+"LearningResourceArticleVC.fertilityCalendar.section1.text" = "A hormone called Luteinizing hormone (LH) generated in the brain triggers the process of ovulation. LH is a catalyst that sets ovulation and pregnancy in motion. Ovulation is the part of your menstrual cycle when your body will release a mature egg through the fallopian tubes and into the uterus where it is waiting to be fertilized. The egg usually survives around 24 hours.";
+
+"LearningResourceArticleVC.fertilityCalendar.section2.headline" = "Signs of Ovulation";
+"LearningResourceArticleVC.fertilityCalendar.section2.text" = "Some women may not even recognize when they are ovulating, while others may feel many familiar signs with each cycle. Let’s check out what are some of the most common signs you’re ovulating:
+-Tender breasts. The rush of hormones in the body may result in breast and nipple tenderness.
+-Light spotting. Some women may experience very light spotting during ovulation, while other women don’t spot at all.
+-A boost in libido. During ovulation, women may feel extra frisky, this is nature’s hint that it’s the perfect time to make a baby. Bear in mind, many external factors play a part in your libido such as alcohol, medication, stress, the list goes on. So, it’s worth reading up on how your diet and habits can also impact your libido.
+-Mood fluctuation. You may experience an extra boost of confidence and mood during ovulation as your hormones begin to spike.
+-Bloating. This may affect women in varying degrees. The change in hormones affects the digestive tract and your body is known to retain more water during ovulation.
+-Killer sense of smell. Women may experience a heightened sense of smell, as during this time your body is more likely to be attracted and to detect the scent of male pheromones.
+-A raise in body temperature. Your basal body temperature will rise during ovulation, but most women don’t notice this change as it’s usually subtle.
+-Nausea and headaches. Ever wonder why you might be feeling a little queasy on a random Tuesday afternoon? Or perhaps you’ve complained of a headache, even though you were hydrated and rested. Due to the changes in your hormones, it’s common to experience nausea and headaches…unfortunately!
+-Abdominal cramps. Yes, we know, when don’t we get cramps? It’s true that many women experience mild cramping during ovulation. These cramps typically don’t last more than a couple of hours. There also women out there who are none the wiser when it comes to ovulation, and they don’t feel any cramps at all.
+So why did we tell you about all those weird and wonderful signs of ovulation? Well, when you’re keeping a fertility calendar, you can also track and take note of what your body is experiencing. This can also assist you in an accurate calculation of your fertility window.";
+
+"LearningResourceArticleVC.fertilityCalendar.section3.headline" = "Ovulio Baby Fertility Calendar";
+"LearningResourceArticleVC.fertilityCalendar.section3.text" = "There are ovulation prediction kits available at any pharmacy that will be able to assist in predicting ovulation. These kits can be accurate in detecting a women’s LH spike which occurs when the body is releasing a mature egg, but some women may experience this LH spike without releasing the egg, so the kit may not be totally spot on. It’s best to use a fertility calendar along with kits to get the most accurate reading on your cycle. Calculating your ovulation period and tracking your cycle has never been easier with your ‘Ovulio Baby’ app. Remember you have access to features such as other pregnancy articles, our fertility calendar, the lunar fertility chart, sex games to make the journey to conception fun and fresh, sex positions to try out and even possibly influence the gender of your bundle of joy!";
+
+"LearningResourceArticleVC.fertilityCalendar.section4.headline" = "Thanks for Stopping By";
+"LearningResourceArticleVC.fertilityCalendar.section4.text" = "We know there is a lot to think about when you’re trying to conceive, that’s why it’s recommended to know your fertility window and seize every opportunity that brings you one step closer to your dream of parenthood. Having a baby is such a meaningful milestone, but that’s not to say the journey to conception has to be all charts and tests, it can also be a time to connect with your partner and explore ways to deepen intimacy in your relationship, why not have a little fun with it? Check out our article on how you can gamify getting pregnant and ways you and your partner can double your intimacy and pleasure in the process.";
+
+
+// MARK: Article: 5 ways to show your pregnant partner love:
+"LearningResourceArticleVC.waysToShowYour.headline" = "5 ways to show your pregnant partner love";
+"LearningResourceArticleVC.waysToShowYour.text" = "";
+
+"LearningResourceArticleVC.waysToShowYour.section1.headline" = "Love is the best medicine...";
+"LearningResourceArticleVC.waysToShowYour.section1.text" = "Expecting a child is one of the most exciting experiences of any couple’s life. It can also be extremely stressful in many ways. The physical, hormonal, and emotional changes and challenges that come with pregnancy can be quite overwhelming. More than ever, your pregnant partner will need your love and support. Making sure they are happy and healthy is a priority. Mental stress can cause many complications such as High Blood Pressure, Pre Term Labor, and Insomnia in a pregnancy so making sure they are calm and content is very important.";
+
+"LearningResourceArticleVC.waysToShowYour.section2.headline" = "Helpful tips and advice...";
+"LearningResourceArticleVC.waysToShowYour.section2.text" = "Consider a few important tips about how to be a good partner to your pregnant significant other. As the two of you experience this challenging, but amazing, time in your life together you will become closer than ever before but also face emotional challenges you have never dealt with previously. Listen to their concerns and try to help ease their minds as best you can. If your partner becomes upset listen to what they are saying and try to resolve the issue as quickly and calmly as possible.  Make relevant suggestions when needed but try not to come off as bossy. Hormones tend to create quite a mess of emotions and can turn to anger very quickly. Try to remember that this isn't your partner usually and that the hormones are controlling a lot of their mood swings right now. Think of it like an amped-up PMS. Yes. It gets that bad sometimes and over the smallest of things. Not all pregnancies have unpredictable mood swings throughout but usually experience them at some point in the pregnancy at least once or twice. Even if they are thrilled to be expecting, they may also be scared, nervous, or uncertain about things, especially if this is their first pregnancy. Worrying if one will be a good parent is one of the biggest stressors during pregnancy. Reassure your partner that they will be the very best parent and once the baby comes things will settle down for them. Be their sounding board. Encourage them to share their thoughts and feelings with you. Ask them how they are feeling and what they think about different topics and situations so that they know you are taking an active role in the pregnancy. They need to know that you are available to them and feel secure that you care.
+
+Listen to their concerns, feelings, and hopes. Letting them know you are there and acknowledging them gives them the support they need when they need it the most. They are very vulnerable right now and need to know you can be strong for both of you.
+Give them caring massages to ease their stress and aches. Pregnancy not only puts a toll on the mind but the body as well. Easing those sore aching muscles and joints might be just the ticket to letting them know you are going the extra mile to show you care.
+Pregnancy can make us feel extra tired, especially in the first and third trimester. Try helping out more with chores around the house like doing the laundry, cooking, and running errands to give them some much-needed rest. Making a human is hard work!
+Cravings for certain foods can hit when we least expect them. So if your partner has been nibbling on something specific try stocking up on those items so they can have them whenever they want. There's nothing better than satisfying a craving for a pickle and some ice cream at 3 am!
+Sometimes pregnancy will result in some bedrest unexpectedly. For those suffering from boredom, some entertainment would be nice. Try finding some of their favorite things like movies, books, and magazines to keep them busy. Crocheting and knitting are also a nice idea. Word search and crossword books are a common go-to.";
+
+"LearningResourceArticleVC.waysToShowYour.section3.headline" = "Keep the romance alive...";
+"LearningResourceArticleVC.waysToShowYour.section3.text" = "These are just a few tips to help you show your partner that you care about them and want what is best for them and the baby. Try coming up with your own ideas specifically detailed to their likes and needs for showing your love towards them and your appreciation for them carrying your child. It is the highest compliment when someone brings your child into the world and they need to know you realize this. They are having many emotions right now and need to know that you support them in every way. Don’t let the romance die in your relationship. Many couples get caught up with the baby planning and pregnancy and forget to focus on one another. Planning a babymoon might be a good idea before the new addition makes its grand entrance. If a babymoon isn't possible then there are other ways to keep things spicy. Set up some date nights on the town if you can or plan a surprise at home for your partner. Everyone wants to feel special and wanted, even when they are pregnant. Maybe more so.";
+
+"LearningResourceArticleVC.waysToShowYour.section4.headline" = "Love is in the air...";
+"LearningResourceArticleVC.waysToShowYour.section4.text" = "Don’t let them just feel as though they are just a pregnant person or soon-to-be parent. Once the baby comes they will face a whole new set of physical and emotional challenges so it's important to ease the stress load as much as you can before and after. The possibilities of showing your feelings are endless. Keep them in mind when preparing something special. Make it all about them and they will melt in your arms for not only the display of affection but for caring enough to do it. You don't have to make extravagant displays to make your partner feel good. A small gift here, a nicely prepared dinner there, a foot massage to ease the aches of the day away. As long as the gesture comes from the heart I am sure they will love and appreciate it. Let them verbally know what they mean to you and how you feel about them to reassure them if they are feeling down. Good luck and congratulations on your upcoming arrival!";
+
+
+// MARK: Article: Hit the gym? Exercising when trying to conceive:
+"LearningResourceArticleVC.hitTheGym.headline" = "Hit the gym? Exercising when trying to conceive";
+"LearningResourceArticleVC.hitTheGym.text" = "";
+
+"LearningResourceArticleVC.hitTheGym.section1.headline" = "Keeping fit while TTC";
+"LearningResourceArticleVC.hitTheGym.section1.text" = "When trying to conceive, you’ll probably start rethinking everything you do in your daily routine. Should I eat this? Can I drink that? It’s all enough to drive you crazy, but when it comes to exercising when trying to conceive, the rules are pretty simple. Keep it in moderation and mind certain factors that make a difference for both men and women.";
+
+"LearningResourceArticleVC.hitTheGym.section2.headline" = "For women trying to conceive";
+"LearningResourceArticleVC.hitTheGym.section2.text" = "Walking and fertility yoga are two of the best ways to promote circulation and improve the strength and flexibility of the muscles surrounding the uterus. Leading an inactive lifestyle with little to no exercise can create a situation of stagnation of blood flow to the uterus and other reproductive organs. The main artery that supplies blood to our legs also supplies blood to our uterus, ovaries, and vagina — so basically, keep moving! If you have a desk job, you may find yourself sitting around a lot, causing the blood flow to the uterus to be compromised. This won’t help any, especially if you already have other fertility issues. What’s more, is that not moving this area of our body enough can contribute to scar tissue and adhesions forming. A sedentary lifestyle also contributes directly to weak muscles in the uterus. If you’re trying to conceive, adding a brisk walk to your daily routine may help, but you may want to hold off training for that marathon. Brisk walking, leisurely cycling, golfing, and gardening are considered moderate exercise. If you’re overweight, moderate exercise is especially important as being overweight impacts your fertility negatively. If you’re not accustomed to working out at all, start slowly and work your way up. Most women who are already active should be able to continue to exercise without worrying that it will negatively impact their fertility. Women who exercise to relieve stress should certainly not stop when they want to become pregnant unless there is a medical reason for doing so. The American College of Obstetrics and Gynecology recommends 30 minutes or more of moderate exercise per day on most if not all days of the week unless you have a medical or obstetric complication. The optimal Body Mass Index (BMI) for fertility for women is between 20 and 25.";
+
+"LearningResourceArticleVC.hitTheGym.section3.headline" = "For men trying to conceive";
+"LearningResourceArticleVC.hitTheGym.section3.text" = "The same rules generally apply to men, but intense exercise has been found to decrease testosterone levels, which in turn reduce sex drive and sperm health. The three biggest concerns for men are heat, pressure, and trauma. Sperm production requires a temperature between 94 and 96 degrees Fahrenheit. Even a one-degree increase is enough to stop production and kill off any sperm already produced. So it’s best to try to avoid vigorous exercise that will put pressure on your testes or cause you to overeat. When you do exercise, try to avoid wearing jock straps, getting in hot tubs and steam rooms. And if you just can’t avoid it, limit time to 15 minutes. A few suggestions on “safe” exercises for men while protecting fertility and boosting sperm count include jogging around the block long enough to get an accelerated heartbeat, swimming (this allows plenty of moderate exercise while keeping the ‘boys’ cool and comfy), and yoga or pilates — which are both harder than they look! Men should not exceed 45 minutes of exercise a day for the health and mobility of sperm and sperm count. The same rules on obesity apply to men, although their recommended BMI shouldn’t be lower than 18 for optimal fertility.";
+
+"LearningResourceArticleVC.hitTheGym.section4.headline" = "Before I say goodbye...";
+"LearningResourceArticleVC.hitTheGym.section4.text" = "Remember that it is important to consider both your partner's health and needs when trying to conceive. Trying to bring life into the world is a precious gift and should be treated as such. Making sure both partner's health is best is a top priority. This will greatly increase the chances of conceiving and reduce the amount of time it takes to get pregnant. Exercise, eating healthy, and regular visits with your primary care physician are very important as well as any OBGYN appointments that are needed. Routine screenings and fertility checkups are highly recommended. When in doubt, have it checked out. If you think it is taking you a bit too long to get pregnant, talk to your doctor about this and they may recommend you see a specialist for more in-depth testing and screenings. Most of all, don't forget to have fun trying. Don't put too much stress on you or your partner mentally about how long it's taking, what could or might go wrong, or worry about what will happen once you are pregnant. Have fun!";
+
+
+// MARK: Article: How to support your partner through a miscarriage:
+"LearningResourceArticleVC.howToSupportYourPartner.headline" = "How to support your partner through a miscarriage";
+"LearningResourceArticleVC.howToSupportYourPartner.text" = "";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section1.headline" = "Loss and Grief";
+"LearningResourceArticleVC.howToSupportYourPartner.section1.text" = "A miscarriage is a devastating and painful experience of loss. A person’s deep sense of grief is compounded exponentially when loved ones feel unable to help them cope. Feelings of emptiness, longing, sadness, loneliness, and confusion following a miscarriage are much more difficult to navigate when a person feels alone in their suffering. As with many painful experiences in life, perhaps the best we can take from our sorrows is what we learn by moving through them. You will never forget the pregnancy or your baby, nor should you. When your partner is ready to start recovering, here’s what you can do to move on from the miscarriage.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section2.headline" = "Acknowledge the loss";
+"LearningResourceArticleVC.howToSupportYourPartner.section2.text" = "If your partner is having a difficult time coping with a recent miscarriage, understand that it is an equivalent, if not more difficult, sorrow to grieve than any other death of a loved one. When we lose a family member or close friend, we have established rituals, appropriate language, and expectations of how to communicate our sympathies. When a person loses their chance at parenthood, there is no universally understood etiquette for how to respond. On the contrary, miscarriage is typically shrouded in silence. Expressing your sympathy and your grief about a miscarriage can go a long way to helping your partner feel comforted and less alone. Show you care by picking up small gifts, writing them letters, letting them know they're a good partner, and trying to protect them from hurtful comments. Some people can be unintentionally cruel and some are just darn right unconcerned about other people’s feelings.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section3.headline" = "Listen";
+"LearningResourceArticleVC.howToSupportYourPartner.section3.text" = "Ask if they want to talk about the miscarriage, and be ready to listen quietly and attentively as they share what has happened and their feelings. This takes courage, and courage is exactly what a grieving partner needs from you. For the first few weeks after a pregnancy loss, they may feel, in addition to many other feelings, a sense of disbelief. On the other hand, remind them that if they don’t wish to talk, that is OK, too. You will be there whenever they are ready, and for however long they need you to listen.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section4.headline" = "Tell them it’s not their fault";
+"LearningResourceArticleVC.howToSupportYourPartner.section4.text" = "A person who has suffered a miscarriage will ask themselves over and over again what they may have done to cause the loss of their baby. Miscarriages are very common; estimates of how often a pregnancy ends in loss are in the 1 to 3 or 1 to 4 range. Some people endure multiple miscarriages. The truth is that pregnancies can end suddenly for a number of reasons, and while it may not bring comfort to a person to never know exactly what caused a miscarriage, it will help them immensely to be able to let go of any feelings of guilt. Tell them as many times as they need to hear that the loss wasn’t because of something they did or didn’t do.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section5.headline" = "Do not come up with reasons why they lost the baby";
+"LearningResourceArticleVC.howToSupportYourPartner.section5.text" = "No one who wants a child, who has already fallen in love with their baby, and who has hopes and dreams for their beloved child wants to think there is any obvious reason they lost the baby. Don’t make an attempt to explain what happened to make them feel better because it can only send them over the edge. This is also not the time to suggest they can always have another baby or try again later down the road. Another pregnancy or future baby is not a comfort to a person grieving their current loss. Having a baby after a miscarriage does not “replace” the one who was lost.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section6.headline" = "Let them rest";
+"LearningResourceArticleVC.howToSupportYourPartner.section6.text" = "Encourage them to sleep and take care of themself. Do more around the house so they can recover from their grief. Make their load lighter in any way you can. Cook healthy meals. Anyone who is grieving after losing a baby could use extra help getting through the day. Bring home items that will promote relaxation such as scented candles, a CD of soft music, and some lavender/chamomile tea. Make an appointment for your partner at a spa or with a registered massage therapist when they feel they are ready. Being treated gently by someone’s warm, healing hands can do wonders to release the sadness, grief, and tension that they hold in their body.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section7.headline" = "Offer to attend counseling with them";
+"LearningResourceArticleVC.howToSupportYourPartner.section7.text" = "Not only can counseling help a couple move through the stages of grief, but a good counselor can offer helpful suggestions about how to deal specifically with grief after a miscarriage like suggesting books and websites that might help. Here’s another suggestion, rituals include building a strength totem, naming the baby, writing the baby a letter, and memorializing the baby in a way that feels right to you.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section8.headline" = "Offer to participate in a memorial";
+"LearningResourceArticleVC.howToSupportYourPartner.section8.text" = "There are many websites that offer suggestions of how you and your partner might do this. There are jewelers who make personalized pendants, necklaces, and key chains for people who have miscarried, with their baby’s name and due date. There are online virtual memorials devoted to “angels” who are dearly loved and missed by their families. There are organizations devoted to supporting couples who have suffered a miscarriage, which take donations in the name of a lost baby. Encourage them to take the time to think about what might feel right to them, and to talk to you about whether they would like to include you in a memorial. Respect their wishes if they would prefer to do this alone, or not at all. Not everyone likes to share their grief and consider it a very intimate and private act. Being there for your partner is the only thing you can do at this time. Make sure they know they are loved, respected and wanted. Remember, even though this is hard on you it is much harder on your partner that was carrying the baby. When the time is right, heal together but give space when it is needed.";
+
+
+// MARK: Article: Oh, baby! Sex after childbirth:
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.headline" = "Oh, baby! Sex after childbirth";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.text" = "";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.headline" = "Let's get physical!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.text" = "A few weeks after the birth of your baby you’re back at home, and you’re getting into the swing of things with your new little one — but getting back into your sex life might surprisingly prove to be a bit of an issue, even when you feel you are ready. Getting back into the swing of things in the bedroom varies from person to person, but know it will happen eventually. Don't force or pressure yourself or your partner. Let things happen naturally. You’ll need to overcome, experience, and accept the changes you’ve been through, and if you’re having difficulties you need to realize that you’re not the only couple who has gone through this. With the help of your partner, a bit of understanding, and these tips, you’ll rediscover the pleasures of sex after childbirth!";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.headline" = "Step 1: Confront your fears";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.text" = "You do not want to rush into having sex after childbirth. For one — let’s just be honest — your vagina will not be ready for sex immediately after the trauma of delivering a baby.  It’s usually recommended to delay having intercourse until your postpartum checkup about six weeks after giving birth. However, it differs for every couple, and some women feel fine before these six weeks while some women can take up to six months before they feel ready to make love. Having a C-Section birth will impact your post-pregnancy sex life as well. A Cesarean section is a major surgery and takes time to heal and recover.
+
+A number of fears may stick in your mind and put you off having sex after childbirth. Fear that stitches will tear, that it’ll hurt, that you’ll no longer be attractive to your partner are all very common! Talking to your partner about your anxieties will help to reduce them. Make time for caressing and other forms of pleasure and intimacy rather than penetration until you feel confident and ready for sex.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.headline" = "Step 2: Get over the shock of childbirth";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.text" = "Having sleepless nights can make you feel all kinds of crazy and can put you on edge all day. So if you’re having negative thoughts or finding things stressful, lack of sleep probably won’t help either. The chances are that if you’re exhausted, sex will be the last thing on your mind. But once you’re able to get a few decent hours of sleep regularly you’ll find you’ll be a changed woman — one who might even start to think about sex again!
+
+It’s important to stress that a major drop in libido happens to many mums after they have given birth and it’s totally understandable. The sharp drop in hormone levels, the responsibility of looking after your baby, lack of sleep, the after-effects of giving birth, episiotomies, Caesareans, and blood loss all have a major effect on a woman’s body and mind. There’s nothing you can do about it except give yourself time to deal with it, time to heal and process so be patient with yourself. ";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.headline" = "Step 3: Learn to love your body again";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.text" = "The next step is to gradually get back into exercise and on the move. This will help shed those excess pounds, tone your abs, and get your energy back — and no doubt your confidence and self-esteem in the process. If, however, you’re breastfeeding, forget dieting. Breastfeeding requires extra calories and nutrients for your baby’s nourishment as well as giving you the energy that you need! In nine months to a year, you should have returned to your pre-pregnancy weight and gained body and muscle tone. That's a bit of an incentive for those who can breastfeed their babies. If you need to bottle feed and use formula there are some easy post-pregnancy workouts available online that you can join in with in the comfort of your own home.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.headline" = "Step 4: Make some room!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.text" = "The bond between you and your baby is going to be like none you’ve ever experienced before, and it can sometimes leave little room for anything or anyone else. Again, this is very normal. You’re experiencing what’s known as the mother-baby bond with your little one. Leaving the womb isn’t enough to separate two bodies that were united for nine months. Your baby still sees you as one unit and will only become aware of the reality when he or she is about eight months old.
+
+Ease yourself slowly out of this phase in order to give your child the opportunity to become independent. You also need time to let your partner in and not feel excluded. It’s important to carve out some time for yourselves as a couple (as difficult as this may be). Try cuddling up with a movie when baby is asleep or taking baby for a walk so that you and your partner get to spend some downtime together. If you have a babysitter available plan a date night when you are both ready.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.headline" = "Step 5: Put some passion back into your relationship";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.text" = "Finally, you’re ready to get passionate with your partner again and ready to do the deed, but if this is the first time you’ve felt aroused, it can be a bit daunting. If you’re still a little sensitive, go for positions that allow you to be in control like riding or reverse cowgirl. Riding is a great position for sex after childbirth. Being on top of your partner so that you can control the depth and penetration might be best until you get used to things once again. Using a good lubricant can also make things move a bit easier and more comfortably. Remember to take your time and not rush. Take it nice and slow and ease back into the fun. Once you start off here you can assess what feels comfortable and what doesn't and hopefully, in no time you and your partner will be back to enjoying that red-hot passion that made your baby in the first place!";
+
+
+// MARK: Article: The Road Before the Bump:
+"LearningResourceArticleVC.theRoadBeforeTheBump.headline" = "The Road Before the Bump: A Guide to Gamify Getting Pregnant";
+"LearningResourceArticleVC.theRoadBeforeTheBump.text" = "The journey to conceiving is different for everyone. For some woman, they just simple sneeze and they’re pregnant! For others, it may take more planning and time. Though this time is sacred, it can be stressful to keep track of ovulation schedules, tests and constantly pouring over boundless seas of information surrounding getting pregnant. Sometimes it’s easy to get so fixated on the outcome, intimacy may slip through the cracks. So, maybe that passion that used to set your bed alight is starting to dwindle, or perhaps you’re simply looking to make the experience of getting pregnant an unforgettable one, we think this article is for you! The road before the bump can be a long one, so why not enjoy the ride?";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.headline" = "11 Ways to Spice Up Getting Pregnant";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.text" = "1. Location, location, location! Has the bed become your usual go-to when getting down with your lover? If so, shake it up and get freaky in the kitchen, the pool, or on that study table! For the brave heart couples out there, you could even get busy in public.
+2. Be spontaneous. There’s nothing like the feeling of being desired, ditch the schedules for a bit and spark spontaneity! You could get dirty in an unexpected shower for two or a quickie on the sofa, whatever you choose to do, avoid scheduling sex like you would another household chore!
+3. Download games and apps for couples. Apps that allow you both to explore new positions, complete sexy challenges and give you that extra inspiration can be so much fun! We recommend downloading the Scratch Adventure app! Couples can discover newfound kinks and live out their sensual fantasies.
+4. Write it out! Try writing out some kinky things you’ve always wanted to try on separate pieces of paper, put them in a bowl and grab one when you’re in the mood. Think of this like a couples bucket list, you could also opt to not tell each other what you’re writing to build the excitement and curiosity.
+5. Sexy texts. Sexting brings an element of anticipation to your sex life. Send nudes and dirty texts while you’re apart, give them something to think about.
+6. Toys. These days, there are an infinite number of toys available for couples to try! Toys add a little something extra to your lovemaking and are built for pleasure.
+7. Get away for a while. Take a short break from the day-to-day hustle and enjoy some away time with your lover.
+8. Change up times. Do you find that you seem to end up having sex around a similar time? Consider a cheeky morning session or on an afternoon lunch break!
+9. Sensual massages. Get the oil out and send your partner to heaven! Release that tension and feel the pleasure, and don’t forget to take turns!
+10. Foreplay. Allow more space for pleasure and play when trying to conceive.
+11. Ovulio Baby. Couples can enhance their intimacy by making use of all the features on your Ovulio Baby app. You can turn up the heat by trying out an array of hot and heavy positions and sex games designed for fun and conception!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.headline" = "Intimacy On Steroids";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.text" = "In a committed relationship, we tend to have our routines set out, and those routines have a place in our lives, they keep things running smoothly and ensure it’s all going according to plan. You know exactly what you’re cooking for the week, you know you’ll be cuddling up in front of the TV after the day is done. It’s no secret that intimacy can take a back seat, so how can we get it back into the driver’s seat? We have a couple of suggestions:
+● Love languages. Do you know your partner's love language? Is it when you spend time with them? Or is it when you give them affirmations? Everyone feels loved in different ways, it’s best to become fluent in your partner's love language. Consider amping up the acts of love during this exciting time, it will only bring you closer and inspire intimacy.
+● Court your partner. When we are in a long-term relationship, we often forget to date our partners, woo them, and flirt like we used to. Take it back to the good old days when you were still winning each other over at the start. When we feel connected, feelings of giddiness and intimacy are sure to follow!
+● Remember to have fun. As simplistic as it may sound, intimacy can take many forms, whether it’s laughing together or doing something you’ve always talked about together. Remembering to not take life too seriously and having some fun with your person can make you fall in love with them all over again. Check out a stand-up show or play a game together, learn to make each other laugh, you won’t regret it!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.headline" = "Mind Matters";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.text" = "There is so much to think about when you’re trying for a baby, sometimes emotions run high. Where it is possible, reduce stresses in your daily life. Stress can impact you physically and mentally on your way to conceiving your little bundle of joy; it’s important to identify stresses that can be removed and ways to relax. When we feel anxious or under pressure, it spills over into how we enjoy activities, sex, and communicate with our partners. Taking a step back together to rest and unwind can only benefit both partners in this wonderful process! Make time for pillow talk, sleep-ins on a rainy day, and long light-hearted chats. You could take up meditation together or start a new hobby around the house; don’t let stress get in the way, the mind matters.";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.headline" = "Good Luck";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.text" = "We’re wishing you luck; we know waiting for the good news that you’ve got a bun in the oven can be exciting and nerve-wracking all at once! Take this time to indulge in intimacy, fun and pleasure with your partner. Creating life is such a beautiful journey, and some can’t wait to get to the destination! Remember to appreciate the road to conception, simply look out the windows once in a while, always remember who is sitting next to you and before you know it…bump!";
+
+
+// In App Purchase
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.title" = "Could not retrieve product info";
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.message" = "Invalid product identifier: ";
+"InAppPurchase.alertForProductRetrievalInfo.default.message" = "Unknown Error. Please contact support";
+
+"InAppPurchase.alertForPurchaseResult.success.title" = "Thank You";
+"InAppPurchase.alertForPurchaseResult.success.message" = "Purchase completed.";
+"InAppPurchase.alertForPurchaseResult.error.title" = "Purchase failed";
+"InAppPurchase.alertForPurchaseResult.error.clientInvalid.message" = "Not allowed to make the payment";
+"InAppPurchase.alertForPurchaseResult.error.paymentInvalid.message" = "The purchase identifier was invalid";
+"InAppPurchase.alertForPurchaseResult.error.paymentNotAllowed.message" = "The device is not allowed to make the payment";
+"InAppPurchase.alertForPurchaseResult.error.storeProductNotAvailable.message" = "The product is not available in the current storefront";
+"InAppPurchase.alertForPurchaseResult.error.cloudServicePermissionDenied.message" = "Access to cloud service information is not allowed";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceNetworkConnectionFailed.message" = "Could not connect to the network";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceRevoked.message" = "Cloud service was revoked";
+"InAppPurchase.spalert.success.title" = "Done!";
+"InAppPurchase.spalert.success.message" = "Your upgrade to PRO was successful";
+
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.title" = "Restore failed";
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.message" = "Unknown error. Please contact support";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.title" = "Purchases Restored";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.message" = "All purchases have been restored. The app is restarted briefly.";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.title" = "Nothing to restore";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.message" = "No previous purchases were found";
+"InAppPurchase.alert.noValidActivationCode.title" = "This is not a valid activation code!";
+"InAppPurchase.alert.activationCodeAlreadyUsed.title" = "The activation code has already been used!";
+"InAppPurchase.alert.tooManyTries.title" = "Too many failed attempts";
+"InAppPurchase.alert.tooManyTries.message" = "Please try again shortly";
+"InAppPurchase.alert.uploadError.title" = "The process could not be completed";
+"InAppPurchase.alert.uploadError.message" = "Please check your internet connection.";
+
+// LoadingIndicatorHUD.swift
+"LoadingIndicatorHUD.loadingLabel.text" = "Loading";
+
+// MARK: OurExpertsDetailsVC
+"OurExpertsDetailsVC.expertNameLabel.text" = "Dr. Usman, gynecologist";
+"OurExpertsDetailsVC.expertReviewLabel.text" = "'Getting pregnant doesn't have to be stressful! Ovulio Baby makes it fun by helping you choose the best sex positions that will make sure you get pregnant in the best fun way possible! If you're looking for a fun way to get pregnant, try Ovulio Baby!'";
+"OurExpertsDetailsVC.expertInfoLabel.text" = "Dr. Usman is a UK-based specialist with a special interest in fertility and sexual health. He is an avid researcher with more than 30 publications in peer-reviewed international journals. Dr. Usman believes in evidence-base medicine and delivering hard-core medical knowledge in an easy to understand manner.";
+
+// MARK: HowTheAppWorksVC
+"HowTheAppWorksVC.headlineLabel.text" = "How it work's";
+"HowTheAppWorksVC.textView.text" = "At Ovulio Baby, we are dedicated to providing our users with the latest and most scientifically backed methods for family planning and understanding the factors that may influence baby gender. Our approach integrates time-tested techniques, inspired by comprehensive reproductive research, along with contemporary scientific data.
+
+Timing and Ovulation Cycle: A key element in our methodology involves understanding the ovulation cycle and timing intercourse. Studies suggest that timing intercourse closer to the ovulation date may influence the gender of the baby. This is based on the characteristics of different sperm types and their varying speeds and longevity.
+
+Dietary Considerations: Emerging research points towards the potential impact of diet on influencing baby gender. Specific dietary patterns and nutrient intakes might be associated with the probability of conceiving a male or female child, though these findings are still under continuous study and not conclusively proven.
+
+Hormonal Influence: Hormonal levels and their fluctuations in potential parents are also considered as a possible factor. The hormonal environment at the time of conception might play a role in determining the gender of the baby.
+
+Lifestyle Factors: Lifestyle factors such as stress levels, physical activity, and overall health may also have an indirect influence on baby gender, as they affect general fertility and reproductive health.
+
+It's important to note that while these methods are grounded in scientific research, they do not guarantee a specific outcome. Human biology and reproductive processes are complex, and many factors contribute to the determination of a baby's gender. We encourage our users to approach these methods as part of a broader understanding of reproductive health and family planning.
+
+References to Scientific Studies: Our methodology is continually updated in line with ongoing reproductive health research. We reference a wide range of studies from reputable medical journals and institutions to ensure our users receive well-rounded and scientifically sound advice.
+
+We at Ovulio Baby are committed to empowering our users with knowledge and tools for their reproductive journey, always prioritizing health, well-being, and informed choice. \n\n";
+
+
+// DiceToSpiceGameMenu.swift
+"DiceToSpiceGameMenu.headlineLabelBold.text" = "Dice to Spice";
+"DiceToSpiceGameMenu.headlineLabel.text" = "Dice to Spice";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.cuteButton.title" = "Soft";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.spicyButton.title" = "Hot";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.customButton.title" = "Hard";
+
+"DiceToSpiceGameMenu.salesPageView.headlineLabel.text" = "Want even more combinations?";
+"DiceToSpiceGameMenu.salesPageView.backToPreviousVersionButton.title" = "I don't want to get satisfied with my partner";
+"DiceToSpiceGameMenu.salesPageView.featuresLabel.text" = "128 new combinations
+\nInfinite personalization options\n";
+
+"DiceToSpiceGameMenu.actionTasks.1" = "Lick";
+"DiceToSpiceGameMenu.actionTasks.2" = "Suck";
+"DiceToSpiceGameMenu.actionTasks.3" = "Blow";
+"DiceToSpiceGameMenu.actionTasks.4" = "Touch";
+"DiceToSpiceGameMenu.actionTasks.5" = "Massage";
+"DiceToSpiceGameMenu.actionTasks.6" = "Tickle";
+"DiceToSpiceGameMenu.actionTasks.7" = "Nibble";
+"DiceToSpiceGameMenu.actionTasks.8" = "Squeeze";
+"DiceToSpiceGameMenu.actionTasks.9" = "Kiss";
+"DiceToSpiceGameMenu.actionTasks.10" = "You Decide";
+
+
+// DiceToSpiceGameSelectBodyParts.swift
+"DiceToSpiceGameSelectBodyParts.headlineLabel.text" = "Create own Dice";
+"DiceToSpiceGameSelectBodyParts.subtitleLabel.text" = "Select the actions and body parts you want to include and add own ones";
+"DiceToSpiceGameSelectBodyParts.bodyPartsHeadlineLabel.text" = "Body Parts";
+"DiceToSpiceGameSelectBodyParts.actionsHeadlineLabel.text" = "Actions";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.title" = "Add new actions";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.title" = "Add new body parts";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.title" = "Add new body part";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.message" = "Enter a new body part that you want to add to your custom Dice Game";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.placeholder" = "Body part";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.title" = "Add new action";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.message" = "Enter a new action that you want to add to your custom Dice Game";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.placeholder" = "Action";
+"DiceToSpiceGameSelectBodyParts.hintLabelNoCustomDiceTasks.text" = "Start now with the creation of your your own Dice game!";
+"DiceToSpiceGameSelectBodyParts.hintButtonNoCustomDiceTasks.text" = "Create now";
+"DiceToSpiceGameSelectBodyParts.alertMinimumSelectedBodyPartsAndActions.title" = "Select at least 2 actions and 2 body parts to play properly!";
+
+
+// SqueezLickSuckGame.swift
+"SqueezLickSuckGame.headlineLabelBold.text" = "\nSqueeze,\nLick or Suck";
+"SqueezLickSuckGame.headlineLabel.text" = "Squeeze Lick Suck";
+"SqueezLickSuckGame.playerGender.male" = "Male";
+"SqueezLickSuckGame.playerGender.female" = "Female";
+"SqueezLickSuckGame.playerGenderTextField.placeholder" = "First Name";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player1" = "Player 1 Name";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player2" = "Player 2 Name";
+"SqueezLickSuckGame.letsGoButton.title" = "Let's go";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.title" = "Player Name missing";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.message" = "Please give each player a name!";
+"SqueezLickSuckGame.text.point" = "Point";
+"SqueezLickSuckGame.text.points" = "Points";
+"SqueezLickSuckGame.text.turn" = "%x's turn";
+
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.descriptionLabel.text" = "What do you want to do next?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.squeezeButton.title" = "Squeeze";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.lickButton.title" = "Lick";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.suckButton.title" = "Suck";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.diceButton.title" = "Dice";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.skipButton.title" = "Skip";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.completeButton.title" = "Completed";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.title" = "Squeeze, Lick or Suck?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.message" = "To continue first choose what you want to do next!";
+"SqueezLickSuckGame.levelButton.title" = "Level: ";
+"SqueezLickSuckGame.levelButton.level.1" = "Epicure";
+"SqueezLickSuckGame.levelButton.level.2" = "Dirty";
+"SqueezLickSuckGame.levelButton.level.3" = "Custom";
+"SqueezLickSuckGame.selectLevel.alert.title" = "Select a Level";
+"SqueezLickSuckGame.selectLevel.alert.message" = "What difficulty level do you want to play?";
+"SqueezLickSuckGame.EnterPlayerNameView.playerNamesLabel.text" = "Enter your names";
+"SqueezLickSuckGame.EnterPlayerNameView.levelHeadlineLabel.text" = "Choose a difficulty";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.title" = "No SLS-Tasks available!";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.message" = "Select some body parts you want to include or add own ones!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.title" = "No task could be found for you!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.message" = "Please select some further body parts you want to include or add own ones!";
+"SqueezLickSuckGame.hintLabelNoSlsTasks.text" = "Start now with the creation of your your own SLS tasks!";
+"SqueezLickSuckGame.hintButtonNoSlsTasks.text" = "Create now";
+
+"SqueezLickSuckGame.challenges.1" = "Lips";
+"SqueezLickSuckGame.challenges.2" = "Penis";
+"SqueezLickSuckGame.challenges.3" = "Balls";
+"SqueezLickSuckGame.challenges.4" = "Vagina";
+"SqueezLickSuckGame.challenges.5" = "Clitoris";
+"SqueezLickSuckGame.challenges.6" = "Labia";
+"SqueezLickSuckGame.challenges.7" = "Anal";
+"SqueezLickSuckGame.challenges.8" = "Ass";
+"SqueezLickSuckGame.challenges.9" = "Chest";
+"SqueezLickSuckGame.challenges.10" = "Nipples";
+"SqueezLickSuckGame.challenges.11" = "Neck";
+"SqueezLickSuckGame.challenges.12" = "Thigh";
+"SqueezLickSuckGame.challenges.13" = "Finger";
+"SqueezLickSuckGame.challenges.14" = "Feet";
+"SqueezLickSuckGame.challenges.15" = "Toes";
+"SqueezLickSuckGame.challenges.16" = "Leg";
+"SqueezLickSuckGame.challenges.17" = "Arm";
+"SqueezLickSuckGame.challenges.18" = "Ear";
+"SqueezLickSuckGame.challenges.19" = "Nose";
+"SqueezLickSuckGame.challenges.20" = "Navel";
+"SqueezLickSuckGame.challenges.21" = "Belly";
+"SqueezLickSuckGame.challenges.22" = "Hand";
+"SqueezLickSuckGame.challenges.23" = "Back";
+"SqueezLickSuckGame.challenges.24" = "Taint";
+"SqueezLickSuckGame.challenges.25" = "Cheeks";
+"SqueezLickSuckGame.challenges.26" = "Crotch";
+"SqueezLickSuckGame.challenges.27" = "You Decide";
+
+
+
+//MARK: Yoga Fertility Position data
+"YogaVC.PostionsDetails.Where.headline.text" = "Where?";
+"YogaVC.PostionsDetails.Why.headline.text" = "Why?";
+"YogaVC.PostionsDetails.How.headline.text" = "How?";
+
+"YogaVC.YogaFertility.RecliningBoundAngle.headline.text" = "Reclining Bound Angle";
+"YogaVC.YogaFertility.RecliningBoundAngle.whereText" = "Pelvis, inner thighs, and groin.";
+"YogaVC.YogaFertility.RecliningBoundAngle.whyText" = "It can support you while trying to conceive by promoting pelvic relaxation, reducing stress, and enhancing blood flow to the reproductive organs.";
+"YogaVC.YogaFertility.RecliningBoundAngle.howText" = "Recline on your back with knees gently bent. Draw the soles of your feet together and allow your legs to naturally splay apart. Loosen your shoulder muscles and position your hands in a heart formation, with thumbs touching and index fingers meeting on your lower abdomen. Maintain this pose for a minimum of three minutes, while directing your concentration and energy towards your pelvic region.";
+
+"YogaVC.FertilityPosition.WarriorIIPose.headline.text" = "Warrior II Pose";
+"YogaVC.FertilityPosition.WarriorIIPose.whereText" = "Hips, thighs and pelvis.";
+"YogaVC.FertilityPosition.WarriorIIPose.whyText" = "Warrior II is widely embraced for its potential fertility-enhancing benefits, attributed to its capacity to open and fortify the hips and flanks.";
+"YogaVC.FertilityPosition.WarriorIIPose.howText" = "To assume this pose, stand firmly and take a step forward, flexing your front foot. The front foot should be pointed forward, while the back foot faces the side. Bend your front knee and stretch your arms outward, opening your body to the side. Gaze at the front hand for a count of five breaths, then repeat the sequence on the other side.";
+
+"YogaVC.FertilityPosition.CobraPose.headline.text" = "Cobra Pose";
+"YogaVC.FertilityPosition.CobraPose.whereText" = "Pelvis, lower back and blood circulation.";
+"YogaVC.FertilityPosition.CobraPose.whyText" = "This pose offers an elongating and stretching effect on both the upper and lower back, promoting enhanced circulation to the ovaries and uterus.";
+"YogaVC.FertilityPosition.CobraPose.howText" = "Begin by lying face down, extending your legs and keeping your ankles together. Your hips, legs, and the tops of your feet should firmly contact the floor. Position your hands beneath your shoulders and draw your elbows in close to your torso, hugging them against your sides. As you inhale, push through your hands, retracting your shoulder blades. Engage your core, directing your tailbone toward the ground while lifting your chest. Sustain this pose for 15 to 30 seconds, all the while maintaining a steady breath. To release, exhale and gently lower your head to the floor, using your arms to lower your body. Repeat this sequence three to five times.";
+
+"YogaVC.FertilityPosition.FrogPose.headline.text" = "Frog Pose";
+"YogaVC.FertilityPosition.FrogPose.whereText" = "Pelvis, groin and inner thighs.";
+"YogaVC.FertilityPosition.FrogPose.whyText" = "The Frog pose gently widens the hips and enhances blood circulation to the reproductive organs, providing an invigorating stretch that's both intense and deeply grounding.";
+"YogaVC.FertilityPosition.FrogPose.howText" = "Start by assuming a neutral tabletop position on all fours, aligning your knees under your hips and your wrists beneath your shoulders. Gradually widen your knees to the sides, flex your feet, allowing their inner edges to rest on the mat. Gently lower yourself onto your forearms, drawing your shoulder blades closer together. As you exhale, shift your hips backward and downward. Maintain this posture, breathing steadily, for a span of three to six breaths, or up to three minutes.";
+
+"YogaVC.FertilityPosition.SeatedForwardBendPose.headline.text" = "Seated Forward Bend Pose";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whereText" = "Hamstrings, lower back and hips.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whyText" = "It promotes flexibility in the lower back, hamstrings, and hip muscles. This pose offers valuable benefits by revitalizing essential organs such as the ovaries and stomach, simultaneously helping to alleviate mental stress. These combined effects can potentially contribute to enhanced fertility.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.howText" = "Take a seat on your mat with your legs stretched out in front of you. Maintain an upright posture, hinge at your hips, and reach for your toes or shins while folding forward. Hold this position for 5-10 breaths.";
+
+"YogaVC.FertilityPosition.HeadToKneePose.headline.text" = "Head to Knee Pose";
+"YogaVC.FertilityPosition.HeadToKneePose.whereText" = "Hamstrings, lower back and groin.";
+"YogaVC.FertilityPosition.HeadToKneePose.whyText" = "This posture helps open the hips and back, while also promoting increased blood flow to the lower organs and giving your hamstrings a deep stretch.";
+"YogaVC.FertilityPosition.HeadToKneePose.howText" = "Begin by sitting with your legs extended straight. On an inhalation, grasp your left foot, then on an exhalation, gently bend your torso while allowing your head to release. After holding this pose for five breaths, switch to the other side.";
+
+"YogaVC.FertilityPosition.BridgePose.headline.text" = "Bridge Pose";
+"YogaVC.FertilityPosition.BridgePose.whereText" = "Pelvis, hips and lower back.";
+"YogaVC.FertilityPosition.BridgePose.whyText" = "This pose offers a soothing impact on the central nervous system, enhancing overall blood flow throughout the body. It alleviates tension in the lower abdomen while also fortifying the muscles of the hips. It provides a rejuvenating influence on the reproductive organs, potentially enhancing your fertility prospects!";
+"YogaVC.FertilityPosition.BridgePose.howText" = "Start by lying on your back with knees bent and feet flat on the floor, hip-distance apart, and heels near your buttocks. Lift your pelvis, interlock your hands beneath it, and hold for about a minute with thighs parallel to the floor. To release, unclasp your hands and lower your spine gradually. Repeat three to five times.";
+
+"YogaVC.FertilityPosition.PlowPose.headline.text" = "Plow Pose";
+"YogaVC.FertilityPosition.PlowPose.whereText" = "Pelvis and thyroid gland.";
+"YogaVC.FertilityPosition.PlowPose.whyText" = "By increasing pelvic blood flow, stimulating the thyroid gland for menstrual cycle regulation, and reducing stress, potentially creating a more favorable environment for fertility.";
+"YogaVC.FertilityPosition.PlowPose.howText" = "Place your arms on the mat with palms down and extend them toward the front of your mat for support. Use your forearms and palms to lift your legs to a 90-degree angle and then bring your feet over your head until they touch the floor behind you. Keep your legs straight. Interlace your fingers with palms together and extend your arms straight, reaching your knuckles forward while grounding your shoulders. Ensure your hips align over your shoulders. Avoid turning your head while gazing upward to protect your neck. Hold for 5 deep breaths, and to exit, lower your arms to the ground, release your hands, and roll your spine down to the mat, one vertebra at a time, with legs straight and feet together.";
+
+
+
+//MARK: Yoga Prental data
+"YogaVC.YogaPrental.StandingSideBend.headline.text" = "Standing Side Bend Pose";
+"YogaVC.YogaPrental.StandingSideBend.whereText" = "Shoulders and upper back.";
+"YogaVC.YogaPrental.StandingSideBend.whyText" = "Reduces back pain and shoulder stiffness.";
+"YogaVC.YogaPrental.StandingSideBend.howText" = "Standing with your legs hip width apart with your arms at your side, deeply inhale while extending your spine. Begin slowly bending your body to your right, drawing gentle, steady breaths. Raise your left arm over your head, resting your right hand on your hip or thigh for extra support. Rest into the pose for 30 seconds. Repeat this sequence on your left side.";
+
+"YogaVC.YogaPrental.WideKneedChildsPose.headline.text" = "Wide Kneed Child’s Pose";
+"YogaVC.YogaPrental.WideKneedChildsPose.whereText" = "Belly, back and hips.";
+"YogaVC.YogaPrental.WideKneedChildsPose.whyText" = "The Wide Kneed Child’s Pose alleviates back pain and relieves belly pressure. This hip widening pose may also reduce the risk of birthing complications and soothe stress and anxiety.";
+"YogaVC.YogaPrental.WideKneedChildsPose.howText" = "Kneel on your yoga mat, widen your legs apart, with your heels to your buttocks and your big toes touching. Lower your chest towards the floor until your forehead is touching your mat. Extend your arms above your head and rest your palms flat. Maintain this pose for 3-5 minutes according to comfortability.";
+
+"YogaVC.YogaPrental.BoundAnglePose.headline.text" = "Bound Angle Pose";
+"YogaVC.YogaPrental.BoundAnglePose.whereText" = "Thighs, knees and hips.";
+"YogaVC.YogaPrental.BoundAnglePose.whyText" = "Reduces fatigue and knee pain, while opening the hips and thighs to promote an easier delivery.";
+"YogaVC.YogaPrental.BoundAnglePose.howText" = "Sit on your mat, bringing the bottoms of your feet together towards your pelvis. Drop your knees to your comfort level. Hold your feet with your hands and sit up straight while breathing deeply. Maintain this pose for 1-5 minutes, leaning forward occasionally if you would like a deep stretch in your hips.";
+
+"YogaVC.YogaPrental.AnkleToKneePose.headline.text" = "Ankle to Knee Pose";
+"YogaVC.YogaPrental.AnkleToKneePose.whereText" = "Hips, glutes and back.";
+"YogaVC.YogaPrental.AnkleToKneePose.whyText" = "The Ankle to knee pose accommodates your belly while also widening your hips. It also relieves back pressure and tension in your glutes.";
+"YogaVC.YogaPrental.AnkleToKneePose.howText" = "Come to a sitting position, tuck your left leg under your right leg. Place your right ankle on to your left knee, ensuring that your left ankle is in line with your right knee and your shins are parallel. Folding forward slightly, inhaling breath, you will feel a deep stretch in your hips as well as your glutes. Hold this pose for 30 seconds. Maintaining the ankle to knee pose, place your hands behind your back, keeping your arms straight with your palms flat on your mat to support your balance. As you lean back into your arms, drawing steady breath, you should feel a deep stretch in your back. Hold this pose for 30 seconds. Repeat the same sequence by alternating your left ankle to your right knee.";
+
+"YogaVC.YogaPrental.SeatedSideBend.headline.text" = "Seated Side Bend";
+"YogaVC.YogaPrental.SeatedSideBend.whereText" = "Hip, pelvis and back.";
+"YogaVC.YogaPrental.SeatedSideBend.whyText" = "The seated side stretch not only lowers stress but alleviates lower back pressure and eases hip and pelvis tension during pregnancy.";
+"YogaVC.YogaPrental.SeatedSideBend.howText" = "Sitting tall, lengthen your spine with your legs crossed. Inhaling gently while extending your right arm and leaning your body to the left. Place your left hand on the mat for support and inhale deeply while holding this stretch for 30 seconds. Slowly come back to sitting tall, drawing full breaths. Then switch to your left arm and repeat the sequence.";
+
+"YogaVC.YogaPrental.StandingForwardBend.headline.text" = "Standing Forward Bend";
+"YogaVC.YogaPrental.StandingForwardBend.whereText" = "Hamstring, hips, back and circulation.";
+"YogaVC.YogaPrental.StandingForwardBend.whyText" = "The standing forward bend can improve blood circulation which can relieve swollen feet and legs. This pose also delivers a deep stretch in the lower back and even relieves tension in the hips and hamstrings.";
+"YogaVC.YogaPrental.StandingForwardBend.howText" = "Standing with your hands on your hips and feet slightly wider than hips-width distance apart. Start to lean forward at the hips, keeping a straight back as you fold down. When you reach your level of comfortability, with your back flat, soften your knees and relax into a forward bend. You can let your arms hang or you can grab opposite elbows. Hold this pose for 30 seconds while breathing rhythmically.";
+
+"YogaVC.YogaPrental.CatCowPose.headline.text" = "Cat-Cow Pose";
+"YogaVC.YogaPrental.CatCowPose.whereText" = "Neck, shoulders, torso and back.";
+"YogaVC.YogaPrental.CatCowPose.whyText" = "This pose boosts circulation and spinal mobility while stretching your neck, shoulders and torso. Feel the stress melt away!";
+"YogaVC.YogaPrental.CatCowPose.howText" = "Starting on all fours, inhale deeply and arch your spine while lowering your tummy and looking upwards. Then, exhale and slowly draw your chin toward your chest, and round your spine. Gently continue this sequence for 30 seconds to 1 minute.";
+
+"YogaVC.YogaPrental.TrianglePose.headline.text" = "Triangle Pose";
+"YogaVC.YogaPrental.TrianglePose.whereText" = "Legs, spine and back.";
+"YogaVC.YogaPrental.TrianglePose.whyText" = "The triangle pose helps make your legs strong and bendy, which can come in handy during childbirth. It also toughens up your back and spine muscles, giving you some relief from the aches and pains caused by that growing baby bump.";
+"YogaVC.YogaPrental.TrianglePose.howText" = "Starting in a standing position, create some distance between your feet, stretching your legs apart to a comfortable limit. Raise your arms at your sides until they are in line with your shoulders. Turn your right foot to 90 degrees and your left foot inwards so that your toes are facing straight ahead. Exhale slowly and slowly bend at your waist from the right side. Extend your right hand to your ankle and your left arm up, turning your head in gaze of your left arm. Repeat this sequence on the opposite side.";
+
+"YogaVC.YogaPrental.GarlandPose.headline.text" = "Garland Pose";
+"YogaVC.YogaPrental.GarlandPose.whereText" = "Pelvic floor and hips.";
+"YogaVC.YogaPrental.GarlandPose.whyText" = "The Garland Pose benefits pregnant women by strengthening the pelvic floor, enhancing hip flexibility, and relieving digestive problems. It also promotes better posture, preparing the body for childbirth.";
+"YogaVC.YogaPrental.GarlandPose.howText" = "Standing with your feet slightly wider than your hips, turn your toes outward. Slowly bending the knees and lowering your hips. Bring your hands together, with your thumbs to your chest, ensuring your elbows are at your knees. Hold this pose for 30 seconds.";
+
+"YogaVC.YogaPrental.SideCorpsePose.headline.text" = "Side Corpse Pose";
+"YogaVC.YogaPrental.SideCorpsePose.whereText" = "Heart and circulation.";
+"YogaVC.YogaPrental.SideCorpsePose.whyText" = "This pose promotes comfortable rest and relaxation. It can also reduce pressure on the vena cava, a major vein, improving blood circulation. It also eases discomfort related to swelling and indigestion.";
+"YogaVC.YogaPrental.SideCorpsePose.howText" = "Lay down on your left side and use a pillow in between your legs as well as under your head. Keeping your left leg straight, start to bend your right leg until your knee is just below the belly. Extend your left arm out over the floor and place your right hand with your palm flat to the floor for support. Hold this pose for 30 seconds and repeat this sequence on your right side.";
+
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.headline.text" = "Wide Kneed Child’s Pose Modification";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whereText" = "Belly, back and hips.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whyText" = "This modification of the wide kneed child’s pose accommodates women who are in the late stages of their pregnancy. By using pillows to support your head and chest and allowing space for your belly to hang, relieving back pain and belly pressure. This hip widening pose may also reduce risk of birthing complications and soothe stress and anxiety.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.howText" = "Kneel on your yoga mat, widen your legs apart, with your heels to your buttocks and your big toes touching. Lower your chest onto your pillows to support your head and chest. Extend your arms to your sides and rest your palms flat. Maintain this pose for 3-5 minutes according to comfortability.";
+
+"YogaVC.YogaPrental.BridgePose.headline.text" = "Bridge Pose";
+"YogaVC.YogaPrental.BridgePose.whereText" = "Pelvic floor, back and chest.";
+"YogaVC.YogaPrental.BridgePose.whyText" = "The Bridge Pose strengthens core and pelvic muscles, alleviates lower back pain, improves circulation to reduce swelling, and promotes stress relief. It also gently stretches the chest, enhancing breathing and lung capacity.";
+"YogaVC.YogaPrental.BridgePose.howText" = "Lie on your back with knees bent and feet flat on the mat, heels a few inches in front of your buttocks. Keep knees in line with ankles and feet hip-width apart. Arms at your sides, fingertips grazing your heels. Engage your leg strength and press into your heels. Slowly lift your hips off the floor, one vertebra at a time, until your thighs are nearly parallel to the floor. Lengthen your tailbone. Keep arms at your sides or clasp your fingers for a chest stretch. Maintain a straight neck and be careful not to twist it during the pose. If needed, turn your head, and come out of the pose to avoid injury. Hold this pose for 15-30 seconds.";
+
+"YogaVC.YogaPrental.LegsUpTheWallPose.headline.text" = "Legs Up The Wall Pose";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whereText" = "Back, legs and feet.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whyText" = "It can alleviate leg swelling and discomfort by improving blood circulation. Additionally, it eases lower back pain and helps with overall body alignment. The pose also promotes a sense of calm and can be a rejuvenating practice.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.howText" = "Position a bolster, cushion, or folded blanket near a wall. Sit to the left of these supports, aligning your knees to the left, and move your buttocks as close to the wall as you comfortably can. Slowly lower your body to rest on your left side, then gently shift your buttocks onto the props. You might need to adjust by gently sliding your bottom until it touches the wall. Extend your legs upward, keeping them about hip-width apart. Relax in this position, allow yourself to rest for 6-8 cycles of breath before rolling to your left side and using your hands to return to a seated position.";
+
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.headline.text" = "Savasana Pose (On the back)";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whereText" = "Back, hips and pelvis.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whyText" = "It relieves the discomfort associated with lying flat on the back, which can compress major blood vessels. By maintaining an incline with supportive props, this position ensures better blood flow to the baby and minimizes discomfort. Additionally, it provides a sense of relaxation and relief from the weight of the belly.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.howText" = "While lying flat on your back during pregnancy can be uncomfortable and reduce blood flow to your baby, reclining on an incline offers a more comfortable alternative. Arrange two blocks in an 'L' shape on your mat, then place a bolster or a generous stack of pillows on top. Position yourself with your buttocks at the edge of the props. Bring the soles of your feet together, allowing your knees to fall outward. Slowly recline back on the incline, enjoying the full support of your props. Take a well-deserved break and unwind in this position for 5-10 minutes.";
+
+"YogaVC.YogaPrental.GoddessPose.headline.text" = "Goddess Pose";
+"YogaVC.YogaPrental.GoddessPose.whereText" = "Hips, pelvis, legs and core.";
+"YogaVC.YogaPrental.GoddessPose.whyText" = "It strengthens the leg muscles, providing much-needed support as the belly grows. This pose can also help open the hips and pelvis, promoting flexibility and comfort during pregnancy and potentially aiding in an easier labor and delivery.";
+"YogaVC.YogaPrental.GoddessPose.howText" = "Take a step with your feet, widening your stance along your mat, with your toes pointing outward. As you bend your knees, ensure they stay behind your toes, and let the natural pull of gravity guide your tailbone down. Your arms can find a comfortable position – resting on your thighs, in a prayer position, or with palms turned upward. Stay in this low stance for 5-7 cycles of breath before gently bringing your feet together as you straighten your legs.";
+
+"YogaVC.YogaPrental.PigeonPose.headline.text" = "Pigeon Pose";
+"YogaVC.YogaPrental.PigeonPose.whereText" = "Thighs, hips, lower back and pelvic floor.";
+"YogaVC.YogaPrental.PigeonPose.whyText" = "It relieves hip and lower back discomfort, provides a gentle stretch of the pelvic floor, and is a stress-reducing pose for emotional well-being. Additionally, it helps in preparation for labor through body awareness and improves posture as the body adapts to the growing belly.";
+"YogaVC.YogaPrental.PigeonPose.howText" = "Starting in a tabletop position, bring your right knee forward and out to the right, aligning it with your right wrist. Extend your left leg straight back behind you. Ensure your hips are squared, and the right shin is parallel to the mat. Slowly lower your torso over your bent right leg, using your forearms for support or a cushion under your hips if needed. Breathe deeply, holding the stretch for about 30 seconds to a minute. Ensure you perform this pose with caution, making any necessary adjustments for comfort.";
+
+"YogaVC.YogaPrental.ChildsPose.headline.text" = "Child’s Pose";
+"YogaVC.YogaPrental.ChildsPose.whereText" = "Shoulders, neck, spine and back.";
+"YogaVC.YogaPrental.ChildsPose.whyText" = "This pose offers a gentle stretch to the pelvic joints, expanding the internal dimensions of the pelvic canal and outlet. This increased space facilitates the baby's descent and emergence during birth. It serves as an excellent preparatory pose for childbirth, uniquely benefiting your pelvis in readiness for the birthing process.";
+"YogaVC.YogaPrental.ChildsPose.howText" = "Begin in a tabletop position, then gently widen your knees to make space for your belly. Lower your hips back towards your heels, extending your arms forward, and rest your forehead on the mat. Take slow, deep breaths, feeling a gentle stretch in your lower back and hips. Stay in this pose for as long as it's comfortable, focusing on relaxation. To exit, walk your hands back and return to a seated position.";
+
+"YogaVC.YogaPrental.FigureFourPose.headline.text" = "Figure-Four Pose";
+"YogaVC.YogaPrental.FigureFourPose.whereText" = "Pelvic floor, pelvis, hips and back.";
+"YogaVC.YogaPrental.FigureFourPose.whyText" = "It provides relief from lower back discomfort, enhances hip flexibility, engages and strengthens the pelvic floor muscles, reduces stress, and fosters emotional well-being.";
+"YogaVC.YogaPrental.FigureFourPose.howText" = "Lie on your back, ensuring your feet are flat on the floor with your knees bent. Inhale and raise your right leg. With your left hand, gently guide your right foot to rest on top of your left knee. At this point, you can choose to stay here or, for a deeper stretch, clasp your hands behind your knee. It's important to note that lying flat on your back for extended periods should be avoided once you reach 20 weeks of pregnancy and beyond, as it can become uncomfortable. If needed, try performing this pose while sitting on a chair instead. Hold the stretch for about 5 to 10 breaths on each side.";
+
+
+//MARK: ScratchCardMenu
+"ScratchCardMenu.headlineLabel.text" = "Scratch the\naffirmation";
+"SensualSecretsGameMenu.nextButton.title" = "Next";
+
+
+
+//MARK: Affirmation text
+"Affirmation.Categories0.headline0.text" = "My body is ready for conception.";
+"Affirmation.Categories0.headline1.text" = "Love and hope accompany me on my path to parenthood.";
+"Affirmation.Categories0.headline2.text" = "Every day brings me closer to my longed-for baby.";
+"Affirmation.Categories0.headline3.text" = "I trust my body and its natural rhythm.";
+"Affirmation.Categories0.headline4.text" = "With every breath I take, I receive positive energy for my desire to have a child.";
+"Affirmation.Categories0.headline5.text" = "My mind and body are in harmony for the fulfillment of my dream.";
+"Affirmation.Categories0.headline6.text" = "The love I feel supports my path to parenthood.";
+"Affirmation.Categories0.headline7.text" = "In every moment, I am open to the wonders of life.";
+"Affirmation.Categories0.headline8.text" = "I manifest love, happiness and fulfillment in my family.";
+"Affirmation.Categories0.headline9.text" = "My desire to have children will be fulfilled in perfect time.";
+"Affirmation.Categories0.headline10.text" = "I can accept help and be supported on my path.";
+"Affirmation.Categories0.headline11.text" = "I am ready for a beautiful pregnancy.";
+"Affirmation.Categories0.headline12.text" = "I take good care of myself.";
+"Affirmation.Categories0.headline13.text" = "I trust my intuition.";
+"Affirmation.Categories0.headline14.text" = "My time will come.";
+"Affirmation.Categories0.headline15.text" = "I am healthy.";
+"Affirmation.Categories0.headline16.text" = "I am grateful for everything I have.";
+"Affirmation.Categories0.headline17.text" = "I am ready to conceive a child.";
+"Affirmation.Categories0.headline18.text" = "I have the best conditions for a baby.";
+"Affirmation.Categories0.headline19.text" = "My body is fertile.";
+"Affirmation.Categories0.headline20.text" = "I will be pregnant.";
+"Affirmation.Categories0.headline21.text" = "My female body is strong.";
+"Affirmation.Categories0.headline22.text" = "I am open to new experiences.";
+"Affirmation.Categories0.headline23.text" = "My body is strong and healthy: I trust that my body is strong and healthy, ready to welcome the miracle of pregnancy.";
+"Affirmation.Categories0.headline24.text" = "Every cycle brings me closer: Every menstrual cycle is another step on the way to my pregnancy. Each cycle brings me closer to my goal.";
+"Affirmation.Categories0.headline25.text" = "I am patient and trust the process: Good things take time. I practice patience and trust that everything will happen at the right time.";
+"Affirmation.Categories0.headline26.text" = "I take care of my emotional health: By taking care of my emotional health, I create a positive space for my body to function optimally.";
+"Affirmation.Categories0.headline27.text" = "Love and support surround me: I am surrounded by love and support, be it from my partner, family or friends. Together we go through this journey.";
+"Affirmation.Categories0.headline28.text" = "I visualize a positive future: I visualize my life as a mother and the joy it will bring. This positive vision strengthens my motivation.";
+"Affirmation.Categories0.headline29.text" = "I take care of my body: By eating healthily, exercising regularly and getting enough sleep, I look after my body and create optimal conditions for pregnancy.";
+"Affirmation.Categories0.headline30.text" = "I set realistic expectations: I recognize that getting pregnant takes time and commitment. I set realistic expectations and celebrate any progress.";
+"Affirmation.Categories0.headline31.text" = "My love and commitment are valuable: My desire to start a family shows my love and commitment. These qualities will support an enriching parenthood.";
+"Affirmation.Categories0.headline32.text" = "Every day is a new opportunity: Every day brings new opportunities for hope and success. I welcome each day as an opportunity for positive change.";
+"Affirmation.Categories0.headline33.text" = "I connect with my partner: The journey to becoming pregnant is a shared journey. Connecting with my partner strengthens our support for each other.";
+"Affirmation.Categories0.headline34.text" = "I let go and relax: By letting go and relaxing, I create a space for the natural processes in my body.";
+"Affirmation.Categories0.headline35.text" = "I love and accept my body: Regardless of the challenges, I love and accept my body. This love contributes to a positive attitude.";
+"Affirmation.Categories0.headline36.text" = "Every effort is valuable: Every step I take, whether through healthy habits or medical support, is a valuable contribution to my goal.";
+"Affirmation.Categories0.headline37.text" = "I believe in my abilities: I believe in my abilities as a future mom. This positive attitude reinforces my belief in success.";
+"Affirmation.Categories0.headline38.text" = "I recognize stress and let it go - make room for a relaxed desire to have children.";
+"Affirmation.Categories0.headline39.text" = "My mind and body find peace on the way to baby happiness.";
+"Affirmation.Categories0.headline40.text" = "I trust the process and reduce stress for a harmonious conception.";
+"Affirmation.Categories0.headline41.text" = "Relaxation opens the way for my desire to have children.";
+"Affirmation.Categories0.headline42.text" = "Stress disappears when I lovingly set out on my path.";
+"Affirmation.Categories0.headline43.text" = "I breathe out stress and breathe in conception.";
+"Affirmation.Categories0.headline44.text" = "My serenity promotes fertility.";
+"Affirmation.Categories0.headline45.text" = "Every breath brings calm and confidence.";
+"Affirmation.Categories0.headline46.text" = "In peace and quiet I find strength for my desire to have children.";
+"Affirmation.Categories0.headline47.text" = "Every day I let go of stress more and more.";
+
+
+"Affirmation.Categories1.headline0.text" = "I recognize my fears and lovingly let them go - on the way to my baby.";
+"Affirmation.Categories1.headline1.text" = "My trust in my body outweighs any fears I have about having children.";
+"Affirmation.Categories1.headline2.text" = "Every breath strengthens me in the face of my worries and fears.";
+"Affirmation.Categories1.headline3.text" = "Fears recede when I focus on my love for my child.";
+"Affirmation.Categories1.headline4.text" = "My thoughts are positive, fears have no place in my desire to have a child.";
+"Affirmation.Categories1.headline5.text" = "I am strong and courageous, fears have no influence on my path.";
+"Affirmation.Categories1.headline6.text" = "I find peace in tranquillity and overcome fears.";
+"Affirmation.Categories1.headline7.text" = "The anticipation of my baby outshines any fears.";
+"Affirmation.Categories1.headline8.text" = "My heart is free of fears - love guides my desire to have a child.";
+"Affirmation.Categories1.headline9.text" = "Fears dissolve as I prepare for my baby.";
+
+
+"Affirmation.Categories2.headline0.text" = "I am good just the way I am.";
+"Affirmation.Categories2.headline1.text" = "In every breath I choose positivity and peace.";
+"Affirmation.Categories2.headline2.text" = "Every day is a new opportunity for growth and happiness.";
+"Affirmation.Categories2.headline3.text" = "Love and light flow through my life.";
+"Affirmation.Categories2.headline4.text" = "I attract positive energies and opportunities.";
+"Affirmation.Categories2.headline5.text" = "My heart is open to joy and gratitude.";
+"Affirmation.Categories2.headline6.text" = "I shape my life according to my dreams and values.";
+"Affirmation.Categories2.headline7.text" = "I walk the path of my destiny with confidence.";
+"Affirmation.Categories2.headline8.text" = "I am the architect of my happiness and consciously shape it.";
+"Affirmation.Categories2.headline9.text" = "My inner self radiates positivity, love and peace.";
+"Affirmation.Categories2.headline10.text" = "I radiate positive energy and attract good things.";
+"Affirmation.Categories2.headline11.text" = "Every day brings new opportunities and positive possibilities.";
+"Affirmation.Categories2.headline12.text" = "With every breath I take, I strengthen my inner peace and strength.";
+"Affirmation.Categories2.headline13.text" = "Love and light accompany me on my path through life.";
+"Affirmation.Categories2.headline14.text" = "I am open to growth, happiness and positive change.";
+"Affirmation.Categories2.headline15.text" = "My heart is filled with love and gratitude.";
+"Affirmation.Categories2.headline16.text" = "I shape my life consciously and positively.";
+"Affirmation.Categories2.headline17.text" = "Optimism is my constant companion.";
+"Affirmation.Categories2.headline18.text" = "I am the creator of my own positive reality.";
+"Affirmation.Categories2.headline19.text" = "My life is filled with joy, love and positive experiences.";
+"Affirmation.Categories2.headline20.text" = "Think positive, live positive - every day anew.";
+"Affirmation.Categories2.headline21.text" = "I am the architect of my happiness and consciously shape it.";
+"Affirmation.Categories2.headline22.text" = "The joy of life flows through me, day after day.";
+"Affirmation.Categories2.headline23.text" = "I find reasons to be grateful in every moment.";
+"Affirmation.Categories2.headline24.text" = "My thoughts form a world full of positivity.";
+"Affirmation.Categories2.headline25.text" = "I am a magnet for good energy and moments of happiness.";
+"Affirmation.Categories2.headline26.text" = "I shape my life full of optimism with confidence.";
+"Affirmation.Categories2.headline27.text" = "I find deep joy in the simplicity of life.";
+"Affirmation.Categories2.headline28.text" = "Positivity is my source of strength that sustains me.";
+"Affirmation.Categories2.headline29.text" = "My heart beats to the rhythm of positive possibilities.";
+"Affirmation.Categories2.headline30.text" = "I am the creator of my reality. Today I choose love, joy and peace.";
+"Affirmation.Categories2.headline31.text" = "Every breath refreshes my spirit. I am ready for the abundance this day brings me.";
+"Affirmation.Categories2.headline32.text" = "With each new day, my strength and wisdom grow.";
+"Affirmation.Categories2.headline33.text" = "I trust in the process of life and let go of what I cannot control.";
+"Affirmation.Categories2.headline34.text" = "Today I open my heart to new possibilities and positive encounters.";
+"Affirmation.Categories2.headline35.text" = "A deep serenity rests within me. I am in harmony with my inner peace.";
+"Affirmation.Categories2.headline36.text" = "I am a magnet for positive energies. Good things attract good things.";
+"Affirmation.Categories2.headline37.text" = "My day begins with love and ends with gratitude.";
+"Affirmation.Categories2.headline38.text" = "I am the architect of my dreams. Today I am building my happiness.";
+"Affirmation.Categories2.headline39.text" = "My body is healthy, my mind is clear. I am ready for the adventures of this day.";
+
+
+"Affirmation.Categories3.headline0.text" = "Strong together: We find love and support in our partnership.";
+"Affirmation.Categories3.headline1.text" = "Every day strengthens our love and connection to each other.";
+"Affirmation.Categories3.headline2.text" = "Trust and respect grow in our relationship.";
+"Affirmation.Categories3.headline3.text" = "Our love overcomes every challenge together.";
+"Affirmation.Categories3.headline4.text" = "Together we create space for joy and mutual growth.";
+"Affirmation.Categories3.headline5.text" = "Love is our anchor in all situations.";
+"Affirmation.Categories3.headline6.text" = "Our partnership is characterized by understanding and communication.";
+"Affirmation.Categories3.headline7.text" = "We find strength and happiness in our love.";
+"Affirmation.Categories3.headline8.text" = "We walk hand in hand through ups and downs, strengthened by our love.";
+"Affirmation.Categories3.headline9.text" = "Our relationship is a place of love and shared dreams.";
+"Affirmation.Categories3.headline10.text" = "Our love grows with every moment we spend together.";
+"Affirmation.Categories3.headline11.text" = "There is room for trust and laughter in our partnership.";
+"Affirmation.Categories3.headline12.text" = "Together we create a love that is strong and unshakeable.";
+"Affirmation.Categories3.headline13.text" = "We complement each other perfectly, our partnership is full of harmony.";
+"Affirmation.Categories3.headline14.text" = "There is room for love, freedom and respect in our relationship.";
+"Affirmation.Categories3.headline15.text" = "Our connection is a source of joy and happiness.";
+"Affirmation.Categories3.headline16.text" = "Love and acceptance characterize our partnership.";
+"Affirmation.Categories3.headline17.text" = "Together we master every challenge, strengthened by our love.";
+"Affirmation.Categories3.headline18.text" = "We find peace and security in our love.";
+"Affirmation.Categories3.headline19.text" = "Our partnership is a journey full of love and shared experiences.";
+
+
+// RatingScreenMenu.swift
+"RatingScreenMenu.headlineLabel.text" = "Please review the App!";
+"RatingScreenMenu.subtitleLabel.text" = "To continue using the App for free, please take a few seconds to review the App in the App Store to appreciate our work.";
+"RatingScreenMenu.subtitleLabel2.text" = "After submitting the review, upload a screenshot of your review as a proof.";
+"RatingScreenMenu.reviewNowButton.title" = "Review now";
+"RatingScreenMenu.uploadScreenshotButton.title" = "Upload Screenshot Proof";
+
+// InAppPurchaseOfferMenu.swift
+"InAppPurchaseOfferMenu.purchaseButton.titleLabel.text" = "Unlock Everything";
+"InAppPurchaseOfferMenu.purchaseButton.subtitleLabel.text" = "One-time";
+
+
+// MARK: PodcastsVC
+"PodcastsVC.headlineLabel.text" = "Categories";
+"PodcastsVC.audioHeadlineLabel.text" = "Deep relaxation through progressive muscle relaxation";
+"PodcastsVC.audioSubtitleLabel.text" = "Letting go of stress, strengthening body awareness, finding inner peace";
+"PodcastArticleVC.headlineLabel.text" = "Relaxation & Conception. Why It Matters?";
+"PodcastArticleVC.subtitleLabel.text" = "Feeling relaxed while trying to conceive is essential for both your body and mind. Stress and anxiety can disrupt hormonal balance, making conception more challenging. That's why, in this section, you'll find Progressive Muscle Relaxation (PMR) sessions—designed to help you release tension, calm your mind, and create the ideal conditions for pregnancy.
+
+PMR works by systematically tensing and relaxing different muscle groups, which helps lower cortisol levels, improve circulation, and enhance overall well-being. This not only reduces stress and anxiety but also promotes better sleep, emotional balance, and a more receptive state for conception.
+
+Take a deep breath, unwind, and let your body find its natural rhythm with Ovulio Baby.";
+
+
+//NameGenerateVC
+"NameGenerateVC.headlineLabel.text" = "Name Generator";
+"NameGenerateVC.chooseName.text" = "Choose Name For";
+"NameGenerateVC.region.text" = "Region (Optional)";
+"NameGenerateVC.lastName.text" = "Last name (Optional)";
+"NameGenerateVC.chooseStyle.text" = "Choose Style";
+"NameGenerateVC.chooseLength.text" = "Choose Length";
+"NameGenerateVC.region.placeholder.text" = "Select region for name adaptation";
+"NameGenerateVC.lastnme.placeholder.text" = "Your last name";
+"NameGenerateVC.chooseStyle.label1.text" = "Modern";
+"NameGenerateVC.chooseStyle.label2.text" = "Trend";
+"NameGenerateVC.chooseStyle.label3.text" = "Traditional";
+"NameGenerateVC.chooseStyle.label4.text" = "Bibical";
+"NameGenerateVC.chooseStyle.label5.text" = "Unique";
+"NameGenerateVC.chooseStyle.label6.text" = "Funny";
+
+"NameGenerateVC.chooseLength.label1.text" = "Doesn't matter";
+"NameGenerateVC.chooseLength.label2.text" = "Three-letter";
+"NameGenerateVC.chooseLength.label3.text" = "One syllable";
+"NameGenerateVC.chooseLength.label4.text" = "Medium length";
+"NameGenerateVC.chooseLength.label5.text" = "Long";
+"NameGenerateVC.chooseLength.label6.text" = "Double name";
+
+"NameGenerateVC.generateButton.text" = "Generate";
+"NameGenerateVC.gender.unisex.text" = "Unisex";
+"NameGenerateVC.loader.generatingName.text" = "Generating names";
+
+
+//SwipeNameCardVC
+"SwipeNameCardVC.header.text" = "Swipe name cards";
+"SwipeNameCardVC.lastName.text" = "Last name";
+
+//FavouriteNameVC
+"FavouriteNameVC.headlineLabel.text" = "Favourite names";
+"FavouriteNameVC.girlsNames.text" = "Girls names:";
+"FavouriteNameVC.unisexNames.text" = "Unisex names:";
+"FavouriteNameVC.boysNames.text" = "Boys names:";
+
+//ChooseRegionVC
+"ChooseRegionVC.headlineLabel.text" = "Choose Region";
+"ChooseRegionVC.searchRegion.placeholder.text" = "Search region";
+"ChooseRegionVC.HeaderSection.text" = "SUGGESTED";

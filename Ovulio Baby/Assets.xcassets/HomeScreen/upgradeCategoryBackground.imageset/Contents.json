@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "upgradeCategoryBackground.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "upgradeCategoryBackground@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "upgradeCategoryBackground@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

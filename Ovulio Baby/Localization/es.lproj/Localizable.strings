@@ -1,0 +1,1229 @@
+/* 
+  Localizable.strings
+  Ovulio Baby
+
+  Created by Jash on 2023-10-08.
+  
+*/
+
+
+// General UI
+"UIAlertController.continueButton" = "Continuar";
+"UIAlertController.cancelButton" = "Cancelar";
+"UIAlertController.deleteButton" = "Eliminar";
+"UIAlertController.okButton" = "Aceptar";
+"UIAlertController.laterButton" = "Después";
+"UIAlertController.noButton" = "No";
+"UIAlertController.backButton" = "Volver";
+
+
+// MARK: Primera página de OnBoarding
+"FirstOnBoardingPageVC.Button.Next.headlineLabel.text" = "Siguiente";
+"FirstOnBoardingPageVC.Button.Skip.headlineLabel.text" = "Saltar";
+"FirstOnBoardingPageVC.Button.Allow.headlineLabel.text" = "Permitir";
+
+// MARK: OnBoarding con facilidad
+"WithEaseOnBoardingVC.headlineLabel.text" = "Con facilidad y pasión hacia el deseo de un bebé";
+
+// MARK: TrackFertilityOnBoardingVC
+"TrackFertilityOnBoardingVC.headlineLabel.text" = "¡Sigue tu fertilidad!";
+"TrackFertilityOnBoardingVC.headlineDescriptionLabel.text" = "Embárcate en un viaje de descubrimiento mientras rastreas tu ovulación y datos de ciclo";
+
+// MARK: InfluenceGenderOnBoardingVC
+"InfluenceGenderOnBoardingVC.headlineLabel.text" = "¡Influye en el género de tu bebé!";
+"InfluenceGenderOnBoardingVC.headlineDescriptionLabel.text" = "Aprende cómo la dieta, las posiciones sexuales y el momento adecuado para intimar pueden influir en el género de tu paquete de alegría";
+
+// MARK: DevelopedExpertOnBoardingVc
+"DevelopedExpertOnBoardingVc.headlineLabel.text" = "¡Desarrollado con expertos!";
+"DevelopedExpertOnBoardingVc.headlineDescriptionLabel.text" = "Consultando con parteras, ginecólogos y otros profesionales de la salud, garantizamos tu seguridad y bienestar";
+"DevelopedExpertOnBoardingVc.ExpertName.headlineLabel.text" = "Dr. Müller, ginecólogo";
+
+// MARK: OurReferencesOnBoardingVC
+"OurReferencesOnBoardingVC.headlineLabel.text" = "Nuestras referencias hablan por sí mismas";
+"OurReferencesOnBoardingVC.headlineDescriptionLabel.text" = "Con nuestra aplicación Scratch Adventure hemos estado en los primeros lugares de las listas de la App Store en todo el mundo, ¡hemos obtenido más de 2.5 millones de descargas y reseñas brillantes!";
+
+// MARK: ReceiveNotificationsOnBoardingVC
+"ReceiveNotificationsOnBoardingVC.headlineLabel.text" = "¿Quieres recibir notificaciones?";
+"ReceiveNotificationsOnBoardingVC.headlineDescriptionLabel.text" = "¡Permite a Ovulio Baby acceder a tus notificaciones y nunca vuelvas a perder una fecha crucial!";
+
+// MARK: SecondOnBoardingPageVC
+"SecondOnBoardingPageVC.Button.Submit.headlineLabel.text" = "Enviar";
+"SecondOnBoardingPageVC.Button.SkipStep.headlineLabel.text" = "Saltar paso";
+"SecondOnBoardingPageVC.Button.LetsGo.headlineLabel.text" = "¡Vamos!";
+
+// MARK: WhoPlayingOnBoardingVC
+"WhoPlayingOnBoardingVC.headlineLabel.text" = "¿Quién está jugando?";
+
+// MARK: MentruationCycleOnBoardingVC
+"MentruationCycleOnBoardingVC.headlineLabel.text" = "Hola";
+"MentruationCycleOnBoardingVC.headlineDescriptionLabel.text" = "Necesitamos algunos datos más para predecir el día más favorable para la concepción";
+
+// MARK: TermsConditionOnBoardingVC
+"TermsConditionOnBoardingVC.headlineLabel.text" = "¡Bienvenido!";
+"TermsConditionOnBoardingVC.headlineDescriptionLabel.text" = "Ovulio Baby está destinado únicamente a fines educativos e informativos. Si bien hemos colaborado con expertos médicos para proporcionar información precisa y confiable, esta aplicación no reemplaza la orientación de un profesional de la salud calificado. La información y las herramientas proporcionadas por Ovulio Baby no son un sustituto del asesoramiento médico profesional. Ovulio Baby no puede garantizar la exactitud, integridad o idoneidad de la información proporcionada, ya que las circunstancias individuales pueden variar. Si bien Ovulio Baby proporciona consejos expertos y perspectivas sobre la concepción y la influencia en el género, la naturaleza puede ser impredecible en el mejor de los casos, los resultados y el éxito del usuario pueden variar. El uso de esta aplicación es bajo su propio riesgo, y renunciamos a cualquier responsabilidad por cualquier acción tomada en función de la información o herramientas proporcionadas. Al utilizar Ovulio Baby, usted reconoce que ha leído y entendido este descargo de responsabilidad y acepta utilizar la aplicación de manera responsable, junto con los consejos y la orientación de un profesional de la salud calificado cuando sea necesario.";
+"TermsConditionOnBoardingVC.agreementLabel.text" = "Confirmamos que hemos leído y aceptado los Términos y Condiciones, la Política de Privacidad y el Aviso Legal.";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.termsAndConditions" = "Términos y Condiciones";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.privacyPolicy" = "Política de Privacidad";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer" = "Aviso Legal";
+"TermsConditionOnBoardingVC.agreementLabel.attribute.disclaimer_tappable" = "Aviso Legal";
+"TermsConditionOnBoardingVC.alert.previewTerms.title" = "Vista previa de términos";
+"TermsConditionOnBoardingVC.alert.previewTerms.message" = "Por favor, acepte nuestros términos antes de continuar. (Haga clic en el botón redondeado con borde morado)";
+
+// MARK: HomeViewController
+"HomeViewController.headlineLabel.text" = "Viaje a la Paternidad";
+"HomeViewController.headlineDescriptionLabel.text" = "¡Este es tu viaje único y estamos aquí para apoyarte en cada paso del camino!";
+
+"HomeViewController.YourGoalCell.headlineLabel.text" = "Tu objetivo";
+"HomeViewController.YourGoalCell.conceiveChildLabel.text" = "Concebir un hijo en los próximos meses";
+"HomeViewController.YourGoalCell.conceiveBoyLabel.text" = "Concebir un niño en los próximos meses";
+"HomeViewController.YourGoalCell.conceiveGirlLabel.text" = "Concebir una niña en los próximos meses";
+
+"HomeViewController.categories.headlineLabel.text" = "Categorías";
+"HomeViewController.categories.games.headlineLabel.text" = "Juegos";
+"HomeViewController.categories.games.headlineDescriptionLabel.text" = "Posiciones y lugares sexuales";
+"HomeViewController.categories.calendar.headlineLabel.text" = "Calendario";
+"HomeViewController.categories.calendar.headlineDescriptionLabel.text" = "Calendario Lunar Chino y de Fertilidad";
+"HomeViewController.categories.learningResources.headlineLabel.text" = "Recursos de aprendizaje";
+"HomeViewController.categories.learningResources.headlineDescriptionLabel.text" = "Máster en Concepción";
+"HomeViewController.categories.postcastCategory.headlineLabel.text" = "Relájese y conciba";
+"HomeViewController.categories.postcastCategory.headlineDescriptionLabel.text" = "Reduce el estrés y favorece tu fertilidad de forma natural";
+"HomeViewController.categories.upgrade.headlineLabel.text" = "Actualiza ahora para desbloquear todo";
+"HomeViewController.categories.DiceToSpice.headlineLabel.text" = "Dados para condimentar";
+"HomeViewController.categories.DiceToSpice.headlineDescriptionLabel.text" = "Tira los dados con desafíos sexys";
+"HomeViewController.categories.Affirmation.headlineLabel.text" = "Afirmaciones";
+"HomeViewController.categories.Affirmation.headlineDescriptionLabel.text" = "Afirmaciones positivas para ayudar a concebir";
+"HomeViewController.categories.Yoga.headlineLabel.text" = "Yoga";
+"HomeViewController.categories.Yoga.headlineDescriptionLabel.text" = "Posiciones de Yoga para ayudar con la concepción";
+"HomeViewController.categories.NameGenetrate.headlineLabel.text" = "Generador de nombres de bebé";
+
+// MARK: YourGoalSelectionVC
+"YourGoalSelectionVC.headlineLabel.text" = "¿Con quién quieres concebir?";
+"YourGoalSelectionVC.gender.boy.text" = "Niño";
+"YourGoalSelectionVC.gender.girl.text" = "Niña";
+"YourGoalSelectionVC.gender.doesntMatter.text" = "No importa";
+
+// MARK: YogaVC
+"YogaVC.headlineLabel.text" = "Posiciones de Yoga";
+"YogaVC.FertilityPositions.headlineLabel.text" = "Posiciones de\nfertilidad";
+"YogaVC.PrenatalYoga.headlineLabel.text" = "Yoga prenatal";
+"YogaVC.FertilityPositions.headlineDescriptionLabel.text" = "Prueba estas posturas de yoga para aumentar tu fertilidad.";
+
+// MARK: YogaDetailVC
+"YogaDetailVC.headlineLabel.text" = "Rasca el campo\ncon tu dedo";
+
+// MARK: GamesVC
+"GamesVC.headlineLabel.text" = "Juegos";
+"GamesVC.UnlockForMoreFunButton.Locations.title" = "Explora más lugares";
+"GamesVC.UnlockForMoreFunButton.Extras.title" = "Explora más Extras";
+
+"GamesVC.ScoreAndCardsHeader.scoreView.headlineLabel.text" = "Tu puntuación:";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Novice.text" = "Novato";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Experienced.text" = "Experimentado";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.Expert.text" = "Experto";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SeductionMaster.text" = "Maestro de la seducción";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.KingOfLust.text" = "Rey de la lujuria";
+"GamesVC.ScoreAndCardsHeader.scoreView.quote.SexGod.text" = "Dios del sexo";
+"GamesVC.ScoreAndCardsHeader.cardView.headlineLabel.text" = "Cartas raspadas:";
+
+"GamesVC.LevelsAndPositionCardsHeader.headlineLabel.text" = "Elige un nivel y raspa un desafío amoroso";
+
+"GamesVC.LocationsHeader.headlineLabel.text" = "Marca las ubicaciones";
+"GamesVC.LocationsHeader.headlineDescriptionLabel.text" = "Prueba nuevos lugares sexuales y márcalos, tan pronto como los hayas probado";
+
+"GamesVC.ExtrasHeader.headlineLabel.text" = "Extras emocionantes";
+"GamesVC.ExtrasHeader.headlineDescriptionLabel.text" = "Atrévete a probar extras calientes y sal de tu zona de confort";
+
+"GamesVC.LevelsAndPositionCardsHeader.level1.headlineLabel.text" = "Nivel 1";
+"GamesVC.LevelsAndPositionCardsHeader.level2.headlineLabel.text" = "Nivel 2";
+"GamesVC.LevelsAndPositionCardsHeader.level3.headlineLabel.text" = "Nivel 3";
+"GamesVC.LevelsAndPositionCardsHeader.InCar.headlineLabel.text" = "En el coche";
+"GamesVC.LevelsAndPositionCardsHeader.InBath.headlineLabel.text" = "En el baño";
+"GamesVC.LevelsAndPositionCardsHeader.Bondage.headlineLabel.text" = "Bondage";
+"GamesVC.LevelsAndPositionCardsHeader.easy.headlineLabel.text" = "Fácil";
+"GamesVC.LevelsAndPositionCardsHeader.medium.headlineLabel.text" = "Medio";
+"GamesVC.LevelsAndPositionCardsHeader.complicated.headlineLabel.text" = "Complicado";
+"GamesVC.LevelsAndPositionCardsHeader.sparkling.headlineLabel.text" = "Deslumbrante";
+"GamesVC.LevelsAndPositionCardsHeader.kinky.headlineLabel.text" = "Perverso";
+"GamesVC.LevelsAndPositionCardsHeader.captivating.headlineLabel.text" = "Cautivador";
+"GamesVC.LevelsAndPositionCardsHeader.Point.text" = "punto";
+"GamesVC.LevelsAndPositionCardsHeader.Points.text" = "puntos";
+
+/// MARK: GameCardScrachVC
+"GameCardScrachVC.headlineLabel.text" = "Raspa el campo con tu dedo";
+"GameCardScrachVC.Button.Back.headline.text" = "Atrás";
+"GameCardScrachVC.Button.Done.headline.text" = "Hecho";
+"GameCardScrachVC.Button.Reset.headline.text" = "Reiniciar";
+"GameCardScrachVC.Probability.headline.text" = "Probabilidad:";
+
+// MARK: GameLegsUpVC
+"GameLegsUpVC.headlineLabel.text" = "¡No olvides levantar las piernas y poner una almohada debajo de tu espalda!";
+"GameLegsUpVC.Button.GotIt.text" = "¡Entendido!";
+"GameLegsUpVC.Button.DontShowAgain.headline.text" = "No mostrar de nuevo";
+
+// MARK: LearningResourcesVC
+"LearningResourcesVC.headlineLabel.text" = "Recursos de aprendizaje";
+"LearningResourcesVC.articles.ohBaby.headline" = "Intimidad sexual durante el embarazo";
+"LearningResourcesVC.articles.theRoadBeforeTheBump.headline" = "Gamificar el embarazo";
+"LearningResourcesVC.articles.chineseConceptionCalendar.headline" = "Calendario de concepción chino";
+"LearningResourcesVC.articles.positionPerfect.headline" = "Posiciones de concepción y género";
+"LearningResourcesVC.articles.babyliciousNutritious.headline" = "Alimentos fértil para promover el embarazo";
+"LearningResourcesVC.articles.fertilityCalendar.headline" = "Calendario fértil femenino";
+"LearningResourcesVC.articles.waysToShowYour.headline" = "5 formas de demostrarle amor a tu pareja embarazada";
+"LearningResourcesVC.articles.hitTheGym.headline" = "¿Ir al gimnasio? Hacer ejercicio cuando intentas concebir";
+"LearningResourcesVC.articles.howToSupportYourPartner.headline" = "Abortos espontáneos";
+"LearningResourcesVC.articles.ohBabySexAfterChildbirth.headline" = "Sexo después del parto";
+"LearningResourcesVC.UnlockForMoreFunButton.Masterclass.title" = "Desbloquear la masterclass completa";
+
+
+// MARK: LearningResourceArticleVC
+"LearningResourceArticleVC.headlineLabel.text" = "Artículo";
+"LearningResourceArticleVC.ReadFullMasterclass.headline.text" = "Leer la masterclass completa";
+"LearningResourceArticleVC.ReadFullMasterclass.subtitle.text" = "Esta masterclass está disponible solo para los miembros de Concepción de Ovulio Baby. Actualiza para desbloquear instantáneamente esta masterclass y otros beneficios exclusivos para miembros.";
+
+// MARK: CalendarPageVC
+"CalendarPageVC.segment.LunarCalendar.headlineLabel.text" = "Calendario Lunar Chino";
+"CalendarPageVC.segment.FertilityCalendar.headlineLabel.text" = "Calendario de Fertilidad";
+
+// MARK: CalendarVC
+"LunarCalendarVC.headlineLabel.text" = "Calendario Chino";
+"LunarCalendarVC.ChooseYear.text" = "Elige un año";
+
+"LunarCalendarVC.LunarCalendarCell.Boy.text" = "Niño";
+"LunarCalendarVC.LunarCalendarCell.Girl.text" = "Niña";
+
+// MARK: OvulationCalendarVC
+"OvulationCalendarVC.headlineLabel.text" = "Calendario Fértil";
+"OvulationCalendarVC.Ovulation.headlineLabel.text" = "Ovulación";
+"OvulationCalendarVC.HighFertileday.headlineLabel.text" = "Día de alta fertilidad";
+"OvulationCalendarVC.Fertileday.headlineLabel.text" = "Día fértil";
+"OvulationCalendarVC.Periodday.headlineLabel.text" = "Día del período";
+"OvulationCalendarVC.Daysbefore.headlineLabel.text" = "Días antes";
+"OvulationCalendarVC.probability.low.text" = "Bajo";
+"OvulationCalendarVC.probability.high.text" = "Alto";
+"OvulationCalendarVC.probability.veryHigh.text" = "Muy Alto";
+"OvulationCalendarVC.probability.highest.text" = "Más Alto";
+"OvulationCalendarVC.detailsChanceStaticLabel.text" = "Probabilidad de\nquedar embarazada";
+
+// MARK: OvulationCalendarVC
+"OvulationCalendarVC.demoData.demo.headline.text" = "Demo";
+"OvulationCalendarVC.demoData.data.headline.text" = "Datos";
+"OvulationCalendarVC.probability.headline.text" = "Probabilidad";
+"OvulationCalendarVC.probability.boy.headline.text" = "Niño";
+"OvulationCalendarVC.probability.girl.headline.text" = "Niña";
+
+// MARK: CalendarDesignationsVC
+"CalendarDesignationsVC.headlineLabel.text" = "Designaciones";
+"CalendarDesignationsVC.details.menstruation.text" = "Menstruación";
+"CalendarDesignationsVC.details.predictedMenstruation.text" = "Menstruación predicha";
+"CalendarDesignationsVC.details.fertileWindow.text" = "Ventana fértil";
+"CalendarDesignationsVC.details.estimatedDayOfOvulation.text" = "Día estimado de ovulación";
+"CalendarDesignationsVC.details.saveDay.text" = "Día de 'Guardar'";
+
+// MARK: DemoDataAlertVC
+"DemoDataAlertVC.headlineLabel.text" = "¡Advertencia!";
+"DemoDataAlertVC.subtitle.text" = "Estos datos no son reales y no tienen nada que ver con tu ciclo real, por favor, renueva tu suscripción para comenzar a usar la aplicación al máximo";
+
+// MARK: SalesVC
+"SalesVC.headlineLabel.text" = "Ventas";
+"SalesVC.button.UnlockForMoreFun.text" = "Desbloquear para más diversión";
+"SalesVC.button.Continue.text" = "Continuar";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.text" = "¡Obtén acceso ilimitado a tu plan de concepción de bebés!";
+"SalesVC.details.headlineLabel.GetUnlimitedAccess.ColoredString.text" = "¡Plan de concepción!";
+"SalesVC.YourBabyWishGenderIs.headline.text" = "Tu deseo de género para el bebé es";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.headline.text" = "un bebé varón";
+"SalesVC.YourBabyWishGenderIs.AMaleBaby.coloredString.headline.text" = "varón";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.headline.text" = "una bebé hembra";
+"SalesVC.YourBabyWishGenderIs.AGirlBaby.coloredString.headline.text" = "hembra";
+"SalesVC.YourBabyWishGenderIs.DoesntMatter.headline.text" = "un bebé varón/hembra";
+"SalesVC.details.headlineLabel.Unlock all features.text" = "Desbloquear todas las características";
+"SalesVC.details.headlineLabel.Unlock all features.ColoredString.text" = "características";
+"SalesVC.details.Unlock all features.Monthly gender Predictions.text" = "Predicciones mensuales de género";
+"SalesVC.details.Unlock all features.Unlimited Ovulation Insights.text" = "Información ilimitada sobre la ovulación";
+"SalesVC.details.Unlock all features.Gender Influencing Sex Practices.text" = "Prácticas sexuales que influyen en el género";
+"SalesVC.details.Unlock all features.Access to Expert written Articles.text" = "Acceso a Artículos Escritos por Expertos";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.text" = "Los futuros padres no pueden dejar de hablar";
+"SalesVC.details.headlineLabel.Future parents can’t stop raving.ColoredString.text" = "padres";
+"SalesVC.details.Future parents can’t stop raving.Higher Chance of getting Pregnant.text" = "Mayor Probabilidad de Quedar Embarazada";
+"SalesVC.details.Future parents can’t stop raving.Improved Intimacy routine.text" = "Rutina de Intimidad Mejorada";
+"SalesVC.details.Future parents can’t stop raving.Regular updates with new features.text" = "Actualizaciones Regulares con Nuevas Características";
+"SalesVC.details.Future parents can’t stop raving.Anti-boring guarantee.text" = "Garantía Anti-aburrimiento";
+"SalesVC.details.headlineLabel.Developed with\nexperts.text" = "Desarrollado con\nexpertos";
+"SalesVC.details.headlineLabel.Developed with\nexperts.ColoredString.text" = "expertos";
+"SalesVC.details.Developed with\nexperts.subtitleHeadlineText.text" = "Ovulio Baby ha sido desarrollado en colaboración con profesionales médicos y entrenadores sexuales certificados. Conoce a algunos de nuestros expertos a continuación...";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.text" = "Elige tu plan de\nconcepción de bebés";
+"SalesVC.details.headlineLabel.Choose your baby\nconception plan.coloredString.text" = "plan de concepción";
+"SalesVC.details.Choose your baby\nconception plan.subtitleText.text" = "Las suscripciones serán cargadas a tu tarjeta de crédito a través de tu cuenta de iTunes. Las suscripciones se renovarán automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual. Tu cuenta será cargada de acuerdo con tu plan para la renovación dentro de las 24 horas anteriores al final del período actual. Puedes gestionar o desactivar la renovación automática en la configuración de tu cuenta de Apple ID en cualquier momento después de la compra.";
+"SalesVC.details.reviews.userName1.text" = "Penny";
+"SalesVC.details.reviews.userName1.comment.text" = "¡Estoy muy impresionada con la precisión de los calendarios! Fueron muy fáciles de navegar y usar. ¡Conozco mi ciclo como la palma de mi mano gracias a Ovulio Baby!";
+"SalesVC.details.reviews.userName2.text" = "Michael y Laura";
+"SalesVC.details.reviews.userName2.comment.text" = "Usamos Ovulio Baby para concebir a nuestro segundo hijo y fue un proceso muy divertido. ¡Los juegos llevaron nuestra vida sexual a un nivel totalmente nuevo y ahora estamos más unidos que nunca!";
+"SalesVC.details.reviews.userName3.text" = "Astrid";
+"SalesVC.details.reviews.userName3.comment.text" = "Los artículos son realmente geniales, disfruté del aspecto educativo de la aplicación. ¡Mi esposo y yo ahora somos expertos en embarazo!";
+"SalesVC.details.reviews.userName4.text" = "Philip y Sarah";
+"SalesVC.details.reviews.userName4.comment.text" = "¡Finalmente conseguimos una niña, después de dos niños varones! Recomendaría enérgicamente el Calendario Lunar a cualquier persona que espere un género en particular. Fue fácil de usar y, lo mejor de todo, ¡ahora tendremos una niña en camino!";
+"SalesVC.details.reviews.userName5.text" = "Megan y Adam";
+"SalesVC.details.reviews.userName5.comment.text" = "Acabamos de empezar a usar esto y ya estamos enamorados. Es una aplicación tan diversa con tantas características e información especiales. ¡Estoy segura de que seremos padres muy pronto!";
+"SalesVC.details.reviews.userName6.text" = "Melanie";
+"SalesVC.details.reviews.userName6.comment.text" = "Siempre me imaginé teniendo un niño, ¡después de encontrar Ovulio Baby y luego quedarme embarazada de mi hijo poco después, ese sueño ahora es una realidad! ¡Increíble aplicación!";
+"SalesVC.spalert.success.title" = "¡Listo!";
+"SalesVC.spalert.success.message" = "Tu actualización a PRO fue exitosa";
+"SalesVC.plans.1week.headline.text" = "1 semana";
+"SalesVC.plans.1week.details.text" = "facturado semanalmente";
+"SalesVC.plans.1week.priceDetails.perWeek.text" = "por semana";
+"SalesVC.plans.3Months.headline.text" = "3 meses";
+"SalesVC.plans.3Months.details.text" = "facturado cada 3 meses";
+"SalesVC.plans.3Months.typeTitle.headline.text" = "La mejor oferta";
+"SalesVC.plans.3Months.discount.headline.text" = "AHORRA 75%";
+
+"SalesVC.plans.1Month.typeTitle.headline.text" = "Popular";
+"SalesVC.plans.1Month.headline.text" = "1 mes";
+"SalesVC.plans.1Month.details.text" = "facturado mensualmente";
+"SalesVC.plans.1Month.discount.headline.text" = "AHORRA 50%";
+"SalesVC.plans.1Month.fullDiscount.headline.text" = "AHORRA 100%";
+"SalesVC.plans.1Month.details.afterword.text" = "Después: ";
+"SalesVC.plans.1Month.details.monthly.text" = "mensualmente";
+
+"SalesVC.plans.lifetime.typeTitle.headline.text" = "Sólo ahora";
+"SalesVC.plans.lifetime.headline.text" = "De por vida";
+"SalesVC.plans.lifetime.details.text" = "Sólo una vez";
+"SalesVC.plans.lifetime.discount.headline.text" = "AHORRA 90%";
+
+
+// MARK: YearPickerPopUpVC
+"YearPickerPopUpVC.headlineLabel.text" = "Selecciona un año";
+
+// MARK: ProfileVC
+"ProfileVC.headlineLabel.text" = "Perfil";
+"ProfileVC.headlineLabel.notEnoughData.text" = "Datos insuficientes";
+"ProfileVC.buttons.saveChanges.text" = "Guardar cambios";
+
+"ProfileVC.ProfileImagTextCell.enterMotherName.text" = "Ingrese el nombre de la madre";
+"ProfileVC.ProfileImagTextCell.enterFatherName.text" = "Ingrese el nombre del padre";
+"ProfileVC.ProfileImagTextCell.Mother.text" = "Madre";
+"ProfileVC.ProfileImagTextCell.Father.text" = "Padre";
+
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.text" = "Bebé:";
+"ProfileVC.ProfileGenderSelectionCell.headlineLabel.notEnoughData.text" = "¿A quién deseas concebir?";
+
+"ProfileVC.ProfileMentruationCycleCell.headlineLabel.text" = "Primer día de tu última menstruación:";
+"ProfileVC.ProfileMentruationCycleCell.cycleLength.headlineLabel.text" = "Duración del ciclo:";
+
+"ProfileVC.ProfileBirthMonthYearCell.headlineLabel.text" = "Día, mes y año de nacimiento:";
+"ProfileVC.ProfileBirthMonthYearCell.Mother.text" = "Madre";
+"ProfileVC.ProfileBirthMonthYearCell.Father.text" = "Padre";
+
+"ProfileVC.ProfileNotEnoughSubtitleCell.headlineLabel.text" = "Necesitamos más información para predecir la próxima ventana fértil. ¡Puedes cambiarlo en cualquier momento en tu perfil!";
+
+// MARK: OptionsVC
+"OptionsVC.headlineLabel.text" = "Opciones";
+"OptionsVC.Sections.Settings.headlineLabel.text" = "Configuración";
+"OptionsVC.Sections.Contacts.headlineLabel.text" = "Contactos";
+"OptionsVC.Settings.SetLanguage.headlineLabel.text" = "Establecer idioma";
+"OptionsVC.Settings.RestorePurchase.headlineLabel.text" = "Restaurar compra";
+"OptionsVC.Settings.Notifications.headlineLabel.text" = "Notificaciones";
+"OptionsVC.Settings.VisitWebsite.headlineLabel.text" = "Visitar sitio web";
+"OptionsVC.Settings.Legal.headlineLabel.text" = "Legal";
+"OptionsVC.Settings.HowItWorks.headlineLabel.text" = "¿Cómo funciona la aplicación?";
+"OptionsVC.Contacts.E-mailContact.headlineLabel.text" = "Contacto por correo electrónico";
+"OptionsVC.Contacts.RateTheApp.headlineLabel.text" = "Calificar la aplicación";
+"OptionsVC.Contacts.FollowInInstagram.headlineLabel.text" = "Seguir en Instagram";
+"OptionsVC.Contacts.Share.headlineLabel.text" = "Compartir";
+"OptionsVC.Contacts.OurExperts.headlineLabel.text" = "Nuestros expertos";
+"OptionsVC.ratingView.email.subject" = "Calificación de Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.stars" = "Califiqué con %x estrellas a Ovulio Baby";
+"OptionsVC.ratingView.email.messageBody.star" = "Califiqué con 1 estrella a Ovulio Baby";
+"OptionsVC.alert.redeemCode.title" = "Canjear código de activación";
+"OptionsVC.alert.redeemCode.message" = "¡Ingresa el código de activación de tu correo electrónico o tu orden!";
+"OptionsVC.alert.redeemCode.placeholder" = "Código de activación";
+
+// Compartir con amigos
+"OptionsVC.shareCovarUIAlertController.messageButton" = "Mensaje";
+"OptionsVC.shareCovarUIAlertController.emailButton" = "Correo electrónico";
+"OptionsVC.shareCovarUIAlertController.moreButton" = "Más";
+"OptionsVC.shareCovarUIAlertController.messageTextBody" = "¡Prueba la aplicación Ovulio Baby! Obténla gratis en https://ovulio-baby.com";
+"OptionsVC.shareCovarUIAlertController.emailTextBody" = "Hola,\n¡prueba la aplicación Ovulio Baby!\nObténla gratis en https://ovulio-baby.com";
+"OptionsVC.keepInTouch.email" = "Pregunta sobre la aplicación Ovulio Baby";
+
+// MARK: ReviewAlertView
+"ReviewAlertView.titleLabel.text" = "¿Cómo calificarías la aplicación?";
+"ReviewAlertView.contactUs" = "Contáctanos";
+"ReviewAlertView.rateUs" = "Califícanos";
+
+// MARK: LegalOptionVC
+"LegalOptionVC.headlineLabel.text" = "Legal";
+"LegalOptionVC.LegalNotice.headlineLabel.text" = "Aviso legal";
+"LegalOptionVC.PrivacyPolicy.headlineLabel.text" = "Política de privacidad";
+"LegalOptionVC.TermsandConditions.headlineLabel.text" = "Términos y condiciones";
+"LegalOptionVC.Disclaimer.headlineLabel.text" = "Descargo de responsabilidad";
+"LegalOptionVC.Attribution.headlineLabel.text" = "Atribución";
+"LegalOptionVC.TermsOfUse.headlineLabel.text" = "Condiciones de uso";
+
+// MARK: NotificationsOptionVC
+"NotificationsOptionVC.headlineLabel.text" = "Notificaciones";
+"NotificationsOptionVC.PeriodStarting.headlineLabel.text" = "Inicio del período";
+"NotificationsOptionVC.PeriodStarting.headlineDescriptionLabel.text" = "Esta notificación te recordará sobre tu período una semana antes de que comience";
+"NotificationsOptionVC.FavorableDay.headlineLabel.text" = "Día propicio para la concepción";
+"NotificationsOptionVC.GenderNotification.headlineLabel.text" = "Notificación de género";
+
+// MARK: OurExpertsOptionPageVC
+"OurExpertsOptionPageVC.headlineLabel.text" = "Nuestros Expertos";
+
+
+
+
+// MARK: GamesModel: Locations
+"GamesModel.LocationsModel.AtHome.headlineLabel.text" = "En casa";
+"GamesModel.LocationsModel.AtHome.OnTheCouch.text" = "En el sofá";
+"GamesModel.LocationsModel.AtHome.OnTheFloor.text" = "En el suelo";
+"GamesModel.LocationsModel.AtHome.OnAChair.text" = "En una silla";
+"GamesModel.LocationsModel.AtHome.OnTheDiningTable.text" = "En la mesa del comedor";
+"GamesModel.LocationsModel.AtHome.InTheBathroom.text" = "En el baño";
+"GamesModel.LocationsModel.AtHome.InTheShower.text" = "En la ducha";
+"GamesModel.LocationsModel.AtHome.InTheKitchen.text" = "En la cocina";
+"GamesModel.LocationsModel.AtHome.InTheCloset.text" = "En el armario";
+"GamesModel.LocationsModel.AtHome.AgainstAWall.text" = "Contra la pared";
+"GamesModel.LocationsModel.AtHome.OnTheStairs.text" = "En las escaleras";
+"GamesModel.LocationsModel.AtHome.InTheAttic.text" = "En el ático";
+"GamesModel.LocationsModel.AtHome.OnAYogaMat.text" = "En una esterilla de yoga";
+"GamesModel.LocationsModel.AtHome.OnTheWashingMachine.text" = "En la lavadora";
+"GamesModel.LocationsModel.AtHome.InFrontOfAMirror.text" = "Frente a un espejo";
+"GamesModel.LocationsModel.AtHome.AtTheFrontDoor.text" = "En la puerta principal";
+"GamesModel.LocationsModel.AtHome.BehindAWindow.text" = "Detrás de una ventana";
+"GamesModel.LocationsModel.AtHome.InTheBasement.text" = "En el sótano";
+"GamesModel.LocationsModel.AtHome.OnTheBalconyIntheGarden.text" = "En el balcón/en el jardín";
+"GamesModel.LocationsModel.AtHome.InTheGardenHouseGarage.text" = "En la casa del jardín/garaje";
+
+// MARK: GamesModel: Extras
+"GamesModel.ExtrasModel.DirtyTalk.text" = "Hablar sucio";
+"GamesModel.ExtrasModel.Fingering.text" = "Digitación";
+"GamesModel.ExtrasModel.Oral.text" = "Oral";
+"GamesModel.ExtrasModel.Blindfold.text" = "Venda en los ojos";
+"GamesModel.ExtrasModel.Handcuffs.text" = "Esposas";
+"GamesModel.ExtrasModel.HairPulling.text" = "Tirar del pelo";
+"GamesModel.ExtrasModel.GrabByTheNeck.text" = "Agarrar por el cuello";
+"GamesModel.ExtrasModel.WithEarplug.text" = "Con tapones para los oídos";
+"GamesModel.ExtrasModel.Bondage.text" = "Bondage";
+"GamesModel.ExtrasModel.Sextoys.text" = "Juguetes sexuales";
+"GamesModel.ExtrasModel.HotWaxMassage.text" = "Masaje con cera caliente";
+"GamesModel.ExtrasModel.RolePlaying.text" = "Juego de roles";
+"GamesModel.ExtrasModel.WatchPorn.text" = "Ver pornografía";
+"GamesModel.ExtrasModel.Whipping.text" = "Azotar";
+"GamesModel.ExtrasModel.SexTape.text" = "Video sexual";
+
+
+// MARK: Article: Babylicious Nutritious
+"LearningResourceArticleVC.babyliciousNutritious.headline" = "Babylicious Nutritious: Alimentos nutritivos para promover el embarazo";
+"LearningResourceArticleVC.babyliciousNutritious.headline.text" = "La comida nutre tu cuerpo, mente y alma, y cuando estás planeando concebir, la comida que consumes puede ayudarte a hacer realidad tus sueños de concepción de una manera muy sabrosa. En este artículo, exploraremos cómo la dieta adecuada puede promover el embarazo, compartiremos por qué algunos alimentos tienen el poder de aumentar tus posibilidades de quedar embarazada. Hay muchos factores en juego cuando se intenta tener un bebé, siempre es mejor obtener más información sobre tu fertilidad como pareja con un profesional de la salud, la dieta adecuada y la salud han sido vinculadas al éxito de la concepción. También te informaremos sobre algunas cosas que debes evitar al planificar tu embarazo para que puedas concebir!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section1.headline" = "Debajo y encima";
+"LearningResourceArticleVC.babyliciousNutritious.section1.text" = "Es cierto que estadísticamente hablando, las mujeres que están por debajo o por encima del peso tienen más dificultades para quedar embarazadas, ¡eso no quiere decir que sea imposible por supuesto! Sin embargo, estar por encima o por debajo del peso puede causar desequilibrios hormonales, irregularidades en la ovulación y problemas menstruales. Si planeas quedar embarazada, considera consultar con un dietista para encontrar un plan dietético personalizado según tu altura, peso y posibles condiciones de salud. Esto también se aplica a tu pareja, ya que los problemas de peso pueden presentar problemas en la fertilidad masculina también.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section2.headline" = "Babylicious Nutritious: Mejora tus posibilidades y evita...";
+"LearningResourceArticleVC.babyliciousNutritious.section2.text" = "-Fumar. Fumar puede reducir la fertilidad en hombres y mujeres, si esperas concebir, dejar el hábito puede ayudarte en tu camino hacia la concepción.
+-Exceso de cafeína. Al intentar concebir, los expertos están de acuerdo en que el consumo excesivo de cafeína puede reducir tus posibilidades de embarazo debido a la cafeína y puede afectar cómo tu cuerpo metaboliza todos esos buenos nutrientes en tu sistema.
+-Alcohol. Aparte de disfrutar un sábado por la noche, parece que no hay mucho bien en el alcohol. Al intentar quedar embarazada, el alcohol puede reducir la fertilidad, no solo en mujeres sino también en hombres. El alcohol también puede desequilibrar tus hormonas, lo que afecta tu ciclo menstrual. Para aumentar tus posibilidades de embarazo, lo mejor es mantenerse con agua.
+-Alimentos procesados. Se sabe que los alimentos procesados pueden reducir la calidad del semen de los hombres, lo que puede afectar tus posibilidades de concepción. Los alimentos procesados están llenos de azúcar, sal y grasas, que simplemente no son saludables cuando estás tratando de quedar embarazada.
+-Bebidas azucaradas. Las bebidas y alimentos con alto contenido de azúcar disminuyen la fertilidad tanto en hombres como en mujeres. No solo eso, ¡sino que también pueden literalmente hacer que tus órganos, como tu sistema reproductivo, envejezcan antes de tiempo!
+-Pescado crudo y pescado con alto contenido de mercurio. Probablemente hayas escuchado que debes evitar el sushi mientras estás embarazada. Esto también se aplica cuando estás tratando de concebir. El mercurio se acumula en el torrente sanguíneo con el tiempo, las cantidades altas pueden afectar tu salud y la de tu futuro bebé en el vientre.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section3.headline" = "Babylicious Nutritious: Lo bueno";
+"LearningResourceArticleVC.babyliciousNutritious.section3.text" = "Hacer cambios en tu dieta puede ser difícil, ¡pero afortunadamente, la comida que se recomienda y promueve el embarazo es buena y saludable para ti! Veamos qué estarás comiendo mientras te preparas para comer por dos:
+-Aceite de oliva virgen extra. ¿Qué no puede hacer este líquido, verdad? Es bueno para tu piel, cabello y sorprendentemente promueve la fertilidad tanto en hombres como en mujeres.
+-Mariscos. Aunque hay peces que tienen alto contenido de mercurio, también hay muchos mariscos de los que las mujeres que intentan concebir se beneficiarán. Los mariscos son una opción de comida llena de nutrientes que es alta en omega 3. Mariscos como el salmón, las anchoas, la merluza, el bacalao, los camarones, la langosta y muchos más, pueden ayudar en la ovulación y también mejorar la calidad del semen.
+-Frutas. La fruta está llena de vitaminas y alta en fibra, cuando estés intentando tener un pequeño en el horno, querrás abastecerte de piñas, manzanas sin pelar, frambuesas, mangos, fresas y plátanos.
+-Verduras. Todos hemos escuchado que comamos nuestras verduras en algún momento u otro, y por una buena razón. La col rizada y las espinacas son particularmente beneficiosas cuando intentas concebir, están llenas de hierro, manganeso y folato, ¡que aumentan la probabilidad de embarazo!
+-Cereales integrales. Los cereales integrales como la cebada, el arroz integral, el pan integral y los cereales integrales, etc., son una brillante adición a una dieta saludable. ¡Los cereales integrales se han relacionado con una mejor implantación y tasas de embarazo!
+-Legumbres. Los frijoles, guisantes y lentejas son un superalimento para el embarazo, contienen ácido fólico que es una vitamina crucial que puede ayudar en la concepción. Las legumbres aumentan tu fertilidad; definitivamente recomendamos incorporar estos frijoles mágicos en tu dieta.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section4.headline" = "Babylicious Nutritious: La dieta mediterránea";
+"LearningResourceArticleVC.babyliciousNutritious.section4.text" = "La dieta mediterránea consiste principalmente en aceites vegetales, legumbres, pescado y verduras, esta dieta puede aumentar tu probabilidad de quedar embarazada debido a sus cualidades ricas en nutrientes. La dieta mediterránea se centra en alimentos enteros y sin procesar que son ricos en calcio, hierro, fibra y proteínas, que son los componentes básicos de un cuerpo sano preparándose para concebir. Esta dieta no tiene como objetivo privarte o dejarte con hambre, de hecho, te sentirás más lleno por más tiempo y notarás beneficios secundarios como una mejor función cerebral, mayor energía y estado de ánimo, control de peso, reducción de la inflamación, la lista continúa. Esta también es una dieta que se puede seguir durante el embarazo y tendrá beneficios increíbles para tu pequeño también. Sin mencionar que hay un montón de deliciosas recetas e ideas de comidas disponibles en línea, ¡lo que facilita comenzar y mantenerse en ella!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section5.headline" = "Babylicious Nutritious: Alimentos que aumentan el conteo de espermatozoides";
+"LearningResourceArticleVC.babyliciousNutritious.section5.text" = "Hay muchas vitaminas cruciales que se ha demostrado que aumentan la fertilidad entre los hombres. ¡El conteo y la calidad de los espermatozoides de tu pareja también pueden afectar tus posibilidades de embarazo! Averigüemos qué alimentos pueden aumentar la posibilidad de concepción:
+-Nueces: El ácido fólico y la vitamina B6 presentes en las nueces apoyan la fertilidad masculina y son un bocadillo fácil si estás en movimiento.
+-Pescado: El salmón y las sardinas están llenos de Omega-3, también se conoce como uno de los mejores alimentos para aumentar el conteo de espermatozoides.
+-Carne de res: La carne de res está cargada de zinc, carnitina y vitamina B12, ¡todos los cuales promueven un mayor conteo de espermatozoides!
+-Frutas y verduras: Un estudio con 250 participantes masculinos descubrió que los hombres que consumían mayores cantidades de frutas y verduras tenían concentraciones de espermatozoides y movilidad superiores.
+-Ostras: Investigaciones informan que la vitamina B12 ayuda a desarrollar espermatozoides saludables, ¡y las ostras contienen mucha! También tienen una gran cantidad de zinc y vitamina D, que también se sabe que contribuyen a espermatozoides saludables y activos.
+-Tomates: Los tomates contienen algo llamado Licopeno, y los estudios han demostrado que consumir alrededor de 4g de Licopeno al día aumenta el conteo de espermatozoides masculinos.
+-Ajo: El ajo tiene maravillosas cualidades antioxidantes que aumentan la producción de espermatozoides y la testosterona. Entonces, la próxima vez que tengas una comida, asegúrate de agregar un poco de ajo, ¡es sabroso y promueve la fertilidad en general!";
+
+"LearningResourceArticleVC.babyliciousNutritious.section6.headline" = "Babylicious Nutritious: ¿Qué perjudica el conteo de espermatozoides?";
+"LearningResourceArticleVC.babyliciousNutritious.section6.text" = "Es importante tener en cuenta que la mayoría de los elementos que se deben evitar en este artículo para las mujeres también se aplican a los hombres. Cosas como el alcohol, la cafeína, el tabaco, los alimentos procesados y los pescados con alto contenido de mercurio tampoco se recomiendan para que los hombres los consuman cuando están tratando de concebir, pero hay algunos que destacan cuando se habla específicamente sobre la fertilidad masculina, veamos algunos:
+-Medicamentos para el dolor: Se sabe que el ibuprofeno y el paracetamol disminuyen la fertilidad masculina al afectar negativamente los niveles de testosterona y alterar el desarrollo de los espermatozoides. ¡Ten cuidado al tratar tu próximo dolor de cabeza y tal vez opta por una compresa fría o un remedio natural!
+-Endulzantes: Los endulzantes no son una buena idea tanto para hombres como para mujeres que intentan concebir, sin embargo, para los hombres, los efectos de los endulzantes en las sodas dietéticas, opciones de alimentos sin azúcar, etc., causan estragos en el desarrollo de los espermatozoides, el conteo de espermatozoides y los niveles de testosterona.
+-Productos lácteos altos en grasas: Estudios han demostrado que el queso, la leche entera y la crema tienen un efecto negativo en la fertilidad masculina.";
+
+"LearningResourceArticleVC.babyliciousNutritious.section7.headline" = "Babylicious Nutritious: ¡Disfruta!";
+"LearningResourceArticleVC.babyliciousNutritious.section7.text" = "Nutrir tu cuerpo para promover el embarazo o en preparación para el embarazo puede ser una tarea deliciosa. Ya sea que estés tratando de concebir en este momento o estés planeando para el futuro cercano, comer una dieta equilibrada solo puede beneficiarte a ti y a tu futuro paquete de alegría. Recuerda que se necesitan dos para bailar el tango, si tú y tu pareja están buscando formas de mejorar su fertilidad juntos, ¡comiencen con su dieta! ¡Crear comidas y recetas es solo otra forma de hacer que el viaje a la concepción sea aún más agradable!";
+
+
+// MARK: Article: Oh Baby
+"LearningResourceArticleVC.ohBaby.headline" = "Oh Baby: Una guía para la intimidad sexual mientras estás esperando";
+"LearningResourceArticleVC.ohBaby.text" = "El embarazo puede ser una experiencia increíble; puede acercarte más como pareja y formar un vínculo de por vida entre ustedes dos. Comenzarás a aprender más sobre tu cuerpo y ver a tu pareja bajo una nueva luz. A medida que las parejas se embarcan en su aventura de embarazo juntas, queremos compartir cómo aún pueden compartir intimidad sexual y mantener viva la pasión.";
+
+"LearningResourceArticleVC.ohBaby.section1.headline" = "Mitios y Hechos Sobre el Sexo Durante el Embarazo";
+"LearningResourceArticleVC.ohBaby.section1.text" = "En tu viaje de embarazo, comenzarás a pensar en todos esos mitos que pueden hacer que el sexo sea un poco aterrador. Estamos aquí para compartir algunos de los mitos más comunes sobre las relaciones sexuales durante el embarazo, y desmentirlos para tu tranquilidad:
+
+Mito 1: Tener relaciones sexuales o penetración profunda mientras estás embarazada dañará al bebé. Este es un miedo común que tienen muchas parejas nuevas que esperan un bebé, es natural preguntarse si este mito tiene algo de verdad y, afortunadamente, realmente no lo tiene. La vagina está diseñada para estirarse durante el sexo, lo que crea un pequeño espacio entre tu vagina y el cuello uterino. Si tu pareja tiene una longitud seria, un hecho adicional para tranquilizar tu mente es que el cuello uterino está cerrado y envuelto en un tapón de moco para proteger a tu bebé.
+
+Mito 2: El sexo puede inducir el parto. Ah sí, otro error común, estamos muy felices de informar que esto simplemente no es verdad, este mito surgió simplemente porque el semen contiene prostaglandina, que es la misma hormona que se usa en el hospital para inducir el parto. Esto se administra a la mujer en una forma sintética altamente concentrada. Entonces, la buena noticia es que los hombres simplemente no producen suficiente cantidad de esta hormona como para hacer que su pareja entre en un parto prematuro.
+
+Mito 3: Tu bebé sabe lo que estás haciendo. Puede asustar a algunas parejas ser sexualmente íntimas por el puro terror de que su bebé sepa lo que está pasando. Ten la seguridad de que tu bebé no tiene ni idea de lo que estás haciendo, te lo prometemos. Sí, tu bebé puede detectar ruidos y movimientos mientras estás embarazada, pero tu pequeño no puede comprender ni interpretar lo que está sucediendo.
+
+El sexo durante el embarazo puede crear una conexión íntima profunda en tu relación. No solo beneficiará a tu relación, sino que también puede brindarte más placer, veamos solo algunos hechos que seguramente te emocionarán:
+
+Hecho 1: ¡Es más fácil tener un orgasmo cuando estás embarazada! Sí, leíste bien. Las mujeres ganan alrededor de 3 libras más de sangre, lo que hace que la ocurrencia de orgasmos sea más fácil y frecuente.
+
+Hecho 2: ¡Adiós anticonceptivos! Sí, obviamente no hay necesidad de anticonceptivos durante el embarazo y esta es una gran noticia para aquellos que conocen los diversos efectos secundarios de la píldora y otras formas de anticoncepción.
+
+Hecho 3: Los orgasmos pueden aliviar tu malestar. El dolor de espalda y los dolores de cabeza son comunes cuando estás embarazada, ¡afortunadamente, tu cuerpo te respalda! Cuando tienes un orgasmo, tu cuerpo libera la maravillosa hormona llamada oxitocina que puede aliviar el dolor.";
+
+"LearningResourceArticleVC.ohBaby.section2.headline" = "A medida que creces: Posiciones para comodidad y placer";
+"LearningResourceArticleVC.ohBaby.section2.text" = "Al comienzo de tu embarazo, la forma en que tienes sexo no debería verse afectada, pero a medida que tu vientre y tu bebé comienzan a crecer, algunas posiciones pueden perder su brillo. Algunas posiciones especialmente salvajes pueden no ser seguras para tu vientre y podrían ser un poco incómodas, así que sugerimos optar por posiciones que se adapten a un vientre en crecimiento. Aquí tienes algunas posiciones ideales para una pareja que espera un bebé:
+
+- Cucharita: La posición de la cucharita puede ser profundamente íntima, no solo estás en una posición de abrazo, sino que te permite acostarte de lado, apoyando tu vientre.
+- Vaquera clásica: Esta posición acomoda tu vientre y no ejerce ninguna presión innecesaria sobre él. Te pone a ti en control de la velocidad y la profundidad según tu comodidad.
+- Al borde de la cama: Acostada en el borde de la cama mientras tu pareja se para para penetrarte, esto permite que tus piernas se abran más y el ángulo evita el contacto con el vientre.
+- Por detrás: Pon una almohada para darle a tu vientre un soporte adicional y ¡a disfrutar! Solo ten en cuenta que esto puede no ser aconsejable en las etapas tardías del embarazo, ya que esta posición proporciona una penetración profunda.
+- De lado: Con ambos acostados de lado, mirándose el uno al otro, pon ambas piernas sobre la cadera de tu pareja para que él pueda penetrarte desde abajo.";
+
+"LearningResourceArticleVC.ohBaby.section3.headline" = "Conéctate como pareja";
+"LearningResourceArticleVC.ohBaby.section3.text" = "Antes de que te des cuenta, tu pequeño habrá llegado y, naturalmente, la intimidad sexual ya no estará en la parte superior de tu lista de cosas por hacer. Aprovecha este tiempo para profundizar tu conexión sexual con tu pareja explorando nuevas posiciones y también siendo creativos con encuentros que no siempre requieren penetración. El juego previo también puede ser una excelente manera de dar y recibir placer durante el embarazo, ¡junto con la masturbación mutua!";
+
+"LearningResourceArticleVC.ohBaby.section4.headline" = "Solo recuerda";
+"LearningResourceArticleVC.ohBaby.section4.text" = "Aquí en Ovuilo Baby nos preocupamos por tu salud en general. Recuerda, si el sexo se vuelve incómodo o doloroso a medida que creces, consulta con tu médico, ya que hay variables a considerar cuando se trata de embarazos de alto riesgo. Tu médico te asesorará a ti y a tu pareja sobre prácticas sexuales seguras o para evitar el sexo por completo. Sin embargo, si tu médico te ha dado luz verde, el sexo aún debe estar sobre la mesa hasta las últimas 6 semanas de embarazo. No tienes que renunciar a la pasión entre las sábanas durante tu embarazo, ¡todavía mereces conectarte como pareja! Prueba posiciones para tu comodidad y experimenta con tu pareja sobre cómo obtener lo mejor de tus relaciones sexuales.";
+
+
+// MARK: Article: Position Perfect
+"LearningResourceArticleVC.positionPerfect.headline" = "Position Perfect: Top Positions for Conception and Gender Influence";
+"LearningResourceArticleVC.positionPerfect.text" = "¿Tienes curiosidad por saber qué posiciones son más propensas a terminar con un bebé en esa barriga? ¿Alguna vez te has preguntado si es posible influir en el género de tu bebé? Aquí en Ovuilo Baby nos sumergiremos de cabeza en el poder de tus posiciones y compartiremos consejos para obtener el mejor resultado en tu camino hacia el embarazo. No nos malinterpretes, cuando se trata de concebir, hay muchos factores a considerar además de las posiciones que pruebas en la habitación, como la ovulación, la salud y las influencias biológicas, etc. Dicho esto, hay posiciones ideales para usar durante la ovulación que ciertamente pueden aumentar tus posibilidades de embarazo en diez veces, y si esperas un género específico, ¡se dice que la posición adecuada podría dar resultados exitosos!";
+
+
+"LearningResourceArticleVC.positionPerfect.section1.headline" = "3 Consejos que Vale la Pena Intentar";
+"LearningResourceArticleVC.positionPerfect.section1.text" = "Consejo #1: Cuando intentas concebir, la gravedad es tu mejor amiga, ¡se trata de darle al esperma la mejor oportunidad de llegar a ese óvulo! Como dicen, 'lo que sube, debe bajar', así que ponerse de pie inmediatamente después del sexo debe evitarse. En cambio, continúa acostada durante unos 15 minutos, intenta mantenerte quieta para que esos nadadores lleguen a donde van. También puedes ayudar al esperma colocando una almohada debajo de las caderas, dándole a la gravedad la ventaja. Llévalo un paso más allá y levanta las piernas, posiblemente con la ayuda de una pared cerca de tu cama. No hay garantía de que estos consejos funcionen el 100% del tiempo, sin embargo, definitivamente estás dando al esperma su mejor oportunidad de lograr su propósito de vida, ¡hacerte quedar embarazada!
+Consejo #2: ¡Ten un orgasmo! Se dice que tener un orgasmo puede aumentar tus posibilidades de concepción debido a la contracción uterina durante el clímax. Esta teoría tiene resultados mixtos, pero vale la pena experimentar. La oxitocina se libera durante el orgasmo, y esta es una hormona que te hace sentir bien, eliminando parte de ese estrés, ¡que es uno de los peores enemigos de la concepción! Y, bueno, incluso si esta teoría no es del todo sólida, ¿quién no quiere un orgasmo de todos modos?
+Consejo #3: Dile adiós al lubricante. Hay cierto debate sobre si la lubricación dificulta la concepción, sin embargo, muchas personas recomiendan desechar el lubricante en el proceso, ya que se cree que afecta la movilidad del esperma.";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Positions Perfect for Conception";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "1. Misión Clásica:
+2. Vaquera Invertida:
+3. Entrada Posterior:
+4. Estilo Perrito:
+5. Tijeras Lado a Lado:
+6. Carretilla:";
+
+"LearningResourceArticleVC.positionPerfect.section2.headline" = "Intentando tener un Niño";
+"LearningResourceArticleVC.positionPerfect.section2.text" = "Se dice que la penetración profunda puede aumentar la probabilidad de concebir un niño. Esta creencia fue popularizada por el Dr. Landrum Shettles, su claim to fame fue su exitoso libro 'Cómo Elegir el Sexo de Tu Bebé'. Él teorizó 'El Método Shettles' que respaldaba la noción de que el 'esperma masculino' era más débil, más pequeño y más rápido que el 'esperma femenino'. Se cree que la penetración profunda permite al 'esperma masculino' tener una ventaja inicial ya que serán depositados cerca del cuello uterino, para que esos pequeños velocistas ganen a los 'espermas femeninos' hacia el óvulo.
+
+Posiciones para una penetración profunda:
+- Estilo Perrito: El estilo perrito permite una penetración profunda, simplemente asegúrate de voltearte para mantener esos nadadores en el lado correcto de la gravedad.
+- Parado: Ahora, este es un poco más un mito, pero se dice que estar de pie permite una penetración más profunda y podría promover la concepción de un niño.
+- A Caballo: Montar a horcajadas es una gran posición de penetración profunda; una que puedes controlar.
+
+Un Pequeño Consejo:
+Otra teoría popular al intentar concebir un niño es aumentar tu ingesta de calorías. Un estudio realizado con 740 mujeres concluyó que las mujeres que aumentaron su ingesta calórica tenían una mayor probabilidad de quedar embarazadas de un niño. Se dice que esta teoría aumenta los niveles altos de glucosa en sangre, lo que apoya la posibilidad de concebir un niño.";
+
+"LearningResourceArticleVC.positionPerfect.section3.headline" = "Intentando tener una Niña";
+"LearningResourceArticleVC.positionPerfect.section3.text" = "‘El Método Shettles’ también se dice que ayuda en la posibilidad de concebir una niña, la teoría afirma que si tienes relaciones sexuales alrededor de 2-4 días antes de la ovulación. Apoya la noción de que los ‘espermatozoides femeninos’ son más fuertes y duraderos que los ‘espermatozoides masculinos’ y los nadadores femeninos podrán sobrevivir más tiempo, lo que les permitirá llegar primero al óvulo. Este método también recomienda una penetración poco profunda basada en la misma teoría de que los ‘espermatozoides femeninos’ superarán a los ‘espermatozoides masculinos’ y soportarán el largo viaje hacia el óvulo.
+
+Posiciones para una Penetración Superficial:
+- Cuchareando: Cucharear es una posición perfecta para que ocurra una penetración superficial, al cerrar las piernas mientras cuchareas, esto también puede reducir la penetración profunda.
+- Lado a lado: Acostarse uno al lado del otro con las piernas entrelazadas promoverá una penetración superficial.
+- Misionero: La mujer debería estar acostada plana, con las piernas en posición misionero, asegúrate de no levantar o envolver las piernas alrededor de tu pareja ya que esto permitirá una penetración más profunda.
+
+Un Pequeño Consejo:
+Supuestamente, si el pH vaginal es más ácido, es más probable que concibas una niña. Hay muchos tipos de alimentos que pueden aumentar tu acidez, veamos algunos:
+- Cereales integrales
+- Dulces y pasteles
+- Arándanos
+- Maíz
+- Carne
+- Verduras de hoja verde";
+
+"LearningResourceArticleVC.positionPerfect.section4.headline" = "Si al principio no tienes éxito, inténtalo una y otra vez!";
+"LearningResourceArticleVC.positionPerfect.section4.text" = "Mientras estás en modo de hacer bebés, es fácil sentirse decepcionado si ciertos métodos, consejos y sugerencias no logran el objetivo deseado. 'Si al principio no tienes éxito, inténtalo una y otra vez', como dice el viejo refrán. Ten en cuenta que algunas cosas valen la pena esperar, y todo sucederá a su debido tiempo. Disfruta de la intimidad con tu pareja y regocíjate en los momentos en que trabajen juntos como equipo para convertirse en padres. Con un sólido entendimiento de tu ventana fértil y estado de salud, junto con la experimentación de posiciones y gravedad, ¡no puedes perder! Puedes leer más sobre la concepción, jugar juegos sexuales para condimentar tu viaje de concepción y encontrar las mejores posiciones para aumentar la probabilidad de embarazo e influir en el género de tu bebé, ¡todo en tu aplicación Ovulio!";
+
+
+
+// MARK: Article: Calendario de Concepción Chino
+"LearningResourceArticleVC.chineseConceptionCalendar.headline" = "Calendario de Concepción Chino: Consejos del Este sobre Influencia y Predicción del Género de tu Bebé";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.headline" = "Calendario de Concepción Chino: ¿Qué es el Calendario de Concepción Chino?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section1.text" = "Antes de sumergirnos en todo el asunto de hacer bebés y usar el Calendario de Concepción Chino en tu viaje para concebir, deberíamos explicarte qué es exactamente. Este antiguo calendario se ha utilizado como una herramienta para predecir e influenciar el género a lo largo de la historia china durante cientos de años. La información que utiliza el gráfico para la predicción es el mes de la concepción, la edad lunar de la mujer embarazada en el momento de la concepción, y luego se utiliza una fórmula para predecir el género. También se dice que el gráfico apoya la idea de que las hormonas cambian cada mes lunar; según la mitología china, estas fluctuaciones hormonales también pueden influir en el género de tu bebé. Si tú y tu pareja están interesados en usar el Calendario de Concepción Chino, este calendario está disponible en tu aplicación 'Ovulio Baby'. Nuestro Calendario Lunar te ayuda a registrar tu período de ovulación y qué fechas tienes una mayor probabilidad de concebir un niño o una niña. Se encarga de los cálculos y fórmulas, y te ayuda a calcular tu edad lunar. La mayoría de la población mundial utiliza el Calendario Gregoriano como medio de cronometraje, sin embargo, el Calendario Lunar sigue siendo popular y venerado por muchas personas en China. ¡A pesar de su antigüedad, se dice que tiene una tasa de éxito bastante sorprendente!";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.headline" = "¿Qué información utiliza?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section2.text" = "El Calendario de Concepción Chino se basa en tu edad lunar y el mes lunar de concepción de tu bebé para predecir el género de tu bebé. Si buscas calcular los días en que estás ovulando o qué días son los mejores para concebir un cierto género, solo necesitarás registrar tu edad lunar. Ten en cuenta que tu edad lunar es ligeramente diferente de tu edad real. Tu edad lunar es aproximadamente de 1-2 años mayor, ya que hay una diferencia entre el Calendario Gregoriano y el Lunar Chino. Estamos encantados de ayudarte a calcular tu edad lunar, lo que lo convierte en una forma fácil y sin problemas de rastrear tu fertilidad.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.headline" = "Cómo Utilizar el Gráfico para Concebir un Niño o una Niña";
+"LearningResourceArticleVC.chineseConceptionCalendar.section3.text" = "Los padres que deseen tener un género específico pueden usar el gráfico al planificar un embarazo, apuntando a concebir en los meses del gráfico que favorezcan la concepción de un género en particular. Esto puede ayudar a las parejas a seleccionar un mes que pueda tener una mayor probabilidad de concebir una niña o un niño. Según la ciencia moderna, no tenemos mucho que decir sobre influir en el género cuando se trata de embarazo, generalmente es una posibilidad del 50/50. Sin embargo, muchos padres hoy en día encuentran que a veces un enfoque de 'tradición sobre ciencia' es lo que funciona para ellos. Sorprendentemente, algunas fuentes afirman que este Calendario de 700 años tiene una tasa de éxito del 93% para predecir con precisión el género de un bebé nonato.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.headline" = "¿Realmente Funciona?";
+"LearningResourceArticleVC.chineseConceptionCalendar.section4.text" = "El Calendario no presume estar basado en la ciencia; muchas parejas y madres han informado que el Gráfico de Concepción Chino es la mejor manera de predecir no médicamente el género de tu bebé. Entonces, para responder a la pregunta, '¿realmente funciona?' No es una garantía, pero según un alto número de tasas de éxito reportadas y el hecho de que incluso cientos de años después de su creación, sigue siendo un método popular de predicción de género, creemos que vale la pena intentarlo. No aconsejaríamos confiar en el Calendario como una conclusión definitiva sobre si tendrás un niño o una niña.";
+
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.headline" = "Un Pensamiento Final";
+"LearningResourceArticleVC.chineseConceptionCalendar.section5.text" = "Aunque parece que el gráfico de concepción chino tiene una tasa de éxito muy alta, es importante recordar que la naturaleza es una fuerza con la que hay que contar y puede ser impredecible en los mejores momentos. Quizás siempre has imaginado riendo con una niñita propia, o tal vez has imaginado a tu niño trepando un árbol en el patio trasero. Es completamente normal tener expectativas cuando se trata del género de tu bebé, este es tu suave recordatorio de abrazar tu pequeña bendición independientemente de su género. Para la mayoría de los padres, la perspectiva de tener un bebé feliz y saludable es lo más importante. Para aquellos que están interesados en usar nuestro Calendario Lunar, puede ser un experimento emocionante para las parejas poner a prueba. Puedes crear grandes recuerdos haciendo que tu familia y amigos apuesten sobre cuál creen que será el género de tu bebé, mientras tú y tu pareja se quedan con el resultado de la predicción del Gráfico Chino. Esta es una forma emocionante de mantener el viaje juguetón y ligero hasta revelar el género del pequeño. No tienes nada que perder al usarlo como una herramienta para influir y predecir si tendrás un niño o una niña, ¡los resultados incluso podrían sorprenderte!";
+
+
+// MARK: Artículo: El Calendario de Fertilidad
+"LearningResourceArticleVC.fertilityCalendar.headline" = "El Calendario de Fertilidad: Comprendiendo tu Ventana de Fertilidad";
+"LearningResourceArticleVC.fertilityCalendar.text" = "Al rastrear los días de tu fertilidad, estás aumentando las posibilidades de quedar embarazada. El ciclo menstrual promedio es de 28 días y hay alrededor de 6 días en ese ciclo donde tu fertilidad está en su punto máximo, para la mayoría de las mujeres esto es aproximadamente 5 días antes de la ovulación, el día de la ovulación o el día después. Tus ovarios producen dos hormonas, estrógeno y progesterona, que son cruciales para quedar embarazada, y no solo eso, sino que los ciclos menstruales ovulatorios benefician tu salud ya que la ovulación es responsable de la producción de hormonas. Antes de la ovulación, las mujeres producirán una cantidad significativa de estradiol y luego, después de la ovulación, su cuerpo producirá una cantidad aún más significativa de progesterona. Entonces, bebé o no bebé, la ovulación es importante y proporciona a las mujeres esas valiosas hormonas que su cuerpo necesita para beneficiar su salud en general.";
+
+"LearningResourceArticleVC.fertilityCalendar.section1.headline" = "¿Qué es la Ovulación?";
+"LearningResourceArticleVC.fertilityCalendar.section1.text" = "Una hormona llamada hormona luteinizante (LH) generada en el cerebro desencadena el proceso de ovulación. La LH es un catalizador que pone en marcha la ovulación y el embarazo. La ovulación es la parte de tu ciclo menstrual cuando tu cuerpo liberará un óvulo maduro a través de las trompas de Falopio y hacia el útero donde está esperando ser fertilizado. El óvulo suele sobrevivir alrededor de 24 horas.";
+
+"LearningResourceArticleVC.fertilityCalendar.section2.headline" = "Signos de Ovulación";
+"LearningResourceArticleVC.fertilityCalendar.section2.text" = "Algunas mujeres pueden no reconocer ni siquiera cuándo están ovulando, mientras que otras pueden sentir muchos signos familiares con cada ciclo. Veamos cuáles son algunos de los signos más comunes de que estás ovulando:
+-Senos sensibles. El aumento de hormonas en el cuerpo puede resultar en sensibilidad en los senos y los pezones.
+-Ligero sangrado. Algunas mujeres pueden experimentar un sangrado muy ligero durante la ovulación, mientras que otras no sangran en absoluto.
+-Aumento de la libido. Durante la ovulación, las mujeres pueden sentirse especialmente fogosas, esta es una pista de la naturaleza de que es el momento perfecto para concebir un bebé. Ten en cuenta que muchos factores externos juegan un papel en tu libido, como el alcohol, los medicamentos, el estrés, la lista continúa. Por lo tanto, vale la pena informarse sobre cómo tu dieta y hábitos también pueden afectar tu libido.
+-Fluctuación del estado de ánimo. Puedes experimentar un impulso adicional de confianza y ánimo durante la ovulación a medida que tus hormonas comienzan a aumentar.
+-Hinchazón. Esto puede afectar a las mujeres en diferentes grados. El cambio en las hormonas afecta el tracto digestivo y tu cuerpo tiende a retener más agua durante la ovulación.
+-Olfato agudo. Las mujeres pueden experimentar un sentido del olfato más agudo, ya que durante este tiempo tu cuerpo es más propenso a ser atraído y a detectar el olor de las feromonas masculinas.
+-Aumento de la temperatura corporal. Tu temperatura basal del cuerpo aumentará durante la ovulación, pero la mayoría de las mujeres no notan este cambio ya que suele ser sutil.
+-Náuseas y dolores de cabeza. ¿Alguna vez te has preguntado por qué podrías sentirte un poco mareada en un martes por la tarde? ¿O tal vez te has quejado de un dolor de cabeza, incluso cuando estabas hidratada y descansada? Debido a los cambios en tus hormonas, es común experimentar náuseas y dolores de cabeza... ¡desafortunadamente!
+-Calambres abdominales. Sí, lo sabemos, ¿cuándo no tenemos calambres? Es cierto que muchas mujeres experimentan calambres leves durante la ovulación. Estos calambres suelen durar no más de un par de horas. También hay mujeres que no tienen idea cuando ovulan, y no sienten ningún calambre en absoluto.
+Entonces, ¿por qué te contamos sobre todos esos extraños y maravillosos signos de ovulación? Bueno, cuando llevas un calendario de fertilidad, también puedes rastrear y tomar nota de lo que tu cuerpo está experimentando. Esto también puede ayudarte en un cálculo preciso de tu ventana de fertilidad.";
+
+"LearningResourceArticleVC.fertilityCalendar.section3.headline" = "Calendario de Fertilidad Ovulio Baby";
+"LearningResourceArticleVC.fertilityCalendar.section3.text" = "Hay kits de predicción de ovulación disponibles en cualquier farmacia que pueden ayudar a predecir la ovulación. Estos kits pueden ser precisos en la detección del pico de LH de una mujer, que ocurre cuando el cuerpo está liberando un óvulo maduro, pero algunas mujeres pueden experimentar este pico de LH sin liberar el óvulo, por lo que el kit puede no ser totalmente preciso. Es mejor usar un calendario de fertilidad junto con kits para obtener la lectura más precisa de tu ciclo. Calcular tu período de ovulación y rastrear tu ciclo nunca ha sido más fácil con tu aplicación 'Ovulio Baby'. Recuerda que tienes acceso a funciones como otros artículos sobre el embarazo, nuestro calendario de fertilidad, el gráfico de fertilidad lunar, juegos sexuales para hacer divertido y fresco el camino hacia la concepción, posiciones sexuales para probar e incluso posiblemente influir en el género de tu pequeño paquete de alegría.";
+
+"LearningResourceArticleVC.fertilityCalendar.section4.headline" = "Gracias por Pasar Por Aquí";
+"LearningResourceArticleVC.fertilityCalendar.section4.text" = "Sabemos que hay mucho que pensar cuando estás intentando concebir, por eso se recomienda conocer tu ventana de fertilidad y aprovechar cada oportunidad que te acerque un paso más a tu sueño de ser padre. Tener un bebé es un hito tan significativo, pero eso no significa que el camino hacia la concepción tenga que ser solo gráficos y pruebas, también puede ser un momento para conectar con tu pareja y explorar formas de profundizar la intimidad en tu relación, ¿por qué no divertirse un poco con ello? Echa un vistazo a nuestro artículo sobre cómo puedes convertir en un juego quedar embarazada y formas en que tú y tu pareja pueden duplicar su intimidad y placer en el proceso.";
+
+
+// MARK: Article: 5 ways to show your pregnant partner love:
+"LearningResourceArticleVC.waysToShowYour.headline" = "5 maneras de mostrar amor a tu pareja embarazada";
+"LearningResourceArticleVC.waysToShowYour.text" = "";
+
+"LearningResourceArticleVC.waysToShowYour.section1.headline" = "El amor es la mejor medicina...";
+"LearningResourceArticleVC.waysToShowYour.section1.text" = "Esperar un hijo es una de las experiencias más emocionantes en la vida de cualquier pareja. También puede ser extremadamente estresante en muchos aspectos. Los cambios y desafíos físicos, hormonales y emocionales que acompañan al embarazo pueden ser bastante abrumadores. Más que nunca, tu pareja embarazada necesitará tu amor y apoyo. Asegurarte de que esté feliz y saludable es una prioridad. El estrés mental puede causar muchas complicaciones como presión arterial alta, parto prematuro e insomnio durante el embarazo, por lo que es muy importante asegurarse de que esté tranquila y contenta.";
+
+"LearningResourceArticleVC.waysToShowYour.section2.headline" = "Consejos y recomendaciones útiles...";
+"LearningResourceArticleVC.waysToShowYour.section2.text" = "Considera algunos consejos importantes sobre cómo ser un buen compañero para tu pareja embarazada. A medida que los dos experimentan este tiempo desafiante pero increíble en sus vidas juntos, se volverán más cercanos que nunca, pero también enfrentarán desafíos emocionales que nunca antes habían enfrentado. Escucha sus preocupaciones y trata de ayudar a calmar su mente lo mejor que puedas. Si tu pareja se enoja, escucha lo que está diciendo y trata de resolver el problema lo más rápida y tranquilamente posible. Haz sugerencias relevantes cuando sea necesario, pero trata de no parecer autoritario. Las hormonas tienden a crear un gran desorden de emociones y pueden convertirse en ira muy rápidamente. Trata de recordar que esta no es tu pareja normalmente y que las hormonas están controlando muchos de sus cambios de humor en este momento. Piensa en ello como un síndrome premenstrual amplificado. Sí. A veces se pone tan mal y por las cosas más pequeñas. No todos los embarazos tienen cambios de humor impredecibles durante todo el embarazo, pero generalmente los experimentan al menos una o dos veces durante el embarazo. Incluso si están emocionados por esperar un bebé, también pueden estar asustados, nerviosos o inseguros acerca de muchas cosas, especialmente si este es su primer embarazo. Preocuparse por ser un buen padre es uno de los mayores factores de estrés durante el embarazo. Reafirma a tu pareja que será el mejor padre y que, una vez que llegue el bebé, las cosas se calmarán para ella. Sé su caja de resonancia. Anímala a compartir sus pensamientos y sentimientos contigo. Pregúntale cómo se siente y qué piensa sobre diferentes temas y situaciones para que sepa que estás tomando un papel activo en el embarazo. Necesitan saber que estás disponible para ellos y sentirse seguros de que te importa.
+
+Escucha sus preocupaciones, sentimientos y esperanzas. Hacerles saber que estás ahí y reconocerlos les da el apoyo que necesitan cuando más lo necesitan. Son muy vulnerables en este momento y necesitan saber que puedes ser fuerte para ambos.
+Dales masajes cariñosos para aliviar su estrés y dolores. El embarazo no solo afecta la mente, sino también el cuerpo. Aliviar esos músculos y articulaciones doloridos podría ser justo lo que necesitan para hacerles saber que estás haciendo un esfuerzo adicional para mostrarles que te importa.
+El embarazo puede hacernos sentir muy cansados, especialmente en el primer y tercer trimestre. Trata de ayudar más con las tareas del hogar, como lavar la ropa, cocinar y hacer mandados para darles un merecido descanso. ¡Crear un ser humano es un trabajo duro!
+Los antojos de ciertos alimentos pueden aparecer cuando menos lo esperamos. Así que, si tu pareja ha estado picoteando algo específico, trata de abastecerte de esos artículos para que puedan tenerlos cuando quieran. ¡No hay nada mejor que satisfacer un antojo de pepinillos y helado a las 3 de la mañana!
+A veces, el embarazo resultará en algún reposo en cama inesperadamente. Para aquellos que sufren de aburrimiento, sería agradable un poco de entretenimiento. Trata de encontrar algunas de sus cosas favoritas, como películas, libros y revistas, para mantenerlos ocupados. El crochet y el tejido también son una buena idea. Los libros de búsqueda de palabras y crucigramas son una opción común.";
+
+"LearningResourceArticleVC.waysToShowYour.section3.headline" = "Mantén viva la llama del romance...";
+"LearningResourceArticleVC.waysToShowYour.section3.text" = "Estos son solo algunos consejos para ayudarte a demostrarle a tu pareja que te importa y que quieres lo mejor para ella y el bebé. Trata de idear tus propias ideas específicamente detalladas según sus gustos y necesidades para mostrar tu amor hacia ella y tu agradecimiento por llevar a tu hijo. Es el mayor cumplido cuando alguien trae a tu hijo al mundo y necesita saber que te das cuenta de esto. Están teniendo muchas emociones en este momento y necesitan saber que las apoyas en todo sentido. No dejes que el romance muera en tu relación. Muchas parejas se concentran tanto en la planificación del bebé y el embarazo que olvidan enfocarse el uno en el otro. Planear una luna de bebé podría ser una buena idea antes de que llegue la nueva adición. Si una luna de bebé no es posible, entonces hay otras formas de mantener las cosas interesantes. Organiza algunas noches de citas en la ciudad si puedes o planea una sorpresa en casa para tu pareja. Todos quieren sentirse especiales y deseados, incluso durante el embarazo. Quizás más.";
+
+"LearningResourceArticleVC.waysToShowYour.section4.headline" = "El amor está en el aire...";
+"LearningResourceArticleVC.waysToShowYour.section4.text" = "No dejes que se sientan como si solo fueran una persona embarazada o un futuro padre. Una vez que llegue el bebé, enfrentarán una serie completamente nueva de desafíos físicos y emocionales, por lo que es importante reducir la carga de estrés tanto como sea posible antes y después. Las posibilidades de mostrar tus sentimientos son infinitas. Tenlos en mente al preparar algo especial. Haz que todo sea sobre ellos y se derretirán en tus brazos no solo por la demostración de afecto, sino por preocuparte lo suficiente como para hacerlo. No tienes que hacer gestos extravagantes para hacer sentir bien a tu pareja. Un pequeño regalo aquí, una cena bien preparada allá, un masaje en los pies para aliviar los dolores del día. Mientras el gesto venga del corazón, estoy seguro de que lo amarán y lo apreciarán. Hazles saber verbalmente lo que significan para ti y cómo te sientes con respecto a ellos para tranquilizarlos si se sienten tristes. ¡Buena suerte y felicitaciones por la próxima llegada!";
+
+
+// MARK: Article: Hit the gym? Exercising when trying to conceive:
+"LearningResourceArticleVC.hitTheGym.headline" = "¿Al gimnasio? Ejercicio cuando intentas concebir";
+"LearningResourceArticleVC.hitTheGym.text" = "";
+
+"LearningResourceArticleVC.hitTheGym.section1.headline" = "Mantenerse en forma mientras intentas concebir";
+"LearningResourceArticleVC.hitTheGym.section1.text" = "Cuando intentas concebir, probablemente empieces a replantearte todo lo que haces en tu rutina diaria. ¿Debería comer esto? ¿Puedo beber aquello? Todo es suficiente para volverte loco, pero cuando se trata de hacer ejercicio mientras intentas concebir, las reglas son bastante simples. Hazlo con moderación y ten en cuenta ciertos factores que hacen la diferencia tanto para hombres como para mujeres.";
+
+"LearningResourceArticleVC.hitTheGym.section2.headline" = "Para mujeres que intentan concebir";
+"LearningResourceArticleVC.hitTheGym.section2.text" = "Caminar y el yoga de fertilidad son dos de las mejores maneras de promover la circulación y mejorar la fuerza y flexibilidad de los músculos que rodean el útero. Llevar un estilo de vida inactivo con poco o ningún ejercicio puede crear una situación de estancamiento del flujo sanguíneo hacia el útero y otros órganos reproductivos. La arteria principal que suministra sangre a nuestras piernas también suministra sangre a nuestro útero, ovarios y vagina — así que básicamente, ¡sigue moviéndote! Si tienes un trabajo de escritorio, es posible que te encuentres sentada mucho, lo que compromete el flujo sanguíneo hacia el útero. Esto no ayudará en nada, especialmente si ya tienes otros problemas de fertilidad. Además, no mover lo suficiente esta área de nuestro cuerpo puede contribuir a la formación de tejido cicatricial y adherencias. Un estilo de vida sedentario también contribuye directamente a los músculos débiles en el útero. Si estás tratando de concebir, agregar una caminata rápida a tu rutina diaria puede ayudar, pero quizás quieras posponer el entrenamiento para ese maratón. Caminar rápido, andar en bicicleta de forma recreativa, jugar al golf y la jardinería se consideran ejercicio moderado. Si tienes sobrepeso, el ejercicio moderado es especialmente importante ya que el sobrepeso afecta negativamente tu fertilidad. Si no estás acostumbrada a hacer ejercicio en absoluto, comienza lentamente y avanza gradualmente. La mayoría de las mujeres que ya están activas deberían poder continuar haciendo ejercicio sin preocuparse de que afecte negativamente su fertilidad. Las mujeres que hacen ejercicio para aliviar el estrés ciertamente no deberían detenerse cuando quieren quedar embarazadas, a menos que haya una razón médica para hacerlo. El Colegio Americano de Obstetricia y Ginecología recomienda 30 minutos o más de ejercicio moderado al día la mayoría de los días de la semana, si no todos, a menos que tengas una complicación médica u obstétrica. El índice de masa corporal (IMC) óptimo para la fertilidad en mujeres está entre 20 y 25.";
+
+"LearningResourceArticleVC.hitTheGym.section3.headline" = "Para hombres que intentan concebir";
+"LearningResourceArticleVC.hitTheGym.section3.text" = "Las mismas reglas generalmente se aplican a los hombres, pero se ha encontrado que el ejercicio intenso disminuye los niveles de testosterona, lo que a su vez reduce el deseo sexual y la salud del esperma. Las tres mayores preocupaciones para los hombres son el calor, la presión y el trauma. La producción de esperma requiere una temperatura entre 94 y 96 grados Fahrenheit. Incluso un aumento de un grado es suficiente para detener la producción y matar cualquier esperma ya producido. Por lo tanto, es mejor tratar de evitar el ejercicio vigoroso que ejercerá presión sobre los testículos o causará sobrecalentamiento. Cuando hagas ejercicio, trata de evitar usar suspensorios, meterte en jacuzzis y saunas. Y si no puedes evitarlo, limita el tiempo a 15 minutos. Algunas sugerencias sobre ejercicios “seguros” para los hombres mientras protegen la fertilidad y aumentan el conteo de esperma incluyen correr alrededor de la manzana el tiempo suficiente para acelerar el ritmo cardíaco, nadar (esto permite mucho ejercicio moderado mientras mantiene a los ‘chicos’ frescos y cómodos), y yoga o pilates, ¡que son más difíciles de lo que parecen! Los hombres no deberían exceder los 45 minutos de ejercicio al día para la salud y movilidad del esperma y el conteo de esperma. Las mismas reglas sobre la obesidad se aplican a los hombres, aunque su IMC recomendado no debería ser inferior a 18 para una fertilidad óptima.";
+
+"LearningResourceArticleVC.hitTheGym.section4.headline" = "Antes de despedirme...";
+"LearningResourceArticleVC.hitTheGym.section4.text" = "Recuerda que es importante considerar tanto la salud de tu pareja como sus necesidades cuando intentas concebir. Intentar traer vida al mundo es un regalo precioso y debe tratarse como tal. Asegurarse de que la salud de ambos sea la mejor es una prioridad. Esto aumentará en gran medida las posibilidades de concebir y reducirá el tiempo que lleva quedar embarazada. Hacer ejercicio, comer saludablemente y visitar regularmente a tu médico de cabecera son muy importantes, así como cualquier cita con el ginecólogo que sea necesaria. Se recomiendan encarecidamente los exámenes de rutina y las revisiones de fertilidad. Cuando tengas dudas, hazte un chequeo. Si crees que te está llevando demasiado tiempo quedar embarazada, habla con tu médico sobre esto y puede que te recomiende ver a un especialista para pruebas y revisiones más detalladas. Sobre todo, no olvides divertirte intentándolo. No te pongas demasiada presión mentalmente sobre cuánto tiempo está llevando, qué podría salir mal o preocuparte por lo que sucederá una vez que estés embarazada. ¡Diviértete!";
+
+
+// MARK: Article: How to support your partner through a miscarriage:
+"LearningResourceArticleVC.howToSupportYourPartner.headline" = "Cómo apoyar a tu pareja durante un aborto espontáneo";
+"LearningResourceArticleVC.howToSupportYourPartner.text" = "";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section1.headline" = "Pérdida y duelo";
+"LearningResourceArticleVC.howToSupportYourPartner.section1.text" = "Un aborto espontáneo es una experiencia devastadora y dolorosa de pérdida. El profundo sentido de dolor de una persona se ve multiplicado exponencialmente cuando los seres queridos sienten que no pueden ayudarla a sobrellevarlo. Los sentimientos de vacío, anhelo, tristeza, soledad y confusión después de un aborto espontáneo son mucho más difíciles de manejar cuando una persona se siente sola en su sufrimiento. Al igual que con muchas experiencias dolorosas en la vida, quizás lo mejor que podemos sacar de nuestros dolores es lo que aprendemos al atravesarlos. Nunca olvidarás el embarazo ni a tu bebé, ni deberías hacerlo. Cuando tu pareja esté lista para comenzar a recuperarse, aquí tienes lo que puedes hacer para superar el aborto espontáneo.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section2.headline" = "Reconoce la pérdida";
+"LearningResourceArticleVC.howToSupportYourPartner.section2.text" = "Si tu pareja está teniendo dificultades para sobrellevar un aborto espontáneo reciente, comprende que es un dolor equivalente, si no más difícil, de llorar que cualquier otra muerte de un ser querido. Cuando perdemos a un familiar o amigo cercano, tenemos rituales establecidos, un lenguaje apropiado y expectativas de cómo comunicar nuestras condolencias. Cuando una persona pierde su oportunidad de ser padre o madre, no existe una etiqueta universalmente entendida sobre cómo responder. Por el contrario, el aborto espontáneo suele estar envuelto en silencio. Expresar tu simpatía y tu dolor por un aborto espontáneo puede hacer mucho para ayudar a tu pareja a sentirse consolada y menos sola. Demuestra que te importa comprando pequeños regalos, escribiéndole cartas, haciéndole saber que es un buen compañero y tratando de protegerla de comentarios hirientes. Algunas personas pueden ser involuntariamente crueles y otras simplemente no están interesadas en los sentimientos de los demás.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section3.headline" = "Escucha";
+"LearningResourceArticleVC.howToSupportYourPartner.section3.text" = "Pregúntale si quiere hablar sobre el aborto espontáneo y estate listo para escuchar en silencio y atentamente mientras comparte lo que ha sucedido y sus sentimientos. Esto requiere valentía, y la valentía es exactamente lo que una pareja en duelo necesita de ti. Durante las primeras semanas después de una pérdida de embarazo, puede sentir, además de muchos otros sentimientos, una sensación de incredulidad. Por otro lado, recuérdale que si no desea hablar, también está bien. Estarás ahí siempre que esté lista, y por el tiempo que necesite para escucharte.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section4.headline" = "Dile que no es su culpa";
+"LearningResourceArticleVC.howToSupportYourPartner.section4.text" = "Una persona que ha sufrido un aborto espontáneo se preguntará una y otra vez qué pudo haber hecho para causar la pérdida de su bebé. Los abortos espontáneos son muy comunes; las estimaciones de cuántas veces termina un embarazo en pérdida están en el rango de 1 de cada 3 o 1 de cada 4. Algunas personas sufren múltiples abortos espontáneos. La verdad es que los embarazos pueden terminar repentinamente por varias razones, y aunque puede que no consuele a una persona el no saber nunca exactamente qué causó un aborto espontáneo, le ayudará inmensamente poder dejar de lado cualquier sentimiento de culpa. Dile tantas veces como necesite escuchar que la pérdida no fue por algo que hizo o dejó de hacer.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section5.headline" = "No inventes razones por las que perdió al bebé";
+"LearningResourceArticleVC.howToSupportYourPartner.section5.text" = "Nadie que quiera un hijo, que ya se haya enamorado de su bebé y que tenga esperanzas y sueños para su amado hijo, quiere pensar que hay alguna razón obvia por la que perdió al bebé. No intentes explicar lo que sucedió para hacerla sentir mejor porque solo puede empeorar la situación. Este tampoco es el momento para sugerir que siempre puede tener otro bebé o intentarlo de nuevo más adelante. Otro embarazo o un futuro bebé no son consuelo para una persona que está de duelo por su pérdida actual. Tener un bebé después de un aborto espontáneo no “reemplaza” al que se perdió.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section6.headline" = "Déjala descansar";
+"LearningResourceArticleVC.howToSupportYourPartner.section6.text" = "Anímala a dormir y a cuidarse. Haz más en la casa para que pueda recuperarse de su dolor. Haz su carga más ligera en cualquier forma que puedas. Cocina comidas saludables. Cualquiera que esté de duelo después de perder un bebé podría usar ayuda adicional para sobrellevar el día. Lleva a casa artículos que promuevan la relajación, como velas aromáticas, un CD de música suave y un poco de té de lavanda/manzanilla. Haz una cita para tu pareja en un spa o con un terapeuta de masajes registrado cuando se sienta lista. Ser tratada con suavidad por las manos cálidas y sanadoras de alguien puede hacer maravillas para liberar la tristeza, el dolor y la tensión que tiene en su cuerpo.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section7.headline" = "Ofrece asistir a terapia con ella";
+"LearningResourceArticleVC.howToSupportYourPartner.section7.text" = "No solo la terapia puede ayudar a una pareja a pasar por las etapas del duelo, sino que un buen terapeuta puede ofrecer sugerencias útiles sobre cómo lidiar específicamente con el duelo después de un aborto espontáneo, como sugerir libros y sitios web que puedan ayudar. Aquí hay otra sugerencia, los rituales incluyen construir un tótem de fuerza, nombrar al bebé, escribirle una carta al bebé y conmemorar al bebé de una manera que te parezca correcta.";
+
+"LearningResourceArticleVC.howToSupportYourPartner.section8.headline" = "Ofrece participar en un memorial";
+"LearningResourceArticleVC.howToSupportYourPartner.section8.text" = "Hay muchos sitios web que ofrecen sugerencias sobre cómo tú y tu pareja podrían hacer esto. Hay joyeros que hacen colgantes personalizados, collares y llaveros para personas que han tenido un aborto espontáneo, con el nombre y la fecha de nacimiento del bebé. Hay memoriales virtuales en línea dedicados a los “ángeles” que son amados y extrañados por sus familias. Hay organizaciones dedicadas a apoyar a las parejas que han sufrido un aborto espontáneo, que aceptan donaciones en nombre de un bebé perdido. Anímala a tomarse el tiempo para pensar en lo que podría parecerle adecuado y a hablar contigo sobre si le gustaría incluirte en un memorial. Respeta sus deseos si prefiere hacerlo sola o no hacerlo en absoluto. No a todos les gusta compartir su dolor y lo consideran un acto muy íntimo y privado. Estar ahí para tu pareja es lo único que puedes hacer en este momento. Asegúrate de que sepa que es amada, respetada y deseada. Recuerda, aunque esto es difícil para ti, es mucho más difícil para tu pareja que estaba llevando al bebé. Cuando llegue el momento, sanen juntos pero den espacio cuando sea necesario.";
+
+
+// MARK: Article: Oh, baby! Sex after childbirth:
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.headline" = "¡Oh, bebé! Sexo después del parto";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.text" = "";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.headline" = "¡Pongámonos físicos!";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section1.text" = "Unas semanas después del nacimiento de tu bebé, estás de vuelta en casa y te estás acostumbrando a las cosas con tu nuevo pequeño, pero volver a tu vida sexual puede resultar ser un problema, incluso cuando sientes que estás lista. Volver a la rutina en el dormitorio varía de una persona a otra, pero debes saber que eventualmente sucederá. No te fuerces ni presiones a tu pareja. Deja que las cosas sucedan de manera natural. Necesitarás superar, experimentar y aceptar los cambios por los que has pasado, y si estás teniendo dificultades, debes darte cuenta de que no eres la única pareja que ha pasado por esto. Con la ayuda de tu pareja, un poco de comprensión y estos consejos, redescubrirás los placeres del sexo después del parto.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.headline" = "Paso 1: Enfrenta tus miedos";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section2.text" = "No querrás apresurarte a tener sexo después del parto. Por un lado, seamos honestos, tu vagina no estará lista para el sexo inmediatamente después del trauma de dar a luz. Generalmente se recomienda retrasar las relaciones sexuales hasta tu chequeo posparto, aproximadamente seis semanas después del parto. Sin embargo, esto varía para cada pareja, y algunas mujeres se sienten bien antes de estas seis semanas, mientras que algunas pueden tardar hasta seis meses antes de sentirse listas para hacer el amor. Tener un parto por cesárea también afectará tu vida sexual después del embarazo. Una cesárea es una cirugía mayor y toma tiempo para sanar y recuperarse.
+
+Varios miedos pueden quedarse en tu mente y desanimarte a tener sexo después del parto. El miedo a que se rompan los puntos, a que duela, a que ya no serás atractiva para tu pareja, son muy comunes. Hablar con tu pareja sobre tus ansiedades ayudará a reducirlas. Tómate el tiempo para caricias y otras formas de placer e intimidad en lugar de penetración hasta que te sientas segura y lista para el sexo.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.headline" = "Paso 2: Supera el shock del parto";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section3.text" = "Tener noches sin dormir puede hacerte sentir de todas las maneras locas y ponerte nerviosa todo el día. Así que si estás teniendo pensamientos negativos o encontrando cosas estresantes, la falta de sueño probablemente no ayudará tampoco. Es probable que si estás agotada, el sexo será lo último en tu mente. Pero una vez que puedas dormir unas cuantas horas decentes regularmente, te encontrarás siendo una mujer cambiada, ¡una que incluso podría empezar a pensar en el sexo otra vez!
+
+Es importante enfatizar que una gran caída en la libido ocurre en muchas mamás después de dar a luz y es totalmente comprensible. La fuerte caída en los niveles hormonales, la responsabilidad de cuidar a tu bebé, la falta de sueño, los efectos posteriores de dar a luz, las episiotomías, las cesáreas y la pérdida de sangre tienen un gran efecto en el cuerpo y la mente de una mujer. No hay nada que puedas hacer al respecto excepto darte tiempo para lidiar con ello, tiempo para sanar y procesar, así que sé paciente contigo misma.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.headline" = "Paso 3: Aprende a amar tu cuerpo de nuevo";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section4.text" = "El siguiente paso es volver gradualmente al ejercicio y moverte. Esto ayudará a deshacerte de esos kilos de más, tonificar tus abdominales y recuperar tu energía, y sin duda tu confianza y autoestima en el proceso. Sin embargo, si estás amamantando, olvídate de hacer dieta. La lactancia requiere calorías y nutrientes adicionales para la nutrición de tu bebé, además de darte la energía que necesitas. En nueve meses a un año, deberías haber regresado a tu peso anterior al embarazo y haber ganado tono corporal y muscular. Eso es un pequeño incentivo para quienes pueden amamantar a sus bebés. Si necesitas alimentar con biberón y usar fórmula, hay algunos entrenamientos postparto fáciles disponibles en línea que puedes seguir desde la comodidad de tu hogar.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.headline" = "Paso 4: Haz espacio";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section5.text" = "El vínculo entre tú y tu bebé va a ser como ninguno que hayas experimentado antes, y a veces puede dejar poco espacio para cualquier otra cosa o persona. Una vez más, esto es muy normal. Estás experimentando lo que se conoce como el vínculo madre-bebé con tu pequeño. Salir del útero no es suficiente para separar dos cuerpos que estuvieron unidos durante nueve meses. Tu bebé todavía te ve como una unidad y solo se dará cuenta de la realidad cuando tenga alrededor de ocho meses.
+
+Sal de esta fase lentamente para darle a tu hijo la oportunidad de volverse independiente. También necesitas tiempo para dejar entrar a tu pareja y no sentirte excluida. Es importante reservar un tiempo para ustedes como pareja (tan difícil como esto puede ser). Intenta acurrucarte con una película cuando el bebé esté dormido o llevar al bebé a pasear para que tú y tu pareja puedan pasar tiempo juntos. Si tienes una niñera disponible, planea una noche de cita cuando ambos estén listos.";
+
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.headline" = "Paso 5: Vuelve a poner pasión en tu relación";
+"LearningResourceArticleVC.ohBabySexAfterChildbirth.section6.text" = "Finalmente, estás lista para volver a apasionarte con tu pareja y lista para hacerlo, pero si esta es la primera vez que te sientes excitada, puede ser un poco intimidante. Si aún estás un poco sensible, opta por posiciones que te permitan tener el control, como montar o la vaquera invertida. Montar es una gran posición para el sexo después del parto. Estar encima de tu pareja para que puedas controlar la profundidad y la penetración puede ser lo mejor hasta que te acostumbres nuevamente. Usar un buen lubricante también puede hacer que las cosas se muevan un poco más fácil y cómodamente. Recuerda tomarte tu tiempo y no apresurarte. Tómalo con calma y vuelve a la diversión gradualmente. Una vez que comiences aquí, podrás evaluar qué se siente cómodo y qué no, y con suerte, en poco tiempo tú y tu pareja volverán a disfrutar de esa pasión ardiente que hizo a tu bebé en primer lugar.";
+
+
+// MARK: Article: The Road Before the Bump:
+"LearningResourceArticleVC.theRoadBeforeTheBump.headline" = "El Camino Antes de la Barriga: Una Guía para Convertir en un Juego la Concepción";
+"LearningResourceArticleVC.theRoadBeforeTheBump.text" = "El camino hacia la concepción es diferente para cada persona. Para algunas mujeres, ¡solo estornudan y están embarazadas! Para otras, puede requerir más planificación y tiempo. Aunque este tiempo es sagrado, puede ser estresante llevar un seguimiento de los horarios de ovulación, las pruebas y revisar constantemente mares infinitos de información sobre cómo quedar embarazada. A veces es fácil obsesionarse tanto con el resultado que la intimidad puede pasar desapercibida. Entonces, tal vez esa pasión que solía encender tu cama está empezando a disminuir, o tal vez simplemente estás buscando hacer que la experiencia de quedar embarazada sea inolvidable, ¡creemos que este artículo es para ti! El camino antes de la barriga puede ser largo, ¡así que ¿por qué no disfrutar del viaje?";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.headline" = "11 Maneras de Darle Sabor a la Concepción";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section1.text" = "1. ¡Ubicación, ubicación, ubicación! ¿Se ha convertido la cama en tu lugar habitual para estar con tu amante? Si es así, ¡cámbialo y hazlo en la cocina, la piscina o en esa mesa de estudio! Para las parejas valientes, ¡incluso podrían hacerlo en público!
+2.Sé espontáneo. No hay nada como la sensación de ser deseado, ¡déjense llevar por la espontaneidad! Podrían ponerse traviesos en una ducha inesperada para dos o un rapidito en el sofá, ¡lo que elijan hacer, eviten programar el sexo como si fuera otra tarea doméstica!
+3.Descarga juegos y aplicaciones para parejas. ¡Las aplicaciones que les permiten explorar nuevas posiciones, completar desafíos sexys y darles esa inspiración extra pueden ser muy divertidas! ¡Recomendamos descargar la aplicación Aventura Scratch! Las parejas pueden descubrir nuevas perversiones y vivir sus fantasías sensuales.
+4.¡Escríbelo! Intenta escribir algunas cosas traviesas que siempre hayas querido probar en papeles separados, mételos en un tazón y agarra uno cuando estés de humor. Piensa en esto como una lista de deseos de parejas, también podrían optar por no decirse qué están escribiendo para aumentar la emoción y la curiosidad.
+5.Mensajes sexuales. El sexting agrega un elemento de anticipación a tu vida sexual. Envíen fotos desnudos y mensajes sucios mientras están separados, dales algo en qué pensar.
+6.Juguetes. ¡Hoy en día, hay una cantidad infinita de juguetes disponibles para que las parejas prueben! Los juguetes agregan algo extra a tu amorío y están diseñados para el placer.
+7.Salgan un rato. Tómensen un breve descanso del ajetreo diario y disfruten de un tiempo juntos.
+8.Cambien los horarios. ¿Encuentras que siempre terminan teniendo sexo a la misma hora? ¡Considera una sesión mañanera traviesa o en el descanso del almuerzo por la tarde!
+9.Masajes sensuales. ¡Saca el aceite y lleva a tu pareja al cielo! Libera esa tensión y siente el placer, ¡y no olvides turnarse!
+10.Juegos previos. Permite más espacio para el placer y el juego cuando intentan concebir.
+11.Ovulio Baby. Las parejas pueden mejorar su intimidad utilizando todas las funciones de tu aplicación Ovulio Baby. ¡Pueden aumentar la temperatura probando una variedad de posiciones calientes y juegos sexuales diseñados para la diversión y la concepción!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.headline" = "Intimidad en Esteroides";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section2.text" = "En una relación comprometida, tendemos a tener nuestras rutinas establecidas, y esas rutinas tienen un lugar en nuestras vidas, mantienen las cosas funcionando sin problemas y aseguran que todo vaya según lo planeado. Sabes exactamente qué vas a cocinar durante la semana, sabes que se acurrucarán frente al televisor después de que termine el día. No es ningún secreto que la intimidad puede pasar a un segundo plano, entonces, ¿cómo podemos volver a ponerla al mando? Tenemos algunas sugerencias:
+● Idiomas del amor. ¿Conoces el idioma del amor de tu pareja? ¿Es cuando pasas tiempo con ellos? ¿O es cuando les das afirmaciones? Todos se sienten amados de diferentes maneras, es mejor volverse fluido en el idioma del amor de tu pareja. Considera intensificar los actos de amor durante este emocionante momento, solo los acercará más e inspirará intimidad.
+● Cortejar a tu pareja. Cuando estamos en una relación a largo plazo, a menudo olvidamos cortejar a nuestras parejas, conquistarlas y coquetear como solíamos hacerlo. Vuelve a los buenos viejos tiempos cuando aún se estaban ganando el uno al otro al principio. ¡Cuando nos sentimos conectados, los sentimientos de alegría e intimidad seguramente seguirán!
+● Recuerden divertirse. Por muy simplista que parezca, la intimidad puede adoptar muchas formas, ya sea riendo juntos o haciendo algo de lo que siempre han hablado juntos. Recordar no tomarse la vida demasiado en serio y divertirse con tu pareja puede hacer que te enamores de nuevo de ella. Ve a un espectáculo de comedia o juega un juego juntos, aprendan a hacerse reír, ¡no se arrepentirán!";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.headline" = "La Mente Importa";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section3.text" = "Hay mucho en qué pensar cuando estás intentando tener un bebé, a veces las emociones están a flor de piel. Cuando sea posible, reduce el estrés en tu vida diaria. El estrés puede afectarte física y mentalmente en tu camino hacia concebir a tu pequeño paquete de alegría; es importante identificar el estrés que se puede eliminar y formas de relajarse. Cuando nos sentimos ansiosos o bajo presión, se refleja en cómo disfrutamos de las actividades, el sexo y la comunicación con nuestras parejas. Dar un paso atrás juntos para descansar y relajarse solo puede beneficiar a ambos socios en este maravilloso proceso. ¡Haz tiempo para conversaciones íntimas, dormir hasta tarde en un día lluvioso y largas charlas ligeras! Podrían comenzar a meditar juntos o comenzar un nuevo pasatiempo en casa; no dejes que el estrés se interponga, la mente importa.";
+
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.headline" = "Buena Suerte";
+"LearningResourceArticleVC.theRoadBeforeTheBump.section4.text" = "Te deseamos suerte; ¡sabemos que esperar la buena noticia de que tienes un pan en el horno puede ser emocionante y estresante al mismo tiempo! Aprovecha este tiempo para disfrutar de la intimidad, la diversión y el placer con tu pareja. Crear vida es un viaje tan hermoso, ¡y algunos no pueden esperar a llegar al destino! Recuerda apreciar el camino hacia la concepción, simplemente mira por las ventanas de vez en cuando, siempre recuerda quién está sentado a tu lado y antes de que te des cuenta... ¡barriguita!";
+
+
+// In App Purchase
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.title" = "No se pudieron recuperar los detalles del producto";
+"InAppPurchase.alertForProductRetrievalInfo.invalidProductIDs.message" = "Identificador de producto no válido: ";
+"InAppPurchase.alertForProductRetrievalInfo.default.message" = "Error desconocido. Por favor, contacta al soporte";
+
+"InAppPurchase.alertForPurchaseResult.success.title" = "Gracias";
+"InAppPurchase.alertForPurchaseResult.success.message" = "Compra completada.";
+"InAppPurchase.alertForPurchaseResult.error.title" = "La compra falló";
+"InAppPurchase.alertForPurchaseResult.error.clientInvalid.message" = "No se permite realizar el pago";
+"InAppPurchase.alertForPurchaseResult.error.paymentInvalid.message" = "El identificador de compra es inválido";
+"InAppPurchase.alertForPurchaseResult.error.paymentNotAllowed.message" = "El dispositivo no está permitido para realizar el pago";
+"InAppPurchase.alertForPurchaseResult.error.storeProductNotAvailable.message" = "El producto no está disponible en la tienda actual";
+"InAppPurchase.alertForPurchaseResult.error.cloudServicePermissionDenied.message" = "No se permite el acceso a la información del servicio en la nube";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceNetworkConnectionFailed.message" = "No se pudo conectar a la red";
+"InAppPurchase.alertForPurchaseResult.error.cloudServiceRevoked.message" = "El servicio en la nube fue revocado";
+"InAppPurchase.spalert.success.title" = "¡Listo!";
+"InAppPurchase.spalert.success.message" = "Tu actualización a PRO se realizó con éxito";
+
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.title" = "Restauración fallida";
+"InAppPurchase.alertForRestorePurchases.restoreFailedPurchases.message" = "Error desconocido. Por favor, contacta al soporte";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.title" = "Compras Restauradas";
+"InAppPurchase.alertForRestorePurchases.restoredPurchases.message" = "Todas las compras han sido restauradas. La aplicación se reiniciará brevemente.";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.title" = "Nada que restaurar";
+"InAppPurchase.alertForRestorePurchases.nothingToRestore.message" = "No se encontraron compras anteriores";
+"InAppPurchase.alert.noValidActivationCode.title" = "¡Este no es un código de activación válido!";
+"InAppPurchase.alert.activationCodeAlreadyUsed.title" = "¡El código de activación ya ha sido utilizado!";
+"InAppPurchase.alert.tooManyTries.title" = "Demasiados intentos fallidos";
+"InAppPurchase.alert.tooManyTries.message" = "Por favor, inténtalo nuevamente en breve";
+"InAppPurchase.alert.uploadError.title" = "El proceso no pudo completarse";
+"InAppPurchase.alert.uploadError.message" = "Por favor, verifica tu conexión a internet.";
+
+// LoadingIndicatorHUD.swift
+"LoadingIndicatorHUD.loadingLabel.text" = "Cargando";
+
+// MARK: OurExpertsDetailsVC
+"OurExpertsDetailsVC.expertNameLabel.text" = "Dr. Usman, ginecólogo";
+"OurExpertsDetailsVC.expertReviewLabel.text" = "'¡Quedar embarazada no tiene por qué ser estresante! Ovulio Baby lo hace divertido ayudándote a elegir las mejores posiciones sexuales que asegurarán que quedes embarazada de la mejor manera posible y divertida! Si buscas una forma divertida de quedar embarazada, ¡prueba Ovulio Baby!'";
+"OurExpertsDetailsVC.expertInfoLabel.text" = "El Dr. Usman es un especialista con sede en el Reino Unido con un interés especial en fertilidad y salud sexual. Es un investigador ávido con más de 30 publicaciones en revistas internacionales revisadas por pares. El Dr. Usman cree en la medicina basada en evidencia y en brindar conocimientos médicos sólidos de manera fácil de entender.";
+
+// MARK: HowTheAppWorksVC
+"HowTheAppWorksVC.headlineLabel.text" = "Cómo funciona";
+"HowTheAppWorksVC.textView.text" = "En Ovulio Baby, estamos dedicados a proporcionar a nuestros usuarios los métodos más recientes y respaldados científicamente para la planificación familiar y comprender los factores que pueden influir en el género del bebé. Nuestro enfoque integra técnicas probadas con el tiempo, inspiradas en una investigación reproductiva integral, junto con datos científicos contemporáneos.
+
+Ciclo de Ovulación y Temporización: Un elemento clave en nuestra metodología implica comprender el ciclo de ovulación y temporizar las relaciones sexuales. Estudios sugieren que la temporización de las relaciones sexuales más cerca de la fecha de ovulación puede influir en el género del bebé. Esto se basa en las características de los diferentes tipos de esperma y sus velocidades y longevidades variables.
+
+Consideraciones Dietéticas: La investigación emergente señala el posible impacto de la dieta en influir en el género del bebé. Patrones dietéticos específicos y la ingesta de nutrientes podrían estar asociados con la probabilidad de concebir un niño o una niña, aunque estos hallazgos aún están en estudio continuo y no se ha demostrado de manera concluyente.
+
+Influencia Hormonal: Los niveles hormonales y sus fluctuaciones en los posibles padres también se consideran como un posible factor. El entorno hormonal en el momento de la concepción podría desempeñar un papel en la determinación del género del bebé.
+
+Factores de Estilo de Vida: Factores de estilo de vida como los niveles de estrés, la actividad física y la salud general también pueden tener una influencia indirecta en el género del bebé, ya que afectan la fertilidad general y la salud reproductiva.
+
+Es importante tener en cuenta que si bien estos métodos están fundamentados en la investigación científica, no garantizan un resultado específico. La biología humana y los procesos reproductivos son complejos y muchos factores contribuyen a la determinación del género de un bebé. Alentamos a nuestros usuarios a abordar estos métodos como parte de una comprensión más amplia de la salud reproductiva y la planificación familiar.
+
+Referencias a Estudios Científicos: Nuestra metodología se actualiza continuamente en línea con la investigación continua sobre salud reproductiva. Referenciamos una amplia gama de estudios de revistas médicas y instituciones reputadas para garantizar que nuestros usuarios reciban consejos bien fundamentados y científicamente sólidos.
+
+En Ovulio Baby, estamos comprometidos a empoderar a nuestros usuarios con conocimientos y herramientas para su viaje reproductivo, siempre priorizando la salud, el bienestar y la elección informada.";
+
+
+// DiceToSpiceGameMenu.swift
+"DiceToSpiceGameMenu.headlineLabelBold.text" = "Dados para Condimentar";
+"DiceToSpiceGameMenu.headlineLabel.text" = "Dados para Condimentar";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.cuteButton.title" = "Suave";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.spicyButton.title" = "Picante";
+"DiceToSpiceGameMenu.DiceToSpiceGameGameSettingsView.customButton.title" = "Difícil";
+
+"DiceToSpiceGameMenu.salesPageView.headlineLabel.text" = "¿Quieres aún más combinaciones?";
+"DiceToSpiceGameMenu.salesPageView.backToPreviousVersionButton.title" = "No quiero satisfacer a mi pareja";
+"DiceToSpiceGameMenu.salesPageView.featuresLabel.text" = "128 nuevas combinaciones
+\nOpciones infinitas de personalización\n";
+
+"DiceToSpiceGameMenu.actionTasks.1" = "Lamer";
+"DiceToSpiceGameMenu.actionTasks.2" = "Chupar";
+"DiceToSpiceGameMenu.actionTasks.3" = "Soplar";
+"DiceToSpiceGameMenu.actionTasks.4" = "Tocar";
+"DiceToSpiceGameMenu.actionTasks.5" = "Masajear";
+"DiceToSpiceGameMenu.actionTasks.6" = "Hacer cosquillas";
+"DiceToSpiceGameMenu.actionTasks.7" = "Mordisquear";
+"DiceToSpiceGameMenu.actionTasks.8" = "Apretar";
+"DiceToSpiceGameMenu.actionTasks.9" = "Besar";
+"DiceToSpiceGameMenu.actionTasks.10" = "Tú Decides";
+
+
+// DiceToSpiceGameSelectBodyParts.swift
+"DiceToSpiceGameSelectBodyParts.headlineLabel.text" = "Crear Dados Personalizados";
+"DiceToSpiceGameSelectBodyParts.subtitleLabel.text" = "Selecciona las acciones y partes del cuerpo que desees incluir y añade las tuyas propias";
+"DiceToSpiceGameSelectBodyParts.bodyPartsHeadlineLabel.text" = "Partes del Cuerpo";
+"DiceToSpiceGameSelectBodyParts.actionsHeadlineLabel.text" = "Acciones";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.title" = "Agregar nuevas acciones";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.title" = "Agregar nuevas partes del cuerpo";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.title" = "Agregar nueva parte del cuerpo";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.message" = "Ingresa una nueva parte del cuerpo que deseas agregar a tu juego de Dados personalizado";
+"DiceToSpiceGameSelectBodyParts.addCustomBodyPartButton.alertDialog.placeholder" = "Parte del cuerpo";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.title" = "Agregar nueva acción";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.message" = "Ingresa una nueva acción que deseas agregar a tu juego de Dados personalizado";
+"DiceToSpiceGameSelectBodyParts.addCustomActionsButton.alertDialog.placeholder" = "Acción";
+"DiceToSpiceGameSelectBodyParts.hintLabelNoCustomDiceTasks.text" = "¡Comienza ahora con la creación de tu propio juego de Dados!";
+"DiceToSpiceGameSelectBodyParts.hintButtonNoCustomDiceTasks.text" = "Crear ahora";
+"DiceToSpiceGameSelectBodyParts.alertMinimumSelectedBodyPartsAndActions.title" = "¡Selecciona al menos 2 acciones y 2 partes del cuerpo para jugar correctamente!";
+
+
+// SqueezLickSuckGame.swift
+"SqueezLickSuckGame.headlineLabelBold.text" = "\nAprieta,\nLame o Chupa";
+"SqueezLickSuckGame.headlineLabel.text" = "Aprieta Lame Chupa";
+"SqueezLickSuckGame.playerGender.male" = "Masculino";
+"SqueezLickSuckGame.playerGender.female" = "Femenino";
+"SqueezLickSuckGame.playerGenderTextField.placeholder" = "Nombre";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player1" = "Nombre Jugador 1";
+"SqueezLickSuckGame.playerGenderTextField.placeholder.player2" = "Nombre Jugador 2";
+"SqueezLickSuckGame.letsGoButton.title" = "¡Vamos!";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.title" = "Falta el Nombre del Jugador";
+"SqueezLickSuckGame.letsGoButton.userNameMissingAlert.message" = "¡Por favor, da un nombre a cada jugador!";
+"SqueezLickSuckGame.text.point" = "Punto";
+"SqueezLickSuckGame.text.points" = "Puntos";
+"SqueezLickSuckGame.text.turn" = "Turno de %x";
+
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.descriptionLabel.text" = "¿Qué quieres hacer a continuación?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.squeezeButton.title" = "Aprieta";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.lickButton.title" = "Lame";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.suckButton.title" = "Chupa";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.diceButton.title" = "Dados";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.skipButton.title" = "Saltar";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.completeButton.title" = "Completado";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.title" = "¿Aprieta, Lame o Chupa?";
+"SqueezLickSuckGame.SqueezeLickSuckGameGameSettingsView.alertChooseCategory.message" = "¡Para continuar, primero elige qué quieres hacer a continuación!";
+"SqueezLickSuckGame.levelButton.title" = "Nivel: ";
+"SqueezLickSuckGame.levelButton.level.1" = "Epicúreo";
+"SqueezLickSuckGame.levelButton.level.2" = "Atrevido";
+"SqueezLickSuckGame.levelButton.level.3" = "Personalizado";
+"SqueezLickSuckGame.selectLevel.alert.title" = "Selecciona un Nivel";
+"SqueezLickSuckGame.selectLevel.alert.message" = "¿Qué nivel de dificultad quieres jugar?";
+"SqueezLickSuckGame.EnterPlayerNameView.playerNamesLabel.text" = "Ingresa tus nombres";
+"SqueezLickSuckGame.EnterPlayerNameView.levelHeadlineLabel.text" = "Elige una dificultad";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.title" = "¡No hay tareas SLS disponibles!";
+"SqueezLickSuckGame.showAlertHintNoSlsTasks.alert.message" = "¡Selecciona algunas partes del cuerpo que quieras incluir o agrega las tuyas propias!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.title" = "¡No se pudo encontrar ninguna tarea para ti!";
+"SqueezLickSuckGame.showAlertNoSlsTaskFound.alert.message" = "¡Por favor, selecciona algunas partes del cuerpo adicionales que desees incluir o agrega las tuyas propias!";
+"SqueezLickSuckGame.hintLabelNoSlsTasks.text" = "¡Comienza ahora con la creación de tus propias tareas SLS!";
+"SqueezLickSuckGame.hintButtonNoSlsTasks.text" = "Crear ahora";
+
+"SqueezLickSuckGame.challenges.1" = "Labios";
+"SqueezLickSuckGame.challenges.2" = "Pene";
+"SqueezLickSuckGame.challenges.3" = "Testículos";
+"SqueezLickSuckGame.challenges.4" = "Vagina";
+"SqueezLickSuckGame.challenges.5" = "Clítoris";
+"SqueezLickSuckGame.challenges.6" = "Labios vaginales";
+"SqueezLickSuckGame.challenges.7" = "Anal";
+"SqueezLickSuckGame.challenges.8" = "Trasero";
+"SqueezLickSuckGame.challenges.9" = "Pecho";
+"SqueezLickSuckGame.challenges.10" = "Pezones";
+"SqueezLickSuckGame.challenges.11" = "Cuello";
+"SqueezLickSuckGame.challenges.12" = "Muslo";
+"SqueezLickSuckGame.challenges.13" = "Dedo";
+"SqueezLickSuckGame.challenges.14" = "Pies";
+"SqueezLickSuckGame.challenges.15" = "Dedos de los pies";
+"SqueezLickSuckGame.challenges.16" = "Pierna";
+"SqueezLickSuckGame.challenges.17" = "Brazo";
+"SqueezLickSuckGame.challenges.18" = "Oreja";
+"SqueezLickSuckGame.challenges.19" = "Nariz";
+"SqueezLickSuckGame.challenges.20" = "Ombligo";
+"SqueezLickSuckGame.challenges.21" = "Vientre";
+"SqueezLickSuckGame.challenges.22" = "Mano";
+"SqueezLickSuckGame.challenges.23" = "Espalda";
+"SqueezLickSuckGame.challenges.24" = "Perineo";
+"SqueezLickSuckGame.challenges.25" = "Mejillas";
+"SqueezLickSuckGame.challenges.26" = "Entrepierna";
+"SqueezLickSuckGame.challenges.27" = "¡Tú decides!";
+
+
+
+//MARK: Yoga Fertility Position data
+"YogaVC.PostionsDetails.Where.headline.text" = "¿Dónde?";
+"YogaVC.PostionsDetails.Why.headline.text" = "¿Por qué?";
+"YogaVC.PostionsDetails.How.headline.text" = "¿Cómo?";
+
+"YogaVC.YogaFertility.RecliningBoundAngle.headline.text" = "Ángulo ligado reclinado";
+"YogaVC.YogaFertility.RecliningBoundAngle.whereText" = "Pelvis, muslos internos e ingle.";
+"YogaVC.YogaFertility.RecliningBoundAngle.whyText" = "Puede apoyarlo al intentar concebir promoviendo la relajación pélvica, reduciendo el estrés y mejorando el flujo sanguíneo a los órganos reproductores.";
+"YogaVC.YogaFertility.RecliningBoundAngle.howText" = "Recuéstate boca arriba con las rodillas ligeramente dobladas. Junta las plantas de los pies y permite que tus piernas se abran naturalmente. Relaja los músculos de los hombros y coloca tus manos en forma de corazón, con los pulgares tocándose y los índices juntos en la parte baja del abdomen. Mantén esta postura durante un mínimo de tres minutos, mientras diriges tu concentración y energía hacia tu región pélvica.";
+
+"YogaVC.FertilityPosition.WarriorIIPose.headline.text" = "Postura del guerrero II";
+"YogaVC.FertilityPosition.WarriorIIPose.whereText" = "Caderas, muslos y pelvis.";
+"YogaVC.FertilityPosition.WarriorIIPose.whyText" = "El Guerrero II es ampliamente aceptado por sus posibles beneficios para mejorar la fertilidad, atribuidos a su capacidad para abrir y fortalecer las caderas y flancos.";
+"YogaVC.FertilityPosition.WarriorIIPose.howText" = "Para asumir esta postura, párate firmemente y da un paso adelante flexionando tu pie delantero. El pie delantero debe apuntar hacia adelante, mientras que el pie trasero mira hacia el lado. Dobla la rodilla delantera y estira los brazos hacia afuera, abriendo tu cuerpo hacia el lado. Mira la mano delantera durante cinco respiraciones, luego repite la secuencia en el otro lado.";
+
+"YogaVC.FertilityPosition.CobraPose.headline.text" = "Postura de la cobra";
+"YogaVC.FertilityPosition.CobraPose.whereText" = "Pelvis, parte baja de la espalda y circulación sanguínea.";
+"YogaVC.FertilityPosition.CobraPose.whyText" = "Esta postura ofrece un efecto de elongación y estiramiento tanto en la parte superior como en la inferior de la espalda, promoviendo una circulación mejorada hacia los ovarios y el útero.";
+"YogaVC.FertilityPosition.CobraPose.howText" = "Comienza acostándote boca abajo, extendiendo las piernas y manteniendo los tobillos juntos. Tus caderas, piernas y la parte superior de tus pies deben estar firmemente en contacto con el piso. Coloca tus manos debajo de tus hombros y acerca tus codos a tu torso, abrazándolos contra los lados. Al inhalar, empuja con las manos, retrayendo las escápulas. Engancha tu núcleo, dirigiendo tu cóccix hacia el suelo mientras levantas el pecho. Sostén esta postura durante 15 a 30 segundos, manteniendo una respiración constante. Para soltar, exhala y baja suavemente la cabeza al piso, usando tus brazos para bajar tu cuerpo. Repite esta secuencia de tres a cinco veces.";
+
+"YogaVC.FertilityPosition.FrogPose.headline.text" = "Postura de la rana";
+"YogaVC.FertilityPosition.FrogPose.whereText" = "Pelvis, ingle y muslos internos.";
+"YogaVC.FertilityPosition.FrogPose.whyText" = "La postura de la rana amplía suavemente las caderas y mejora la circulación sanguínea hacia los órganos reproductivos, proporcionando un estiramiento vigorizante que es tanto intenso como profundamente arraigado.";
+"YogaVC.FertilityPosition.FrogPose.howText" = "Comienza asumiendo una posición de mesa neutral sobre las cuatro extremidades, alineando tus rodillas bajo tus caderas y tus muñecas debajo de tus hombros. Gradualmente, abre tus rodillas hacia los lados, flexiona los pies, permitiendo que sus bordes internos descansen en la esterilla. Bájate suavemente sobre tus antebrazos, acercando tus omóplatos. Al exhalar, mueve tus caderas hacia atrás y hacia abajo. Mantén esta postura, respirando constantemente, durante tres a seis respiraciones o hasta tres minutos.";
+
+"YogaVC.FertilityPosition.SeatedForwardBendPose.headline.text" = "Postura de flexión hacia adelante sentada";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whereText" = "Isquiotibiales, parte baja de la espalda y caderas.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.whyText" = "Promueve la flexibilidad en la parte baja de la espalda, los isquiotibiales y los músculos de la cadera. Esta postura ofrece beneficios valiosos al revitalizar órganos esenciales como los ovarios y el estómago, aliviando simultáneamente el estrés mental. Estos efectos combinados pueden contribuir potencialmente a una fertilidad mejorada.";
+"YogaVC.FertilityPosition.SeatedForwardBendPose.howText" = "Siéntate en tu esterilla con las piernas estiradas frente a ti. Mantén una postura erguida, inclínate en las caderas y alcanza tus pies o espinillas mientras te inclinas hacia adelante. Mantén esta posición durante 5-10 respiraciones.";
+
+"YogaVC.FertilityPosition.HeadToKneePose.headline.text" = "Postura de la cabeza hacia la rodilla";
+"YogaVC.FertilityPosition.HeadToKneePose.whereText" = "Isquiotibiales, parte baja de la espalda e ingle.";
+"YogaVC.FertilityPosition.HeadToKneePose.whyText" = "Esta postura ayuda a abrir las caderas y la espalda, mientras promueve un mayor flujo sanguíneo hacia los órganos inferiores y estira profundamente los isquiotibiales.";
+"YogaVC.FertilityPosition.HeadToKneePose.howText" = "Comienza sentándote con las piernas extendidas hacia adelante. Con una inhalación, agarra tu pie izquierdo y, con una exhalación, inclina suavemente tu torso mientras dejas que tu cabeza se libere. Después de mantener esta postura durante cinco respiraciones, cambia al otro lado.";
+
+"YogaVC.FertilityPosition.BridgePose.headline.text" = "Postura del puente";
+"YogaVC.FertilityPosition.BridgePose.whereText" = "Pelvis, caderas y parte baja de la espalda.";
+"YogaVC.FertilityPosition.BridgePose.whyText" = "Esta postura ofrece un impacto reconfortante en el sistema nervioso central, mejorando el flujo sanguíneo general en todo el cuerpo. Alivia la tensión en la parte baja del abdomen y fortalece los músculos de la cadera. Proporciona una influencia rejuvenecedora en los órganos reproductivos, ¡potencialmente mejorando tus perspectivas de fertilidad!";
+"YogaVC.FertilityPosition.BridgePose.howText" = "Comienza acostándote boca arriba con las rodillas dobladas y los pies apoyados en el suelo, separados a la anchura de las caderas y los talones cerca de tus glúteos. Levanta tu pelvis, entrelaza las manos debajo de ella y mantén durante aproximadamente un minuto con los muslos paralelos al suelo. Para soltar, desentrelaza las manos y baja gradualmente tu columna vertebral. Repite de tres a cinco veces.";
+
+"YogaVC.FertilityPosition.PlowPose.headline.text" = "Postura del arado";
+"YogaVC.FertilityPosition.PlowPose.whereText" = "Pelvis y glándula tiroides.";
+"YogaVC.FertilityPosition.PlowPose.whyText" = "Al aumentar el flujo sanguíneo pélvico, estimular la glándula tiroides para la regulación del ciclo menstrual y reducir el estrés, potencialmente creando un entorno más favorable para la fertilidad.";
+"YogaVC.FertilityPosition.PlowPose.howText" = "Coloca los brazos en la esterilla con las palmas hacia abajo y extiéndelos hacia el frente de tu esterilla para obtener apoyo. Usa tus antebrazos y palmas para levantar las piernas hasta un ángulo de 90 grados y luego lleva tus pies sobre tu cabeza hasta que toquen el suelo detrás de ti. Mantén las piernas rectas. Entrelaza tus dedos con las palmas juntas y extiende los brazos hacia adelante, alcanzando tus nudillos hacia adelante mientras arraigas tus hombros. Asegúrate de que tus caderas estén alineadas sobre tus hombros. Evita girar la cabeza mientras miras hacia arriba para proteger tu cuello. Mantén durante 5 respiraciones profundas y, para salir, baja los brazos al suelo, suelta las manos y baja tu columna vertebral hasta la esterilla, una vértebra a la vez, con las piernas rectas y los pies juntos.";
+
+
+
+//MARK: Yoga Prental data
+"YogaVC.YogaPrental.StandingSideBend.headline.text" = "Postura de inclinación lateral de pie";
+"YogaVC.YogaPrental.StandingSideBend.whereText" = "Hombros y parte superior de la espalda.";
+"YogaVC.YogaPrental.StandingSideBend.whyText" = "Reduce el dolor de espalda y la rigidez en los hombros.";
+"YogaVC.YogaPrental.StandingSideBend.howText" = "De pie con las piernas separadas a la anchura de las caderas y los brazos a los lados, inhala profundamente mientras extiendes tu columna vertebral. Comienza a doblar lentamente tu cuerpo hacia tu derecha, respirando suave y constantemente. Levanta tu brazo izquierdo sobre tu cabeza, apoyando tu mano derecha en tu cadera o muslo para obtener apoyo adicional. Descansa en la postura durante 30 segundos. Repite esta secuencia en tu lado izquierdo.";
+
+"YogaVC.YogaPrental.WideKneedChildsPose.headline.text" = "Postura del niño con rodillas anchas";
+"YogaVC.YogaPrental.WideKneedChildsPose.whereText" = "Abdomen, espalda y caderas.";
+"YogaVC.YogaPrental.WideKneedChildsPose.whyText" = "La postura del niño con rodillas anchas alivia el dolor de espalda y la presión abdominal. Esta postura de apertura de cadera también puede reducir el riesgo de complicaciones durante el parto y calmar el estrés y la ansiedad.";
+"YogaVC.YogaPrental.WideKneedChildsPose.howText" = "Arrodíllate en tu esterilla de yoga, separa las piernas, con los talones en los glúteos y los dedos gordos de los pies tocándose. Baja el pecho hacia el suelo hasta que tu frente toque la esterilla. Extiende los brazos por encima de tu cabeza y apoya las palmas de las manos planas. Mantén esta postura durante 3-5 minutos según tu comodidad.";
+
+"YogaVC.YogaPrental.BoundAnglePose.headline.text" = "Postura del ángulo ligado";
+"YogaVC.YogaPrental.BoundAnglePose.whereText" = "Muslos, rodillas y caderas.";
+"YogaVC.YogaPrental.BoundAnglePose.whyText" = "Reduce la fatiga y el dolor de rodillas, mientras abre las caderas y los muslos para facilitar el parto.";
+"YogaVC.YogaPrental.BoundAnglePose.howText" = "Siéntate en tu esterilla, juntando las plantas de los pies hacia tu pelvis. Baja tus rodillas hasta tu nivel de comodidad. Sujeta tus pies con tus manos y siéntate erguido mientras respiras profundamente. Mantén esta postura durante 1-5 minutos, inclinándote hacia adelante ocasionalmente si deseas un estiramiento profundo en tus caderas.";
+
+"YogaVC.YogaPrental.AnkleToKneePose.headline.text" = "Postura del tobillo sobre la rodilla";
+"YogaVC.YogaPrental.AnkleToKneePose.whereText" = "Caderas, glúteos y espalda.";
+"YogaVC.YogaPrental.AnkleToKneePose.whyText" = "La postura del tobillo sobre la rodilla acomoda tu vientre mientras también ensancha tus caderas. También alivia la presión en la espalda y la tensión en los glúteos.";
+"YogaVC.YogaPrental.AnkleToKneePose.howText" = "Siéntate en posición, mete tu pierna izquierda debajo de tu pierna derecha. Coloca tu tobillo derecho sobre tu rodilla izquierda, asegurándote de que tu tobillo izquierdo esté alineado con tu rodilla derecha y tus espinillas estén paralelas. Inclínate ligeramente hacia adelante, inhalando, sentirás un estiramiento profundo en tus caderas y en tus glúteos. Mantén esta postura durante 30 segundos. Manteniendo la postura del tobillo sobre la rodilla, coloca tus manos detrás de tu espalda, manteniendo tus brazos rectos con las palmas planas en tu esterilla para apoyar tu equilibrio. A medida que te inclinas hacia atrás en tus brazos, respirando de forma constante, deberías sentir un estiramiento profundo en tu espalda. Mantén esta postura durante 30 segundos. Repite la misma secuencia alternando tu tobillo izquierdo sobre tu rodilla derecha.";
+
+"YogaVC.YogaPrental.SeatedSideBend.headline.text" = "Estiramiento lateral sentado";
+"YogaVC.YogaPrental.SeatedSideBend.whereText" = "Cadera, pelvis y espalda.";
+"YogaVC.YogaPrental.SeatedSideBend.whyText" = "El estiramiento lateral sentado no solo reduce el estrés, sino que alivia la presión lumbar y alivia la tensión en caderas y pelvis durante el embarazo.";
+"YogaVC.YogaPrental.SeatedSideBend.howText" = "Sentado erguido, alarga tu columna vertebral con las piernas cruzadas. Inhalando suavemente mientras extiendes tu brazo derecho y inclinas tu cuerpo hacia la izquierda. Coloca tu mano izquierda en la esterilla para obtener apoyo e inhala profundamente mientras mantienes este estiramiento durante 30 segundos. Vuelve lentamente a sentarte erguido, inhalando completamente. Luego cambia a tu brazo izquierdo y repite la secuencia.";
+
+"YogaVC.YogaPrental.StandingForwardBend.headline.text" = "Postura de flexión hacia adelante de pie";
+"YogaVC.YogaPrental.StandingForwardBend.whereText" = "Isquiotibiales, caderas, espalda y circulación.";
+"YogaVC.YogaPrental.StandingForwardBend.whyText" = "La postura de flexión hacia adelante de pie puede mejorar la circulación sanguínea, lo que puede aliviar los pies y las piernas hinchadas. Esta postura también proporciona un estiramiento profundo en la parte baja de la espalda e incluso alivia la tensión en las caderas y los isquiotibiales.";
+"YogaVC.YogaPrental.StandingForwardBend.howText" = "De pie con las manos en las caderas y los pies ligeramente más anchos que la distancia entre las caderas. Comienza a inclinarte hacia adelante desde las caderas, manteniendo la espalda recta mientras te doblas hacia abajo. Cuando alcances tu nivel de comodidad, con la espalda plana, flexiona ligeramente las rodillas y relájate en una flexión hacia adelante. Puedes dejar que tus brazos cuelguen o puedes agarrar los codos opuestos. Mantén esta postura durante 30 segundos respirando rítmicamente.";
+
+"YogaVC.YogaPrental.CatCowPose.headline.text" = "Postura de la vaca-gato";
+"YogaVC.YogaPrental.CatCowPose.whereText" = "Cuello, hombros, torso y espalda.";
+"YogaVC.YogaPrental.CatCowPose.whyText" = "Esta postura aumenta la circulación y la movilidad espinal mientras estira el cuello, los hombros y el torso. ¡Siente cómo el estrés desaparece!";
+"YogaVC.YogaPrental.CatCowPose.howText" = "Comenzando en cuadrupedia, inhala profundamente y arquea tu columna vertebral mientras bajas el estómago y miras hacia arriba. Luego, exhala lentamente y lleva lentamente tu barbilla hacia tu pecho, y redondea tu columna vertebral. Continúa suavemente esta secuencia durante 30 segundos a 1 minuto.";
+
+"YogaVC.YogaPrental.TrianglePose.headline.text" = "Postura del triángulo";
+"YogaVC.YogaPrental.TrianglePose.whereText" = "Piernas, columna vertebral y espalda.";
+"YogaVC.YogaPrental.TrianglePose.whyText" = "La postura del triángulo ayuda a fortalecer y flexibilizar las piernas, lo que puede ser útil durante el parto. También fortalece los músculos de la espalda y la columna vertebral, aliviando los dolores causados por la creciente barriga del embarazo.";
+"YogaVC.YogaPrental.TrianglePose.howText" = "Comenzando en posición de pie, crea cierta distancia entre tus pies, estirando las piernas hasta un límite cómodo. Levanta los brazos a los lados hasta que estén alineados con los hombros. Gira tu pie derecho a 90 grados y tu pie izquierdo hacia adentro para que tus dedos apunten hacia adelante. Exhala lentamente y dobla lentamente la cintura hacia el lado derecho. Extiende tu mano derecha hacia tu tobillo y tu brazo izquierdo hacia arriba, girando la cabeza para mirar tu brazo izquierdo. Repite esta secuencia en el lado opuesto.";
+
+"YogaVC.YogaPrental.GarlandPose.headline.text" = "Postura de la guirnalda";
+"YogaVC.YogaPrental.GarlandPose.whereText" = "Suelo pélvico y caderas.";
+"YogaVC.YogaPrental.GarlandPose.whyText" = "La postura de la guirnalda beneficia a las mujeres embarazadas fortaleciendo el suelo pélvico, mejorando la flexibilidad de las caderas y aliviando problemas digestivos. También promueve una mejor postura, preparando el cuerpo para el parto.";
+"YogaVC.YogaPrental.GarlandPose.howText" = "De pie con los pies ligeramente más anchos que las caderas, gira los dedos de los pies hacia afuera. Flexiona lentamente las rodillas y baja las caderas. Junta las manos, con los pulgares en el pecho, asegurándote de que los codos estén en tus rodillas. Mantén esta postura durante 30 segundos.";
+
+"YogaVC.YogaPrental.SideCorpsePose.headline.text" = "Postura de lado del cadáver";
+"YogaVC.YogaPrental.SideCorpsePose.whereText" = "Corazón y circulación.";
+"YogaVC.YogaPrental.SideCorpsePose.whyText" = "Esta postura promueve un descanso y relajación cómodos. También puede reducir la presión sobre la vena cava, una vena importante, mejorando la circulación sanguínea. También alivia el malestar relacionado con la hinchazón y la indigestión.";
+"YogaVC.YogaPrental.SideCorpsePose.howText" = "Acuéstate de lado izquierdo y usa una almohada entre tus piernas y también debajo de tu cabeza. Mantén tu pierna izquierda recta, comienza a doblar tu pierna derecha hasta que tu rodilla esté justo debajo del vientre. Extiende tu brazo izquierdo sobre el suelo y coloca tu mano derecha con la palma plana en el suelo para obtener apoyo. Mantén esta postura durante 30 segundos y repite esta secuencia en tu lado derecho.";
+
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.headline.text" = "Modificación de la postura de la niñez con rodillas separadas";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whereText" = "Vientre, espalda y caderas.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.whyText" = "Esta modificación de la postura de la niñez con rodillas separadas se adapta a las mujeres que están en las últimas etapas de su embarazo. Al usar almohadas para apoyar la cabeza y el pecho y permitir espacio para que cuelgue el vientre, alivia el dolor de espalda y la presión abdominal. Esta postura de ensanchamiento de caderas también puede reducir el riesgo de complicaciones durante el parto y calmar el estrés y la ansiedad.";
+"YogaVC.YogaPrental.WideKneedChildsPoseModification.howText" = "Arrodíllate en tu colchoneta de yoga, separa las piernas, con los talones en tus glúteos y los dedos gordos de los pies tocándose. Baja el pecho sobre tus almohadas para apoyar la cabeza y el pecho. Extiende los brazos a los lados y apoya las palmas planas. Mantén esta postura durante 3-5 minutos según tu comodidad.";
+
+"YogaVC.YogaPrental.BridgePose.headline.text" = "Postura del puente";
+"YogaVC.YogaPrental.BridgePose.whereText" = "Suelo pélvico, espalda y pecho.";
+"YogaVC.YogaPrental.BridgePose.whyText" = "La postura del puente fortalece los músculos del núcleo y el suelo pélvico, alivia el dolor lumbar, mejora la circulación para reducir la hinchazón y promueve el alivio del estrés. También estira suavemente el pecho, mejorando la respiración y la capacidad pulmonar.";
+"YogaVC.YogaPrental.BridgePose.howText" = "Acuéstate boca arriba con las rodillas flexionadas y los pies apoyados en el suelo, los talones a unos centímetros del trasero. Mantén las rodillas alineadas con los tobillos y los pies separados a la anchura de las caderas. Los brazos a los lados, con las yemas de los dedos rozando los talones. Activa la fuerza de las piernas y presiona los talones. Levanta lentamente las caderas del suelo, una vértebra a la vez, hasta que los muslos estén casi paralelos al suelo. Alarga el coxis. Mantén los brazos a los lados o entrelaza los dedos para estirar el pecho. Mantén el cuello recto y ten cuidado de no girarlo durante la postura. Si es necesario, gira la cabeza y sal de la postura para evitar lesiones. Mantén esta postura durante 15-30 segundos.";
+
+"YogaVC.YogaPrental.LegsUpTheWallPose.headline.text" = "Postura de piernas en la pared";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whereText" = "Espalda, piernas y pies.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.whyText" = "Puede aliviar la hinchazón y el malestar en las piernas al mejorar la circulación sanguínea. Además, alivia el dolor lumbar y ayuda en la alineación general del cuerpo. La postura también promueve una sensación de calma y puede ser una práctica rejuvenecedora.";
+"YogaVC.YogaPrental.LegsUpTheWallPose.howText" = "Coloca un soporte, cojín o manta doblada cerca de una pared. Siéntate a la izquierda de estos soportes, alineando tus rodillas a la izquierda, y acerca tus glúteos a la pared tanto como puedas cómodamente. Baja lentamente tu cuerpo para descansar sobre tu lado izquierdo, luego desplaza suavemente tus glúteos hacia los soportes. Es posible que necesites ajustar deslizando suavemente tu parte inferior hasta que toque la pared. Eleva las piernas hacia arriba, manteniéndolas separadas a la anchura de las caderas. Relájate en esta posición, permítete descansar durante 6-8 ciclos de respiración antes de rodar hacia tu lado izquierdo y usar las manos para volver a una posición sentada.";
+
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.headline.text" = "Postura de savasana (sobre la espalda)";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whereText" = "Espalda, caderas y pelvis.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.whyText" = "Alivia el malestar asociado con estar acostada boca arriba, lo que puede comprimir las principales venas sanguíneas. Al mantener una inclinación con apoyos de soporte, esta posición garantiza un mejor flujo sanguíneo hacia el bebé y minimiza el malestar. Además, proporciona una sensación de relajación y alivio del peso del vientre.";
+"YogaVC.YogaPrental.SavasanaPoseOnTheBack.howText" = "Mientras estar acostada boca arriba durante el embarazo puede ser incómodo y reducir el flujo sanguíneo al bebé, recostarse en una inclinación ofrece una alternativa más cómoda. Coloca dos bloques en forma de 'L' en tu colchoneta, luego coloca un soporte o una pila generosa de almohadas encima. Posiciónate con los glúteos en el borde de los soportes. Junta las plantas de los pies, permitiendo que las rodillas caigan hacia afuera. Reclínate lentamente en la inclinación, disfrutando del soporte completo de tus apoyos. Tómate un merecido descanso y relájate en esta posición durante 5-10 minutos.";
+
+"YogaVC.YogaPrental.GoddessPose.headline.text" = "Postura de la diosa";
+"YogaVC.YogaPrental.GoddessPose.whereText" = "Caderas, pelvis, piernas y núcleo.";
+"YogaVC.YogaPrental.GoddessPose.whyText" = "Fortalece los músculos de las piernas, proporcionando el apoyo necesario a medida que crece el vientre. Esta postura también puede ayudar a abrir las caderas y la pelvis, promoviendo la flexibilidad y la comodidad durante el embarazo y potencialmente facilitando el parto.";
+"YogaVC.YogaPrental.GoddessPose.howText" = "Da un paso con los pies, ampliando tu postura a lo largo de tu colchoneta, con los dedos de los pies hacia afuera. Al flexionar las rodillas, asegúrate de que se mantengan detrás de tus dedos de los pies y deja que la gravedad guíe tu coxis hacia abajo. Tus brazos pueden encontrar una posición cómoda: descansando sobre tus muslos, en posición de oración o con las palmas hacia arriba. Mantente en esta posición baja durante 5-7 ciclos de respiración antes de juntar suavemente los pies mientras enderezas las piernas.";
+
+"YogaVC.YogaPrental.PigeonPose.headline.text" = "Postura de la paloma";
+"YogaVC.YogaPrental.PigeonPose.whereText" = "Muslos, caderas, zona lumbar y suelo pélvico.";
+"YogaVC.YogaPrental.PigeonPose.whyText" = "Alivia el malestar en las caderas y la zona lumbar, proporciona un estiramiento suave del suelo pélvico y es una postura que reduce el estrés para el bienestar emocional. Además, ayuda en la preparación para el parto a través de la conciencia corporal y mejora la postura a medida que el cuerpo se adapta al vientre en crecimiento.";
+"YogaVC.YogaPrental.PigeonPose.howText" = "Comenzando en una posición de cuatro patas, lleva tu rodilla derecha hacia adelante y hacia afuera, alineándola con tu muñeca derecha. Extiende tu pierna izquierda recta hacia atrás. Asegúrate de que tus caderas estén cuadradas y que la espinilla derecha esté paralela al suelo. Baja lentamente tu torso sobre tu pierna derecha doblada, usando tus antebrazos para apoyarte o una almohada bajo tus caderas si es necesario. Respira profundamente, manteniendo el estiramiento durante aproximadamente 30 segundos a un minuto. Asegúrate de realizar esta postura con precaución, realizando los ajustes necesarios para mayor comodidad.";
+
+"YogaVC.YogaPrental.ChildsPose.headline.text" = "Postura del niño";
+"YogaVC.YogaPrental.ChildsPose.whereText" = "Hombros, cuello, columna vertebral y espalda.";
+"YogaVC.YogaPrental.ChildsPose.whyText" = "Esta postura ofrece un estiramiento suave a las articulaciones pélvicas, expandiendo las dimensiones internas del canal pélvico y la salida. Este aumento de espacio facilita el descenso y la emergencia del bebé durante el parto. Sirve como una excelente postura preparatoria para el parto, beneficiando de manera única a tu pelvis en preparación para el proceso de parto.";
+"YogaVC.YogaPrental.ChildsPose.howText" = "Comienza en una posición de cuatro patas, luego separa suavemente las rodillas para hacer espacio para tu vientre. Baja las caderas hacia tus talones, extendiendo los brazos hacia adelante, y apoya la frente en la colchoneta. Respira despacio y profundamente, sintiendo un estiramiento suave en la parte baja de la espalda y las caderas. Mantente en esta postura durante el tiempo que sea cómodo, enfocándote en la relajación. Para salir, lleva las manos hacia atrás y vuelve a una posición sentada.";
+
+"YogaVC.YogaPrental.FigureFourPose.headline.text" = "Postura de la cifra cuatro";
+"YogaVC.YogaPrental.FigureFourPose.whereText" = "Suelo pélvico, pelvis, caderas y espalda.";
+"YogaVC.YogaPrental.FigureFourPose.whyText" = "Proporciona alivio del malestar lumbar, mejora la flexibilidad de las caderas, compromete y fortalece los músculos del suelo pélvico, reduce el estrés y fomenta el bienestar emocional.";
+"YogaVC.YogaPrental.FigureFourPose.howText" = "Acuéstate boca arriba, asegurándote de que tus pies estén apoyados en el suelo con las rodillas flexionadas. Inhala y levanta tu pierna derecha. Con tu mano izquierda, guía suavemente tu pie derecho para que descanse sobre tu rodilla izquierda. En este punto, puedes elegir quedarte aquí o, para un estiramiento más profundo, junta tus manos detrás de tu rodilla. Es importante tener en cuenta que estar acostada boca arriba durante períodos prolongados debe evitarse una vez que alcanzas las 20 semanas de embarazo en adelante, ya que puede resultar incómodo. Si es necesario, intenta realizar esta postura mientras estás sentada en una silla en su lugar. Mantén el estiramiento durante aproximadamente 5 a 10 respiraciones en cada lado.";
+
+
+//MARK: ScratchCardMenu
+"ScratchCardMenu.headlineLabel.text" = "Raspa la\nafirmación";
+"SensualSecretsGameMenu.nextButton.title" = "Siguiente";
+
+
+
+//MARK: Affirmation text
+"Affirmation.Categories0.headline0.text" = "Mi cuerpo está listo para la concepción.";
+"Affirmation.Categories0.headline1.text" = "El amor y la esperanza me acompañan en mi camino hacia la paternidad.";
+"Affirmation.Categories0.headline2.text" = "Cada día me acerca más a mi ansiado bebé.";
+"Affirmation.Categories0.headline3.text" = "Confío en mi cuerpo y en su ritmo natural.";
+"Affirmation.Categories0.headline4.text" = "Con cada respiración recibo energía positiva para mi deseo de tener un hijo.";
+"Affirmation.Categories0.headline5.text" = "Mi mente y mi cuerpo están en armonía para la realización de mi sueño.";
+"Affirmation.Categories0.headline6.text" = "El amor que siento apoya mi camino hacia la paternidad.";
+"Affirmation.Categories0.headline7.text" = "En cada momento, estoy abierto/a a las maravillas de la vida.";
+"Affirmation.Categories0.headline8.text" = "Manifiesto amor, felicidad y plenitud en mi familia.";
+"Affirmation.Categories0.headline9.text" = "Mi deseo de tener hijos se cumplirá en el momento perfecto.";
+"Affirmation.Categories0.headline10.text" = "Puedo aceptar ayuda y ser apoyado/a en mi camino.";
+"Affirmation.Categories0.headline11.text" = "Estoy listo/a para un hermoso embarazo.";
+"Affirmation.Categories0.headline12.text" = "Me cuido bien.";
+"Affirmation.Categories0.headline13.text" = "Confío en mi intuición.";
+"Affirmation.Categories0.headline14.text" = "Mi momento llegará.";
+"Affirmation.Categories0.headline15.text" = "Estoy sano/a.";
+"Affirmation.Categories0.headline16.text" = "Estoy agradecido/a por todo lo que tengo.";
+"Affirmation.Categories0.headline17.text" = "Estoy listo/a para concebir un hijo.";
+"Affirmation.Categories0.headline18.text" = "Tengo las mejores condiciones para un bebé.";
+"Affirmation.Categories0.headline19.text" = "Mi cuerpo es fértil.";
+"Affirmation.Categories0.headline20.text" = "Estaré embarazada.";
+"Affirmation.Categories0.headline21.text" = "Mi cuerpo femenino es fuerte.";
+"Affirmation.Categories0.headline22.text" = "Estoy abierto/a a nuevas experiencias.";
+"Affirmation.Categories0.headline23.text" = "Mi cuerpo es fuerte y saludable: Confío en que mi cuerpo es fuerte y saludable, listo para dar la bienvenida al milagro del embarazo.";
+"Affirmation.Categories0.headline24.text" = "Cada ciclo me acerca más: Cada ciclo menstrual es otro paso en el camino hacia mi embarazo. Cada ciclo me acerca más a mi objetivo.";
+"Affirmation.Categories0.headline25.text" = "Soy paciente y confío en el proceso: Las cosas buenas llevan tiempo. Practico la paciencia y confío en que todo sucederá en el momento adecuado.";
+"Affirmation.Categories0.headline26.text" = "Cuido de mi salud emocional: Al cuidar de mi salud emocional, creo un espacio positivo para que mi cuerpo funcione de manera óptima.";
+"Affirmation.Categories0.headline27.text" = "El amor y el apoyo me rodean: Estoy rodeado/a de amor y apoyo, ya sea de mi pareja, familia o amigos. Juntos/as recorremos este camino.";
+"Affirmation.Categories0.headline28.text" = "Visualizo un futuro positivo: Visualizo mi vida como madre y la alegría que traerá. Esta visión positiva fortalece mi motivación.";
+"Affirmation.Categories0.headline29.text" = "Cuido de mi cuerpo: Alimentándome de forma saludable, haciendo ejercicio regularmente y durmiendo lo suficiente, cuido de mi cuerpo y creo condiciones óptimas para el embarazo.";
+"Affirmation.Categories0.headline30.text" = "Establezco expectativas realistas: Reconozco que quedar embarazada lleva tiempo y compromiso. Establezco expectativas realistas y celebro cualquier progreso.";
+"Affirmation.Categories0.headline31.text" = "Mi amor y compromiso son valiosos: Mi deseo de formar una familia demuestra mi amor y compromiso. Estas cualidades apoyarán una paternidad enriquecedora.";
+"Affirmation.Categories0.headline32.text" = "Cada día es una nueva oportunidad: Cada día trae nuevas oportunidades para la esperanza y el éxito. Acepto cada día como una oportunidad para un cambio positivo.";
+"Affirmation.Categories0.headline33.text" = "Me conecto con mi pareja: El camino hacia el embarazo es un viaje compartido. Conectarme con mi pareja fortalece nuestro apoyo mutuo.";
+"Affirmation.Categories0.headline34.text" = "Suelto y me relajo: Al soltar y relajarme, creo un espacio para los procesos naturales en mi cuerpo.";
+"Affirmation.Categories0.headline35.text" = "Amo y acepto mi cuerpo: Independientemente de los desafíos, amo y acepto mi cuerpo. Este amor contribuye a una actitud positiva.";
+"Affirmation.Categories0.headline36.text" = "Cada esfuerzo es valioso: Cada paso que doy, ya sea a través de hábitos saludables o apoyo médico, es una contribución valiosa a mi objetivo.";
+"Affirmation.Categories0.headline37.text" = "Creo en mis habilidades: Creo en mis habilidades como futura madre. Esta actitud positiva refuerza mi creencia en el éxito.";
+"Affirmation.Categories0.headline38.text" = "Reconozco el estrés y lo dejo ir - hago espacio para un deseo relajado de tener hijos.";
+"Affirmation.Categories0.headline39.text" = "Mi mente y mi cuerpo encuentran paz en el camino hacia la felicidad del bebé.";
+"Affirmation.Categories0.headline40.text" = "Confío en el proceso y reduzco el estrés para una concepción armoniosa.";
+"Affirmation.Categories0.headline41.text" = "La relajación abre el camino para mi deseo de tener hijos.";
+"Affirmation.Categories0.headline42.text" = "El estrés desaparece cuando me embarco amorosamente en mi camino.";
+"Affirmation.Categories0.headline43.text" = "Exhalo el estrés e inhalo la concepción.";
+"Affirmation.Categories0.headline44.text" = "Mi serenidad promueve la fertilidad.";
+"Affirmation.Categories0.headline45.text" = "Cada respiración trae calma y confianza.";
+"Affirmation.Categories0.headline46.text" = "En paz y tranquilidad encuentro fuerzas para mi deseo de tener hijos.";
+"Affirmation.Categories0.headline47.text" = "Cada día dejo ir el estrés más y más.";
+
+
+"Affirmation.Categories1.headline0.text" = "Reconozco mis miedos y los dejo ir amorosamente, en el camino hacia mi bebé.";
+"Affirmation.Categories1.headline1.text" = "Mi confianza en mi cuerpo supera cualquier miedo que tenga sobre tener hijos.";
+"Affirmation.Categories1.headline2.text" = "Cada respiración me fortalece frente a mis preocupaciones y miedos.";
+"Affirmation.Categories1.headline3.text" = "Los miedos se desvanecen cuando me enfoco en mi amor por mi hijo.";
+"Affirmation.Categories1.headline4.text" = "Mis pensamientos son positivos, los miedos no tienen lugar en mi deseo de tener un hijo.";
+"Affirmation.Categories1.headline5.text" = "Soy fuerte y valiente, los miedos no tienen influencia en mi camino.";
+"Affirmation.Categories1.headline6.text" = "Encuentro paz en la tranquilidad y supero los miedos.";
+"Affirmation.Categories1.headline7.text" = "La anticipación de mi bebé eclipsa cualquier miedo.";
+"Affirmation.Categories1.headline8.text" = "Mi corazón está libre de miedos: el amor guía mi deseo de tener un hijo.";
+"Affirmation.Categories1.headline9.text" = "Los miedos se disuelven mientras me preparo para mi bebé.";
+
+
+"Affirmation.Categories2.headline0.text" = "Soy bueno tal como soy.";
+"Affirmation.Categories2.headline1.text" = "En cada respiración elijo positividad y paz.";
+"Affirmation.Categories2.headline2.text" = "Cada día es una nueva oportunidad para el crecimiento y la felicidad.";
+"Affirmation.Categories2.headline3.text" = "El amor y la luz fluyen a través de mi vida.";
+"Affirmation.Categories2.headline4.text" = "Atraigo energías y oportunidades positivas.";
+"Affirmation.Categories2.headline5.text" = "Mi corazón está abierto a la alegría y la gratitud.";
+"Affirmation.Categories2.headline6.text" = "Doy forma a mi vida según mis sueños y valores.";
+"Affirmation.Categories2.headline7.text" = "Camino el sendero de mi destino con confianza.";
+"Affirmation.Categories2.headline8.text" = "Soy el arquitecto de mi felicidad y la configuro conscientemente.";
+"Affirmation.Categories2.headline9.text" = "Mi ser interno irradia positividad, amor y paz.";
+"Affirmation.Categories2.headline10.text" = "Irradio energía positiva y atraigo cosas buenas.";
+"Affirmation.Categories2.headline11.text" = "Cada día trae nuevas oportunidades y posibilidades positivas.";
+"Affirmation.Categories2.headline12.text" = "Con cada respiración que tomo, fortalezco mi paz interior y mi fuerza.";
+"Affirmation.Categories2.headline13.text" = "El amor y la luz me acompañan en mi camino por la vida.";
+"Affirmation.Categories2.headline14.text" = "Estoy abierto al crecimiento, la felicidad y el cambio positivo.";
+"Affirmation.Categories2.headline15.text" = "Mi corazón está lleno de amor y gratitud.";
+"Affirmation.Categories2.headline16.text" = "Doy forma a mi vida de manera consciente y positiva.";
+"Affirmation.Categories2.headline17.text" = "El optimismo es mi compañero constante.";
+"Affirmation.Categories2.headline18.text" = "Soy el creador de mi propia realidad positiva.";
+"Affirmation.Categories2.headline19.text" = "Mi vida está llena de alegría, amor y experiencias positivas.";
+"Affirmation.Categories2.headline20.text" = "Piensa positivo, vive positivo: cada día de nuevo.";
+"Affirmation.Categories2.headline21.text" = "Soy el arquitecto de mi felicidad y la configuro conscientemente.";
+"Affirmation.Categories2.headline22.text" = "La alegría de la vida fluye a través de mí, día tras día.";
+"Affirmation.Categories2.headline23.text" = "Encuentro razones para estar agradecido en cada momento.";
+"Affirmation.Categories2.headline24.text" = "Mis pensamientos forman un mundo lleno de positividad.";
+"Affirmation.Categories2.headline25.text" = "Soy un imán para la buena energía y momentos de felicidad.";
+"Affirmation.Categories2.headline26.text" = "Doy forma a mi vida llena de optimismo con confianza.";
+"Affirmation.Categories2.headline27.text" = "Encuentro una profunda alegría en la simplicidad de la vida.";
+"Affirmation.Categories2.headline28.text" = "La positividad es mi fuente de fuerza que me sostiene.";
+"Affirmation.Categories2.headline29.text" = "Mi corazón late al ritmo de las posibilidades positivas.";
+"Affirmation.Categories2.headline30.text" = "Soy el creador de mi realidad. Hoy elijo amor, alegría y paz.";
+"Affirmation.Categories2.headline31.text" = "Cada respiración refresca mi espíritu. Estoy listo para la abundancia que este día me trae.";
+"Affirmation.Categories2.headline32.text" = "Con cada nuevo día, mi fuerza y sabiduría crecen.";
+"Affirmation.Categories2.headline33.text" = "Confío en el proceso de la vida y dejo ir lo que no puedo controlar.";
+"Affirmation.Categories2.headline34.text" = "Hoy abro mi corazón a nuevas posibilidades y encuentros positivos.";
+"Affirmation.Categories2.headline35.text" = "Una profunda serenidad reposa dentro de mí. Estoy en armonía con mi paz interior.";
+"Affirmation.Categories2.headline36.text" = "Soy un imán para las energías positivas. Las cosas buenas atraen cosas buenas.";
+"Affirmation.Categories2.headline37.text" = "Mi día comienza con amor y termina con gratitud.";
+"Affirmation.Categories2.headline38.text" = "Soy el arquitecto de mis sueños. Hoy estoy construyendo mi felicidad.";
+"Affirmation.Categories2.headline39.text" = "Mi cuerpo está sano, mi mente está clara. Estoy listo para las aventuras de este día.";
+
+
+"Affirmation.Categories3.headline0.text" = "Fuertes juntos: Encontramos amor y apoyo en nuestra asociación.";
+"Affirmation.Categories3.headline1.text" = "Cada día fortalece nuestro amor y conexión mutua.";
+"Affirmation.Categories3.headline2.text" = "La confianza y el respeto crecen en nuestra relación.";
+"Affirmation.Categories3.headline3.text" = "Nuestro amor supera cada desafío juntos.";
+"Affirmation.Categories3.headline4.text" = "Juntos creamos espacio para la alegría y el crecimiento mutuo.";
+"Affirmation.Categories3.headline5.text" = "El amor es nuestro ancla en todas las situaciones.";
+"Affirmation.Categories3.headline6.text" = "Nuestra asociación se caracteriza por la comprensión y la comunicación.";
+"Affirmation.Categories3.headline7.text" = "Encontramos fuerza y felicidad en nuestro amor.";
+"Affirmation.Categories3.headline8.text" = "Caminamos de la mano a través de los altibajos, fortalecidos por nuestro amor.";
+"Affirmation.Categories3.headline9.text" = "Nuestra relación es un lugar de amor y sueños compartidos.";
+"Affirmation.Categories3.headline10.text" = "Nuestro amor crece con cada momento que pasamos juntos.";
+"Affirmation.Categories3.headline11.text" = "Hay espacio para la confianza y la risa en nuestra asociación.";
+"Affirmation.Categories3.headline12.text" = "Juntos creamos un amor que es fuerte e inquebrantable.";
+"Affirmation.Categories3.headline13.text" = "Nos complementamos perfectamente, nuestra asociación está llena de armonía.";
+"Affirmation.Categories3.headline14.text" = "Hay espacio para el amor, la libertad y el respeto en nuestra relación.";
+"Affirmation.Categories3.headline15.text" = "Nuestra conexión es una fuente de alegría y felicidad.";
+"Affirmation.Categories3.headline16.text" = "El amor y la aceptación caracterizan nuestra asociación.";
+"Affirmation.Categories3.headline17.text" = "Juntos superamos cada desafío, fortalecidos por nuestro amor.";
+"Affirmation.Categories3.headline18.text" = "Encontramos paz y seguridad en nuestro amor.";
+"Affirmation.Categories3.headline19.text" = "Nuestra asociación es un viaje lleno de amor y experiencias compartidas.";
+
+
+// RatingScreenMenu.swift
+"RatingScreenMenu.headlineLabel.text" = "¡Por favor, revise la App!";
+"RatingScreenMenu.subtitleLabel.text" = "Para seguir utilizando la App de forma gratuita, por favor, dedique unos segundos a reseñar la App en la App Store para valorar nuestro trabajo";
+"RatingScreenMenu.subtitleLabel2.text" = "Después de enviar la reseña, suba una captura de pantalla de su reseña como prueba.";
+"RatingScreenMenu.reviewNowButton.title" = "Revisar ahora";
+"RatingScreenMenu.uploadScreenshotButton.title" = "Subir captura de pantalla";
+
+// InAppPurchaseOfferMenu.swift
+"InAppPurchaseOfferMenu.purchaseButton.titleLabel.text" = "Desbloquear todo";
+"InAppPurchaseOfferMenu.purchaseButton.subtitleLabel.text" = "Una sola vez";
+
+
+// MARK: PodcastsVC
+"PodcastsVC.headlineLabel.text" = "Categories";
+"PodcastsVC.audioHeadlineLabel.text" = "Relajación profunda con la relajación muscular progresiva";
+"PodcastsVC.audioSubtitleLabel.text" = "Liberar el estrés, fortalecer la conciencia corporal, encontrar la paz interior";
+"PodcastArticleVC.headlineLabel.text" = "Relajación y Concepción. ¿Por qué es importante?";
+"PodcastArticleVC.subtitleLabel.text" = "Sentirse relajado mientras se intenta concebir es esencial tanto para el cuerpo como para la mente. El estrés y la ansiedad pueden alterar el equilibrio hormonal, dificultando la concepción. Por eso, en esta sección, encontrarás sesiones de Relajación Muscular Progresiva (PMR), diseñadas para ayudarte a liberar tensiones, calmar tu mente y crear las condiciones ideales para el embarazo.
+
+La PMR funciona tensando y relajando sistemáticamente diferentes grupos musculares, lo que ayuda a reducir los niveles de cortisol, mejorar la circulación y aumentar el bienestar general. Esto no solo reduce el estrés y la ansiedad, sino que también promueve un mejor sueño, equilibrio emocional y un estado más receptivo para la concepción.
+
+Respira hondo, relájate y deja que tu cuerpo encuentre su ritmo natural con Ovulio Baby.";
+
+
+// MARK: NameGenerateVC
+"NameGenerateVC.headlineLabel.text" = "Generador de nombres";
+"NameGenerateVC.chooseName.text" = "Elegir nombre para";
+"NameGenerateVC.region.text" = "Región (opcional)";
+"NameGenerateVC.lastName.text" = "Apellido (opcional)";
+"NameGenerateVC.chooseStyle.text" = "Elegir estilo";
+"NameGenerateVC.chooseLength.text" = "Elegir longitud";
+"NameGenerateVC.region.placeholder.text" = "Selecciona una región para adaptar el nombre";
+"NameGenerateVC.lastnme.placeholder.text" = "Tu apellido";
+"NameGenerateVC.chooseStyle.label1.text" = "Moderno";
+"NameGenerateVC.chooseStyle.label2.text" = "Moderno";
+"NameGenerateVC.chooseStyle.label3.text" = "Tradicional";
+"NameGenerateVC.chooseStyle.label4.text" = "Bíblico";
+"NameGenerateVC.chooseStyle.label5.text" = "Único";
+"NameGenerateVC.chooseStyle.label6.text" = "Gracioso";
+
+"NameGenerateVC.chooseLength.label1.text" = "No importa";
+"NameGenerateVC.chooseLength.label2.text" = "Tres letras";
+"NameGenerateVC.chooseLength.label3.text" = "Una sílaba";
+"NameGenerateVC.chooseLength.label4.text" = "Longitud media";
+"NameGenerateVC.chooseLength.label5.text" = "Largo";
+"NameGenerateVC.chooseLength.label6.text" = "Nombre doble";
+
+"NameGenerateVC.generateButton.text" = "Generar";
+"NameGenerateVC.gender.unisex.text" = "Unisex";
+"NameGenerateVC.loader.generatingName.text" = "Generando nombres";
+
+
+// MARK: SwipeNameCardVC
+"SwipeNameCardVC.header.text" = "Desliza tarjetas de nombres";
+"SwipeNameCardVC.lastName.text" = "Apellido";
+
+// MARK: FavouriteNameVC
+"FavouriteNameVC.headlineLabel.text" = "Nombres favoritos";
+"FavouriteNameVC.girlsNames.text" = "Nombres de niñas:";
+"FavouriteNameVC.unisexNames.text" = "Nombres unisex:";
+"FavouriteNameVC.boysNames.text" = "Nombres de niños:";
+
+// MARK: ChooseRegionVC
+"ChooseRegionVC.headlineLabel.text" = "Elegir región";
+"ChooseRegionVC.searchRegion.placeholder.text" = "Buscar región";
+"ChooseRegionVC.HeaderSection.text" = "SUGERIDO";
