@@ -48,6 +48,7 @@ class NameGenerateManager {
     private let selectedGenderKey = "SelectedGender"
     private let ChooseStyleKey = "ChooseStyle"
     private let ChooseLengthKey = "ChooseLength"
+    private let nameGenerateCountKey = "nameGenerateCount"
     
     private let SelectFavouriteNameKey = "SelectFavouriteName"
     
@@ -171,6 +172,19 @@ class NameGenerateManager {
         currentData[category.rawValue] = names
         favouriteNamesByCategory = currentData
     }
+    
+    var nameGenerateCount: Int? {
+        get {
+            return userDefaults.value(forKey: nameGenerateCountKey) as? Int
+        }
+        set {
+            userDefaults.set(newValue, forKey: nameGenerateCountKey)
+        }
+    }
+    
+    func updatenameGenerateCount(_ count: Int) {
+        nameGenerateCount = count
+    }
 
     
     func generatePrompt(from input: NameGeneratorInput) -> String {
@@ -194,7 +208,7 @@ class NameGenerateManager {
             
             var request = URLRequest(url: url)
             request.httpMethod = "POST"
-            request.setValue("Bearer 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", forHTTPHeaderField: "Authorization")
+            request.setValue("Bearer \(APIKeys.openAIKey)", forHTTPHeaderField: "Authorization")
             request.setValue("application/json", forHTTPHeaderField: "Content-Type")
             
             let chatRequest = ChatRequest(

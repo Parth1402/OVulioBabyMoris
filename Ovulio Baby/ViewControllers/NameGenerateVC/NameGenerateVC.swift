@@ -7,6 +7,7 @@
 
 import UIKit
 import AudioToolbox
+import FirebaseFirestore
 
 struct NameGeneratorInput {
     var category: String // e.g., "Boy"
@@ -206,7 +207,7 @@ extension NameGenerateVC {
     
     func handleProfileButtonTap() {
         let vc = ProfileVC()
-      //  vc.genderUpdationProtocolDelegate = self
+        //  vc.genderUpdationProtocolDelegate = self
         vc.modalPresentationStyle = .overCurrentContext
         vc.modalTransitionStyle = .coverVertical
         self.present(vc, animated: true, completion: nil)
@@ -245,49 +246,73 @@ extension NameGenerateVC {
     
     @objc func GenetareButtonTapped(sender: UIButton) {
         AudioServicesPlaySystemSound(kSystemSoundID_Vibrate)
-        self.showCustomLoader()
         
         
-        let input = NameGeneratorInput(
-            category: NameGenerateDataBeforeSaving.selectedGender.rawValue == 1 ? "YourGoalSelectionVC.gender.boy.text"~ : NameGenerateDataBeforeSaving.selectedGender.rawValue == 2 ? "YourGoalSelectionVC.gender.girl.text"~ : "NameGenerateVC.gender.unisex.text"~ ,
-            region: NameGenerateDataBeforeSaving.RegionName ?? "",
-            lastName: NameGenerateDataBeforeSaving.LastName ?? "",
-            style: NameGenerateDataBeforeSaving.ChooseStyle ?? "",
-            length: NameGenerateDataBeforeSaving.ChooseLength ?? "", localized: MultiLanguage.MultiLanguageConst.currentAppleLanguage()
+        if !isUserProMember()  {
+            let vc = SalesVC()
+            vc.delegateShowReviewScreenProtocol = self
+            vc.modalPresentationStyle = .overFullScreen
+            vc.modalTransitionStyle = .coverVertical
+            self.present(vc, animated: true, completion: nil)
             
-        )
-        
-        
-        var generatedNames: [(first: String, last: String)] = []
-
-        NameGenerateManager.shared.generateNameWithAI(input: input) { name in
-            DispatchQueue.main.async {
-                self.hideCustomLoader()
-
-                guard let fullName = name else {
-                    print("Failed to generate name")
-                    return
-                }
-
-                print("Generated Name: \(fullName)")
+        }else{
+            
+            let count = NameGenerateManager.shared.nameGenerateCount ?? 0
+            if count <= 15 {
                 
-                for (index, fullName) in fullName.reversed().enumerated() {
-                    let components = fullName.split(separator: " ", maxSplits: 1).map(String.init)
-                    let firstName = components.first ?? ""
-                    let lastName = components.count > 1 ? components.last! : ""
-                    generatedNames.append((first: firstName, last: lastName))
+                self.showCustomLoader()
+                
+                
+                let input = NameGeneratorInput(
+                    category: NameGenerateDataBeforeSaving.selectedGender.rawValue == 1 ? "YourGoalSelectionVC.gender.boy.text"~ : NameGenerateDataBeforeSaving.selectedGender.rawValue == 2 ? "YourGoalSelectionVC.gender.girl.text"~ : "NameGenerateVC.gender.unisex.text"~ ,
+                    region: NameGenerateDataBeforeSaving.RegionName ?? "",
+                    lastName: NameGenerateDataBeforeSaving.LastName ?? "",
+                    style: NameGenerateDataBeforeSaving.ChooseStyle ?? "",
+                    length: NameGenerateDataBeforeSaving.ChooseLength ?? "", localized: MultiLanguage.MultiLanguageConst.currentAppleLanguage()
                     
+                )
+                
+                
+                var generatedNames: [(first: String, last: String)] = []
+                
+                NameGenerateManager.shared.generateNameWithAI(input: input) { name in
+                    DispatchQueue.main.async {
+                        self.hideCustomLoader()
+                        
+                        guard let fullName = name else {
+                            print("Failed to generate name")
+                            return
+                        }
+                        
+                        print("Generated Name: \(fullName)")
+                        
+                        for (index, fullName) in fullName.reversed().enumerated() {
+                            let components = fullName.split(separator: " ", maxSplits: 1).map(String.init)
+                            let firstName = components.first ?? ""
+                            let lastName = components.count > 1 ? components.last! : ""
+                            generatedNames.append((first: firstName, last: lastName))
+                            
+                        }
+                        
+                        NameGenerateManager.shared.updatenameGenerateCount(count + 1)
+                        let destinationViewController = SwipeNameCardVC()
+                        destinationViewController.modalPresentationStyle = .fullScreen
+                        destinationViewController.names = generatedNames
+                        self.present(destinationViewController, animated: false, completion: nil)
+                    }
                 }
-                    let destinationViewController = SwipeNameCardVC()
-                    destinationViewController.modalPresentationStyle = .fullScreen
-                    destinationViewController.names = generatedNames
-                    self.present(destinationViewController, animated: false, completion: nil)
+            }else {
+                
+                let alert = UIAlertController(title: "",
+                                                     message: "You can reached the limit to generate name. Please contact support",
+                                                     preferredStyle: .alert)
+                       alert.addAction(UIAlertAction(title: "OK", style: .default))
+                       self.present(alert, animated: true)
+                
             }
         }
     }
-    
 }
-
 extension NameGenerateVC: UITableViewDelegate, UITableViewDataSource {
     
     func numberOfSections(in tableView: UITableView) -> Int {
@@ -354,4 +379,58 @@ extension NameGenerateVC: UITableViewDelegate, UITableViewDataSource {
         return UITableView.automaticDimension
     }
     
+}
+
+extension NameGenerateVC: ShowReviewScreenProtocol {
+    
+    func needToShowReviewScreen() {
+        
+        if UserDefaults.standard.value(forKey: "shouldUserGiveAppStoreReviewToUnlockApp") == nil {
+            
+            // Do nothing
+            
+        } else if UserDefaults.standard.value(forKey: "shouldUserGiveAppStoreReviewToUnlockApp") as! Bool == false {
+            
+            // User already did give review
+            
+        } else {  // shouldUserGiveAppStoreReviewToUnlockApp == true
+            
+            let db = Firestore.firestore()
+            let docRefActivationCodes = db.collection("tracking").document("SubmittedRatingViaRatingView")
+            docRefActivationCodes.getDocument { (document, error) in
+                
+                if let document = document, document.exists {
+                    
+                    if let shouldUserGiveAppStoreReviewToUnlockAppFirestoreValue = document.data()!["shouldUserGiveAppStoreReviewToUnlockApp"] as? Bool {
+                        print("shouldUserGiveAppStoreReviewToUnlockAppFirestoreValue \(shouldUserGiveAppStoreReviewToUnlockAppFirestoreValue)")
+                        
+                        if shouldUserGiveAppStoreReviewToUnlockAppFirestoreValue == true {
+                            
+                            // User should give review to continue
+                            let destinationViewController = RatingScreenMenu()
+                            destinationViewController.modalPresentationStyle = .fullScreen
+                            self.present(destinationViewController, animated: true, completion: nil)
+                            
+                        } else {
+                            
+                            // Error
+                            
+                        }
+                        
+                    } else {
+                        
+                        // Error
+                        
+                    }
+                    
+                } else {
+                    
+                    // Error
+                    
+                }
+                
+            }
+            
+        }
+    }
 }

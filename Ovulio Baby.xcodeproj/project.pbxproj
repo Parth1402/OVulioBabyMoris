@@ -166,6 +166,7 @@
 		CE02E0B92DAD0AF30061CEA6 /* FavouriteNameVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02E0B82DAD0AF30061CEA6 /* FavouriteNameVC.swift */; };
 		CE02E0BB2DAD0DA90061CEA6 /* FavouriteNameCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02E0BA2DAD0DA90061CEA6 /* FavouriteNameCollectionCell.swift */; };
 		CE02E0BD2DAD0E1C0061CEA6 /* FavouriteNameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE02E0BC2DAD0E1C0061CEA6 /* FavouriteNameTableViewCell.swift */; };
+		CE0DCFE62DF153CA00879761 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0DCFE52DF153CA00879761 /* Secrets.swift */; };
 		CEA05EA82DB212EC00866F8C /* CustomLoaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA05EA72DB212EC00866F8C /* CustomLoaderView.swift */; };
 		CED5F78D2DA7D2520001E40A /* NameGenerateVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED5F78B2DA7D2520001E40A /* NameGenerateVC.swift */; };
 		CED5F7922DA7D2600001E40A /* ChooseStyleLengthSelectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED5F78E2DA7D2600001E40A /* ChooseStyleLengthSelectionCell.swift */; };
@@ -375,6 +376,7 @@
 		CE02E0B82DAD0AF30061CEA6 /* FavouriteNameVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteNameVC.swift; sourceTree = "<group>"; };
 		CE02E0BA2DAD0DA90061CEA6 /* FavouriteNameCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteNameCollectionCell.swift; sourceTree = "<group>"; };
 		CE02E0BC2DAD0E1C0061CEA6 /* FavouriteNameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteNameTableViewCell.swift; sourceTree = "<group>"; };
+		CE0DCFE52DF153CA00879761 /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		CEA05EA72DB212EC00866F8C /* CustomLoaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLoaderView.swift; sourceTree = "<group>"; };
 		CED5F78B2DA7D2520001E40A /* NameGenerateVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameGenerateVC.swift; sourceTree = "<group>"; };
 		CED5F78E2DA7D2600001E40A /* ChooseStyleLengthSelectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChooseStyleLengthSelectionCell.swift; sourceTree = "<group>"; };
@@ -841,6 +843,7 @@
 				25DCB82D2B2235FE00304142 /* ReviewAlertView.swift */,
 				25C8B8B72B29D5B100D0B51A /* PushNotificationManager.swift */,
 				25C8B8B52B29D5A000D0B51A /* FirestoreManager.swift */,
+				CE0DCFE52DF153CA00879761 /* Secrets.swift */,
 				2514E48C2D2314300006646E /* MultiLanguage.swift */,
 			);
 			path = Helpers;
@@ -1195,6 +1198,7 @@
 				25AF44F52AFF35A400ADBB5E /* OvulationCalendarVC.swift in Sources */,
 				2570D37D2BA8C164005EE98D /* YogaDetailVC.swift in Sources */,
 				040FCB102B937F58004BC9F4 /* DiceToSpiceGameMenu.swift in Sources */,
+				CE0DCFE62DF153CA00879761 /* Secrets.swift in Sources */,
 				25D998E62AF24C630019F533 /* GameLegsUpVC.swift in Sources */,
 				25B52AA32AE7FB8F00A02BAF /* TrackFertilityOnBoardingVC.swift in Sources */,
 				2541D3D82AD4380D001C400B /* YourGoalSelectionVC.swift in Sources */,

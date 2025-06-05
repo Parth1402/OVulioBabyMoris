@@ -18,6 +18,36 @@
             endingLineNumber = "60"
             landmarkName = "viewWillAppear(_:)"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F68FEA62-A9A9-4029-8FD0-078305C92E68 - e2ea7a13214a83a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Ovulio_Baby.PodCastPlayerVC.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Ovulio Baby.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Moris/OvulioBabyNew/Ovulio%20Baby/ViewControllers/PodcastsVC/PodCastPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60">
+               </Location>
+               <Location
+                  uuid = "F68FEA62-A9A9-4029-8FD0-078305C92E68 - 32ba9d9e1845ffa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in Ovulio_Baby.PodCastPlayerVC.viewWillAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "Ovulio Baby.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Documents/Moris/OvulioBabyNew/Ovulio%20Baby/ViewControllers/PodcastsVC/PodCastPlayerVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
